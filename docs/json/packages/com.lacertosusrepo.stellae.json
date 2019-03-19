@@ -1,7 +1,7 @@
 {
   "id": "com.lacertosusrepo.stellae",
   "name": "Stellae",
-  "latest": "1.1",
+  "latest": "1.0",
   "repository": "Packix",
   "url": "http://cydia.saurik.com/package/com.lacertosusrepo.stellae/",
   "shortDescription": "Set a subbreddit's hot posts as your wallpaper...",
@@ -47,11 +47,11 @@
       "repository": "Packix",
       "date": "2019-03-18T16:26:27Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 100,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
         "good": 1,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -68,6 +68,15 @@
           "date": "2019-03-18T16:26:27Z",
           "userName": "hdwatts",
           "issueNumber": 78902,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPad6,3",
+          "issues": "Reboot when wallpaper is being set",
+          "date": "2019-03-19T23:04:50Z",
+          "userName": "nathanielcwm",
+          "issueNumber": 79314,
           "arch32": false
         }
       ]
