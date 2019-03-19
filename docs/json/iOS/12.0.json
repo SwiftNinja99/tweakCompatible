@@ -10065,6 +10065,40 @@
       ]
     },
     {
+      "id": "gnutls",
+      "name": "GnuTLS",
+      "latest": "3.5.19-1",
+      "repository": "Bingner/Elucubratus",
+      "url": "http://cydia.saurik.com/package/gnutls/",
+      "shortDescription": "free sofware alternative to OpenSSL",
+      "category": "Security",
+      "author": "(null)",
+      "commercial": false,
+      "date": "2018-10-24T08:15:44Z",
+      "versions": [
+        {
+          "tweakVersion": "3.5.19-1",
+          "iOSVersion": "12.0",
+          "repository": "Bingner/Elucubratus",
+          "date": "2019-03-19T22:52:38Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.faku99.goodges",
       "name": "Goodges",
       "latest": "1.1.5",
@@ -14361,39 +14395,6 @@
       ]
     },
     {
-      "id": "com.officialscheduler.mterminal",
-      "name": "MTerminal",
-      "latest": "1.4-5",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/com.officialscheduler.mterminal/",
-      "shortDescription": "A MobileTerminal fork",
-      "category": "Utilities",
-      "author": "lordscotland",
-      "commercial": false,
-      "versions": [
-        {
-          "tweakVersion": "1.4-5",
-          "iOSVersion": "12.0",
-          "repository": "BigBoss",
-          "date": "2019-02-23T02:51:05Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 2,
-            "bad": 0,
-            "total": 2,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "mterminal",
       "name": "MTerminal",
       "latest": "1.4-6",
@@ -14416,6 +14417,39 @@
             "good": 1,
             "bad": 0,
             "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.officialscheduler.mterminal",
+      "name": "MTerminal",
+      "latest": "1.4-5",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.officialscheduler.mterminal/",
+      "shortDescription": "A MobileTerminal fork",
+      "category": "Utilities",
+      "author": "lordscotland",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "1.4-5",
+          "iOSVersion": "12.0",
+          "repository": "BigBoss",
+          "date": "2019-02-23T02:51:05Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 2,
+            "bad": 0,
+            "total": 2,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -17824,40 +17858,6 @@
       ]
     },
     {
-      "id": "com.tqm-mos.reprovision",
-      "name": "ReProvision",
-      "latest": "0.4",
-      "repository": "TQM-Mos™︵⁹² ",
-      "url": "http://cydia.saurik.com/package/com.tqm-mos.reprovision/",
-      "shortDescription": "Re-sign applications on your device",
-      "category": "System",
-      "author": "Matt Clarke",
-      "commercial": false,
-      "date": "2019-02-25T16:10:31Z",
-      "versions": [
-        {
-          "tweakVersion": "0.4",
-          "iOSVersion": "12.0",
-          "repository": "TQM-Mos™︵⁹² ",
-          "date": "2019-02-25T16:10:31Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.matchstic.reprovision",
       "name": "ReProvision",
       "latest": "0.4.2",
@@ -17914,6 +17914,40 @@
           "iOSVersion": "12.0",
           "repository": "repo.incendo.ws",
           "date": "2019-03-17T22:29:21Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.tqm-mos.reprovision",
+      "name": "ReProvision",
+      "latest": "0.4",
+      "repository": "TQM-Mos™︵⁹² ",
+      "url": "http://cydia.saurik.com/package/com.tqm-mos.reprovision/",
+      "shortDescription": "Re-sign applications on your device",
+      "category": "System",
+      "author": "Matt Clarke",
+      "commercial": false,
+      "date": "2019-02-25T16:10:31Z",
+      "versions": [
+        {
+          "tweakVersion": "0.4",
+          "iOSVersion": "12.0",
+          "repository": "TQM-Mos™︵⁹² ",
+          "date": "2019-02-25T16:10:31Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
