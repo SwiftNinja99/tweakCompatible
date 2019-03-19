@@ -4943,9 +4943,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 1,
+        "good": 2,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -4962,6 +4962,15 @@
           "date": "2019-03-18T09:55:02Z",
           "userName": "oixs",
           "issueNumber": 78788,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone8,2",
+          "issues": "It works, but still have some random crashes",
+          "date": "2019-03-19T18:10:00Z",
+          "userName": "Benjass2508",
+          "issueNumber": 79220,
           "arch32": false
         }
       ]
