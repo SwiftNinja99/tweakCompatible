@@ -1266,10 +1266,10 @@
       "date": "2019-03-15T23:47:21Z",
       "outcome": {
         "calculatedStatus": "Not working",
-        "percentage": 0,
-        "good": 0,
+        "percentage": 33,
+        "good": 1,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1295,6 +1295,15 @@
           "date": "2019-03-16T03:42:15Z",
           "userName": "alaancee",
           "issueNumber": 77925,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,2",
+          "issues": "",
+          "date": "2019-03-19T21:30:50Z",
+          "userName": "gncyltrk",
+          "issueNumber": 79247,
           "arch32": false
         }
       ]
