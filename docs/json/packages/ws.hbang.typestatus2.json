@@ -2211,6 +2211,37 @@
           "arch32": false
         }
       ]
+    },
+    {
+      "tweakVersion": "2.4",
+      "iOSVersion": "12.0",
+      "repository": "Chariz",
+      "date": "2019-03-19T15:27:25Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "partial",
+          "device": "iPhone9,2",
+          "issues": "Can access settings now, but the icon only mode does not work still.",
+          "date": "2019-03-19T15:27:25Z",
+          "userName": "Galbraithm",
+          "issueNumber": 79183,
+          "arch32": false
+        }
+      ]
     }
   ]
 }
