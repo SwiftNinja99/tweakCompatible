@@ -260,11 +260,11 @@
       "repository": "Packix",
       "date": "2019-03-16T19:01:50Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 100,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
         "good": 1,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -281,6 +281,15 @@
           "date": "2019-03-16T19:01:50Z",
           "userName": "Sonic4999",
           "issueNumber": 78121,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone8,1",
+          "issues": "Causes settings crashes for specific preference bundles (eg. Safari) and other Safari crashing issues treated with no other tweaks installed) ",
+          "date": "2019-03-19T13:22:12Z",
+          "userName": "zackh105",
+          "issueNumber": 79161,
           "arch32": false
         }
       ]
