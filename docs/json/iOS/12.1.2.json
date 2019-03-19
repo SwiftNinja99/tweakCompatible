@@ -12684,39 +12684,6 @@
       ]
     },
     {
-      "id": "ru.domo.cocoatop",
-      "name": "CocoaTop",
-      "latest": "2.0.1",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/ru.domo.cocoatop/",
-      "shortDescription": "Process Viewer for iOS GUI",
-      "category": "Utilities",
-      "author": "Domo",
-      "commercial": false,
-      "versions": [
-        {
-          "tweakVersion": "2.0.1",
-          "iOSVersion": "12.1.2",
-          "repository": "BigBoss",
-          "date": "2019-02-23T13:45:03Z",
-          "outcome": {
-            "calculatedStatus": "Not working",
-            "percentage": 20,
-            "good": 1,
-            "bad": 0,
-            "total": 5,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "ru.domo.cocoatop64",
       "name": "CocoaTop",
       "latest": "2.0.2-1+debug",
@@ -12759,6 +12726,39 @@
             "good": 1,
             "bad": 0,
             "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "ru.domo.cocoatop",
+      "name": "CocoaTop",
+      "latest": "2.0.1",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/ru.domo.cocoatop/",
+      "shortDescription": "Process Viewer for iOS GUI",
+      "category": "Utilities",
+      "author": "Domo",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "2.0.1",
+          "iOSVersion": "12.1.2",
+          "repository": "BigBoss",
+          "date": "2019-02-23T13:45:03Z",
+          "outcome": {
+            "calculatedStatus": "Not working",
+            "percentage": 20,
+            "good": 1,
+            "bad": 0,
+            "total": 5,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -13715,22 +13715,22 @@
       ]
     },
     {
-      "id": "com.yourepo.aumenjoyllc.commcenterpatchforios7-12",
+      "id": "com.itweakios.ccpatch10",
       "name": "CommCenter patch for iOS 7/8/9/10",
-      "latest": "3.1",
-      "repository": "AumenjoyLLC Source - YouRepo",
-      "url": "http://cydia.saurik.com/package/com.yourepo.aumenjoyllc.commcenterpatchforios7-12/",
+      "latest": "3.0",
+      "repository": "(null)",
+      "url": "http://cydia.saurik.com/package/com.itweakios.ccpatch10/",
       "shortDescription": "Patches CommCenter to allow carrier bundle editing and customization.",
       "category": "Tweaks",
-      "author": "iTweakiOS",
+      "author": "joe012594",
       "commercial": false,
-      "date": "2019-02-26T00:37:10Z",
+      "date": "2018-12-23T20:45:10Z",
       "versions": [
         {
-          "tweakVersion": "3.1",
+          "tweakVersion": "3.0",
           "iOSVersion": "12.1.2",
-          "repository": "AumenjoyLLC Source - YouRepo",
-          "date": "2019-02-28T01:07:05Z",
+          "repository": "(null)",
+          "date": "2019-02-27T12:30:07Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -13749,22 +13749,22 @@
       ]
     },
     {
-      "id": "com.itweakios.ccpatch10",
+      "id": "com.yourepo.aumenjoyllc.commcenterpatchforios7-12",
       "name": "CommCenter patch for iOS 7/8/9/10",
-      "latest": "3.0",
-      "repository": "(null)",
-      "url": "http://cydia.saurik.com/package/com.itweakios.ccpatch10/",
+      "latest": "3.1",
+      "repository": "AumenjoyLLC Source - YouRepo",
+      "url": "http://cydia.saurik.com/package/com.yourepo.aumenjoyllc.commcenterpatchforios7-12/",
       "shortDescription": "Patches CommCenter to allow carrier bundle editing and customization.",
       "category": "Tweaks",
-      "author": "joe012594",
+      "author": "iTweakiOS",
       "commercial": false,
-      "date": "2018-12-23T20:45:10Z",
+      "date": "2019-02-26T00:37:10Z",
       "versions": [
         {
-          "tweakVersion": "3.0",
+          "tweakVersion": "3.1",
           "iOSVersion": "12.1.2",
-          "repository": "(null)",
-          "date": "2019-02-27T12:30:07Z",
+          "repository": "AumenjoyLLC Source - YouRepo",
+          "date": "2019-02-28T01:07:05Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -19216,10 +19216,10 @@
           "date": "2019-02-24T08:39:48Z",
           "outcome": {
             "calculatedStatus": "Likely working",
-            "percentage": 50,
-            "good": 1,
+            "percentage": 66,
+            "good": 2,
             "bad": 0,
-            "total": 2,
+            "total": 3,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -24383,22 +24383,22 @@
       ]
     },
     {
-      "id": "com.telaaedifex.gba4ios",
-      "name": "GBA4IOS",
-      "latest": "2.1.0.5",
-      "repository": "Telaaedifex's Repository",
-      "url": "http://cydia.saurik.com/package/com.telaaedifex.gba4ios/",
-      "shortDescription": "GBA4IOS - GBA and GBC emulator",
-      "category": "Tela - Apps - Emulators",
-      "author": "Isaac Brown",
+      "id": "com.repo.xarold.com.gba4ios",
+      "name": "GBA4iOS",
+      "latest": "2.1",
+      "repository": "(null)",
+      "url": "http://cydia.saurik.com/package/com.repo.xarold.com.gba4ios/",
+      "shortDescription": "The Game Boy Advance revolutionized the handheld gaming industry. For the first time, it was possible to have a video game console with the power of a Super Nintendo in your pocket. However, before the Game Boy Advance was ever released, Nintendo had launched two extraordinarily successful devices into the portable game console market: the Game Boy and the Game Boy Color. An amazing feature of the Game Boy Advance was its backwards-compatibility with these previous portable console games, and now GBA4iOS is doing the same. No longer do you have to find a separate emulator to play these old games; if it's a Game Boy anything game, GBA4iOS has you covered.",
+      "category": "Games",
+      "author": "tushaoye",
       "commercial": false,
-      "date": "2019-03-04T23:16:49Z",
+      "date": "2019-02-26T19:32:43Z",
       "versions": [
         {
-          "tweakVersion": "2.1.0.5",
+          "tweakVersion": "2.1",
           "iOSVersion": "12.1.2",
-          "repository": "Telaaedifex's Repository",
-          "date": "2019-03-04T23:16:49Z",
+          "repository": "(null)",
+          "date": "2019-02-26T19:32:43Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -24417,22 +24417,22 @@
       ]
     },
     {
-      "id": "com.repo.xarold.com.gba4ios",
-      "name": "GBA4iOS",
-      "latest": "2.1",
-      "repository": "(null)",
-      "url": "http://cydia.saurik.com/package/com.repo.xarold.com.gba4ios/",
-      "shortDescription": "The Game Boy Advance revolutionized the handheld gaming industry. For the first time, it was possible to have a video game console with the power of a Super Nintendo in your pocket. However, before the Game Boy Advance was ever released, Nintendo had launched two extraordinarily successful devices into the portable game console market: the Game Boy and the Game Boy Color. An amazing feature of the Game Boy Advance was its backwards-compatibility with these previous portable console games, and now GBA4iOS is doing the same. No longer do you have to find a separate emulator to play these old games; if it's a Game Boy anything game, GBA4iOS has you covered.",
-      "category": "Games",
-      "author": "tushaoye",
+      "id": "com.telaaedifex.gba4ios",
+      "name": "GBA4IOS",
+      "latest": "2.1.0.5",
+      "repository": "Telaaedifex's Repository",
+      "url": "http://cydia.saurik.com/package/com.telaaedifex.gba4ios/",
+      "shortDescription": "GBA4IOS - GBA and GBC emulator",
+      "category": "Tela - Apps - Emulators",
+      "author": "Isaac Brown",
       "commercial": false,
-      "date": "2019-02-26T19:32:43Z",
+      "date": "2019-03-04T23:16:49Z",
       "versions": [
         {
-          "tweakVersion": "2.1",
+          "tweakVersion": "2.1.0.5",
           "iOSVersion": "12.1.2",
-          "repository": "(null)",
-          "date": "2019-02-26T19:32:43Z",
+          "repository": "Telaaedifex's Repository",
+          "date": "2019-03-04T23:16:49Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -31906,7 +31906,7 @@
     {
       "id": "me.alfhaily.rocket.lib",
       "name": "libRocket",
-      "latest": "1.0.2",
+      "latest": "1.0.5",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/me.alfhaily.rocket.lib/",
       "shortDescription": "A library used by Rocket tweak",
@@ -37992,40 +37992,6 @@
       ]
     },
     {
-      "id": "com.yourepo.icrazeios.neptune",
-      "name": "Neptune",
-      "latest": "1.0.0-15",
-      "repository": "iCraze's Repo - YouRepo",
-      "url": "http://cydia.saurik.com/package/com.yourepo.icrazeios.neptune/",
-      "shortDescription": "Enable Apple's modern fluid gestural interface on all devices.",
-      "category": "Tweaks",
-      "author": "Duraid Abdul",
-      "commercial": false,
-      "date": "2019-03-02T21:02:06Z",
-      "versions": [
-        {
-          "tweakVersion": "1.0.0-15",
-          "iOSVersion": "12.1.2",
-          "repository": "iCraze's Repo - YouRepo",
-          "date": "2019-03-02T21:02:06Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.duraidabdul.neptune",
       "name": "Neptune",
       "latest": "1.0",
@@ -38128,6 +38094,40 @@
             "good": 4,
             "bad": 0,
             "total": 5,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.yourepo.icrazeios.neptune",
+      "name": "Neptune",
+      "latest": "1.0.0-15",
+      "repository": "iCraze's Repo - YouRepo",
+      "url": "http://cydia.saurik.com/package/com.yourepo.icrazeios.neptune/",
+      "shortDescription": "Enable Apple's modern fluid gestural interface on all devices.",
+      "category": "Tweaks",
+      "author": "Duraid Abdul",
+      "commercial": false,
+      "date": "2019-03-02T21:02:06Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0.0-15",
+          "iOSVersion": "12.1.2",
+          "repository": "iCraze's Repo - YouRepo",
+          "date": "2019-03-02T21:02:06Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -38276,40 +38276,6 @@
       ]
     },
     {
-      "id": "ncurses",
-      "name": "New Curses",
-      "latest": "6.1-1",
-      "repository": "Electra's iOS Utilities",
-      "url": "http://cydia.saurik.com/package/ncurses/",
-      "shortDescription": "feature-complete terminal library",
-      "category": "System",
-      "author": "(null)",
-      "commercial": false,
-      "date": "2018-03-04T19:02:12Z",
-      "versions": [
-        {
-          "tweakVersion": "6.1-1",
-          "iOSVersion": "12.1.2",
-          "repository": "Bingner/Elucubratus",
-          "date": "2019-02-24T03:42:39Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "ncurses5-libs",
       "name": "New Curses",
       "latest": "5.9-1",
@@ -38332,6 +38298,40 @@
             "good": 2,
             "bad": 0,
             "total": 2,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "ncurses",
+      "name": "New Curses",
+      "latest": "6.1-1",
+      "repository": "Electra's iOS Utilities",
+      "url": "http://cydia.saurik.com/package/ncurses/",
+      "shortDescription": "feature-complete terminal library",
+      "category": "System",
+      "author": "(null)",
+      "commercial": false,
+      "date": "2018-03-04T19:02:12Z",
+      "versions": [
+        {
+          "tweakVersion": "6.1-1",
+          "iOSVersion": "12.1.2",
+          "repository": "Bingner/Elucubratus",
+          "date": "2019-02-24T03:42:39Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -47345,7 +47345,7 @@
       "latest": "3.3.1",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/me.alfhaily.rocket/",
-      "shortDescription": "Save posts and view stories anonymously and do much more",
+      "shortDescription": "posts and view stories anonymously and do much more",
       "category": "Tweaks",
       "author": "Majd Alfhaily",
       "commercial": false,
@@ -53497,7 +53497,7 @@
     {
       "id": "com.lacertosusrepo.stellae",
       "name": "Stellae",
-      "latest": "1.0",
+      "latest": "1.1",
       "repository": "Packix",
       "url": "http://cydia.saurik.com/package/com.lacertosusrepo.stellae/",
       "shortDescription": "Set a subbreddit's hot posts as your wallpaper...",
@@ -61405,22 +61405,22 @@
       ]
     },
     {
-      "id": "xz",
+      "id": "lzma",
       "name": "XZ Utils",
-      "latest": "5.2.4-4",
-      "repository": "Bingner/Elucubratus",
-      "url": "http://cydia.saurik.com/package/xz/",
+      "latest": "4.32.7-2",
+      "repository": "Electra's iOS Utilities",
+      "url": "http://cydia.saurik.com/package/lzma/",
       "shortDescription": "slower, but better, compression algorithm",
       "category": "Archiving",
       "author": "(null)",
       "commercial": false,
-      "date": "2018-10-24T08:16:57Z",
+      "date": "2018-03-04T19:03:45Z",
       "versions": [
         {
-          "tweakVersion": "5.2.4-4",
+          "tweakVersion": "4.32.7-2",
           "iOSVersion": "12.1.2",
           "repository": "Bingner/Elucubratus",
-          "date": "2019-02-24T03:44:22Z",
+          "date": "2019-02-24T03:42:14Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -61439,22 +61439,22 @@
       ]
     },
     {
-      "id": "lzma",
+      "id": "xz",
       "name": "XZ Utils",
-      "latest": "4.32.7-2",
-      "repository": "Electra's iOS Utilities",
-      "url": "http://cydia.saurik.com/package/lzma/",
+      "latest": "5.2.4-4",
+      "repository": "Bingner/Elucubratus",
+      "url": "http://cydia.saurik.com/package/xz/",
       "shortDescription": "slower, but better, compression algorithm",
       "category": "Archiving",
       "author": "(null)",
       "commercial": false,
-      "date": "2018-03-04T19:03:45Z",
+      "date": "2018-10-24T08:16:57Z",
       "versions": [
         {
-          "tweakVersion": "4.32.7-2",
+          "tweakVersion": "5.2.4-4",
           "iOSVersion": "12.1.2",
           "repository": "Bingner/Elucubratus",
-          "date": "2019-02-24T03:42:14Z",
+          "date": "2019-02-24T03:44:22Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
