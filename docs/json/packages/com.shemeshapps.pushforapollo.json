@@ -262,6 +262,37 @@
           "arch32": false
         }
       ]
+    },
+    {
+      "tweakVersion": "0.0.2",
+      "iOSVersion": "12.1.2",
+      "repository": "BigBoss",
+      "date": "2019-03-19T16:08:41Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "Opens Apollo, but doesn’t take you to the notification",
+          "date": "2019-03-19T16:08:41Z",
+          "userName": "lordforester",
+          "issueNumber": 79199,
+          "arch32": false
+        }
+      ]
     }
   ]
 }
