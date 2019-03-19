@@ -1,7 +1,7 @@
 {
   "id": "com.rpetrich.rocketbootstrap",
   "name": "RocketBootstrap",
-  "latest": "1.0.7~beta2",
+  "latest": "1.0.6",
   "repository": "BigBoss",
   "url": "http://cydia.saurik.com/package/com.rpetrich.rocketbootstrap/",
   "shortDescription": "Support library allowing tweaks to communicate with sandboxed processes",
@@ -1558,10 +1558,10 @@
       "date": "2019-02-22T23:30:13Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 70,
-        "good": 12,
+        "percentage": 72,
+        "good": 13,
         "bad": 0,
-        "total": 17,
+        "total": 18,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1722,6 +1722,15 @@
           "date": "2019-03-07T06:45:35Z",
           "userName": "whitehouse2",
           "issueNumber": 74304,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-03-19T21:56:42Z",
+          "userName": "Contonion",
+          "issueNumber": 79248,
           "arch32": false
         }
       ]
