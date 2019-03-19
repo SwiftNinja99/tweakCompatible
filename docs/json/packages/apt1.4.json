@@ -1,7 +1,7 @@
 {
   "id": "apt1.4",
   "name": "APT Strict",
-  "latest": "0",
+  "latest": "1.4.8-3",
   "repository": "Bingner/Elucubratus",
   "url": "http://cydia.saurik.com/package/apt1.4/",
   "shortDescription": "the advanced packaging tool from Debian",
@@ -436,6 +436,37 @@
           "date": "2019-03-18T18:37:34Z",
           "userName": "Dave1482",
           "issueNumber": 78934,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.4.8-3",
+      "iOSVersion": "12.0",
+      "repository": "Bingner/Elucubratus",
+      "date": "2019-03-19T22:54:58Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-03-19T22:54:58Z",
+          "userName": "OverHereIdiots",
+          "issueNumber": 79290,
           "arch32": false
         }
       ]
