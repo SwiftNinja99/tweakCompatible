@@ -105,11 +105,11 @@
       "repository": "BigBoss",
       "date": "2019-03-19T08:13:53Z",
       "outcome": {
-        "calculatedStatus": "Not working",
-        "percentage": 0,
-        "good": 0,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
+        "good": 1,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -126,6 +126,15 @@
           "date": "2019-03-19T08:13:53Z",
           "userName": "iCrazeiOS",
           "issueNumber": 79120,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone10,3",
+          "issues": "GridSwitcher not working",
+          "date": "2019-03-19T12:34:50Z",
+          "userName": "Superteeh",
+          "issueNumber": 79150,
           "arch32": false
         }
       ]
