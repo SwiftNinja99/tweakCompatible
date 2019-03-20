@@ -750,11 +750,11 @@
       "repository": "Packix",
       "date": "2019-02-24T00:48:03Z",
       "outcome": {
-        "calculatedStatus": "Likely working",
-        "percentage": 75,
-        "good": 3,
+        "calculatedStatus": "Working",
+        "percentage": 80,
+        "good": 4,
         "bad": 0,
-        "total": 4,
+        "total": 5,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -798,6 +798,15 @@
           "date": "2019-03-17T07:30:25Z",
           "userName": "mongolianmiller",
           "issueNumber": 78301,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,4",
+          "issues": "",
+          "date": "2019-03-20T16:24:04Z",
+          "userName": "TakenApps",
+          "issueNumber": 79479,
           "arch32": false
         }
       ]
