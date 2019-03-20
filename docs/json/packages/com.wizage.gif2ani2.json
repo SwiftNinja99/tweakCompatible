@@ -512,11 +512,11 @@
       "repository": "Dynastic Repo",
       "date": "2019-02-24T16:19:20Z",
       "outcome": {
-        "calculatedStatus": "Likely working",
-        "percentage": 75,
-        "good": 3,
+        "calculatedStatus": "Working",
+        "percentage": 80,
+        "good": 4,
         "bad": 0,
-        "total": 4,
+        "total": 5,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -560,6 +560,15 @@
           "date": "2019-03-18T16:29:31Z",
           "userName": "Dave1482",
           "issueNumber": 78904,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone9,3",
+          "issues": "Sometimes it puts me into a respring loop",
+          "date": "2019-03-20T14:52:07Z",
+          "userName": "Goldstriker208",
+          "issueNumber": 79458,
           "arch32": false
         }
       ]
