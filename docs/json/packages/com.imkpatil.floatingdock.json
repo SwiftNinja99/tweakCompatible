@@ -1861,10 +1861,10 @@
       "date": "2019-02-25T02:11:09Z",
       "outcome": {
         "calculatedStatus": "Working",
-        "percentage": 90,
-        "good": 10,
+        "percentage": 91,
+        "good": 11,
         "bad": 0,
-        "total": 11,
+        "total": 12,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1971,6 +1971,15 @@
           "date": "2019-03-09T08:35:39Z",
           "userName": "TC-Checker",
           "issueNumber": 75294,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2019-03-20T18:13:12Z",
+          "userName": "rwkearns",
+          "issueNumber": 79520,
           "arch32": false
         }
       ]
