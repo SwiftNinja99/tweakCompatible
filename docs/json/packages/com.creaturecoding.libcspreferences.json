@@ -1601,11 +1601,11 @@
       "repository": "CreatureSurvive's Repo",
       "date": "2019-02-23T22:42:06Z",
       "outcome": {
-        "calculatedStatus": "Likely working",
-        "percentage": 50,
+        "calculatedStatus": "Not working",
+        "percentage": 33,
         "good": 1,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1631,6 +1631,15 @@
           "date": "2019-03-18T12:38:41Z",
           "userName": "ZeroDk",
           "issueNumber": 78861,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,2",
+          "issues": "Breaks RSD",
+          "date": "2019-03-20T01:29:24Z",
+          "userName": "ZenIsBestWolf",
+          "issueNumber": 79356,
           "arch32": false
         }
       ]
