@@ -3810,11 +3810,11 @@
       "repository": "julioverne's Repo",
       "date": "2019-02-23T04:01:59Z",
       "outcome": {
-        "calculatedStatus": "Not working",
-        "percentage": 40,
-        "good": 4,
+        "calculatedStatus": "Likely working",
+        "percentage": 45,
+        "good": 5,
         "bad": 0,
-        "total": 10,
+        "total": 11,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -3912,6 +3912,15 @@
           "date": "2019-03-19T12:03:45Z",
           "userName": "surrel14",
           "issueNumber": 79140,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "Only tested feature was Rebuilding iPAs.",
+          "date": "2019-03-20T01:51:11Z",
+          "userName": "sukarodo",
+          "issueNumber": 79360,
           "arch32": false
         }
       ]
