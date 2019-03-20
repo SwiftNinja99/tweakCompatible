@@ -646,11 +646,11 @@
       "repository": "rpetrich repo",
       "date": "2019-02-23T02:44:37Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 85,
+        "calculatedStatus": "Likely working",
+        "percentage": 75,
         "good": 6,
         "bad": 0,
-        "total": 7,
+        "total": 8,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -721,6 +721,15 @@
           "date": "2019-03-11T20:09:46Z",
           "userName": "Fiaccus",
           "issueNumber": 76493,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone9,1",
+          "issues": "Animations work, but phone gets stuck in respring loop if you respring with it installed ",
+          "date": "2019-03-20T17:25:00Z",
+          "userName": "SanguineL",
+          "issueNumber": 79496,
           "arch32": false
         }
       ]
