@@ -1,7 +1,7 @@
 {
   "id": "com.thireus.untrustedhostsblocker9",
   "name": "iOS 9/10 - Untrusted Hosts Blocker",
-  "latest": "1.5.7",
+  "latest": "1.5.9",
   "repository": "Thireus Repository",
   "url": "http://repo.thireus.com",
   "shortDescription": "Say goodbye to tracking, spies, intrusive ads and untrusted hosts.\r",
@@ -2642,6 +2642,37 @@
           "date": "2019-03-20T03:31:32Z",
           "userName": "Piefactor",
           "issueNumber": 79379,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.5.9",
+      "iOSVersion": "12.1.1",
+      "repository": "Thireus Repository",
+      "date": "2019-03-20T18:08:01Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2019-03-20T18:08:01Z",
+          "userName": "rwkearns",
+          "issueNumber": 79511,
           "arch32": false
         }
       ]
