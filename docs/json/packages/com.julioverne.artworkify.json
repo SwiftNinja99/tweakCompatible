@@ -438,11 +438,11 @@
       "repository": "julioverne's Repo",
       "date": "2019-03-05T14:46:23Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 100,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
         "good": 1,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -459,6 +459,15 @@
           "date": "2019-03-05T14:46:23Z",
           "userName": "lldemonll",
           "issueNumber": 72981,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2019-03-20T02:42:04Z",
+          "userName": "pr3cast",
+          "issueNumber": 79373,
           "arch32": false
         }
       ]
