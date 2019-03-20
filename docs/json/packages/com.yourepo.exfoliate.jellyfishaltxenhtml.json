@@ -1,7 +1,7 @@
 {
   "id": "com.yourepo.exfoliate.jellyfishaltxenhtml",
   "name": "JellyFishAlt (XenHTML)",
-  "latest": "1.0",
+  "latest": "1.1",
   "repository": "Exfoliate Source - YouRepo",
   "url": "http://cydia.saurik.com/package/com.yourepo.exfoliate.jellyfishaltxenhtml/",
   "shortDescription": "JellfishAlt is a similar widget to JellyFish but this one is compatible with XenHTML",
@@ -68,6 +68,37 @@
           "date": "2019-03-11T21:01:19Z",
           "userName": "KillerWasp",
           "issueNumber": 76502,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.1",
+      "iOSVersion": "12.1.1",
+      "repository": "Exfoliate Source - YouRepo",
+      "date": "2019-03-20T18:47:32Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2019-03-20T18:47:32Z",
+          "userName": "novadoge",
+          "issueNumber": 79537,
           "arch32": false
         }
       ]
