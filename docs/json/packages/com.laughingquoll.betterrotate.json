@@ -1,7 +1,7 @@
 {
   "id": "com.laughingquoll.betterrotate",
   "name": "BetterRotate",
-  "latest": "1.2.1",
+  "latest": "1.2.3",
   "repository": "Packix",
   "url": "http://cydia.saurik.com/package/com.laughingquoll.betterrotate/",
   "shortDescription": "A smarter orientation lock.",
@@ -188,6 +188,37 @@
           "date": "2019-03-20T20:49:22Z",
           "userName": "aRamadi",
           "issueNumber": 79549,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.2.3",
+      "iOSVersion": "12.1.1",
+      "repository": "Packix",
+      "date": "2019-03-20T23:09:21Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-03-20T23:09:21Z",
+          "userName": "ranalli",
+          "issueNumber": 79564,
           "arch32": false
         }
       ]
