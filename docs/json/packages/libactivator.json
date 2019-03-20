@@ -4983,9 +4983,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 3,
+        "good": 4,
         "bad": 0,
-        "total": 3,
+        "total": 4,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -5020,6 +5020,15 @@
           "date": "2019-03-19T23:15:58Z",
           "userName": "tomaszpoliszuk",
           "issueNumber": 79319,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPad5,3",
+          "issues": "Some triggers don‘t work yet...",
+          "date": "2019-03-20T06:10:18Z",
+          "userName": "Haeckli",
+          "issueNumber": 79397,
           "arch32": false
         }
       ]
