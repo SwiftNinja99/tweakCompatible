@@ -4381,6 +4381,39 @@
       ]
     },
     {
+      "id": "com.justinpetkovic.cameratools",
+      "name": "Camera Tools",
+      "latest": "1.4",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.justinpetkovic.cameratools/",
+      "shortDescription": "Customization toolbox for Camera.",
+      "category": "Tweaks",
+      "author": "Justin Petkovic",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "1.4",
+          "iOSVersion": "12.0",
+          "repository": "apt.thebigboss.org",
+          "date": "2019-03-20T10:02:57Z",
+          "outcome": {
+            "calculatedStatus": "Not working",
+            "percentage": 0,
+            "good": 0,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.skylerk99.cq2",
       "name": "CancelQueue 2",
       "latest": "0.0.2",
@@ -4773,7 +4806,7 @@
     {
       "id": "com.karimo299.ccringer",
       "name": "CCRinger",
-      "latest": "1.0.3",
+      "latest": "1.1.0",
       "repository": "Karimo299's Repo",
       "url": "http://cydia.saurik.com/package/com.karimo299.ccringer/",
       "shortDescription": "Lets you change the ringer volume by tapping on the volume slider.",
@@ -6392,22 +6425,22 @@
       ]
     },
     {
-      "id": "com.mc.curl",
+      "id": "curl",
       "name": "cURL",
-      "latest": "7.62.0-3",
-      "repository": "MCApollo",
-      "url": "http://cydia.saurik.com/package/com.mc.curl/",
-      "shortDescription": "Athena Project | Compiled for ARM64.",
+      "latest": "7.62.0-1",
+      "repository": "Electra's iOS Utilities",
+      "url": "http://cydia.saurik.com/package/curl/",
+      "shortDescription": "flexible multi-protocol file transfers",
       "category": "Networking",
       "author": "(null)",
       "commercial": false,
-      "date": "2019-02-23T07:59:55Z",
+      "date": "2018-03-02T04:38:24Z",
       "versions": [
         {
-          "tweakVersion": "7.62.0-3",
+          "tweakVersion": "7.62.0-1",
           "iOSVersion": "12.0",
-          "repository": "MCApollo",
-          "date": "2019-03-12T11:27:51Z",
+          "repository": "Bingner/Elucubratus",
+          "date": "2019-03-13T06:43:56Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -6426,22 +6459,22 @@
       ]
     },
     {
-      "id": "curl",
+      "id": "com.mc.curl",
       "name": "cURL",
-      "latest": "7.62.0-1",
-      "repository": "Electra's iOS Utilities",
-      "url": "http://cydia.saurik.com/package/curl/",
-      "shortDescription": "flexible multi-protocol file transfers",
+      "latest": "7.62.0-3",
+      "repository": "MCApollo",
+      "url": "http://cydia.saurik.com/package/com.mc.curl/",
+      "shortDescription": "Athena Project | Compiled for ARM64.",
       "category": "Networking",
       "author": "(null)",
       "commercial": false,
-      "date": "2018-03-02T04:38:24Z",
+      "date": "2019-02-23T07:59:55Z",
       "versions": [
         {
-          "tweakVersion": "7.62.0-1",
+          "tweakVersion": "7.62.0-3",
           "iOSVersion": "12.0",
-          "repository": "Bingner/Elucubratus",
-          "date": "2019-03-13T06:43:56Z",
+          "repository": "MCApollo",
+          "date": "2019-03-12T11:27:51Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -18924,6 +18957,40 @@
       ]
     },
     {
+      "id": "com.tqm-mos.reprovision",
+      "name": "ReProvision",
+      "latest": "0.4",
+      "repository": "TQM-Mos™︵⁹² ",
+      "url": "http://cydia.saurik.com/package/com.tqm-mos.reprovision/",
+      "shortDescription": "Re-sign applications on your device",
+      "category": "System",
+      "author": "Matt Clarke",
+      "commercial": false,
+      "date": "2019-02-25T16:10:31Z",
+      "versions": [
+        {
+          "tweakVersion": "0.4",
+          "iOSVersion": "12.0",
+          "repository": "TQM-Mos™︵⁹² ",
+          "date": "2019-02-25T16:10:31Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.matchstic.reprovision",
       "name": "ReProvision",
       "latest": "0.4.2",
@@ -18980,40 +19047,6 @@
           "iOSVersion": "12.0",
           "repository": "repo.incendo.ws",
           "date": "2019-03-17T22:29:21Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "com.tqm-mos.reprovision",
-      "name": "ReProvision",
-      "latest": "0.4",
-      "repository": "TQM-Mos™︵⁹² ",
-      "url": "http://cydia.saurik.com/package/com.tqm-mos.reprovision/",
-      "shortDescription": "Re-sign applications on your device",
-      "category": "System",
-      "author": "Matt Clarke",
-      "commercial": false,
-      "date": "2019-02-25T16:10:31Z",
-      "versions": [
-        {
-          "tweakVersion": "0.4",
-          "iOSVersion": "12.0",
-          "repository": "TQM-Mos™︵⁹² ",
-          "date": "2019-02-25T16:10:31Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
