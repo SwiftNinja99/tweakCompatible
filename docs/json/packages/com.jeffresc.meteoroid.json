@@ -40,6 +40,37 @@
           "arch32": false
         }
       ]
+    },
+    {
+      "tweakVersion": "1.0.1",
+      "iOSVersion": "12.1.2",
+      "repository": "Dynastic Repo",
+      "date": "2019-03-20T14:48:49Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "partial",
+          "device": "iPhone9,3",
+          "issues": "Not showing the refresh time correctly",
+          "date": "2019-03-20T14:48:49Z",
+          "userName": "Goldstriker208",
+          "issueNumber": 79450,
+          "arch32": false
+        }
+      ]
     }
   ]
 }
