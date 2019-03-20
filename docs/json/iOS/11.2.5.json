@@ -70,7 +70,7 @@
     {
       "id": "libactivator",
       "name": "Activator",
-      "latest": "1.9.13~beta3",
+      "latest": "1.9.13~beta4",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/libactivator/",
       "shortDescription": "Centralized gestures, button and shortcut management for iOS",
@@ -1318,7 +1318,7 @@
     {
       "id": "apt7",
       "name": "APT 0.7 Strict",
-      "latest": "1.7.2",
+      "latest": "0-2",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/apt7/",
       "shortDescription": "the advanced packaging tool from Debian",
@@ -2154,10 +2154,10 @@
     {
       "id": "com.midnightchips.bettersettings",
       "name": "BetterSettings",
-      "latest": "0.0.9",
+      "latest": "0.1.0",
       "repository": "Packix",
       "url": "http://cydia.saurik.com/package/com.midnightchips.bettersettings/",
-      "shortDescription": "Settings your way",
+      "shortDescription": "Settings Your Way. — Complete customization of the settings app. Allows setting custom color, cell shape, background image, text color and more.",
       "category": "Tweaks",
       "author": "midnightchips",
       "commercial": false,
@@ -3306,10 +3306,10 @@
     {
       "id": "com.jakeashacks.catchathief",
       "name": "CatchaThief",
-      "latest": "1.0.0",
+      "latest": "1.0.0-1+debug",
       "repository": "Jakeashacks",
       "url": "http://cydia.saurik.com/package/com.jakeashacks.catchathief/",
-      "shortDescription": "Take a picture of whoever inputs an incorrect passcode!",
+      "shortDescription": "Take a picture of whoever inputs an incorrect passcode! Does not support Touch ID/Face ID yet. Images are stored in /var/mobile/catchathief. Sending images via email is being looked into.",
       "category": "Tweaks",
       "author": "Jake James",
       "commercial": false,
@@ -3745,7 +3745,7 @@
     {
       "id": "me.alfhaily.cercube",
       "name": "Cercube for YouTube",
-      "latest": "4.2.2.5",
+      "latest": "4.2.2.10",
       "repository": "Alfhaily APT",
       "url": "https://apt.alfhaily.me/",
       "shortDescription": "Download YouTube videos and more!",
@@ -4678,7 +4678,7 @@
     {
       "id": "com.iarrays.copic2",
       "name": "Copic 2",
-      "latest": "1.0.11-beta-12",
+      "latest": "1.0.11-beta-13",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.iarrays.copic2/",
       "shortDescription": "The new Copic 2 is totally redesigned, optimized and rebuild from the scratch. Now brings the ability to display the Contact pictures everywhere on your iPhone.Integrates seamlessly with stock Contacts, FaceTime, Mail, Messages and Phone apps. The best part of this tweak is it also integrates with WhatsApp & infamous tweak Recents 2 too. Also integrates with locks screen and Notification Center. Brings ability to turn on or off monograms or show rounded or rectangular images and many more features.",
@@ -6707,7 +6707,7 @@
     {
       "id": "com.tigisoftware.filza",
       "name": "Filza File Manager",
-      "latest": "3.6.4",
+      "latest": "3.6.5-12",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.tigisoftware.filza/",
       "shortDescription": "File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+",
@@ -6780,7 +6780,7 @@
     {
       "id": "com.tigisoftware.filza64bit",
       "name": "Filza File Manager (64-bit only)",
-      "latest": "3.6.5-4",
+      "latest": "3.6.5-12",
       "repository": "tigisoftware.com",
       "url": "http://cydia.saurik.com/package/com.tigisoftware.filza64bit/",
       "shortDescription": "File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+. This special version only supports 64-bit devices",
@@ -7223,7 +7223,7 @@
     {
       "id": "com.junesiphone.frontpage",
       "name": "FrontPage",
-      "latest": "1.3.9",
+      "latest": "1.4",
       "repository": "junesiphone.com",
       "url": "http://junesiphone.com/supersecret/",
       "shortDescription": "Powerful html for the springboard.",
@@ -8254,7 +8254,7 @@
     {
       "id": "com.thireus.untrustedhostsblocker9",
       "name": "iOS 9/10 - Untrusted Hosts Blocker",
-      "latest": "1.5.5",
+      "latest": "1.5.9",
       "repository": "Thireus Repository",
       "url": "http://repo.thireus.com",
       "shortDescription": "Say goodbye to tracking, spies, intrusive ads and untrusted hosts.\r",
@@ -8718,10 +8718,10 @@
     {
       "id": "net.limneos.libbulletin",
       "name": "libbulletin",
-      "latest": "0.1-145",
+      "latest": "0.1-146-trevor",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/net.limneos.libbulletin/",
-      "shortDescription": "Simple library that displays bulletins",
+      "shortDescription": "Modified version of libbulletin that fixes a nasty crash on iOS 12",
       "category": "Development",
       "author": "Elias Limneos",
       "commercial": false,
@@ -9696,7 +9696,7 @@
     {
       "id": "com.favware.lotusdarkextra",
       "name": "Lotus Dark Extra",
-      "latest": "1.0.12",
+      "latest": "1.0.13",
       "repository": "Favware",
       "url": "http://cydia.saurik.com/package/com.favware.lotusdarkextra/",
       "shortDescription": "Extra Lotus Dark Icons",
@@ -9730,6 +9730,26 @@
           "iOSVersion": "11.2.5",
           "repository": "Favware",
           "date": "2019-03-17T10:05:25Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        },
+        {
+          "tweakVersion": "1.0.13",
+          "iOSVersion": "11.2.5",
+          "repository": "Favware",
+          "date": "2019-03-20T23:30:07Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -11320,7 +11340,7 @@
     {
       "id": "com.dwna.newawardsforoldreddit",
       "name": "NewAwardsForOldReddit",
-      "latest": "1.1",
+      "latest": "1.2",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.dwna.newawardsforoldreddit/",
       "shortDescription": "silver & platinum for Reddit 3.13.1, Narwhal",
@@ -11388,7 +11408,7 @@
     {
       "id": "ws.hbang.newterm2",
       "name": "NewTerm 2",
-      "latest": "2.0",
+      "latest": "2.1",
       "repository": "cydia.hbang.ws",
       "url": "https://cydia.hbang.ws/",
       "shortDescription": "A powerful terminal app for iOS",
@@ -12359,22 +12379,21 @@
       ]
     },
     {
-      "id": "com.hackyouriphone.ntspeed",
+      "id": "com.julioverne.ntspeed",
       "name": "NtSpeed",
-      "latest": "0.2~beta5",
-      "repository": "HackYouriPhone",
-      "url": "http://cydia.saurik.com/package/com.hackyouriphone.ntspeed/",
+      "latest": "0.2~beta6a",
+      "repository": "ipad_kid's repo",
+      "url": "http://ipadkid.cf/",
       "shortDescription": "See Active Traffic Network Speed",
-      "category": "HYI - Tweaks",
+      "category": "Tweaks",
       "author": "julioverne",
       "commercial": false,
-      "date": "2018-06-20T21:19:38Z",
       "versions": [
         {
-          "tweakVersion": "0.2~beta5",
+          "tweakVersion": "0.2~beta6",
           "iOSVersion": "11.2.5",
-          "repository": "HackYouriPhone",
-          "date": "2018-07-10T12:50:18Z",
+          "repository": "julioverne's Repo",
+          "date": "2018-07-30T14:47:02Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -12393,21 +12412,22 @@
       ]
     },
     {
-      "id": "com.julioverne.ntspeed",
+      "id": "com.hackyouriphone.ntspeed",
       "name": "NtSpeed",
-      "latest": "0.2~beta6a",
-      "repository": "ipad_kid's repo",
-      "url": "http://ipadkid.cf/",
+      "latest": "0.2~beta5",
+      "repository": "HackYouriPhone",
+      "url": "http://cydia.saurik.com/package/com.hackyouriphone.ntspeed/",
       "shortDescription": "See Active Traffic Network Speed",
-      "category": "Tweaks",
+      "category": "HYI - Tweaks",
       "author": "julioverne",
       "commercial": false,
+      "date": "2018-06-20T21:19:38Z",
       "versions": [
         {
-          "tweakVersion": "0.2~beta6",
+          "tweakVersion": "0.2~beta5",
           "iOSVersion": "11.2.5",
-          "repository": "julioverne's Repo",
-          "date": "2018-07-30T14:47:02Z",
+          "repository": "HackYouriPhone",
+          "date": "2018-07-10T12:50:18Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -14455,10 +14475,10 @@
     {
       "id": "me.alfhaily.rocket",
       "name": "Rocket for Instagram",
-      "latest": "3.0.17",
+      "latest": "3.3.2",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/me.alfhaily.rocket/",
-      "shortDescription": "posts and view stories anonymously and do much more",
+      "shortDescription": "Save posts and view stories anonymously and do much more",
       "category": "Tweaks",
       "author": "Majd Alfhaily",
       "commercial": false,
@@ -14549,7 +14569,7 @@
     {
       "id": "com.rpetrich.rocketbootstrap",
       "name": "RocketBootstrap",
-      "latest": "1.0.7~beta2",
+      "latest": "1.0.6",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.rpetrich.rocketbootstrap/",
       "shortDescription": "Support library allowing tweaks to communicate with sandboxed processes",
@@ -15952,10 +15972,10 @@
     {
       "id": "com.smokin1337.smartlpm",
       "name": "SmartLPM",
-      "latest": "1.3.0-1",
+      "latest": "1.2.0-2",
       "repository": "smokin1337's Repo",
       "url": "http://cydia.saurik.com/package/com.smokin1337.smartlpm/",
-      "shortDescription": "A smarter low power mode. Low power while device is locked. Turn low power mode on automatically at the battery level you specify. Enable low power while charging.",
+      "shortDescription": "A smarter low power mode. Low power while device is locked. Turn low power mode on automatically at the battery level you specify. Enable low power while charging. And more....",
       "category": "Tweaks",
       "author": "smokin1337",
       "commercial": false,
@@ -17159,7 +17179,7 @@
     {
       "id": "com.c1d3r.switches",
       "name": "Switches",
-      "latest": "1.3",
+      "latest": "1.1",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.c1d3r.switches/",
       "shortDescription": "Add a little flair to your switches",
@@ -17874,7 +17894,7 @@
     {
       "id": "bz.jed.tweakcompatible",
       "name": "tweakCompatible",
-      "latest": "0.1.4",
+      "latest": "0.1.5",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/bz.jed.tweakcompatible/",
       "shortDescription": "Adds a way to check tweak compatibility in cydia",
@@ -18123,7 +18143,7 @@
     {
       "id": "ws.hbang.typestatus2",
       "name": "TypeStatus 2 (iOS 7 – 10)",
-      "latest": "2.4~beta3",
+      "latest": "2.4",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/ws.hbang.typestatus2/",
       "shortDescription": "iMessage typing/read indicators in status bar",
@@ -18208,22 +18228,22 @@
       ]
     },
     {
-      "id": "jailbreak-resources",
+      "id": "science.xnu.undecimus.resources",
       "name": "Unc0ver Jailbreak Resources",
-      "latest": "1.0~b6",
-      "repository": "(null)",
-      "url": "http://cydia.saurik.com/package/jailbreak-resources/",
-      "shortDescription": "Resources used by KPPLess Jailbreaks",
+      "latest": "0.11",
+      "repository": "Bingner/Elucubratus",
+      "url": "http://cydia.saurik.com/package/science.xnu.undecimus.resources/",
+      "shortDescription": "Resources used by Unc0ver",
       "category": "System",
-      "author": "Sam Bingner",
+      "author": "(null)",
       "commercial": false,
-      "date": "2019-01-20T22:07:55Z",
+      "date": "2018-11-29T22:55:17Z",
       "versions": [
         {
-          "tweakVersion": "1.0~b6",
+          "tweakVersion": "0.13~b2",
           "iOSVersion": "11.2.5",
-          "repository": "Bingner/Elucubratus",
-          "date": "2019-03-07T09:31:53Z",
+          "repository": "(null)",
+          "date": "2019-01-01T21:22:47Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -18242,22 +18262,22 @@
       ]
     },
     {
-      "id": "science.xnu.undecimus.resources",
+      "id": "jailbreak-resources",
       "name": "Unc0ver Jailbreak Resources",
-      "latest": "0.11",
-      "repository": "Bingner/Elucubratus",
-      "url": "http://cydia.saurik.com/package/science.xnu.undecimus.resources/",
-      "shortDescription": "Resources used by Unc0ver",
+      "latest": "1.0~b6",
+      "repository": "(null)",
+      "url": "http://cydia.saurik.com/package/jailbreak-resources/",
+      "shortDescription": "Resources used by KPPLess Jailbreaks",
       "category": "System",
-      "author": "(null)",
+      "author": "Sam Bingner",
       "commercial": false,
-      "date": "2018-11-29T22:55:17Z",
+      "date": "2019-01-20T22:07:55Z",
       "versions": [
         {
-          "tweakVersion": "0.13~b2",
+          "tweakVersion": "1.0~b6",
           "iOSVersion": "11.2.5",
-          "repository": "(null)",
-          "date": "2019-01-01T21:22:47Z",
+          "repository": "Bingner/Elucubratus",
+          "date": "2019-03-07T09:31:53Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -19008,7 +19028,7 @@
     {
       "id": "com.junesiphone.xeninfo",
       "name": "XenInfo",
-      "latest": "2.0.8",
+      "latest": "2.0.9",
       "repository": "junesiphone.com",
       "url": "http://cydia.saurik.com/package/com.junesiphone.xeninfo/",
       "shortDescription": "Music, Weather, and battery info for XenHTML",
