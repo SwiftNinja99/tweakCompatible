@@ -868,10 +868,10 @@
       "date": "2019-02-26T15:16:45Z",
       "outcome": {
         "calculatedStatus": "Working",
-        "percentage": 80,
-        "good": 4,
+        "percentage": 83,
+        "good": 5,
         "bad": 0,
-        "total": 5,
+        "total": 6,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -924,6 +924,15 @@
           "date": "2019-03-09T23:59:28Z",
           "userName": "Fiaccus",
           "issueNumber": 75674,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "Noti icons don’t change",
+          "date": "2019-03-20T00:50:21Z",
+          "userName": "iphizzle",
+          "issueNumber": 79350,
           "arch32": false
         }
       ]
