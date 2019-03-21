@@ -1,7 +1,7 @@
 {
   "id": "com.yourepo.zowlverein.notchvolumehud",
   "name": "NotchVolumeHUD",
-  "latest": "0.2.6",
+  "latest": "0.2.7",
   "repository": "Zowlverein's Repo - YouRepo",
   "url": "http://cydia.saurik.com/package/com.yourepo.zowlverein.notchvolumehud/",
   "shortDescription": "A volume bar displayed around the notch.",
@@ -161,6 +161,37 @@
           "date": "2019-03-19T16:07:55Z",
           "userName": "lordforester",
           "issueNumber": 79198,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.2.7",
+      "iOSVersion": "12.1",
+      "repository": "Zowlverein's Repo - YouRepo",
+      "date": "2019-03-21T01:09:18Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "",
+          "date": "2019-03-21T01:09:18Z",
+          "userName": "josediaz449",
+          "issueNumber": 79600,
           "arch32": false
         }
       ]

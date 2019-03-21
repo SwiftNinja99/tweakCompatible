@@ -9326,39 +9326,6 @@
       ]
     },
     {
-      "id": "ru.domo.cocoatop",
-      "name": "CocoaTop",
-      "latest": "2.0.1",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/ru.domo.cocoatop/",
-      "shortDescription": "Process Viewer for iOS GUI",
-      "category": "Utilities",
-      "author": "Domo",
-      "commercial": false,
-      "versions": [
-        {
-          "tweakVersion": "2.0.1",
-          "iOSVersion": "12.1",
-          "repository": "BigBoss",
-          "date": "2019-02-23T11:30:21Z",
-          "outcome": {
-            "calculatedStatus": "Not working",
-            "percentage": 0,
-            "good": 0,
-            "bad": 0,
-            "total": 2,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "ru.domo.cocoatop64",
       "name": "CocoaTop",
       "latest": "2.0.2-1+debug",
@@ -9381,6 +9348,39 @@
             "good": 1,
             "bad": 0,
             "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "ru.domo.cocoatop",
+      "name": "CocoaTop",
+      "latest": "2.0.1",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/ru.domo.cocoatop/",
+      "shortDescription": "Process Viewer for iOS GUI",
+      "category": "Utilities",
+      "author": "Domo",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "2.0.1",
+          "iOSVersion": "12.1",
+          "repository": "BigBoss",
+          "date": "2019-02-23T11:30:21Z",
+          "outcome": {
+            "calculatedStatus": "Not working",
+            "percentage": 0,
+            "good": 0,
+            "bad": 0,
+            "total": 2,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -11832,40 +11832,6 @@
       ]
     },
     {
-      "id": "com.yourepo.ihackspapo85.dateinstatusbar",
-      "name": "Date In StatusBar",
-      "latest": "1.0.1",
-      "repository": "iHacksPaPo85 Source - YouRepo",
-      "url": "http://cydia.saurik.com/package/com.yourepo.ihackspapo85.dateinstatusbar/",
-      "shortDescription": "////////////////////////Adds current date to the status bar\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\",
-      "category": "Tweaks",
-      "author": "MatrixDevTeam",
-      "commercial": false,
-      "date": "2019-02-25T21:56:43Z",
-      "versions": [
-        {
-          "tweakVersion": "1.0.1",
-          "iOSVersion": "12.1",
-          "repository": "iHacksPaPo85 Source - YouRepo",
-          "date": "2019-02-25T21:56:43Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 2,
-            "bad": 0,
-            "total": 2,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.matrixdevteam.dateinstatusbar",
       "name": "Date In StatusBar",
       "latest": "1.0.1",
@@ -11888,6 +11854,40 @@
             "good": 1,
             "bad": 0,
             "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.yourepo.ihackspapo85.dateinstatusbar",
+      "name": "Date In StatusBar",
+      "latest": "1.0.1",
+      "repository": "iHacksPaPo85 Source - YouRepo",
+      "url": "http://cydia.saurik.com/package/com.yourepo.ihackspapo85.dateinstatusbar/",
+      "shortDescription": "////////////////////////Adds current date to the status bar\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\",
+      "category": "Tweaks",
+      "author": "MatrixDevTeam",
+      "commercial": false,
+      "date": "2019-02-25T21:56:43Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0.1",
+          "iOSVersion": "12.1",
+          "repository": "iHacksPaPo85 Source - YouRepo",
+          "date": "2019-02-25T21:56:43Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 2,
+            "bad": 0,
+            "total": 2,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -28017,6 +28017,74 @@
       ]
     },
     {
+      "id": "com.yourepo.caspxd.neptune",
+      "name": "Neptune",
+      "latest": "1.0.0-15",
+      "repository": "caspxd Source - YouRepo",
+      "url": "http://cydia.saurik.com/package/com.yourepo.caspxd.neptune/",
+      "shortDescription": "Enable Apple's modern fluid gestural interface on all devices.",
+      "category": "Tweaks",
+      "author": "Casp",
+      "commercial": false,
+      "date": "2019-02-24T05:24:50Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0.0-15",
+          "iOSVersion": "12.1",
+          "repository": "caspxd Source - YouRepo",
+          "date": "2019-02-24T05:24:50Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.yourepo.tweakportal.neptune",
+      "name": "Neptune",
+      "latest": "1.0-8",
+      "repository": "TweakPortal - YouRepo",
+      "url": "http://cydia.saurik.com/package/com.yourepo.tweakportal.neptune/",
+      "shortDescription": "Enable Apple's modern fluid gestural interface on all devices.",
+      "category": "Tweaks",
+      "author": "Duraid Abdul",
+      "commercial": false,
+      "date": "2019-03-04T17:36:34Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0.0-224",
+          "iOSVersion": "12.1",
+          "repository": "(null)",
+          "date": "2019-03-04T20:38:39Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.duraidabdul.neptune",
       "name": "Neptune",
       "latest": "1.0",
@@ -28079,74 +28147,6 @@
             "good": 4,
             "bad": 0,
             "total": 5,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "com.yourepo.caspxd.neptune",
-      "name": "Neptune",
-      "latest": "1.0.0-15",
-      "repository": "caspxd Source - YouRepo",
-      "url": "http://cydia.saurik.com/package/com.yourepo.caspxd.neptune/",
-      "shortDescription": "Enable Apple's modern fluid gestural interface on all devices.",
-      "category": "Tweaks",
-      "author": "Casp",
-      "commercial": false,
-      "date": "2019-02-24T05:24:50Z",
-      "versions": [
-        {
-          "tweakVersion": "1.0.0-15",
-          "iOSVersion": "12.1",
-          "repository": "caspxd Source - YouRepo",
-          "date": "2019-02-24T05:24:50Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "com.yourepo.tweakportal.neptune",
-      "name": "Neptune",
-      "latest": "1.0-8",
-      "repository": "TweakPortal - YouRepo",
-      "url": "http://cydia.saurik.com/package/com.yourepo.tweakportal.neptune/",
-      "shortDescription": "Enable Apple's modern fluid gestural interface on all devices.",
-      "category": "Tweaks",
-      "author": "Duraid Abdul",
-      "commercial": false,
-      "date": "2019-03-04T17:36:34Z",
-      "versions": [
-        {
-          "tweakVersion": "1.0.0-224",
-          "iOSVersion": "12.1",
-          "repository": "(null)",
-          "date": "2019-03-04T20:38:39Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -30285,7 +30285,7 @@
     {
       "id": "com.yourepo.zowlverein.notchvolumehud",
       "name": "NotchVolumeHUD",
-      "latest": "0.2.6",
+      "latest": "0.2.7",
       "repository": "Zowlverein's Repo - YouRepo",
       "url": "http://cydia.saurik.com/package/com.yourepo.zowlverein.notchvolumehud/",
       "shortDescription": "A volume bar displayed around the notch.",
@@ -30299,6 +30299,26 @@
           "iOSVersion": "12.1",
           "repository": "Zowlverein's Repo - YouRepo",
           "date": "2019-03-16T22:43:44Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        },
+        {
+          "tweakVersion": "0.2.7",
+          "iOSVersion": "12.1",
+          "repository": "Zowlverein's Repo - YouRepo",
+          "date": "2019-03-21T01:09:18Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -44443,22 +44463,22 @@
       ]
     },
     {
-      "id": "xz",
+      "id": "lzma",
       "name": "XZ Utils",
-      "latest": "5.2.4-4",
-      "repository": "Bingner/Elucubratus",
-      "url": "http://cydia.saurik.com/package/xz/",
+      "latest": "4.32.7-2",
+      "repository": "Electra's iOS Utilities",
+      "url": "http://cydia.saurik.com/package/lzma/",
       "shortDescription": "slower, but better, compression algorithm",
       "category": "Archiving",
       "author": "(null)",
       "commercial": false,
-      "date": "2018-10-24T08:16:57Z",
+      "date": "2018-03-04T19:03:45Z",
       "versions": [
         {
-          "tweakVersion": "5.2.4-4",
+          "tweakVersion": "4.32.7-2",
           "iOSVersion": "12.1",
           "repository": "Bingner/Elucubratus",
-          "date": "2019-02-23T03:29:35Z",
+          "date": "2019-02-23T03:26:25Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -44477,22 +44497,22 @@
       ]
     },
     {
-      "id": "lzma",
+      "id": "xz",
       "name": "XZ Utils",
-      "latest": "4.32.7-2",
-      "repository": "Electra's iOS Utilities",
-      "url": "http://cydia.saurik.com/package/lzma/",
+      "latest": "5.2.4-4",
+      "repository": "Bingner/Elucubratus",
+      "url": "http://cydia.saurik.com/package/xz/",
       "shortDescription": "slower, but better, compression algorithm",
       "category": "Archiving",
       "author": "(null)",
       "commercial": false,
-      "date": "2018-03-04T19:03:45Z",
+      "date": "2018-10-24T08:16:57Z",
       "versions": [
         {
-          "tweakVersion": "4.32.7-2",
+          "tweakVersion": "5.2.4-4",
           "iOSVersion": "12.1",
           "repository": "Bingner/Elucubratus",
-          "date": "2019-02-23T03:26:25Z",
+          "date": "2019-02-23T03:29:35Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
