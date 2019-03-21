@@ -430,7 +430,7 @@
         "percentage": 0,
         "good": 0,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -447,6 +447,15 @@
           "date": "2019-03-08T09:07:38Z",
           "userName": "mohmedadel35",
           "issueNumber": 74794,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone8,1",
+          "issues": "Springboard crashes when volume hits zero. Tested with YouTube and Music apps",
+          "date": "2019-03-21T22:07:13Z",
+          "userName": "brandonjp",
+          "issueNumber": 79810,
           "arch32": false
         }
       ]
