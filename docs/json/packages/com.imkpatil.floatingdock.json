@@ -1991,10 +1991,10 @@
       "date": "2019-02-25T17:56:10Z",
       "outcome": {
         "calculatedStatus": "Working",
-        "percentage": 80,
-        "good": 4,
+        "percentage": 83,
+        "good": 5,
         "bad": 0,
-        "total": 5,
+        "total": 6,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -2047,6 +2047,15 @@
           "date": "2019-02-28T00:58:47Z",
           "userName": "mangel93",
           "issueNumber": 69073,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone9,2",
+          "issues": "So far works perfectly, except on respring home screen icons get shifted down and bottom row is hidden/glitched behind dock icons. As soon as I swipe either direction to a different home page, icons shift up back to normal and no issues. Only occurs immediately after respring.",
+          "date": "2019-03-21T16:05:39Z",
+          "userName": "thaxanfather",
+          "issueNumber": 79759,
           "arch32": false
         }
       ]
