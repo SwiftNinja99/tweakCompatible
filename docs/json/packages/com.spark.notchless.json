@@ -1,7 +1,7 @@
 {
   "id": "com.spark.notchless",
   "name": "Notchless [Members Plus]",
-  "latest": "2.0.5-1",
+  "latest": "2.0.9-1",
   "repository": "Spark's Beta Repo",
   "url": "http://cydia.saurik.com/package/com.spark.notchless/",
   "shortDescription": "Blacks out the back of the status bar to hide the 'Notch'",
@@ -486,6 +486,37 @@
           "date": "2019-03-17T04:11:08Z",
           "userName": "Samgisaninja",
           "issueNumber": 78257,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0.9-1",
+      "iOSVersion": "12.1.1",
+      "repository": "SparkDev",
+      "date": "2019-03-21T14:50:22Z",
+      "outcome": {
+        "calculatedStatus": "Not working",
+        "percentage": 0,
+        "good": 0,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone10,6",
+          "issues": "freezes or respring loops when tweak is enabled in settings",
+          "date": "2019-03-21T14:50:22Z",
+          "userName": "MerkD814",
+          "issueNumber": 79756,
           "arch32": false
         }
       ]
