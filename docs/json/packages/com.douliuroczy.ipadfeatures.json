@@ -145,11 +145,11 @@
       "repository": "BigBoss",
       "date": "2019-03-20T10:03:10Z",
       "outcome": {
-        "calculatedStatus": "Not working",
-        "percentage": 0,
-        "good": 0,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
+        "good": 1,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -166,6 +166,15 @@
           "date": "2019-03-20T10:03:10Z",
           "userName": "validatedev",
           "issueNumber": 79420,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "",
+          "date": "2019-03-21T11:47:10Z",
+          "userName": "Superteeh",
+          "issueNumber": 79721,
           "arch32": false
         }
       ]
