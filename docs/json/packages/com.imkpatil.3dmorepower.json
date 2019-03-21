@@ -97,10 +97,10 @@
       "date": "2019-02-26T15:34:33Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 75,
+        "percentage": 60,
         "good": 3,
         "bad": 0,
-        "total": 4,
+        "total": 5,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -144,6 +144,15 @@
           "date": "2019-03-20T23:44:45Z",
           "userName": "Mustafacydia",
           "issueNumber": 79587,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,3",
+          "issues": "You 3D Touch on the LPM toggle and absolutely nothing happens... it just makes it bigger ",
+          "date": "2019-03-21T01:03:45Z",
+          "userName": "Jailbreakers",
+          "issueNumber": 79598,
           "arch32": false
         }
       ]
