@@ -240,10 +240,10 @@
       "date": "2019-02-27T13:17:13Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 75,
+        "percentage": 60,
         "good": 3,
         "bad": 0,
-        "total": 4,
+        "total": 5,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -287,6 +287,15 @@
           "date": "2019-03-06T02:51:21Z",
           "userName": "crab0923",
           "issueNumber": 73483,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone9,3",
+          "issues": "",
+          "date": "2019-03-21T21:04:17Z",
+          "userName": "nick-beznos",
+          "issueNumber": 79797,
           "arch32": false
         }
       ]
