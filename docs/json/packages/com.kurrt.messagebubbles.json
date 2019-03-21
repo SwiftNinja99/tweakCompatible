@@ -171,9 +171,9 @@
       "repository": "BigBoss",
       "date": "2019-03-15T05:08:47Z",
       "outcome": {
-        "calculatedStatus": "Likely working",
-        "percentage": 50,
-        "good": 1,
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 2,
         "bad": 0,
         "total": 2,
         "arch32": {
@@ -186,21 +186,21 @@
       },
       "users": [
         {
-          "status": "not working",
-          "device": "iPhone10,5",
-          "issues": "Error not loading the preferences bundle ",
-          "date": "2019-03-15T05:08:47Z",
-          "userName": "FloreSuave97",
-          "issueNumber": 77661,
-          "arch32": false
-        },
-        {
           "status": "working",
           "device": "iPhone9,3",
           "issues": "",
           "date": "2019-03-18T16:37:48Z",
           "userName": "rosewished",
           "issueNumber": 78905,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,5",
+          "issues": "",
+          "date": "2019-03-21T19:37:30Z",
+          "userName": "FloreSuave97",
+          "issueNumber": 79789,
           "arch32": false
         }
       ]
