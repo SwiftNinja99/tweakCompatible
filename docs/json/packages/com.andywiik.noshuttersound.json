@@ -209,11 +209,11 @@
       "repository": "BigBoss",
       "date": "2019-02-27T18:38:37Z",
       "outcome": {
-        "calculatedStatus": "Likely working",
-        "percentage": 50,
+        "calculatedStatus": "Not working",
+        "percentage": 40,
         "good": 2,
         "bad": 0,
-        "total": 4,
+        "total": 5,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -257,6 +257,15 @@
           "date": "2019-03-09T20:52:39Z",
           "userName": "ZacharyT6",
           "issueNumber": 75557,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,5",
+          "issues": "Does Not Work When Installed You Can Still Hear The Camera Sound",
+          "date": "2019-03-21T08:23:17Z",
+          "userName": "gatekeeper1122",
+          "issueNumber": 79685,
           "arch32": false
         }
       ]
