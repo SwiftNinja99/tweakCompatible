@@ -4202,6 +4202,39 @@
       ]
     },
     {
+      "id": "repo.biteyourapple.net.colorbanners2",
+      "name": "ColorBanners 2 (iOS 10)",
+      "latest": "1.1.0",
+      "repository": "repo.biteyourapple.net",
+      "url": "http://repo.biteyourapple.net/",
+      "shortDescription": "Color your notifications",
+      "category": "BYA Apps",
+      "author": "BYA Repository",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "1.1.0",
+          "iOSVersion": "11.2.5",
+          "repository": "BiteYourApple",
+          "date": "2018-07-09T07:42:21Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.golddavid.colorbanners2",
       "name": "ColorBanners 2 (iOS 10)",
       "latest": "1.2.2",
@@ -4237,39 +4270,6 @@
           "iOSVersion": "11.2.5",
           "repository": "BigBoss",
           "date": "2019-03-20T23:30:33Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "repo.biteyourapple.net.colorbanners2",
-      "name": "ColorBanners 2 (iOS 10)",
-      "latest": "1.1.0",
-      "repository": "repo.biteyourapple.net",
-      "url": "http://repo.biteyourapple.net/",
-      "shortDescription": "Color your notifications",
-      "category": "BYA Apps",
-      "author": "BYA Repository",
-      "commercial": false,
-      "versions": [
-        {
-          "tweakVersion": "1.1.0",
-          "iOSVersion": "11.2.5",
-          "repository": "BiteYourApple",
-          "date": "2018-07-09T07:42:21Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -6848,6 +6848,26 @@
           "iOSVersion": "11.2.5",
           "repository": "TIGI Software",
           "date": "2019-03-05T03:40:56Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        },
+        {
+          "tweakVersion": "3.6.5-12",
+          "iOSVersion": "11.2.5",
+          "repository": "TIGI Software",
+          "date": "2019-03-20T23:30:19Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -18518,22 +18538,22 @@
       ]
     },
     {
-      "id": "jailbreak-resources",
+      "id": "science.xnu.undecimus.resources",
       "name": "Unc0ver Jailbreak Resources",
-      "latest": "1.0~b6",
-      "repository": "(null)",
-      "url": "http://cydia.saurik.com/package/jailbreak-resources/",
-      "shortDescription": "Resources used by KPPLess Jailbreaks",
+      "latest": "0.11",
+      "repository": "Bingner/Elucubratus",
+      "url": "http://cydia.saurik.com/package/science.xnu.undecimus.resources/",
+      "shortDescription": "Resources used by Unc0ver",
       "category": "System",
-      "author": "Sam Bingner",
+      "author": "(null)",
       "commercial": false,
-      "date": "2019-01-20T22:07:55Z",
+      "date": "2018-11-29T22:55:17Z",
       "versions": [
         {
-          "tweakVersion": "1.0~b6",
+          "tweakVersion": "0.13~b2",
           "iOSVersion": "11.2.5",
-          "repository": "Bingner/Elucubratus",
-          "date": "2019-03-07T09:31:53Z",
+          "repository": "(null)",
+          "date": "2019-01-01T21:22:47Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -18552,22 +18572,22 @@
       ]
     },
     {
-      "id": "science.xnu.undecimus.resources",
+      "id": "jailbreak-resources",
       "name": "Unc0ver Jailbreak Resources",
-      "latest": "0.11",
-      "repository": "Bingner/Elucubratus",
-      "url": "http://cydia.saurik.com/package/science.xnu.undecimus.resources/",
-      "shortDescription": "Resources used by Unc0ver",
+      "latest": "1.0~b6",
+      "repository": "(null)",
+      "url": "http://cydia.saurik.com/package/jailbreak-resources/",
+      "shortDescription": "Resources used by KPPLess Jailbreaks",
       "category": "System",
-      "author": "(null)",
+      "author": "Sam Bingner",
       "commercial": false,
-      "date": "2018-11-29T22:55:17Z",
+      "date": "2019-01-20T22:07:55Z",
       "versions": [
         {
-          "tweakVersion": "0.13~b2",
+          "tweakVersion": "1.0~b6",
           "iOSVersion": "11.2.5",
-          "repository": "(null)",
-          "date": "2019-01-01T21:22:47Z",
+          "repository": "Bingner/Elucubratus",
+          "date": "2019-03-07T09:31:53Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
