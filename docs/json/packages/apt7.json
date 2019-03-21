@@ -1,7 +1,7 @@
 {
   "id": "apt7",
   "name": "APT 0.7 Strict",
-  "latest": "0-2",
+  "latest": "0.7.25.3-9",
   "repository": "Cydia/Telesphoreo",
   "url": "http://cydia.saurik.com/package/apt7/",
   "shortDescription": "the advanced packaging tool from Debian",
@@ -676,9 +676,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 1,
+        "good": 2,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -695,6 +695,15 @@
           "date": "2018-08-12T13:37:06Z",
           "userName": "LileAuTresor",
           "issueNumber": 42518,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone6,1",
+          "issues": "",
+          "date": "2019-03-21T23:11:46Z",
+          "userName": "kurtbain250",
+          "issueNumber": 79836,
           "arch32": false
         }
       ]
