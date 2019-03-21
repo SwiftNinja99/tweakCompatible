@@ -1,10 +1,10 @@
 {
   "id": "com.fidele007.hotdog",
   "name": "HotDog",
-  "latest": "3.3.3-1085+debug",
+  "latest": "3.3.2",
   "repository": "BigBoss",
   "url": "http://cydia.saurik.com/package/com.fidele007.hotdog/",
-  "shortDescription": "A cool tweak to customize your iOS experience.",
+  "shortDescription": "customize lockscreen labels & carrier name",
   "category": "Tweaks",
   "author": "fidele007",
   "commercial": false,
@@ -371,11 +371,11 @@
       "repository": "BigBoss",
       "date": "2019-02-26T04:55:10Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 100,
+        "calculatedStatus": "Likely working",
+        "percentage": 66,
         "good": 2,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -401,6 +401,15 @@
           "date": "2019-02-26T23:46:52Z",
           "userName": "jacobkhalifa",
           "issueNumber": 68126,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone9,1",
+          "issues": "Went into safe mode",
+          "date": "2019-03-21T14:49:44Z",
+          "userName": "herrkugla",
+          "issueNumber": 79755,
           "arch32": false
         }
       ]
