@@ -1,7 +1,7 @@
 {
   "id": "com.rpetrich.rocketbootstrap",
   "name": "RocketBootstrap",
-  "latest": "1.0.6",
+  "latest": "1.0.7~beta2",
   "repository": "BigBoss",
   "url": "http://cydia.saurik.com/package/com.rpetrich.rocketbootstrap/",
   "shortDescription": "Support library allowing tweaks to communicate with sandboxed processes",
@@ -2580,9 +2580,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 6,
+        "good": 7,
         "bad": 0,
-        "total": 6,
+        "total": 7,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -2644,6 +2644,15 @@
           "date": "2019-03-18T07:33:44Z",
           "userName": "Nixuge",
           "issueNumber": 78743,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,4",
+          "issues": "",
+          "date": "2019-03-21T05:19:23Z",
+          "userName": "xXG0DLessXx",
+          "issueNumber": 79658,
           "arch32": false
         }
       ]
