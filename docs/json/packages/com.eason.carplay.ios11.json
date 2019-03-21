@@ -608,9 +608,9 @@
       "repository": "easonwumac",
       "date": "2019-02-24T22:00:02Z",
       "outcome": {
-        "calculatedStatus": "Likely working",
-        "percentage": 50,
-        "good": 1,
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 2,
         "bad": 0,
         "total": 2,
         "arch32": {
@@ -623,21 +623,21 @@
       },
       "users": [
         {
-          "status": "not working",
-          "device": "iPhone8,2",
-          "issues": "Native mode was working but now  stopped working not sure why. disabled all tweaks still not working. May be new unc0ver",
-          "date": "2019-03-16T18:46:28Z",
-          "userName": "anonypublic",
-          "issueNumber": 78119,
-          "arch32": false
-        },
-        {
           "status": "working",
           "device": "iPhone8,2",
           "issues": "",
           "date": "2019-03-18T18:38:53Z",
           "userName": "Dave1482",
           "issueNumber": 78938,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,2",
+          "issues": "Working now. It was broken earlier may be due to some dependency/ unc0ver. Most of my apps work except VLC still not working 100%",
+          "date": "2019-03-21T03:18:13Z",
+          "userName": "anonypublic",
+          "issueNumber": 79632,
           "arch32": false
         }
       ]
