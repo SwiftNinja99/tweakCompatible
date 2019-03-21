@@ -71,7 +71,7 @@
     {
       "id": "libactivator",
       "name": "Activator",
-      "latest": "1.9.13~beta4",
+      "latest": "1.9.12",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/libactivator/",
       "shortDescription": "Centralized gestures, button and shortcut management for iOS",
@@ -1051,7 +1051,7 @@
     {
       "id": "apt7",
       "name": "APT 0.7 Strict",
-      "latest": "1.7.2",
+      "latest": "0-2",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/apt7/",
       "shortDescription": "the advanced packaging tool from Debian",
@@ -3829,7 +3829,7 @@
     {
       "id": "com.r333d.eqe",
       "name": "EQE",
-      "latest": "2.0.10~beta",
+      "latest": "2.0.9",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.r333d.eqe/",
       "shortDescription": "System-wide parametric equalizer",
@@ -5174,10 +5174,10 @@
     {
       "id": "com.fidele007.hotdog",
       "name": "HotDog",
-      "latest": "3.3.3-1085+debug",
+      "latest": "3.3.2",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.fidele007.hotdog/",
-      "shortDescription": "A cool tweak to customize your iOS experience.",
+      "shortDescription": "customize lockscreen labels & carrier name",
       "category": "Tweaks",
       "author": "fidele007",
       "commercial": false,
@@ -5503,7 +5503,7 @@
     {
       "id": "com.thireus.untrustedhostsblocker9",
       "name": "iOS 9/10 - Untrusted Hosts Blocker",
-      "latest": "1.5.7",
+      "latest": "1.5.9",
       "repository": "Thireus Repository",
       "url": "http://repo.thireus.com",
       "shortDescription": "Say goodbye to tracking, spies, intrusive ads and untrusted hosts.\r",
@@ -7876,6 +7876,40 @@
             "arch32": {
               "total": 2,
               "good": 2,
+              "bad": 0,
+              "percentage": 100,
+              "calculatedStatus": "Working"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.yaypixxo.roundedpagedots",
+      "name": "RoundedPageDots",
+      "latest": "1.0.0",
+      "repository": "Pix' Repo",
+      "url": "http://cydia.saurik.com/package/com.yaypixxo.roundedpagedots/",
+      "shortDescription": "square with rounded corners page dots lol",
+      "category": "Tweaks",
+      "author": "YaYPIXXO",
+      "commercial": false,
+      "date": "2019-03-21T18:14:22Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0.0",
+          "iOSVersion": "9.3.5",
+          "repository": "Pix' Repo",
+          "date": "2019-03-21T18:12:23Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 1,
+              "good": 1,
               "bad": 0,
               "percentage": 100,
               "calculatedStatus": "Working"
