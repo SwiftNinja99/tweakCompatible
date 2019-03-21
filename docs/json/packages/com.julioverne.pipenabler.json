@@ -283,10 +283,10 @@
       "date": "2019-02-23T03:53:54Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 66,
+        "percentage": 57,
         "good": 4,
         "bad": 0,
-        "total": 6,
+        "total": 7,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -348,6 +348,15 @@
           "date": "2019-03-18T22:55:03Z",
           "userName": "yonigold1",
           "issueNumber": 78991,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,3",
+          "issues": "Causes respring loop (not boot loop btw)",
+          "date": "2019-03-21T03:47:03Z",
+          "userName": "sluguy",
+          "issueNumber": 79639,
           "arch32": false
         }
       ]
