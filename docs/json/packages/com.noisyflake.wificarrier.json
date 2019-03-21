@@ -1,7 +1,7 @@
 {
   "id": "com.noisyflake.wificarrier",
   "name": "WiFiCarrier",
-  "latest": "1.1.0",
+  "latest": "1.0.1",
   "repository": "NoisyFlake",
   "url": "http://cydia.saurik.com/package/com.noisyflake.wificarrier/",
   "shortDescription": "Display the WiFi SSID as Carrier",
@@ -127,11 +127,11 @@
       "repository": "NoisyFlake",
       "date": "2019-03-19T14:00:06Z",
       "outcome": {
-        "calculatedStatus": "Likely working",
-        "percentage": 75,
-        "good": 3,
+        "calculatedStatus": "Working",
+        "percentage": 80,
+        "good": 4,
         "bad": 0,
-        "total": 4,
+        "total": 5,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -175,6 +175,15 @@
           "date": "2019-03-19T23:32:20Z",
           "userName": "Jmancill1",
           "issueNumber": 79327,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2019-03-20T23:33:09Z",
+          "userName": "tomaszpoliszuk",
+          "issueNumber": 79586,
           "arch32": false
         }
       ]
