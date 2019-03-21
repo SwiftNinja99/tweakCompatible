@@ -265,11 +265,11 @@
       "repository": "shiftcmdk",
       "date": "2019-02-23T17:27:36Z",
       "outcome": {
-        "calculatedStatus": "Likely working",
-        "percentage": 41,
+        "calculatedStatus": "Not working",
+        "percentage": 38,
         "good": 5,
         "bad": 0,
-        "total": 12,
+        "total": 13,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -385,6 +385,15 @@
           "date": "2019-03-11T01:28:08Z",
           "userName": "viniciusnrc",
           "issueNumber": 76179,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,6",
+          "issues": "Crashes as soon as it loads in. On ipx 12.1.1",
+          "date": "2019-03-21T02:45:57Z",
+          "userName": "hazysimmers13",
+          "issueNumber": 79621,
           "arch32": false
         }
       ]
