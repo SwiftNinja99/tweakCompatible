@@ -435,11 +435,11 @@
       "repository": "BigBoss",
       "date": "2019-02-23T06:25:36Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 100,
+        "calculatedStatus": "Likely working",
+        "percentage": 66,
         "good": 2,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -465,6 +465,15 @@
           "date": "2019-02-23T06:51:45Z",
           "userName": "Halambo",
           "issueNumber": 61249,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,6",
+          "issues": "Causes safe mode",
+          "date": "2019-03-21T23:27:26Z",
+          "userName": "Dziqus",
+          "issueNumber": 79845,
           "arch32": false
         }
       ]
