@@ -643,11 +643,11 @@
       "repository": "BigBoss",
       "date": "2019-02-23T00:56:35Z",
       "outcome": {
-        "calculatedStatus": "Not working",
-        "percentage": 40,
-        "good": 2,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
+        "good": 3,
         "bad": 0,
-        "total": 5,
+        "total": 6,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -700,6 +700,15 @@
           "date": "2019-03-17T20:45:35Z",
           "userName": "cydiareviews",
           "issueNumber": 78563,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,4",
+          "issues": "Works perfectly fine for me on iOS 12.1.1",
+          "date": "2019-03-22T16:14:16Z",
+          "userName": "DT2808",
+          "issueNumber": 79969,
           "arch32": false
         }
       ]
