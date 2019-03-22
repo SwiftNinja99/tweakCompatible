@@ -16,9 +16,9 @@
       "repository": "Packix",
       "date": "2019-03-21T06:42:17Z",
       "outcome": {
-        "calculatedStatus": "Not working",
-        "percentage": 33,
-        "good": 2,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
+        "good": 3,
         "bad": 0,
         "total": 6,
         "arch32": {
@@ -37,15 +37,6 @@
           "date": "2019-03-21T06:42:17Z",
           "userName": "burninggundam16",
           "issueNumber": 79665,
-          "arch32": false
-        },
-        {
-          "status": "not working",
-          "device": "iPhone7,1",
-          "issues": "",
-          "date": "2019-03-21T07:34:02Z",
-          "userName": "metoonhathung",
-          "issueNumber": 79672,
           "arch32": false
         },
         {
@@ -82,6 +73,15 @@
           "date": "2019-03-22T00:04:32Z",
           "userName": "butikiller",
           "issueNumber": 79850,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone7,1",
+          "issues": "Working but not with Neptune",
+          "date": "2019-03-22T07:56:20Z",
+          "userName": "metoonhathung",
+          "issueNumber": 79889,
           "arch32": false
         }
       ]
