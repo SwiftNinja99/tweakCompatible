@@ -347,10 +347,10 @@
       "date": "2019-02-23T02:47:27Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 50,
-        "good": 1,
+        "percentage": 66,
+        "good": 2,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -376,6 +376,15 @@
           "date": "2019-03-13T09:43:00Z",
           "userName": "j8f7",
           "issueNumber": 77040,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "",
+          "date": "2019-03-22T03:06:15Z",
+          "userName": "ethanm10",
+          "issueNumber": 79863,
           "arch32": false
         }
       ]
