@@ -200,10 +200,10 @@
       "date": "2019-02-23T11:11:44Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 75,
+        "percentage": 60,
         "good": 3,
         "bad": 0,
-        "total": 4,
+        "total": 5,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -247,6 +247,15 @@
           "date": "2019-03-18T19:06:22Z",
           "userName": "mohitt01p",
           "issueNumber": 78949,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone9,4",
+          "issues": "",
+          "date": "2019-03-22T19:30:05Z",
+          "userName": "xCroosx",
+          "issueNumber": 80002,
           "arch32": false
         }
       ]
