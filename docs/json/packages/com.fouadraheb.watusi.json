@@ -5746,11 +5746,11 @@
       "repository": "Fouad's Repo",
       "date": "2019-03-22T15:36:55Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 100,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
         "good": 1,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -5767,6 +5767,15 @@
           "date": "2019-03-22T15:36:55Z",
           "userName": "p-mensch",
           "issueNumber": 79961,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,6",
+          "issues": "Watusi 2 version 1.1.10 crashed me into safe mode after having a very long black screen with loading circle",
+          "date": "2019-03-22T19:55:41Z",
+          "userName": "Youriinho",
+          "issueNumber": 80004,
           "arch32": false
         }
       ]
