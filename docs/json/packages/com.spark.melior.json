@@ -1072,10 +1072,10 @@
       "date": "2019-02-23T05:48:11Z",
       "outcome": {
         "calculatedStatus": "Working",
-        "percentage": 80,
-        "good": 4,
+        "percentage": 83,
+        "good": 5,
         "bad": 0,
-        "total": 5,
+        "total": 6,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1128,6 +1128,15 @@
           "date": "2019-03-08T00:46:56Z",
           "userName": "GusToughSon",
           "issueNumber": 74648,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone7,2",
+          "issues": "when long pressing volume buttons tweak prevents volume change forcing to press the button repeatedly.  ",
+          "date": "2019-03-22T15:58:11Z",
+          "userName": "aaliymn",
+          "issueNumber": 79968,
           "arch32": false
         }
       ]
