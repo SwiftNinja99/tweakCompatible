@@ -298,9 +298,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 1,
+        "good": 2,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -317,6 +317,15 @@
           "date": "2019-03-17T07:45:44Z",
           "userName": "Muranx",
           "issueNumber": 78304,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone6,1",
+          "issues": "Installs fine and is stable but doesn’t seem to wanna change any colours on my lock screen.",
+          "date": "2019-03-22T23:28:52Z",
+          "userName": "veteranatgames2",
+          "issueNumber": 80020,
           "arch32": false
         }
       ]
