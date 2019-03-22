@@ -1051,7 +1051,7 @@
     {
       "id": "apt7",
       "name": "APT 0.7 Strict",
-      "latest": "0-2",
+      "latest": "0.7.25.3-9",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/apt7/",
       "shortDescription": "the advanced packaging tool from Debian",
@@ -1085,7 +1085,7 @@
     {
       "id": "apt7-lib",
       "name": "APT 0.7 Strict (lib)",
-      "latest": "1.7.2-sileo2",
+      "latest": "0.7.25.3-16",
       "repository": "Electra's iOS Utilities",
       "url": "http://cydia.saurik.com/package/apt7-lib/",
       "shortDescription": "the advanced packaging library from Debian",
@@ -2080,7 +2080,7 @@
     {
       "id": "com.bytafont.bytafont3",
       "name": "BytaFont 3",
-      "latest": "3.5",
+      "latest": "3.2",
       "repository": "ModMyi (Archive)",
       "url": "http://cydia.saurik.com/package/com.bytafont.bytafont3/",
       "shortDescription": "BytaFont 3 lets you apply fonts to your iDevice in few taps.",
@@ -3190,7 +3190,7 @@
     {
       "id": "mobilesubstrate",
       "name": "Cydia Substrate",
-      "latest": "0.9.7032",
+      "latest": "0.9.7020",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/mobilesubstrate/",
       "shortDescription": "powerful code insertion platform",
@@ -4233,7 +4233,7 @@
     {
       "id": "com.tigisoftware.filza",
       "name": "Filza File Manager",
-      "latest": "3.6.5-12",
+      "latest": "3.6.4",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.tigisoftware.filza/",
       "shortDescription": "File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+",
@@ -6906,7 +6906,7 @@
     {
       "id": "openssh",
       "name": "OpenSSH",
-      "latest": "7.9p1-3",
+      "latest": "6.7p1-13",
       "repository": "Electra's iOS Utilities",
       "url": "http://cydia.saurik.com/package/openssh/",
       "shortDescription": "secure remote access between machines",
@@ -8257,6 +8257,40 @@
       ]
     },
     {
+      "id": "jp.r-plus.slidecut",
+      "name": "SlideCut",
+      "latest": "0.4",
+      "repository": "apt.thebigboss.org",
+      "url": "http://cydia.saurik.com/package/jp.r-plus.slidecut/",
+      "shortDescription": "Slide shortcut via space key.",
+      "category": "Tweaks",
+      "author": "r_plus",
+      "commercial": false,
+      "date": "2018-03-03T13:32:57Z",
+      "versions": [
+        {
+          "tweakVersion": "0.4",
+          "iOSVersion": "9.3.5",
+          "repository": "BigBoss",
+          "date": "2019-03-22T16:36:24Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 1,
+              "good": 1,
+              "bad": 0,
+              "percentage": 100,
+              "calculatedStatus": "Working"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.cabralcole.slidetorespring",
       "name": "SlideToRespring",
       "latest": "1.0-7",
@@ -9480,7 +9514,7 @@
     {
       "id": "unzip",
       "name": "unzip",
-      "latest": "6.0-1",
+      "latest": "5.52-6",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/unzip/",
       "shortDescription": "de-compesses files in zip format",
@@ -9815,7 +9849,7 @@
     {
       "id": "zip",
       "name": "zip",
-      "latest": "2.32-1",
+      "latest": "2.32-6",
       "repository": "Electra's iOS Utilities",
       "url": "http://cydia.saurik.com/package/zip/",
       "shortDescription": "standard Windows compression tool",
