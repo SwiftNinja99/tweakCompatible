@@ -270,11 +270,11 @@
       "repository": "Packix",
       "date": "2019-03-23T20:47:06Z",
       "outcome": {
-        "calculatedStatus": "Likely working",
-        "percentage": 50,
+        "calculatedStatus": "Not working",
+        "percentage": 33,
         "good": 1,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -300,6 +300,15 @@
           "date": "2019-03-23T20:45:42Z",
           "userName": "Se7Touch",
           "issueNumber": 80261,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,5",
+          "issues": "Safemode",
+          "date": "2019-03-23T22:12:10Z",
+          "userName": "Fenasii",
+          "issueNumber": 80272,
           "arch32": false
         }
       ]
