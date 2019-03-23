@@ -951,11 +951,11 @@
       "repository": "Chariz",
       "date": "2019-02-25T01:10:01Z",
       "outcome": {
-        "calculatedStatus": "Not working",
-        "percentage": 40,
-        "good": 2,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
+        "good": 3,
         "bad": 0,
-        "total": 5,
+        "total": 6,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1008,6 +1008,15 @@
           "date": "2019-03-06T05:28:20Z",
           "userName": "jacksonchui",
           "issueNumber": 73585,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2019-03-23T16:47:54Z",
+          "userName": "andrearug",
+          "issueNumber": 80199,
           "arch32": false
         }
       ]
