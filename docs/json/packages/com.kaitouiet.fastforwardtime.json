@@ -1,10 +1,10 @@
 {
   "id": "com.kaitouiet.fastforwardtime",
   "name": "FastForwardTime",
-  "latest": "1.0.2",
+  "latest": "2.0.1",
   "repository": "iDevice Hacked Repo",
   "url": "http://cydia.saurik.com/package/com.kaitouiet.fastforwardtime/",
-  "shortDescription": "Adds seconds to your lockscreen clock!",
+  "shortDescription": "Adds seconds to your lockscreen clock, change font size of time and date, and moves them!",
   "category": "Tweaks",
   "author": "Kiet Ha",
   "commercial": false,
@@ -947,6 +947,37 @@
           "date": "2019-03-13T00:48:28Z",
           "userName": "Nano0k",
           "issueNumber": 76924,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0.1",
+      "iOSVersion": "12.0",
+      "repository": "BigBoss",
+      "date": "2019-03-23T22:20:06Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "will not work correctly with Twig. Works with other lockscreen tweaks after some adjusting. MVClock11 helps.",
+          "date": "2019-03-23T22:20:06Z",
+          "userName": "CandiMan8",
+          "issueNumber": 80278,
           "arch32": false
         }
       ]
