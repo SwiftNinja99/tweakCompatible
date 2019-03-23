@@ -649,11 +649,11 @@
       "repository": "tateu's repo",
       "date": "2019-02-23T02:46:20Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 80,
+        "calculatedStatus": "Likely working",
+        "percentage": 66,
         "good": 4,
         "bad": 0,
-        "total": 5,
+        "total": 6,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -706,6 +706,15 @@
           "date": "2019-03-13T12:55:49Z",
           "userName": "813Samauarai",
           "issueNumber": 77086,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone8,2",
+          "issues": "Presss home not dímiss call",
+          "date": "2019-03-23T05:02:02Z",
+          "userName": "Ljfe",
+          "issueNumber": 80066,
           "arch32": false
         }
       ]
