@@ -158,11 +158,11 @@
       "repository": "Packix",
       "date": "2019-02-24T02:06:10Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 100,
+        "calculatedStatus": "Likely working",
+        "percentage": 75,
         "good": 3,
         "bad": 0,
-        "total": 3,
+        "total": 4,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -197,6 +197,15 @@
           "date": "2019-03-08T12:47:44Z",
           "userName": "exelsis",
           "issueNumber": 74860,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,3",
+          "issues": "Cause respring loops  while jailbreaking on ios 12",
+          "date": "2019-03-23T17:12:56Z",
+          "userName": "ghostenigmaxx",
+          "issueNumber": 80208,
           "arch32": false
         }
       ]
