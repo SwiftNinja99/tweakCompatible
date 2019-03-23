@@ -1,10 +1,10 @@
 {
   "id": "com.hackingdartmouth.shiftcycle",
   "name": "ShiftCycle",
-  "latest": "1.3.2-1",
+  "latest": "1.3.0",
   "repository": "BigBoss",
   "url": "http://cydia.saurik.com/package/com.hackingdartmouth.shiftcycle/",
-  "shortDescription": "Allows you to cycle a selection through uppercase, lowercase, and more with the Shift key.",
+  "shortDescription": "change selected text case using Shift key",
   "category": "Tweaks",
   "author": "Alex Beals",
   "commercial": false,
@@ -466,11 +466,11 @@
       "repository": "BigBoss",
       "date": "2019-02-27T00:06:47Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 100,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
         "good": 1,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -487,6 +487,15 @@
           "date": "2019-02-27T00:06:47Z",
           "userName": "reissumies",
           "issueNumber": 68141,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone9,1",
+          "issues": "Causes respring loop",
+          "date": "2019-03-23T22:51:05Z",
+          "userName": "Huusoku",
+          "issueNumber": 80289,
           "arch32": false
         }
       ]
