@@ -1323,43 +1323,9 @@
       ]
     },
     {
-      "id": "com.repo.xarold.com.uaupdatetools",
-      "name": "App Admin",
-      "latest": "1.0r-101",
-      "repository": "(null)",
-      "url": "http://cydia.saurik.com/package/com.repo.xarold.com.uaupdatetools/",
-      "shortDescription": "Downgrade iOS apps to any previous version! No AppSync needed!!!",
-      "category": "System",
-      "author": "UnlimApps Inc.",
-      "commercial": false,
-      "date": "2019-02-23T01:40:48Z",
-      "versions": [
-        {
-          "tweakVersion": "1.0r-101",
-          "iOSVersion": "11.4.1",
-          "repository": "(null)",
-          "date": "2019-02-23T01:40:48Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.unlimapps.uaupdatetools",
       "name": "App Admin",
-      "latest": "1.0r-101",
+      "latest": "1.0r-92",
       "repository": "beta.unlimapps.com",
       "url": "https://beta.unlimapps.com/",
       "shortDescription": "Downgrade iOS apps to any previous version! No AppSync needed!!!",
@@ -1398,6 +1364,40 @@
             "good": 0,
             "bad": 0,
             "total": 3,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.repo.xarold.com.uaupdatetools",
+      "name": "App Admin",
+      "latest": "1.0r-101",
+      "repository": "(null)",
+      "url": "http://cydia.saurik.com/package/com.repo.xarold.com.uaupdatetools/",
+      "shortDescription": "Downgrade iOS apps to any previous version! No AppSync needed!!!",
+      "category": "System",
+      "author": "UnlimApps Inc.",
+      "commercial": false,
+      "date": "2019-02-23T01:40:48Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0r-101",
+          "iOSVersion": "11.4.1",
+          "repository": "(null)",
+          "date": "2019-02-23T01:40:48Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -1953,6 +1953,40 @@
       ]
     },
     {
+      "id": "iloveapple.appsyncunified",
+      "name": "AppSync Unified",
+      "latest": "31.1",
+      "repository": "I  Apple",
+      "url": "http://cydia.saurik.com/package/iloveapple.appsyncunified/",
+      "shortDescription": "لعمل باتشش للجهاز لتستطيع تنزيل البرامج والألعاب المكركة يعمل 100% دون مشاكل",
+      "category": "i-Tweaks",
+      "author": "Support@ilove-apple.com",
+      "commercial": false,
+      "date": "2019-02-16T23:02:13Z",
+      "versions": [
+        {
+          "tweakVersion": "31.1",
+          "iOSVersion": "11.4.1",
+          "repository": "I  Apple",
+          "date": "2019-02-16T23:02:13Z",
+          "outcome": {
+            "calculatedStatus": "Not working",
+            "percentage": 0,
+            "good": 0,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "net.angelxwind.appsyncunified",
       "name": "AppSync Unified",
       "latest": "32.0",
@@ -1992,40 +2026,6 @@
             "calculatedStatus": "Working",
             "percentage": 100,
             "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "iloveapple.appsyncunified",
-      "name": "AppSync Unified",
-      "latest": "31.1",
-      "repository": "I  Apple",
-      "url": "http://cydia.saurik.com/package/iloveapple.appsyncunified/",
-      "shortDescription": "لعمل باتشش للجهاز لتستطيع تنزيل البرامج والألعاب المكركة يعمل 100% دون مشاكل",
-      "category": "i-Tweaks",
-      "author": "Support@ilove-apple.com",
-      "commercial": false,
-      "date": "2019-02-16T23:02:13Z",
-      "versions": [
-        {
-          "tweakVersion": "31.1",
-          "iOSVersion": "11.4.1",
-          "repository": "I  Apple",
-          "date": "2019-02-16T23:02:13Z",
-          "outcome": {
-            "calculatedStatus": "Not working",
-            "percentage": 0,
-            "good": 0,
             "bad": 0,
             "total": 1,
             "arch32": {
@@ -3835,7 +3835,7 @@
     {
       "id": "com.shiftcmdk.betterreachability",
       "name": "BetterReachability",
-      "latest": "0.1",
+      "latest": "0.2",
       "repository": "shiftcmdk",
       "url": "http://cydia.saurik.com/package/com.shiftcmdk.betterreachability/",
       "shortDescription": "Make Reachability more useful by scaling down the interface.",
@@ -4380,40 +4380,6 @@
       ]
     },
     {
-      "id": "com.xcxiao.bottomcontrolx",
-      "name": "BottomControlX",
-      "latest": "1.1.1",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/com.xcxiao.bottomcontrolx/",
-      "shortDescription": "Easier access to your ControlCenter on iPhone X.",
-      "category": "Tweaks",
-      "author": "XCXiao",
-      "commercial": false,
-      "date": "2018-04-30T14:53:10Z",
-      "versions": [
-        {
-          "tweakVersion": "1.1.0",
-          "iOSVersion": "11.4.1",
-          "repository": "BigBoss",
-          "date": "2019-02-10T08:45:53Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 2,
-            "bad": 0,
-            "total": 2,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.yourepo.dizzy.bottomcontrolx",
       "name": "BottomControlX",
       "latest": "0.0.1.1.1.4",
@@ -4436,6 +4402,40 @@
             "good": 1,
             "bad": 0,
             "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.xcxiao.bottomcontrolx",
+      "name": "BottomControlX",
+      "latest": "1.1.1",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.xcxiao.bottomcontrolx/",
+      "shortDescription": "Easier access to your ControlCenter on iPhone X.",
+      "category": "Tweaks",
+      "author": "XCXiao",
+      "commercial": false,
+      "date": "2018-04-30T14:53:10Z",
+      "versions": [
+        {
+          "tweakVersion": "1.1.0",
+          "iOSVersion": "11.4.1",
+          "repository": "BigBoss",
+          "date": "2019-02-10T08:45:53Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 2,
+            "bad": 0,
+            "total": 2,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -10028,6 +10028,40 @@
             "good": 2,
             "bad": 0,
             "total": 2,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.ihelpiphone.downloadtime",
+      "name": "DownloadTime",
+      "latest": "1.0",
+      "repository": "ModMyi (Archive)",
+      "url": "http://cydia.saurik.com/package/com.ihelpiphone.downloadtime/",
+      "shortDescription": "DownloadTime allows you to calculate the estimate time it will take to download a file! Simply enter the size of the file, and DownloadTime will display the amount of time it will take depending on the speed of your network.",
+      "category": "Utilities",
+      "author": "Stephen Smith",
+      "commercial": false,
+      "date": "2019-03-23T17:08:58Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0",
+          "iOSVersion": "11.4.1",
+          "repository": "ModMyi (Archive)",
+          "date": "2019-03-23T17:08:58Z",
+          "outcome": {
+            "calculatedStatus": "Not working",
+            "percentage": 0,
+            "good": 0,
+            "bad": 0,
+            "total": 1,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -16381,7 +16415,7 @@
     {
       "id": "com.ps.letmeblock",
       "name": "LetMeBlock",
-      "latest": "0.0.6.1",
+      "latest": "0.0.6.2",
       "repository": "PoomSmart's Repo",
       "url": "http://cydia.saurik.com/package/com.ps.letmeblock/",
       "shortDescription": "Make mDNSResponder care more about /etc/hosts",
@@ -20457,22 +20491,22 @@
       ]
     },
     {
-      "id": "com.adamseiter.nolargetitles",
+      "id": "org.coolstar.nolargetitles",
       "name": "NoLargeTitles",
-      "latest": "1.1",
-      "repository": "SEITERSEITER's Repo",
-      "url": "http://cydia.saurik.com/package/com.adamseiter.nolargetitles/",
-      "shortDescription": "Removes ugly large titles from apps.",
+      "latest": "1.0-1",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/org.coolstar.nolargetitles/",
+      "shortDescription": "Remove the large titles system-wide on iOS 11",
       "category": "Tweaks",
-      "author": "Adam Seiter",
+      "author": "CoolStar",
       "commercial": false,
-      "date": "2018-03-01T19:59:25Z",
+      "date": "2018-03-08T05:57:18Z",
       "versions": [
         {
-          "tweakVersion": "1.1",
+          "tweakVersion": "1.0-1",
           "iOSVersion": "11.4.1",
-          "repository": "eXqusic's Repo",
-          "date": "2019-02-23T16:30:08Z",
+          "repository": "BigBoss",
+          "date": "2019-02-05T23:26:47Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -20491,22 +20525,22 @@
       ]
     },
     {
-      "id": "org.coolstar.nolargetitles",
+      "id": "com.adamseiter.nolargetitles",
       "name": "NoLargeTitles",
-      "latest": "1.0-1",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/org.coolstar.nolargetitles/",
-      "shortDescription": "Remove the large titles system-wide on iOS 11",
+      "latest": "1.1",
+      "repository": "SEITERSEITER's Repo",
+      "url": "http://cydia.saurik.com/package/com.adamseiter.nolargetitles/",
+      "shortDescription": "Removes ugly large titles from apps.",
       "category": "Tweaks",
-      "author": "CoolStar",
+      "author": "Adam Seiter",
       "commercial": false,
-      "date": "2018-03-08T05:57:18Z",
+      "date": "2018-03-01T19:59:25Z",
       "versions": [
         {
-          "tweakVersion": "1.0-1",
+          "tweakVersion": "1.1",
           "iOSVersion": "11.4.1",
-          "repository": "BigBoss",
-          "date": "2019-02-05T23:26:47Z",
+          "repository": "eXqusic's Repo",
+          "date": "2019-02-23T16:30:08Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -26554,7 +26588,7 @@
     {
       "id": "com.rishanan.springplus11",
       "name": "SpringPlus11",
-      "latest": "1.1.1",
+      "latest": "1.2",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.rishanan.springplus11/",
       "shortDescription": "Internal settings unlocked for ios 11.",
@@ -28971,6 +29005,40 @@
       ]
     },
     {
+      "id": "com.yourepo.dizzy.twitterdarkmode",
+      "name": "TwitterDarkMode",
+      "latest": "1.0.2.1",
+      "repository": "Dizzy Source",
+      "url": "http://cydia.saurik.com/package/com.yourepo.dizzy.twitterdarkmode/",
+      "shortDescription": "Twitter  -  Dark  -   mode",
+      "category": "Tweaks",
+      "author": "Dizzy",
+      "commercial": false,
+      "date": "2019-03-23T15:25:26Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0.2.1",
+          "iOSVersion": "11.4.1",
+          "repository": "Dizzy Source",
+          "date": "2019-03-23T15:25:26Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.quackdev.twitterdarkmode",
       "name": "TwitterDarkMode",
       "latest": "1.0.2-1",
@@ -29007,40 +29075,6 @@
           "iOSVersion": "11.4.1",
           "repository": "Packix",
           "date": "2019-02-23T08:19:48Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "com.yourepo.dizzy.twitterdarkmode",
-      "name": "TwitterDarkMode",
-      "latest": "1.0.2.1",
-      "repository": "Dizzy Source",
-      "url": "http://cydia.saurik.com/package/com.yourepo.dizzy.twitterdarkmode/",
-      "shortDescription": "Twitter  -  Dark  -   mode",
-      "category": "Tweaks",
-      "author": "Dizzy",
-      "commercial": false,
-      "date": "2019-03-23T15:25:26Z",
-      "versions": [
-        {
-          "tweakVersion": "1.0.2.1",
-          "iOSVersion": "11.4.1",
-          "repository": "Dizzy Source",
-          "date": "2019-03-23T15:25:26Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -30906,7 +30940,7 @@
     {
       "id": "com.junesiphone.xeninfo",
       "name": "XenInfo",
-      "latest": "2.0.9",
+      "latest": "2.1",
       "repository": "junesiphone.com",
       "url": "http://cydia.saurik.com/package/com.junesiphone.xeninfo/",
       "shortDescription": "Music, Weather, and battery info for XenHTML",
