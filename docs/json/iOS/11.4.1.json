@@ -3646,6 +3646,40 @@
       ]
     },
     {
+      "id": "com.yourepo.dizzy.betterccx",
+      "name": "BetterCCXI",
+      "latest": "1.4.8",
+      "repository": "Dizzy Source",
+      "url": "http://cydia.saurik.com/package/com.yourepo.dizzy.betterccx/",
+      "shortDescription": "Enhance your control center on iOS 11 and iOS 12",
+      "category": "Tweaks",
+      "author": "Dizzy",
+      "commercial": false,
+      "date": "2019-03-22T13:56:01Z",
+      "versions": [
+        {
+          "tweakVersion": "1.4.8",
+          "iOSVersion": "11.4.1",
+          "repository": "Dizzy Source",
+          "date": "2019-03-22T13:56:01Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.atwiiks.betterccxi",
       "name": "BetterCCXI",
       "latest": "1.4.8",
@@ -3682,40 +3716,6 @@
           "iOSVersion": "11.4.1",
           "repository": "Packix",
           "date": "2019-02-03T23:05:18Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "com.yourepo.dizzy.betterccx",
-      "name": "BetterCCXI",
-      "latest": "1.4.8",
-      "repository": "Dizzy Source",
-      "url": "http://cydia.saurik.com/package/com.yourepo.dizzy.betterccx/",
-      "shortDescription": "Enhance your control center on iOS 11 and iOS 12",
-      "category": "Tweaks",
-      "author": "Dizzy",
-      "commercial": false,
-      "date": "2019-03-22T13:56:01Z",
-      "versions": [
-        {
-          "tweakVersion": "1.4.8",
-          "iOSVersion": "11.4.1",
-          "repository": "Dizzy Source",
-          "date": "2019-03-22T13:56:01Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -15271,10 +15271,10 @@
     {
       "id": "com.thireus.untrustedhostsblocker9",
       "name": "iOS 9/10 - Untrusted Hosts Blocker",
-      "latest": "1.5.9",
+      "latest": "1.6.1",
       "repository": "Thireus Repository",
       "url": "http://repo.thireus.com",
-      "shortDescription": "Say goodbye to tracking, spies, intrusive ads and untrusted hosts.\r",
+      "shortDescription": "Say goodbye to tracking, spies, intrusive ads and untrusted hosts. PLEASE READ THE TWEAK DESCRIPTION PAGE!\r",
       "category": "Security",
       "author": "Thireus",
       "commercial": false,
@@ -15324,6 +15324,26 @@
           "iOSVersion": "11.4.1",
           "repository": "Thireus Repository",
           "date": "2019-03-22T23:44:18Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        },
+        {
+          "tweakVersion": "1.6.1",
+          "iOSVersion": "11.4.1",
+          "repository": "repo.thireus.com",
+          "date": "2019-03-23T17:43:33Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -19653,22 +19673,22 @@
       ]
     },
     {
-      "id": "ncurses5-libs",
+      "id": "ncurses",
       "name": "New Curses",
-      "latest": "5.9-1",
-      "repository": "Bingner/Elucubratus",
-      "url": "http://cydia.saurik.com/package/ncurses5-libs/",
+      "latest": "6.1-1",
+      "repository": "Electra's iOS Utilities",
+      "url": "http://cydia.saurik.com/package/ncurses/",
       "shortDescription": "feature-complete terminal library",
       "category": "System",
       "author": "(null)",
       "commercial": false,
-      "date": "2018-10-14T00:25:17Z",
+      "date": "2018-03-04T19:02:12Z",
       "versions": [
         {
-          "tweakVersion": "5.9-1",
+          "tweakVersion": "6.1-1",
           "iOSVersion": "11.4.1",
           "repository": "Bingner/Elucubratus",
-          "date": "2019-02-02T20:11:09Z",
+          "date": "2019-02-02T20:10:59Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -19687,22 +19707,22 @@
       ]
     },
     {
-      "id": "ncurses",
+      "id": "ncurses5-libs",
       "name": "New Curses",
-      "latest": "6.1-1",
-      "repository": "Electra's iOS Utilities",
-      "url": "http://cydia.saurik.com/package/ncurses/",
+      "latest": "5.9-1",
+      "repository": "Bingner/Elucubratus",
+      "url": "http://cydia.saurik.com/package/ncurses5-libs/",
       "shortDescription": "feature-complete terminal library",
       "category": "System",
       "author": "(null)",
       "commercial": false,
-      "date": "2018-03-04T19:02:12Z",
+      "date": "2018-10-14T00:25:17Z",
       "versions": [
         {
-          "tweakVersion": "6.1-1",
+          "tweakVersion": "5.9-1",
           "iOSVersion": "11.4.1",
           "repository": "Bingner/Elucubratus",
-          "date": "2019-02-02T20:10:59Z",
+          "date": "2019-02-02T20:11:09Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -29005,40 +29025,6 @@
       ]
     },
     {
-      "id": "com.yourepo.dizzy.twitterdarkmode",
-      "name": "TwitterDarkMode",
-      "latest": "1.0.2.1",
-      "repository": "Dizzy Source",
-      "url": "http://cydia.saurik.com/package/com.yourepo.dizzy.twitterdarkmode/",
-      "shortDescription": "Twitter  -  Dark  -   mode",
-      "category": "Tweaks",
-      "author": "Dizzy",
-      "commercial": false,
-      "date": "2019-03-23T15:25:26Z",
-      "versions": [
-        {
-          "tweakVersion": "1.0.2.1",
-          "iOSVersion": "11.4.1",
-          "repository": "Dizzy Source",
-          "date": "2019-03-23T15:25:26Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.quackdev.twitterdarkmode",
       "name": "TwitterDarkMode",
       "latest": "1.0.2-1",
@@ -29075,6 +29061,40 @@
           "iOSVersion": "11.4.1",
           "repository": "Packix",
           "date": "2019-02-23T08:19:48Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.yourepo.dizzy.twitterdarkmode",
+      "name": "TwitterDarkMode",
+      "latest": "1.0.2.1",
+      "repository": "Dizzy Source",
+      "url": "http://cydia.saurik.com/package/com.yourepo.dizzy.twitterdarkmode/",
+      "shortDescription": "Twitter  -  Dark  -   mode",
+      "category": "Tweaks",
+      "author": "Dizzy",
+      "commercial": false,
+      "date": "2019-03-23T15:25:26Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0.2.1",
+          "iOSVersion": "11.4.1",
+          "repository": "Dizzy Source",
+          "date": "2019-03-23T15:25:26Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -31012,6 +31032,40 @@
       ]
     },
     {
+      "id": "xz",
+      "name": "XZ Utils",
+      "latest": "5.2.4-4",
+      "repository": "Bingner/Elucubratus",
+      "url": "http://cydia.saurik.com/package/xz/",
+      "shortDescription": "slower, but better, compression algorithm",
+      "category": "Archiving",
+      "author": "(null)",
+      "commercial": false,
+      "date": "2018-10-24T08:16:57Z",
+      "versions": [
+        {
+          "tweakVersion": "5.2.4-4",
+          "iOSVersion": "11.4.1",
+          "repository": "Bingner/Elucubratus",
+          "date": "2019-02-02T20:10:31Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "lzma",
       "name": "XZ Utils",
       "latest": "4.32.7-2",
@@ -31048,40 +31102,6 @@
           "iOSVersion": "11.4.1",
           "repository": "Bingner/Elucubratus",
           "date": "2019-02-02T20:09:44Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "xz",
-      "name": "XZ Utils",
-      "latest": "5.2.4-4",
-      "repository": "Bingner/Elucubratus",
-      "url": "http://cydia.saurik.com/package/xz/",
-      "shortDescription": "slower, but better, compression algorithm",
-      "category": "Archiving",
-      "author": "(null)",
-      "commercial": false,
-      "date": "2018-10-24T08:16:57Z",
-      "versions": [
-        {
-          "tweakVersion": "5.2.4-4",
-          "iOSVersion": "11.4.1",
-          "repository": "Bingner/Elucubratus",
-          "date": "2019-02-02T20:10:31Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
