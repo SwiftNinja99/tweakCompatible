@@ -1,7 +1,7 @@
 {
   "id": "com.rishanan.springplus11",
   "name": "SpringPlus11",
-  "latest": "1.1.1",
+  "latest": "1.2",
   "repository": "BigBoss",
   "url": "http://cydia.saurik.com/package/com.rishanan.springplus11/",
   "shortDescription": "Internal settings unlocked for ios 11.",
@@ -1099,11 +1099,11 @@
       "repository": "BigBoss",
       "date": "2019-02-23T02:50:22Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 100,
+        "calculatedStatus": "Likely working",
+        "percentage": 66,
         "good": 2,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1129,6 +1129,15 @@
           "date": "2019-02-25T16:50:56Z",
           "userName": "WorlingHD",
           "issueNumber": 66605,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone9,3",
+          "issues": "",
+          "date": "2019-03-23T16:57:39Z",
+          "userName": "ofmenlik",
+          "issueNumber": 80204,
           "arch32": false
         }
       ]
