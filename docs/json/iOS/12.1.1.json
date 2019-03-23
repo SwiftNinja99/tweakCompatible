@@ -1367,7 +1367,7 @@
     {
       "id": "com.junesiphone.adjustnotifications",
       "name": "Adjust Notifications",
-      "latest": "1.4.2",
+      "latest": "1.5",
       "repository": "junesiphone.com",
       "url": "http://cydia.saurik.com/package/com.junesiphone.adjustnotifications/",
       "shortDescription": "Allows you to move LS notifications",
@@ -3646,7 +3646,7 @@
     {
       "id": "com.unlimapps.uaupdatetools",
       "name": "App Admin",
-      "latest": "1.0r-92",
+      "latest": "1.0r-101",
       "repository": "beta.unlimapps.com",
       "url": "https://beta.unlimapps.com/",
       "shortDescription": "Downgrade iOS apps to any previous version! No AppSync needed!!!",
@@ -25140,7 +25140,7 @@
     {
       "id": "com.ladshyam.dots",
       "name": "Dots",
-      "latest": "1.2.2",
+      "latest": "1.2.3",
       "repository": "iOS Creatix",
       "url": "http://cydia.saurik.com/package/com.ladshyam.dots/",
       "shortDescription": "Add notification dots to your OLED screen!",
@@ -33624,10 +33624,10 @@
     {
       "id": "com.wizage.gif2ani2",
       "name": "Gif2Ani V2",
-      "latest": "2.1",
+      "latest": "2.0~beta1",
       "repository": "Wizage's Repo",
       "url": "http://cydia.saurik.com/package/com.wizage.gif2ani2/",
-      "shortDescription": "iOS Respring animations from any gif you want! — Set any gif you would like as a respring logo. Convert existing springy packs and movies to gifs. Does not require anemone.",
+      "shortDescription": "iOS Respring animations from any gif you want",
       "category": "Tweaks",
       "author": "wizages",
       "commercial": false,
@@ -37828,22 +37828,22 @@
       ]
     },
     {
-      "id": "com.shiarahmed.icleanerpro",
+      "id": "com.repo.kenhtao.net.icleanerpro",
       "name": "iCleaner Pro",
-      "latest": "7.7.1",
-      "repository": "Shiar's Repo",
-      "url": "http://cydia.saurik.com/package/com.shiarahmed.icleanerpro/",
-      "shortDescription": "The first real iOS system cleaner & optimizer",
+      "latest": "7.7.2",
+      "repository": "Kênh Táo",
+      "url": "http://cydia.saurik.com/package/com.repo.kenhtao.net.icleanerpro/",
+      "shortDescription": "Phần mềm dọn dẹp và tối ưu hoá tốt nhất cho iOS.",
       "category": "Utilities",
       "author": "Ivano Bilenchi",
       "commercial": false,
-      "date": "2019-03-11T11:15:23Z",
+      "date": "2019-03-15T01:49:21Z",
       "versions": [
         {
-          "tweakVersion": "7.7.1",
+          "tweakVersion": "7.7.2",
           "iOSVersion": "12.1.1",
-          "repository": "Shiar's Repo",
-          "date": "2019-03-11T11:15:23Z",
+          "repository": "Kênh Táo",
+          "date": "2019-03-15T01:49:21Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -37862,22 +37862,22 @@
       ]
     },
     {
-      "id": "com.repo.kenhtao.net.icleanerpro",
+      "id": "com.shiarahmed.icleanerpro",
       "name": "iCleaner Pro",
-      "latest": "7.7.2",
-      "repository": "Kênh Táo",
-      "url": "http://cydia.saurik.com/package/com.repo.kenhtao.net.icleanerpro/",
-      "shortDescription": "Phần mềm dọn dẹp và tối ưu hoá tốt nhất cho iOS.",
+      "latest": "7.7.1",
+      "repository": "Shiar's Repo",
+      "url": "http://cydia.saurik.com/package/com.shiarahmed.icleanerpro/",
+      "shortDescription": "The first real iOS system cleaner & optimizer",
       "category": "Utilities",
       "author": "Ivano Bilenchi",
       "commercial": false,
-      "date": "2019-03-15T01:49:21Z",
+      "date": "2019-03-11T11:15:23Z",
       "versions": [
         {
-          "tweakVersion": "7.7.2",
+          "tweakVersion": "7.7.1",
           "iOSVersion": "12.1.1",
-          "repository": "Kênh Táo",
-          "date": "2019-03-15T01:49:21Z",
+          "repository": "Shiar's Repo",
+          "date": "2019-03-11T11:15:23Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -52635,6 +52635,26 @@
             "good": 3,
             "bad": 0,
             "total": 7,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        },
+        {
+          "tweakVersion": "0.0.5",
+          "iOSVersion": "12.1.1",
+          "repository": "Packix",
+          "date": "2019-03-23T20:47:06Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -77404,7 +77424,7 @@
     {
       "id": "xyz.xninja.systeminfo",
       "name": "System Info",
-      "latest": "2.2.0-19+debug",
+      "latest": "2.0.0-1",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/xyz.xninja.systeminfo/",
       "shortDescription": "System information in Settings app > General > About, and other sections. Set boot-nonce, save shsh, battery info etc",
@@ -80773,10 +80793,10 @@
     {
       "id": "com.unlimapps.twitterpp",
       "name": "Twitter ++",
-      "latest": "1.2r-82",
+      "latest": "1.2r-50",
       "repository": "beta.unlimapps.com",
       "url": "http://beta.unlimapps.com/",
-      "shortDescription": "The Twitter tweak that give you more sharing options, long tweets and much more!",
+      "shortDescription": "sharing options, long tweets and much more!",
       "category": "Tweaks",
       "author": "UnlimApps Inc",
       "commercial": false,
