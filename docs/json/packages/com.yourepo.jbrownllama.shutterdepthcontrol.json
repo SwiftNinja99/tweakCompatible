@@ -119,10 +119,10 @@
       "date": "2019-03-06T16:55:28Z",
       "outcome": {
         "calculatedStatus": "Not working",
-        "percentage": 0,
-        "good": 0,
+        "percentage": 33,
+        "good": 1,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -148,6 +148,15 @@
           "date": "2019-03-10T06:19:24Z",
           "userName": "alex95sv",
           "issueNumber": 75767,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "After few resprings (while enabling and disabling tweak in settings and closing camera app) tweak is working properly.",
+          "date": "2019-03-23T13:44:18Z",
+          "userName": "marcinleft",
+          "issueNumber": 80140,
           "arch32": false
         }
       ]
