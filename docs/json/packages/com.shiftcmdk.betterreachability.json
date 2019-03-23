@@ -1,7 +1,7 @@
 {
   "id": "com.shiftcmdk.betterreachability",
   "name": "BetterReachability",
-  "latest": "0.1",
+  "latest": "0.2",
   "repository": "shiftcmdk",
   "url": "http://cydia.saurik.com/package/com.shiftcmdk.betterreachability/",
   "shortDescription": "Make Reachability more useful by scaling down the interface.",
@@ -268,6 +268,37 @@
           "date": "2019-03-21T08:56:55Z",
           "userName": "buitim",
           "issueNumber": 79694,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.2",
+      "iOSVersion": "12.1",
+      "repository": "shiftcmdk",
+      "date": "2019-03-23T16:22:04Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,1",
+          "issues": "",
+          "date": "2019-03-23T16:22:04Z",
+          "userName": "mblack1",
+          "issueNumber": 80190,
           "arch32": false
         }
       ]
