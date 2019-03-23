@@ -1,7 +1,7 @@
 {
   "id": "com.bytafont.bytafont3",
   "name": "BytaFont 3",
-  "latest": "3.2",
+  "latest": "3.6",
   "repository": "ModMyi (Archive)",
   "url": "http://cydia.saurik.com/package/com.bytafont.bytafont3/",
   "shortDescription": "BytaFont 3 lets you apply fonts to your iDevice in few taps.",
@@ -1250,9 +1250,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 1,
+        "good": 2,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1269,6 +1269,15 @@
           "date": "2019-02-23T13:10:40Z",
           "userName": "luvcore",
           "issueNumber": 62055,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,2",
+          "issues": "",
+          "date": "2019-03-23T11:48:23Z",
+          "userName": "danielle-calhoun",
+          "issueNumber": 80111,
           "arch32": false
         }
       ]
