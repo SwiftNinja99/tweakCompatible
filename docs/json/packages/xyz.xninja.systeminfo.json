@@ -1,7 +1,7 @@
 {
   "id": "xyz.xninja.systeminfo",
   "name": "System Info",
-  "latest": "2.2.0-19+debug",
+  "latest": "2.0.0-1",
   "repository": "BigBoss",
   "url": "http://cydia.saurik.com/package/xyz.xninja.systeminfo/",
   "shortDescription": "System information in Settings app > General > About, and other sections. Set boot-nonce, save shsh, battery info etc",
@@ -2736,9 +2736,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 6,
+        "good": 7,
         "bad": 0,
-        "total": 6,
+        "total": 7,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -2800,6 +2800,15 @@
           "date": "2019-03-07T22:02:28Z",
           "userName": "zirdum",
           "issueNumber": 74598,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2019-03-23T19:45:52Z",
+          "userName": "andrearug",
+          "issueNumber": 80254,
           "arch32": false
         }
       ]
