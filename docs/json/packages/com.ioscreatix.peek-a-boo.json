@@ -545,11 +545,11 @@
       "repository": "Packix",
       "date": "2019-02-24T02:41:22Z",
       "outcome": {
-        "calculatedStatus": "Likely working",
-        "percentage": 75,
-        "good": 3,
+        "calculatedStatus": "Working",
+        "percentage": 80,
+        "good": 4,
         "bad": 0,
-        "total": 4,
+        "total": 5,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -593,6 +593,15 @@
           "date": "2019-03-16T02:36:32Z",
           "userName": "ScratchD0g",
           "issueNumber": 77910,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone7,2",
+          "issues": "Seems to heat up your device quite a bit, but works.",
+          "date": "2019-03-23T21:10:25Z",
+          "userName": "Randomblock1",
+          "issueNumber": 80268,
           "arch32": false
         }
       ]
