@@ -520,11 +520,11 @@
       "repository": "BigBoss",
       "date": "2019-02-25T21:27:15Z",
       "outcome": {
-        "calculatedStatus": "Not working",
-        "percentage": 33,
-        "good": 1,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
+        "good": 2,
         "bad": 0,
-        "total": 3,
+        "total": 4,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -559,6 +559,15 @@
           "date": "2019-03-19T03:19:23Z",
           "userName": "Qonrad",
           "issueNumber": 79039,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2019-03-23T16:46:51Z",
+          "userName": "andrearug",
+          "issueNumber": 80196,
           "arch32": false
         }
       ]
