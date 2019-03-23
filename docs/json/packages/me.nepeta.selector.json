@@ -78,11 +78,11 @@
       "repository": "Nepeta",
       "date": "2019-03-20T17:56:19Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 100,
+        "calculatedStatus": "Likely working",
+        "percentage": 66,
         "good": 2,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -108,6 +108,15 @@
           "date": "2019-03-20T17:39:34Z",
           "userName": "ghostenigmaxx",
           "issueNumber": 79498,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,3",
+          "issues": "Issues with this tweak, when you do LDRestart it will make the iPhone X loop on the loading circle. Dev fix this or remove it from the repo!",
+          "date": "2019-03-23T03:08:14Z",
+          "userName": "mechka99",
+          "issueNumber": 80059,
           "arch32": false
         }
       ]
