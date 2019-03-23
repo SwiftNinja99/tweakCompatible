@@ -58,6 +58,37 @@
           "arch32": false
         }
       ]
+    },
+    {
+      "tweakVersion": "1.0.2",
+      "iOSVersion": "12.1.2",
+      "repository": "Packix",
+      "date": "2019-03-23T10:08:21Z",
+      "outcome": {
+        "calculatedStatus": "Not working",
+        "percentage": 0,
+        "good": 0,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone10,6",
+          "issues": "Instant safemode upon activation",
+          "date": "2019-03-23T10:08:21Z",
+          "userName": "Mads1511",
+          "issueNumber": 80093,
+          "arch32": false
+        }
+      ]
     }
   ]
 }
