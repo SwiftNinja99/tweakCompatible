@@ -1,7 +1,7 @@
 {
   "id": "org.s1ris.spinxi",
   "name": "SpinXI",
-  "latest": "1.3",
+  "latest": "1.2",
   "repository": "Packix",
   "url": "http://cydia.saurik.com/package/org.s1ris.spinxi/",
   "shortDescription": "Circular lock screen media controls",
@@ -535,11 +535,11 @@
       "repository": "Packix",
       "date": "2019-02-24T15:36:56Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 80,
+        "calculatedStatus": "Likely working",
+        "percentage": 66,
         "good": 4,
         "bad": 0,
-        "total": 5,
+        "total": 6,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -592,6 +592,15 @@
           "date": "2019-03-05T23:26:14Z",
           "userName": "Wumpotamus",
           "issueNumber": 73412,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone7,1",
+          "issues": "Randomly freezes device and thus forcing resprings. In this „freezed“ state you can‘t interact with the home or sleep button and interaction in current app is limited to only partially performing touch actions. It actually works decently well until those freezes, which most frequently occur when closing the music in the app, occur.",
+          "date": "2019-03-23T21:44:04Z",
+          "userName": "LivingCodeX",
+          "issueNumber": 80270,
           "arch32": false
         }
       ]
