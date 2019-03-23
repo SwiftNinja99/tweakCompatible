@@ -17,10 +17,10 @@
       "date": "2019-03-21T06:42:17Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 50,
+        "percentage": 42,
         "good": 3,
         "bad": 0,
-        "total": 6,
+        "total": 7,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -82,6 +82,15 @@
           "date": "2019-03-22T07:56:20Z",
           "userName": "metoonhathung",
           "issueNumber": 79889,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPad5,3",
+          "issues": "It doesn’t change the grabber.",
+          "date": "2019-03-23T02:05:28Z",
+          "userName": "Charl4",
+          "issueNumber": 80042,
           "arch32": false
         }
       ]
