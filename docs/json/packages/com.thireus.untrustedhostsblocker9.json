@@ -1,10 +1,10 @@
 {
   "id": "com.thireus.untrustedhostsblocker9",
   "name": "iOS 9/10 - Untrusted Hosts Blocker",
-  "latest": "1.6.1",
+  "latest": "1.6.3",
   "repository": "Thireus Repository",
   "url": "http://repo.thireus.com",
-  "shortDescription": "Say goodbye to tracking, spies, intrusive ads and untrusted hosts. PLEASE READ THE TWEAK DESCRIPTION PAGE!\r",
+  "shortDescription": "PLEASE READ THE TWEAK DESCRIPTION PAGE! Say goodbye to tracking, spies, intrusive ads and untrusted hosts. IPv4 support only.\r",
   "category": "Security",
   "author": "Thireus",
   "commercial": false,
@@ -3001,6 +3001,37 @@
           "date": "2019-03-23T22:53:50Z",
           "userName": "BitGrub",
           "issueNumber": 80294,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.6.3",
+      "iOSVersion": "12.1.2",
+      "repository": "Thireus Repository",
+      "date": "2019-03-24T08:15:08Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "",
+          "date": "2019-03-24T08:15:08Z",
+          "userName": "chesteers",
+          "issueNumber": 80350,
           "arch32": false
         }
       ]
