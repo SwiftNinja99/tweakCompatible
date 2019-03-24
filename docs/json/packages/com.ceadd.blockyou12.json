@@ -154,11 +154,11 @@
       "repository": "ceadds repo",
       "date": "2019-03-05T18:42:25Z",
       "outcome": {
-        "calculatedStatus": "Likely working",
-        "percentage": 75,
-        "good": 3,
+        "calculatedStatus": "Working",
+        "percentage": 80,
+        "good": 4,
         "bad": 0,
-        "total": 4,
+        "total": 5,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -202,6 +202,15 @@
           "date": "2019-03-13T23:32:07Z",
           "userName": "renato7649",
           "issueNumber": 77229,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone7,2",
+          "issues": "",
+          "date": "2019-03-24T19:46:49Z",
+          "userName": "Randomblock1",
+          "issueNumber": 80434,
           "arch32": false
         }
       ]
