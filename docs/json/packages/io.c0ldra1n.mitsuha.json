@@ -416,11 +416,11 @@
       "repository": "BigBoss",
       "date": "2019-03-24T03:19:12Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 100,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
         "good": 1,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -437,6 +437,15 @@
           "date": "2019-03-24T03:19:12Z",
           "userName": "sasale24",
           "issueNumber": 80315,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone9,3",
+          "issues": "No sign of working",
+          "date": "2019-03-24T20:55:45Z",
+          "userName": "ofmenlik",
+          "issueNumber": 80452,
           "arch32": false
         }
       ]
