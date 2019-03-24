@@ -1700,11 +1700,11 @@
       "repository": "Packix",
       "date": "2019-03-24T17:51:39Z",
       "outcome": {
-        "calculatedStatus": "Not working",
-        "percentage": 0,
-        "good": 0,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
+        "good": 1,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1721,6 +1721,15 @@
           "date": "2019-03-24T17:51:39Z",
           "userName": "Vinny000",
           "issueNumber": 80411,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,3",
+          "issues": "",
+          "date": "2019-03-24T19:13:58Z",
+          "userName": "iCrazeiOS",
+          "issueNumber": 80428,
           "arch32": false
         }
       ]
