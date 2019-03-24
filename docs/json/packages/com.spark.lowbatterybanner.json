@@ -1,7 +1,7 @@
 {
   "id": "com.spark.lowbatterybanner",
   "name": "LowBatteryBanner [Public]",
-  "latest": "1.0.1",
+  "latest": "1.0.0-1",
   "repository": "Spark's Beta Repo",
   "url": "http://cydia.saurik.com/package/com.spark.lowbatterybanner/",
   "shortDescription": "Replace low power alert with a banner notification!",
@@ -382,10 +382,10 @@
       "date": "2019-02-23T07:10:41Z",
       "outcome": {
         "calculatedStatus": "Not working",
-        "percentage": 10,
-        "good": 1,
+        "percentage": 18,
+        "good": 2,
         "bad": 0,
-        "total": 10,
+        "total": 11,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -483,6 +483,15 @@
           "date": "2019-02-28T18:33:11Z",
           "userName": "bzadoroz",
           "issueNumber": 69522,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-03-24T21:08:15Z",
+          "userName": "johnnyy1337",
+          "issueNumber": 80458,
           "arch32": false
         }
       ]
