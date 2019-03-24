@@ -1,7 +1,7 @@
 {
   "id": "com.julioverne.cypush2",
   "name": "CyPush2",
-  "latest": "1.1",
+  "latest": "1.1-1",
   "repository": "julioverne's Repo",
   "url": "http://twitter.com/ijulioverne",
   "shortDescription": "Cydia Push Notifications Background",
@@ -551,6 +551,37 @@
           "date": "2019-03-01T14:56:21Z",
           "userName": "MattieThurlow96",
           "issueNumber": 70146,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.1-1",
+      "iOSVersion": "12.0",
+      "repository": "(null)",
+      "date": "2019-03-24T00:33:11Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "works fine with libbulletin",
+          "date": "2019-03-24T00:33:11Z",
+          "userName": "delon5",
+          "issueNumber": 80305,
           "arch32": false
         }
       ]
