@@ -1134,22 +1134,22 @@
       ]
     },
     {
-      "id": "com.adamseiter.animationsbefast",
+      "id": "com.adamseiter.animationbefast",
       "name": "AnimationsBeFast",
-      "latest": "1.4.5",
+      "latest": "1.4.1",
       "repository": "eXqusic's Repo",
-      "url": "http://cydia.saurik.com/package/com.adamseiter.animationsbefast/",
+      "url": "http://cydia.saurik.com/package/com.adamseiter.animationbefast/",
       "shortDescription": "Speeds up animations",
       "category": "Tweaks",
       "author": "Adam Seiter",
       "commercial": false,
-      "date": "2019-02-24T04:49:51Z",
+      "date": "2018-07-17T09:43:18Z",
       "versions": [
         {
-          "tweakVersion": "1.4.5",
+          "tweakVersion": "1.4.1",
           "iOSVersion": "11.4.1",
           "repository": "eXqusic's Repo",
-          "date": "2019-03-06T20:21:20Z",
+          "date": "2019-02-23T16:33:52Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -1168,22 +1168,22 @@
       ]
     },
     {
-      "id": "com.adamseiter.animationbefast",
+      "id": "com.adamseiter.animationsbefast",
       "name": "AnimationsBeFast",
-      "latest": "1.4.1",
+      "latest": "1.4.5",
       "repository": "eXqusic's Repo",
-      "url": "http://cydia.saurik.com/package/com.adamseiter.animationbefast/",
+      "url": "http://cydia.saurik.com/package/com.adamseiter.animationsbefast/",
       "shortDescription": "Speeds up animations",
       "category": "Tweaks",
       "author": "Adam Seiter",
       "commercial": false,
-      "date": "2018-07-17T09:43:18Z",
+      "date": "2019-02-24T04:49:51Z",
       "versions": [
         {
-          "tweakVersion": "1.4.1",
+          "tweakVersion": "1.4.5",
           "iOSVersion": "11.4.1",
           "repository": "eXqusic's Repo",
-          "date": "2019-02-23T16:33:52Z",
+          "date": "2019-03-06T20:21:20Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -4448,40 +4448,6 @@
       ]
     },
     {
-      "id": "com.yourepo.dizzy.bottomcontrolx",
-      "name": "BottomControlX",
-      "latest": "0.0.1.1.1.4",
-      "repository": "Dizzy Source",
-      "url": "http://cydia.saurik.com/package/com.yourepo.dizzy.bottomcontrolx/",
-      "shortDescription": "An awesome MobileSubstrate tweak!",
-      "category": "Tweaks",
-      "author": "Dizzy",
-      "commercial": false,
-      "date": "2019-03-23T12:33:36Z",
-      "versions": [
-        {
-          "tweakVersion": "0.0.1.1.1.4",
-          "iOSVersion": "11.4.1",
-          "repository": "Dizzy Source",
-          "date": "2019-03-23T12:33:36Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.xcxiao.bottomcontrolx",
       "name": "BottomControlX",
       "latest": "1.1.1",
@@ -4504,6 +4470,40 @@
             "good": 2,
             "bad": 0,
             "total": 2,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.yourepo.dizzy.bottomcontrolx",
+      "name": "BottomControlX",
+      "latest": "0.0.1.1.1.4",
+      "repository": "Dizzy Source",
+      "url": "http://cydia.saurik.com/package/com.yourepo.dizzy.bottomcontrolx/",
+      "shortDescription": "An awesome MobileSubstrate tweak!",
+      "category": "Tweaks",
+      "author": "Dizzy",
+      "commercial": false,
+      "date": "2019-03-23T12:33:36Z",
+      "versions": [
+        {
+          "tweakVersion": "0.0.1.1.1.4",
+          "iOSVersion": "11.4.1",
+          "repository": "Dizzy Source",
+          "date": "2019-03-23T12:33:36Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -6854,6 +6854,39 @@
       ]
     },
     {
+      "id": "ru.domo.cocoatop",
+      "name": "CocoaTop",
+      "latest": "2.0.1",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/ru.domo.cocoatop/",
+      "shortDescription": "Process Viewer for iOS GUI",
+      "category": "Utilities",
+      "author": "Domo",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "2.0.1",
+          "iOSVersion": "11.4.1",
+          "repository": "BigBoss",
+          "date": "2019-02-01T10:42:53Z",
+          "outcome": {
+            "calculatedStatus": "Not working",
+            "percentage": 0,
+            "good": 0,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "ru.domo.cocoatop64",
       "name": "CocoaTop",
       "latest": "2.0.2-1+debug",
@@ -6874,39 +6907,6 @@
             "calculatedStatus": "Working",
             "percentage": 100,
             "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "ru.domo.cocoatop",
-      "name": "CocoaTop",
-      "latest": "2.0.1",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/ru.domo.cocoatop/",
-      "shortDescription": "Process Viewer for iOS GUI",
-      "category": "Utilities",
-      "author": "Domo",
-      "commercial": false,
-      "versions": [
-        {
-          "tweakVersion": "2.0.1",
-          "iOSVersion": "11.4.1",
-          "repository": "BigBoss",
-          "date": "2019-02-01T10:42:53Z",
-          "outcome": {
-            "calculatedStatus": "Not working",
-            "percentage": 0,
-            "good": 0,
             "bad": 0,
             "total": 1,
             "arch32": {
@@ -19463,39 +19463,6 @@
       ]
     },
     {
-      "id": "com.officialscheduler.mterminal",
-      "name": "MTerminal",
-      "latest": "1.4-5",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/com.officialscheduler.mterminal/",
-      "shortDescription": "A MobileTerminal fork",
-      "category": "Utilities",
-      "author": "lordscotland",
-      "commercial": false,
-      "versions": [
-        {
-          "tweakVersion": "1.4-5",
-          "iOSVersion": "11.4.1",
-          "repository": "BigBoss",
-          "date": "2019-02-03T02:21:13Z",
-          "outcome": {
-            "calculatedStatus": "Not working",
-            "percentage": 0,
-            "good": 0,
-            "bad": 0,
-            "total": 2,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "mterminal",
       "name": "MTerminal",
       "latest": "1.4-6",
@@ -19516,6 +19483,39 @@
             "calculatedStatus": "Working",
             "percentage": 100,
             "good": 2,
+            "bad": 0,
+            "total": 2,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.officialscheduler.mterminal",
+      "name": "MTerminal",
+      "latest": "1.4-5",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.officialscheduler.mterminal/",
+      "shortDescription": "A MobileTerminal fork",
+      "category": "Utilities",
+      "author": "lordscotland",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "1.4-5",
+          "iOSVersion": "11.4.1",
+          "repository": "BigBoss",
+          "date": "2019-02-03T02:21:13Z",
+          "outcome": {
+            "calculatedStatus": "Not working",
+            "percentage": 0,
+            "good": 0,
             "bad": 0,
             "total": 2,
             "arch32": {
@@ -20773,22 +20773,22 @@
       ]
     },
     {
-      "id": "com.adamseiter.nolargetitles",
+      "id": "org.coolstar.nolargetitles",
       "name": "NoLargeTitles",
-      "latest": "1.1",
-      "repository": "SEITERSEITER's Repo",
-      "url": "http://cydia.saurik.com/package/com.adamseiter.nolargetitles/",
-      "shortDescription": "Removes ugly large titles from apps.",
+      "latest": "1.0-1",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/org.coolstar.nolargetitles/",
+      "shortDescription": "Remove the large titles system-wide on iOS 11",
       "category": "Tweaks",
-      "author": "Adam Seiter",
+      "author": "CoolStar",
       "commercial": false,
-      "date": "2018-03-01T19:59:25Z",
+      "date": "2018-03-08T05:57:18Z",
       "versions": [
         {
-          "tweakVersion": "1.1",
+          "tweakVersion": "1.0-1",
           "iOSVersion": "11.4.1",
-          "repository": "eXqusic's Repo",
-          "date": "2019-02-23T16:30:08Z",
+          "repository": "BigBoss",
+          "date": "2019-02-05T23:26:47Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -20807,22 +20807,22 @@
       ]
     },
     {
-      "id": "org.coolstar.nolargetitles",
+      "id": "com.adamseiter.nolargetitles",
       "name": "NoLargeTitles",
-      "latest": "1.0-1",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/org.coolstar.nolargetitles/",
-      "shortDescription": "Remove the large titles system-wide on iOS 11",
+      "latest": "1.1",
+      "repository": "SEITERSEITER's Repo",
+      "url": "http://cydia.saurik.com/package/com.adamseiter.nolargetitles/",
+      "shortDescription": "Removes ugly large titles from apps.",
       "category": "Tweaks",
-      "author": "CoolStar",
+      "author": "Adam Seiter",
       "commercial": false,
-      "date": "2018-03-08T05:57:18Z",
+      "date": "2018-03-01T19:59:25Z",
       "versions": [
         {
-          "tweakVersion": "1.0-1",
+          "tweakVersion": "1.1",
           "iOSVersion": "11.4.1",
-          "repository": "BigBoss",
-          "date": "2019-02-05T23:26:47Z",
+          "repository": "eXqusic's Repo",
+          "date": "2019-02-23T16:30:08Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -28692,7 +28692,7 @@
     {
       "id": "com.smokin1337.togglow",
       "name": "Togglow",
-      "latest": "1.0.6-1",
+      "latest": "1.0.4-1",
       "repository": "iDevice Hacked Repo",
       "url": "http://cydia.saurik.com/package/com.smokin1337.togglow/",
       "shortDescription": "Make the control center your own !",
@@ -28766,6 +28766,26 @@
           "iOSVersion": "11.4.1",
           "repository": "iDevice Hacked Repo",
           "date": "2019-03-23T14:37:19Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        },
+        {
+          "tweakVersion": "1.0.4-1",
+          "iOSVersion": "11.4.1",
+          "repository": "iDevice Hacked Repo",
+          "date": "2019-02-27T02:47:53Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -29409,40 +29429,6 @@
       ]
     },
     {
-      "id": "com.yourepo.dizzy.twitterdarkmode",
-      "name": "TwitterDarkMode",
-      "latest": "1.0.2.1",
-      "repository": "Dizzy Source",
-      "url": "http://cydia.saurik.com/package/com.yourepo.dizzy.twitterdarkmode/",
-      "shortDescription": "Twitter  -  Dark  -   mode",
-      "category": "Tweaks",
-      "author": "Dizzy",
-      "commercial": false,
-      "date": "2019-03-23T15:25:26Z",
-      "versions": [
-        {
-          "tweakVersion": "1.0.2.1",
-          "iOSVersion": "11.4.1",
-          "repository": "Dizzy Source",
-          "date": "2019-03-23T15:25:26Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.quackdev.twitterdarkmode",
       "name": "TwitterDarkMode",
       "latest": "1.0.2-1",
@@ -29479,6 +29465,40 @@
           "iOSVersion": "11.4.1",
           "repository": "Packix",
           "date": "2019-02-23T08:19:48Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.yourepo.dizzy.twitterdarkmode",
+      "name": "TwitterDarkMode",
+      "latest": "1.0.2.1",
+      "repository": "Dizzy Source",
+      "url": "http://cydia.saurik.com/package/com.yourepo.dizzy.twitterdarkmode/",
+      "shortDescription": "Twitter  -  Dark  -   mode",
+      "category": "Tweaks",
+      "author": "Dizzy",
+      "commercial": false,
+      "date": "2019-03-23T15:25:26Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0.2.1",
+          "iOSVersion": "11.4.1",
+          "repository": "Dizzy Source",
+          "date": "2019-03-23T15:25:26Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
