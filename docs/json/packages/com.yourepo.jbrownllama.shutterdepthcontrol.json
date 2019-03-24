@@ -118,11 +118,11 @@
       "repository": "Jbrownllama Source - YouRepo",
       "date": "2019-03-06T16:55:28Z",
       "outcome": {
-        "calculatedStatus": "Not working",
-        "percentage": 33,
-        "good": 1,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
+        "good": 2,
         "bad": 0,
-        "total": 3,
+        "total": 4,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -157,6 +157,15 @@
           "date": "2019-03-23T13:44:18Z",
           "userName": "marcinleft",
           "issueNumber": 80140,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-03-24T09:52:27Z",
+          "userName": "maksymser",
+          "issueNumber": 80363,
           "arch32": false
         }
       ]
