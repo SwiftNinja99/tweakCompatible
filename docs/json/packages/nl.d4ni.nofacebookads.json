@@ -16,11 +16,11 @@
       "repository": "D4ni's Repo",
       "date": "2019-03-09T04:38:08Z",
       "outcome": {
-        "calculatedStatus": "Not working",
-        "percentage": 0,
-        "good": 0,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
+        "good": 1,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -37,6 +37,15 @@
           "date": "2019-03-09T04:38:08Z",
           "userName": "ddkuo",
           "issueNumber": 75236,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone9,4",
+          "issues": "Seems fine to me",
+          "date": "2019-03-24T20:16:58Z",
+          "userName": "Cianzzzzz",
+          "issueNumber": 80438,
           "arch32": false
         }
       ]
