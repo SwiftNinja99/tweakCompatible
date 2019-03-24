@@ -602,7 +602,7 @@
     {
       "id": "com.blandry.alarmvolume",
       "name": "AlarmVolume",
-      "latest": "1.2.4",
+      "latest": "1.2.5",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.blandry.alarmvolume/",
       "shortDescription": "Set volume for Alarms and Timers",
@@ -5822,39 +5822,6 @@
       ]
     },
     {
-      "id": "ru.domo.cocoatop",
-      "name": "CocoaTop",
-      "latest": "2.0.1",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/ru.domo.cocoatop/",
-      "shortDescription": "Process Viewer for iOS GUI",
-      "category": "Utilities",
-      "author": "Domo",
-      "commercial": false,
-      "versions": [
-        {
-          "tweakVersion": "2.0.1",
-          "iOSVersion": "12.0",
-          "repository": "BigBoss",
-          "date": "2019-03-08T03:58:15Z",
-          "outcome": {
-            "calculatedStatus": "Not working",
-            "percentage": 0,
-            "good": 0,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "ru.domo.cocoatop64",
       "name": "CocoaTop",
       "latest": "2.0.2-1+debug",
@@ -5895,6 +5862,39 @@
             "calculatedStatus": "Working",
             "percentage": 100,
             "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "ru.domo.cocoatop",
+      "name": "CocoaTop",
+      "latest": "2.0.1",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/ru.domo.cocoatop/",
+      "shortDescription": "Process Viewer for iOS GUI",
+      "category": "Utilities",
+      "author": "Domo",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "2.0.1",
+          "iOSVersion": "12.0",
+          "repository": "BigBoss",
+          "date": "2019-03-08T03:58:15Z",
+          "outcome": {
+            "calculatedStatus": "Not working",
+            "percentage": 0,
+            "good": 0,
             "bad": 0,
             "total": 1,
             "arch32": {
@@ -6665,7 +6665,7 @@
     {
       "id": "com.muirey03.cr4shed",
       "name": "Cr4shed",
-      "latest": "2.0.6",
+      "latest": "2.0.7",
       "repository": "Packix",
       "url": "http://cydia.saurik.com/package/com.muirey03.cr4shed/",
       "shortDescription": "More useful crash logs",
@@ -7228,6 +7228,40 @@
           "iOSVersion": "12.0",
           "repository": "Bingner/Elucubratus",
           "date": "2019-02-24T12:55:05Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.swedishprxck.cydiaupdates",
+      "name": "CydiaUpdates",
+      "latest": "0.0.1-1+debug",
+      "repository": "Packix",
+      "url": "http://cydia.saurik.com/package/com.swedishprxck.cydiaupdates/",
+      "shortDescription": "Shows all package updates under changes tab in Cydia",
+      "category": "Tweaks",
+      "author": "SwedishPrxck",
+      "commercial": false,
+      "date": "2019-03-24T15:54:42Z",
+      "versions": [
+        {
+          "tweakVersion": "0.0.1-1+debug",
+          "iOSVersion": "12.0",
+          "repository": "Packix",
+          "date": "2019-03-24T20:26:42Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -10076,7 +10110,7 @@
     {
       "id": "com.tigisoftware.filza",
       "name": "Filza File Manager",
-      "latest": "3.6.5-12",
+      "latest": "3.7.0-18",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.tigisoftware.filza/",
       "shortDescription": "File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+",
@@ -10209,7 +10243,7 @@
     {
       "id": "com.tigisoftware.filza64bit",
       "name": "Filza File Manager (64-bit only)",
-      "latest": "3.6.5-12",
+      "latest": "3.7.0-18",
       "repository": "tigisoftware.com",
       "url": "http://cydia.saurik.com/package/com.tigisoftware.filza64bit/",
       "shortDescription": "File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+. This special version only supports 64-bit devices",
@@ -16252,7 +16286,7 @@
     {
       "id": "com.thireus.untrustedhostsblockermega",
       "name": "Mega UHB - iOS 12 - MUHB (Mega Untrusted Hosts Blocker)",
-      "latest": "2.0.1",
+      "latest": "2.0.2",
       "repository": "Thireus Repository",
       "url": "http://cydia.saurik.com/package/com.thireus.untrustedhostsblockermega/",
       "shortDescription": "PLEASE READ THE TWEAK DESCRIPTION PAGE! Say goodbye to tracking, spies, intrusive ads and untrusted hosts. Supports both IPv4 and IPv6.\r",
@@ -26554,7 +26588,7 @@
     {
       "id": "com.matchstic.xenhtml",
       "name": "Xen HTML",
-      "latest": "0.4rc7-1",
+      "latest": "0.4rc8",
       "repository": "xenpublic.incendo.ws",
       "url": "http://cydia.saurik.com/package/com.matchstic.xenhtml/",
       "shortDescription": "Unified HTML rendering; lockscreen and homescreen",
