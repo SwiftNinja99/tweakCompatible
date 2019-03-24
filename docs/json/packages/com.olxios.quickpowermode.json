@@ -815,11 +815,11 @@
       "repository": "BigBoss",
       "date": "2019-02-23T12:06:30Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 80,
+        "calculatedStatus": "Likely working",
+        "percentage": 66,
         "good": 4,
         "bad": 0,
-        "total": 5,
+        "total": 6,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -872,6 +872,15 @@
           "date": "2019-03-06T08:20:38Z",
           "userName": "TerMueNator",
           "issueNumber": 73632,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-03-24T09:44:15Z",
+          "userName": "gledrich",
+          "issueNumber": 80362,
           "arch32": false
         }
       ]
