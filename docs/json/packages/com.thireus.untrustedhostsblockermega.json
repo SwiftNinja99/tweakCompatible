@@ -1,10 +1,10 @@
 {
   "id": "com.thireus.untrustedhostsblockermega",
   "name": "Mega UHB - iOS 12 - MUHB (Mega Untrusted Hosts Blocker)",
-  "latest": "2.0.2",
+  "latest": "2.0.6",
   "repository": "Thireus Repository",
   "url": "http://cydia.saurik.com/package/com.thireus.untrustedhostsblockermega/",
-  "shortDescription": "PLEASE READ THE TWEAK DESCRIPTION PAGE! Say goodbye to tracking, spies, intrusive ads and untrusted hosts. Supports both IPv4 and IPv6.\r",
+  "shortDescription": "READ THE TWEAK DESCRIPTION/FAQ PAGE! Say goodbye to tracking, spies, intrusive ads and untrusted hosts. Supports both IPv4 and IPv6.\r",
   "category": "Security",
   "author": "Thireus",
   "commercial": false,
@@ -600,6 +600,37 @@
           "date": "2019-03-24T21:47:25Z",
           "userName": "mindful1",
           "issueNumber": 80466,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0.6",
+      "iOSVersion": "12.1.1",
+      "repository": "Thireus Repository",
+      "date": "2019-03-25T15:10:46Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-03-25T15:10:46Z",
+          "userName": "percyjk23",
+          "issueNumber": 80615,
           "arch32": false
         }
       ]
