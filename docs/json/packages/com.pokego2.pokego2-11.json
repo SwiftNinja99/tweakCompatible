@@ -3943,10 +3943,10 @@
       "date": "2019-03-19T11:00:56Z",
       "outcome": {
         "calculatedStatus": "Not working",
-        "percentage": 0,
-        "good": 0,
+        "percentage": 33,
+        "good": 1,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -3972,6 +3972,15 @@
           "date": "2019-03-19T17:14:47Z",
           "userName": "hypertjs",
           "issueNumber": 79216,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-03-25T00:21:36Z",
+          "userName": "Lionel128",
+          "issueNumber": 80504,
           "arch32": false
         }
       ]
