@@ -1,10 +1,10 @@
 {
   "id": "com.jbrownllama.shutter",
   "name": "Shutter",
-  "latest": "1.1",
+  "latest": "1.1.1-12+debug",
   "repository": "BigBoss",
   "url": "http://cydia.saurik.com/package/com.jbrownllama.shutter/",
-  "shortDescription": "More Camera Features",
+  "shortDescription": "Camera Features",
   "category": "Tweaks",
   "author": "Jbrownllama",
   "commercial": false,
@@ -391,9 +391,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 2,
+        "good": 3,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -419,6 +419,15 @@
           "date": "2019-03-10T06:24:06Z",
           "userName": "alex95sv",
           "issueNumber": 75768,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,5",
+          "issues": "",
+          "date": "2019-03-25T01:49:43Z",
+          "userName": "diegolobo79",
+          "issueNumber": 80512,
           "arch32": false
         }
       ]
