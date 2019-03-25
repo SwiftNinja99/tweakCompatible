@@ -1,7 +1,7 @@
 {
   "id": "com.spark.doubletaplock",
   "name": "DoubleTapLock [Public]",
-  "latest": "0.0.3",
+  "latest": "1.0.0",
   "repository": "Spark's Beta Repo",
   "url": "http://cydia.saurik.com/package/com.spark.doubletaplock/",
   "shortDescription": "Double tap homescreen wallpaper to lock device",
@@ -1329,9 +1329,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 1,
+        "good": 2,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1348,6 +1348,15 @@
           "date": "2019-03-07T19:30:11Z",
           "userName": "ItsFelix",
           "issueNumber": 74549,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone9,4",
+          "issues": "It doesn't work after the I use it for the first time",
+          "date": "2019-03-25T05:05:04Z",
+          "userName": "Larenz06",
+          "issueNumber": 80534,
           "arch32": false
         }
       ]
