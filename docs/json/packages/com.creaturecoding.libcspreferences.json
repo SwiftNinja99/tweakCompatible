@@ -1602,10 +1602,10 @@
       "date": "2019-02-23T22:42:06Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 50,
-        "good": 2,
+        "percentage": 60,
+        "good": 3,
         "bad": 0,
-        "total": 4,
+        "total": 5,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1649,6 +1649,15 @@
           "date": "2019-03-21T03:02:41Z",
           "userName": "eso22",
           "issueNumber": 79626,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2019-03-25T15:43:29Z",
+          "userName": "alaancee",
+          "issueNumber": 80621,
           "arch32": false
         }
       ]
