@@ -2192,11 +2192,11 @@
       "repository": "tateu's repo",
       "date": "2019-03-24T20:16:26Z",
       "outcome": {
-        "calculatedStatus": "Not working",
-        "percentage": 0,
-        "good": 0,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
+        "good": 1,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -2213,6 +2213,15 @@
           "date": "2019-03-24T20:16:26Z",
           "userName": "Crapscott",
           "issueNumber": 80437,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,2",
+          "issues": "",
+          "date": "2019-03-25T14:22:13Z",
+          "userName": "hypertjs",
+          "issueNumber": 80612,
           "arch32": false
         }
       ]
