@@ -1577,7 +1577,7 @@
     {
       "id": "apt",
       "name": "APT 0.6 Transitional",
-      "latest": "0-2",
+      "latest": "0-23",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/apt/",
       "shortDescription": "any advanced packaging tool from Debian",
@@ -10660,7 +10660,7 @@
     {
       "id": "flex3beta",
       "name": "Flex 3 Beta",
-      "latest": "3~Beta60",
+      "latest": "3~Beta61",
       "repository": "Delta",
       "url": "http://getdelta.co/",
       "shortDescription": "Develop your own tweaks and share them on the Flex Community Cloud",
@@ -15917,40 +15917,6 @@
       ]
     },
     {
-      "id": "com.repo.xarold.com.localiapstore",
-      "name": "LocalIAPStore",
-      "latest": "1.5",
-      "repository": "repo.xarold.com",
-      "url": "http://cydia.saurik.com/package/com.repo.xarold.com.localiapstore/",
-      "shortDescription": "Pwns In-App purchases on iOS 5.1.1 - 7.1.X. Compatible with ARMv8 (64 Bit). Enable in settings. PRESS 'DISMISS' ON POPUP!",
-      "category": "Tweaks",
-      "author": "anondev",
-      "commercial": false,
-      "date": "2018-02-28T19:15:03Z",
-      "versions": [
-        {
-          "tweakVersion": "1.5",
-          "iOSVersion": "12.0.1",
-          "repository": "XModGames",
-          "date": "2019-02-24T05:40:25Z",
-          "outcome": {
-            "calculatedStatus": "Not working",
-            "percentage": 0,
-            "good": 0,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.ipodhacks142.localiapstore",
       "name": "LocalIAPStore",
       "latest": "1.4-2",
@@ -15971,6 +15937,40 @@
             "calculatedStatus": "Working",
             "percentage": 100,
             "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.repo.xarold.com.localiapstore",
+      "name": "LocalIAPStore",
+      "latest": "1.5",
+      "repository": "repo.xarold.com",
+      "url": "http://cydia.saurik.com/package/com.repo.xarold.com.localiapstore/",
+      "shortDescription": "Pwns In-App purchases on iOS 5.1.1 - 7.1.X. Compatible with ARMv8 (64 Bit). Enable in settings. PRESS 'DISMISS' ON POPUP!",
+      "category": "Tweaks",
+      "author": "anondev",
+      "commercial": false,
+      "date": "2018-02-28T19:15:03Z",
+      "versions": [
+        {
+          "tweakVersion": "1.5",
+          "iOSVersion": "12.0.1",
+          "repository": "XModGames",
+          "date": "2019-02-24T05:40:25Z",
+          "outcome": {
+            "calculatedStatus": "Not working",
+            "percentage": 0,
+            "good": 0,
             "bad": 0,
             "total": 1,
             "arch32": {
@@ -21407,7 +21407,7 @@
     {
       "id": "profile.d",
       "name": "Profile Directory",
-      "latest": "0-1",
+      "latest": "0-2",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/profile.d/",
       "shortDescription": "makes packaging for /etc/profile reasonable",
@@ -27138,6 +27138,40 @@
           "iOSVersion": "12.0.1",
           "repository": "Gh0st5ive Source - YouRepo",
           "date": "2019-03-03T13:28:07Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "applebetas.ios.tweak.watchreboot",
+      "name": "WatchReboot",
+      "latest": "1.0.0-38",
+      "repository": "AppleBetas' Repo",
+      "url": "http://cydia.saurik.com/package/applebetas.ios.tweak.watchreboot/",
+      "shortDescription": "Quickly reboot or ping your Apple Watch from the watch app.",
+      "category": "Tweaks",
+      "author": "AppleBetas",
+      "commercial": false,
+      "date": "2018-04-14T19:15:53Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0.0-38",
+          "iOSVersion": "12.0.1",
+          "repository": "AppleBetas' Repo",
+          "date": "2019-03-25T22:57:48Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
