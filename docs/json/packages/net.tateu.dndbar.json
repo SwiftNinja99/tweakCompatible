@@ -17,10 +17,10 @@
       "date": "2019-03-24T20:38:52Z",
       "outcome": {
         "calculatedStatus": "Not working",
-        "percentage": 0,
-        "good": 0,
+        "percentage": 33,
+        "good": 1,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -46,6 +46,15 @@
           "date": "2019-03-24T21:27:04Z",
           "userName": "kimgc",
           "issueNumber": 80460,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,1",
+          "issues": "",
+          "date": "2019-03-25T13:20:24Z",
+          "userName": "Wumpotamus",
+          "issueNumber": 80604,
           "arch32": false
         }
       ]
