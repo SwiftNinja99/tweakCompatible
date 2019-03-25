@@ -4,7 +4,7 @@
   "latest": "1.0.2-1",
   "repository": "Packix",
   "url": "http://cydia.saurik.com/package/es.ubikstyl.sonus12/",
-  "shortDescription": "The highly customizable volume hud. For iOS 11 & 12.",
+  "shortDescription": "The highly customizable volume hud. For iOS 12.",
   "category": "Tweaks",
   "author": "ubik",
   "commercial": true,
@@ -80,9 +80,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 1,
+        "good": 2,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -99,6 +99,15 @@
           "date": "2019-03-25T00:14:37Z",
           "userName": "OvertMeteor",
           "issueNumber": 80501,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,2",
+          "issues": "Mostly works",
+          "date": "2019-03-25T12:46:24Z",
+          "userName": "burkybang",
+          "issueNumber": 80596,
           "arch32": false
         }
       ]
