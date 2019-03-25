@@ -1,7 +1,7 @@
 {
   "id": "profile.d",
   "name": "Profile Directory",
-  "latest": "0-1",
+  "latest": "0-2",
   "repository": "Cydia/Telesphoreo",
   "url": "http://cydia.saurik.com/package/profile.d/",
   "shortDescription": "makes packaging for /etc/profile reasonable",
@@ -782,6 +782,37 @@
           "date": "2019-03-19T22:45:21Z",
           "userName": "OverHereIdiots",
           "issueNumber": 79258,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0-2",
+      "iOSVersion": "11.4.1",
+      "repository": "apt.saurik.com",
+      "date": "2019-03-25T17:42:53Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2019-03-25T17:42:53Z",
+          "userName": "fazlul101",
+          "issueNumber": 80641,
           "arch32": false
         }
       ]
