@@ -549,9 +549,9 @@
       "repository": "cydia.alexbeals.com",
       "date": "2019-02-23T02:45:20Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 100,
-        "good": 3,
+        "calculatedStatus": "Likely working",
+        "percentage": 66,
+        "good": 2,
         "bad": 0,
         "total": 3,
         "arch32": {
@@ -582,12 +582,12 @@
           "arch32": false
         },
         {
-          "status": "working",
+          "status": "not working",
           "device": "iPhone9,3",
-          "issues": "",
-          "date": "2019-03-14T01:58:53Z",
+          "issues": "Crash cydia every time. Crash log says NSDicitonary key cannot be nil.",
+          "date": "2019-03-25T12:40:57Z",
           "userName": "fillupontacos",
-          "issueNumber": 77243,
+          "issueNumber": 80595,
           "arch32": false
         }
       ]
