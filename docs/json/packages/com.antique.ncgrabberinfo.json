@@ -361,6 +361,37 @@
           "arch32": false
         }
       ]
+    },
+    {
+      "tweakVersion": "0.0.6",
+      "iOSVersion": "12.1",
+      "repository": "Packix",
+      "date": "2019-03-25T11:15:41Z",
+      "outcome": {
+        "calculatedStatus": "Not working",
+        "percentage": 0,
+        "good": 0,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone8,4",
+          "issues": "Not working as NC and CC grabbers were removed in iOS 11 and remain removed in iOS 12.1. ",
+          "date": "2019-03-25T11:15:41Z",
+          "userName": "Tempris",
+          "issueNumber": 80581,
+          "arch32": false
+        }
+      ]
     }
   ]
 }
