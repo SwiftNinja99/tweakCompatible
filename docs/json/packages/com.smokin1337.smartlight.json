@@ -1,7 +1,7 @@
 {
   "id": "com.smokin1337.smartlight",
   "name": "SmartLight",
-  "latest": "1.0.1",
+  "latest": "1.0.2",
   "repository": "iDevice Hacked Repo",
   "url": "http://cydia.saurik.com/package/com.smokin1337.smartlight/",
   "shortDescription": "Activate flashlight with VolumeDown+Lock change brightness level with VolumeUp!",
@@ -37,6 +37,37 @@
           "date": "2019-03-24T22:50:12Z",
           "userName": "HenshinMijin",
           "issueNumber": 80489,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.2",
+      "iOSVersion": "12.1.2",
+      "repository": "iDevice Hacked Repo",
+      "date": "2019-03-25T13:34:20Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,4",
+          "issues": "",
+          "date": "2019-03-25T13:34:20Z",
+          "userName": "nicodomi12",
+          "issueNumber": 80606,
           "arch32": false
         }
       ]
