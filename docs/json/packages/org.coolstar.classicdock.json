@@ -307,6 +307,37 @@
           "arch32": false
         }
       ]
+    },
+    {
+      "tweakVersion": "2.0",
+      "iOSVersion": "12.1.1",
+      "repository": "BigBoss",
+      "date": "2019-03-25T00:08:54Z",
+      "outcome": {
+        "calculatedStatus": "Not working",
+        "percentage": 0,
+        "good": 0,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone7,2",
+          "issues": "Not working with Snowboard. Using SnowBoard because Anemone currently does not support any version of iOS 12",
+          "date": "2019-03-25T00:08:54Z",
+          "userName": "MemesDank456",
+          "issueNumber": 80499,
+          "arch32": false
+        }
+      ]
     }
   ]
 }
