@@ -1,7 +1,7 @@
 {
   "id": "es.ubikstyl.sonus12",
   "name": "Sonus12",
-  "latest": "1.0.1-2",
+  "latest": "1.0.2-1",
   "repository": "Packix",
   "url": "http://cydia.saurik.com/package/es.ubikstyl.sonus12/",
   "shortDescription": "The highly customizable volume hud. For iOS 11 & 12.",
@@ -68,6 +68,37 @@
           "date": "2019-03-24T20:51:02Z",
           "userName": "CandiMan8",
           "issueNumber": 80448,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.2-1",
+      "iOSVersion": "12.1.1",
+      "repository": "Packix",
+      "date": "2019-03-25T00:14:37Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2019-03-25T00:14:37Z",
+          "userName": "OvertMeteor",
+          "issueNumber": 80501,
           "arch32": false
         }
       ]
