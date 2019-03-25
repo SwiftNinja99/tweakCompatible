@@ -392,6 +392,37 @@
           "arch32": false
         }
       ]
+    },
+    {
+      "tweakVersion": "0.0.6",
+      "iOSVersion": "12.1.2",
+      "repository": "Packix",
+      "date": "2019-03-25T11:05:40Z",
+      "outcome": {
+        "calculatedStatus": "Not working",
+        "percentage": 0,
+        "good": 0,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone9,3",
+          "issues": "preference bundle error in settings and tweak not working ON IPHONE 7",
+          "date": "2019-03-25T11:05:40Z",
+          "userName": "Fasolato",
+          "issueNumber": 80571,
+          "arch32": false
+        }
+      ]
     }
   ]
 }
