@@ -267,9 +267,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 1,
+        "good": 2,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -286,6 +286,15 @@
           "date": "2019-02-23T20:43:36Z",
           "userName": "rohidjetha",
           "issueNumber": 62714,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "Working and buttons are invisible but the dev is working on it atm.",
+          "date": "2019-03-25T05:26:00Z",
+          "userName": "813Samauarai",
+          "issueNumber": 80536,
           "arch32": false
         }
       ]
