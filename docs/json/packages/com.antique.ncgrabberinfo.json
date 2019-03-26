@@ -338,10 +338,10 @@
       "date": "2019-03-24T19:34:14Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 75,
+        "percentage": 60,
         "good": 3,
         "bad": 0,
-        "total": 4,
+        "total": 5,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -385,6 +385,15 @@
           "date": "2019-03-26T05:41:22Z",
           "userName": "Se7Touch",
           "issueNumber": 80746,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPad7,3",
+          "issues": "Not Working on iPad Pro 10.5”",
+          "date": "2019-03-26T22:18:04Z",
+          "userName": "brylemagsino",
+          "issueNumber": 80910,
           "arch32": false
         }
       ]
