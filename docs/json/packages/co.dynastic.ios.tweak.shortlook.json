@@ -1,7 +1,7 @@
 {
   "id": "co.dynastic.ios.tweak.shortlook",
   "name": "ShortLook",
-  "latest": "1.0.8",
+  "latest": "1.0.9",
   "repository": "Dynastic Repo",
   "url": "http://cydia.saurik.com/package/co.dynastic.ios.tweak.shortlook/",
   "shortDescription": "Your notifications. At a glance. — ShortLook displays on your locked iPhone as you receive a notification using it's beautiful full screen design, allowing for readability from a distance. Made to be as unobtrusive as possible, it dismisses",
@@ -1850,6 +1850,37 @@
           "date": "2019-03-26T20:10:55Z",
           "userName": "amatsune",
           "issueNumber": 80894,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.9",
+      "iOSVersion": "12.1",
+      "repository": "Dynastic Repo",
+      "date": "2019-03-26T22:55:13Z",
+      "outcome": {
+        "calculatedStatus": "Not working",
+        "percentage": 0,
+        "good": 0,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone9,4",
+          "issues": "\"Once you go black you can never go back\" ShortLook on test notification.",
+          "date": "2019-03-26T22:55:13Z",
+          "userName": "amatsune",
+          "issueNumber": 80912,
           "arch32": false
         }
       ]
