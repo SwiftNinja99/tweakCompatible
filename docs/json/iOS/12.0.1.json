@@ -3670,21 +3670,22 @@
       ]
     },
     {
-      "id": "org.thebigboss.blurrybadges",
+      "id": "com.spicat.blurrybadges",
       "name": "BlurryBadges",
-      "latest": "1.1",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/org.thebigboss.blurrybadges/",
+      "latest": "1.2.2",
+      "repository": "Spica T Repo",
+      "url": "http://cydia.saurik.com/package/com.spicat.blurrybadges/",
       "shortDescription": "Add customizable blur to SpringBoard icon badges.",
       "category": "Tweaks",
-      "author": "PoomSmart",
+      "author": "SpicaT",
       "commercial": false,
+      "date": "2018-08-08T20:54:34Z",
       "versions": [
         {
-          "tweakVersion": "1.1",
+          "tweakVersion": "1.2.2",
           "iOSVersion": "12.0.1",
-          "repository": "BigBoss",
-          "date": "2019-03-04T08:32:29Z",
+          "repository": "Spica T Repo",
+          "date": "2019-03-19T02:51:33Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -3703,22 +3704,21 @@
       ]
     },
     {
-      "id": "com.spicat.blurrybadges",
+      "id": "org.thebigboss.blurrybadges",
       "name": "BlurryBadges",
-      "latest": "1.2.2",
-      "repository": "Spica T Repo",
-      "url": "http://cydia.saurik.com/package/com.spicat.blurrybadges/",
+      "latest": "1.1",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/org.thebigboss.blurrybadges/",
       "shortDescription": "Add customizable blur to SpringBoard icon badges.",
       "category": "Tweaks",
-      "author": "SpicaT",
+      "author": "PoomSmart",
       "commercial": false,
-      "date": "2018-08-08T20:54:34Z",
       "versions": [
         {
-          "tweakVersion": "1.2.2",
+          "tweakVersion": "1.1",
           "iOSVersion": "12.0.1",
-          "repository": "Spica T Repo",
-          "date": "2019-03-19T02:51:33Z",
+          "repository": "BigBoss",
+          "date": "2019-03-04T08:32:29Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -6056,39 +6056,6 @@
       ]
     },
     {
-      "id": "ru.domo.cocoatop",
-      "name": "CocoaTop",
-      "latest": "2.0.1",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/ru.domo.cocoatop/",
-      "shortDescription": "Process Viewer for iOS GUI",
-      "category": "Utilities",
-      "author": "Domo",
-      "commercial": false,
-      "versions": [
-        {
-          "tweakVersion": "2.0.1",
-          "iOSVersion": "12.0.1",
-          "repository": "BigBoss",
-          "date": "2019-03-07T18:35:49Z",
-          "outcome": {
-            "calculatedStatus": "Not working",
-            "percentage": 0,
-            "good": 0,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "ru.domo.cocoatop64",
       "name": "CocoaTop",
       "latest": "2.0.2-1+debug",
@@ -6129,6 +6096,39 @@
             "calculatedStatus": "Working",
             "percentage": 100,
             "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "ru.domo.cocoatop",
+      "name": "CocoaTop",
+      "latest": "2.0.1",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/ru.domo.cocoatop/",
+      "shortDescription": "Process Viewer for iOS GUI",
+      "category": "Utilities",
+      "author": "Domo",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "2.0.1",
+          "iOSVersion": "12.0.1",
+          "repository": "BigBoss",
+          "date": "2019-03-07T18:35:49Z",
+          "outcome": {
+            "calculatedStatus": "Not working",
+            "percentage": 0,
+            "good": 0,
             "bad": 0,
             "total": 1,
             "arch32": {
@@ -8736,6 +8736,39 @@
       ]
     },
     {
+      "id": "xyz.xninja.dopesettings",
+      "name": "DopeSettings",
+      "latest": "0.0.4",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/xyz.xninja.dopesettings/",
+      "shortDescription": "Spice up the settings view",
+      "category": "Tweaks",
+      "author": "ARX8x",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "0.0.4",
+          "iOSVersion": "12.0.1",
+          "repository": "BigBoss",
+          "date": "2019-03-22T14:37:20Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.sh0rtflow.dopesettings",
       "name": "DopeSettings",
       "latest": "0.0.5-6+debug",
@@ -8756,39 +8789,6 @@
             "calculatedStatus": "Not working",
             "percentage": 0,
             "good": 0,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "xyz.xninja.dopesettings",
-      "name": "DopeSettings",
-      "latest": "0.0.4",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/xyz.xninja.dopesettings/",
-      "shortDescription": "Spice up the settings view",
-      "category": "Tweaks",
-      "author": "ARX8x",
-      "commercial": false,
-      "versions": [
-        {
-          "tweakVersion": "0.0.4",
-          "iOSVersion": "12.0.1",
-          "repository": "BigBoss",
-          "date": "2019-03-22T14:37:20Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
             "bad": 0,
             "total": 1,
             "arch32": {
@@ -8995,6 +8995,39 @@
           "iOSVersion": "12.0.1",
           "repository": "Kiran Patil's Repo",
           "date": "2019-02-25T01:59:53Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.spark.easyswitcherx",
+      "name": "EasySwitcherX [Public]",
+      "latest": "0.0.4-5",
+      "repository": "Spark's Beta Repo",
+      "url": "http://beta.sparkservers.co.uk/",
+      "shortDescription": "Swipe up on apps in the switcher to kill them, without having to press and hold (iPhone X - how it should have been)",
+      "category": "Tweaks",
+      "author": "Spark",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "0.0.4-5",
+          "iOSVersion": "12.0.1",
+          "repository": "SparkDev",
+          "date": "2019-03-26T08:46:41Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -9882,40 +9915,6 @@
       ]
     },
     {
-      "id": "com.jeremd10.fastunlockx",
-      "name": "FastUnlockX",
-      "latest": "1.3.1",
-      "repository": "JeremD10's Repo",
-      "url": "http://cydia.saurik.com/package/com.jeremd10.fastunlockx/",
-      "shortDescription": "un Déverrouillage plus rapide pour iPhone X",
-      "category": "Tweaks iPhone X",
-      "author": "CP Digital Darkroom",
-      "commercial": false,
-      "date": "2019-02-25T00:44:40Z",
-      "versions": [
-        {
-          "tweakVersion": "1.3.1",
-          "iOSVersion": "12.0.1",
-          "repository": "JeremD10's Repo",
-          "date": "2019-02-25T00:44:40Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.cpdigitaldarkroom.fastunlockx",
       "name": "FastUnlockX",
       "latest": "1.4",
@@ -9951,6 +9950,40 @@
           "iOSVersion": "12.0.1",
           "repository": "Packix",
           "date": "2019-02-26T12:04:18Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.jeremd10.fastunlockx",
+      "name": "FastUnlockX",
+      "latest": "1.3.1",
+      "repository": "JeremD10's Repo",
+      "url": "http://cydia.saurik.com/package/com.jeremd10.fastunlockx/",
+      "shortDescription": "un Déverrouillage plus rapide pour iPhone X",
+      "category": "Tweaks iPhone X",
+      "author": "CP Digital Darkroom",
+      "commercial": false,
+      "date": "2019-02-25T00:44:40Z",
+      "versions": [
+        {
+          "tweakVersion": "1.3.1",
+          "iOSVersion": "12.0.1",
+          "repository": "JeremD10's Repo",
+          "date": "2019-02-25T00:44:40Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -26852,40 +26885,6 @@
       ]
     },
     {
-      "id": "com.yourepo.tweakportal.twitterlabs",
-      "name": "Twitter Labs",
-      "latest": "1.0.4",
-      "repository": "TweakPortal - YouRepo",
-      "url": "http://cydia.saurik.com/package/com.yourepo.tweakportal.twitterlabs/",
-      "shortDescription": "Twitter labs is a tweak that allows you to customize the look and feel of Twitter",
-      "category": "Tweaks",
-      "author": "Aesthyrica",
-      "commercial": false,
-      "date": "2019-03-15T01:57:29Z",
-      "versions": [
-        {
-          "tweakVersion": "1.0.4",
-          "iOSVersion": "12.0.1",
-          "repository": "TweakPortal - YouRepo",
-          "date": "2019-03-15T01:57:29Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "ru.pvmntsdev.twitterlabs",
       "name": "Twitter Labs",
       "latest": "1.0.3",
@@ -26906,6 +26905,40 @@
             "calculatedStatus": "Not working",
             "percentage": 0,
             "good": 0,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.yourepo.tweakportal.twitterlabs",
+      "name": "Twitter Labs",
+      "latest": "1.0.4",
+      "repository": "TweakPortal - YouRepo",
+      "url": "http://cydia.saurik.com/package/com.yourepo.tweakportal.twitterlabs/",
+      "shortDescription": "Twitter labs is a tweak that allows you to customize the look and feel of Twitter",
+      "category": "Tweaks",
+      "author": "Aesthyrica",
+      "commercial": false,
+      "date": "2019-03-15T01:57:29Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0.4",
+          "iOSVersion": "12.0.1",
+          "repository": "TweakPortal - YouRepo",
+          "date": "2019-03-15T01:57:29Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
             "bad": 0,
             "total": 1,
             "arch32": {
@@ -28491,40 +28524,6 @@
       ]
     },
     {
-      "id": "xz",
-      "name": "XZ Utils",
-      "latest": "5.2.4-4",
-      "repository": "Bingner/Elucubratus",
-      "url": "http://cydia.saurik.com/package/xz/",
-      "shortDescription": "slower, but better, compression algorithm",
-      "category": "Archiving",
-      "author": "(null)",
-      "commercial": false,
-      "date": "2018-10-24T08:16:57Z",
-      "versions": [
-        {
-          "tweakVersion": "5.2.4-4",
-          "iOSVersion": "12.0.1",
-          "repository": "Bingner/Elucubratus",
-          "date": "2019-03-06T16:03:52Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "lzma",
       "name": "XZ Utils",
       "latest": "4.32.7-2",
@@ -28547,6 +28546,40 @@
             "good": 2,
             "bad": 0,
             "total": 2,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "xz",
+      "name": "XZ Utils",
+      "latest": "5.2.4-4",
+      "repository": "Bingner/Elucubratus",
+      "url": "http://cydia.saurik.com/package/xz/",
+      "shortDescription": "slower, but better, compression algorithm",
+      "category": "Archiving",
+      "author": "(null)",
+      "commercial": false,
+      "date": "2018-10-24T08:16:57Z",
+      "versions": [
+        {
+          "tweakVersion": "5.2.4-4",
+          "iOSVersion": "12.0.1",
+          "repository": "Bingner/Elucubratus",
+          "date": "2019-03-06T16:03:52Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
             "arch32": {
               "total": 0,
               "good": 0,
