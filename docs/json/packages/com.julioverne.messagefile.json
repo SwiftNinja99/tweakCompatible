@@ -167,11 +167,11 @@
       "repository": "julioverne's Repo",
       "date": "2019-02-23T13:58:34Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 100,
+        "calculatedStatus": "Likely working",
+        "percentage": 66,
         "good": 2,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -197,6 +197,15 @@
           "date": "2019-03-11T00:18:52Z",
           "userName": "DrChameleon7",
           "issueNumber": 76160,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,4",
+          "issues": "iPhone 8, iOS 12.1.1",
+          "date": "2019-03-26T13:55:34Z",
+          "userName": "hunkyburrito3",
+          "issueNumber": 80817,
           "arch32": false
         }
       ]
