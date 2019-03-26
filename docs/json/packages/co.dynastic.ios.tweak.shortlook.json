@@ -1824,7 +1824,7 @@
         "percentage": 0,
         "good": 0,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1841,6 +1841,15 @@
           "date": "2019-03-26T14:33:21Z",
           "userName": "UtopianConcepts",
           "issueNumber": 80823,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone9,4",
+          "issues": "Does nothing and test notification, when goes through goes to a permanent black screen",
+          "date": "2019-03-26T20:10:55Z",
+          "userName": "amatsune",
+          "issueNumber": 80894,
           "arch32": false
         }
       ]
