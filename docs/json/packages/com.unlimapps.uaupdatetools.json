@@ -4345,21 +4345,21 @@
           "arch32": false
         },
         {
-          "status": "not working",
-          "device": "iPhone10,3",
-          "issues": "Allows to downgrade but blocking future updates does nothing",
-          "date": "2019-03-22T16:17:11Z",
-          "userName": "chriscegz",
-          "issueNumber": 79971,
-          "arch32": false
-        },
-        {
           "status": "working",
           "device": "iPhone8,1",
           "issues": "",
           "date": "2019-03-24T09:20:47Z",
           "userName": "delon5",
           "issueNumber": 80357,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,3",
+          "issues": "Hiding future updates does nothing. They still show up in updates tab",
+          "date": "2019-03-26T17:38:03Z",
+          "userName": "chriscegz",
+          "issueNumber": 80870,
           "arch32": false
         }
       ]
