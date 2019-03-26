@@ -1691,11 +1691,11 @@
       "repository": "Dynastic Repo",
       "date": "2019-03-15T14:16:37Z",
       "outcome": {
-        "calculatedStatus": "Likely working",
-        "percentage": 75,
-        "good": 3,
+        "calculatedStatus": "Working",
+        "percentage": 80,
+        "good": 4,
         "bad": 0,
-        "total": 4,
+        "total": 5,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1739,6 +1739,15 @@
           "date": "2019-03-25T09:07:39Z",
           "userName": "mainhathao",
           "issueNumber": 80553,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone9,3",
+          "issues": "",
+          "date": "2019-03-26T11:43:01Z",
+          "userName": "ChefEr1c",
+          "issueNumber": 80812,
           "arch32": false
         }
       ]
