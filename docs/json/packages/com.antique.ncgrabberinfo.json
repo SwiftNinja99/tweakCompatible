@@ -338,10 +338,10 @@
       "date": "2019-03-24T19:34:14Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 66,
-        "good": 2,
+        "percentage": 75,
+        "good": 3,
         "bad": 0,
-        "total": 3,
+        "total": 4,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -376,6 +376,15 @@
           "date": "2019-03-26T05:20:32Z",
           "userName": "supersmart07",
           "issueNumber": 80743,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,5",
+          "issues": "0.0.6 ver is not safe mode its finally work",
+          "date": "2019-03-26T05:41:22Z",
+          "userName": "Se7Touch",
+          "issueNumber": 80746,
           "arch32": false
         }
       ]
