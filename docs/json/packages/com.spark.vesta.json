@@ -1,7 +1,7 @@
 {
   "id": "com.spark.vesta",
   "name": "Vesta",
-  "latest": "0.0.4b1",
+  "latest": "0.0.4b2",
   "repository": "(null)",
   "url": "http://cydia.saurik.com/package/com.spark.vesta/",
   "shortDescription": "App Drawer",
@@ -68,6 +68,37 @@
           "date": "2019-03-25T02:32:25Z",
           "userName": "8bitkitten",
           "issueNumber": 80517,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.0.4b2",
+      "iOSVersion": "12.0.1",
+      "repository": "SparkDev",
+      "date": "2019-03-26T03:11:58Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-03-26T03:11:58Z",
+          "userName": "Lionel128",
+          "issueNumber": 80708,
           "arch32": false
         }
       ]
