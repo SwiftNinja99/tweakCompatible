@@ -799,10 +799,10 @@
       "date": "2019-03-01T21:10:30Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 50,
-        "good": 1,
+        "percentage": 66,
+        "good": 2,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -828,6 +828,15 @@
           "date": "2019-03-16T23:05:49Z",
           "userName": "Valueds",
           "issueNumber": 78190,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2019-03-26T00:27:29Z",
+          "userName": "pedropaulopop",
+          "issueNumber": 80678,
           "arch32": false
         }
       ]
