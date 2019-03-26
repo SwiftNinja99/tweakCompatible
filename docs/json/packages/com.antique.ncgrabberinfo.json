@@ -338,10 +338,10 @@
       "date": "2019-03-24T19:34:14Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 50,
-        "good": 1,
+        "percentage": 66,
+        "good": 2,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -367,6 +367,15 @@
           "date": "2019-03-26T00:03:38Z",
           "userName": "Charl4",
           "issueNumber": 80673,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone9,4",
+          "issues": "It installs and the preferences load but I absolutely do not notice a difference",
+          "date": "2019-03-26T05:20:32Z",
+          "userName": "supersmart07",
+          "issueNumber": 80743,
           "arch32": false
         }
       ]
