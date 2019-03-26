@@ -1,10 +1,10 @@
 {
   "id": "com.mileskabal.appinfo",
   "name": "AppInfo",
-  "latest": "1.6.2",
+  "latest": "1.6.3b6",
   "repository": "BigBoss",
   "url": "http://cydia.saurik.com/package/com.mileskabal.appinfo/",
-  "shortDescription": "display informations about installed apps",
+  "shortDescription": "displays informations about installed apps, export data from native apps (like SMS and iMessage) and possibility to send song by email.",
   "category": "Utilities",
   "author": "Miles",
   "commercial": false,
@@ -366,6 +366,37 @@
           "date": "2019-03-23T17:05:04Z",
           "userName": "Ragnarok96",
           "issueNumber": 80205,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.6.3b6",
+      "iOSVersion": "12.0",
+      "repository": "(null)",
+      "date": "2019-03-26T10:21:54Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2019-03-26T10:21:54Z",
+          "userName": "delon5",
+          "issueNumber": 80799,
           "arch32": false
         }
       ]
