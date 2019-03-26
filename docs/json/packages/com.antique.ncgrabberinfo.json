@@ -337,11 +337,11 @@
       "repository": "Packix",
       "date": "2019-03-24T19:34:14Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 100,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
         "good": 1,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -358,6 +358,15 @@
           "date": "2019-03-24T19:34:14Z",
           "userName": "percyjk23",
           "issueNumber": 80431,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPad5,3",
+          "issues": "Not working on iPad Air 2",
+          "date": "2019-03-26T00:03:38Z",
+          "userName": "Charl4",
+          "issueNumber": 80673,
           "arch32": false
         }
       ]
