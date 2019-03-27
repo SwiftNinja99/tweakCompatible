@@ -1,10 +1,10 @@
 {
   "id": "dpkg",
   "name": "Debian Packager",
-  "latest": "1.18.25-10",
+  "latest": "1.19.4-1",
   "repository": "Cydia/Telesphoreo",
   "url": "http://cydia.saurik.com/package/dpkg/",
-  "shortDescription": "package maintainance tools from Debian",
+  "shortDescription": "package maintenance tools from Debian",
   "category": "Packaging",
   "author": "(null)",
   "commercial": false,
@@ -2070,9 +2070,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 1,
+        "good": 2,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -2089,6 +2089,15 @@
           "date": "2019-03-03T15:38:36Z",
           "userName": "nguyenduongngoc",
           "issueNumber": 71507,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,2",
+          "issues": "",
+          "date": "2019-03-27T04:25:23Z",
+          "userName": "tsxcobra",
+          "issueNumber": 80955,
           "arch32": false
         }
       ]
