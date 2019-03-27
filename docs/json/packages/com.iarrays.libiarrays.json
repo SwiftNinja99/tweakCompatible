@@ -1,7 +1,7 @@
 {
   "id": "com.iarrays.libiarrays",
   "name": "libarrays",
-  "latest": "1.0.9",
+  "latest": "1.0.9-beta-8",
   "repository": "IArrays",
   "url": "http://cydia.saurik.com/package/com.iarrays.libiarrays/",
   "shortDescription": "Should be used only by IArrays products. This is closed library and no support is provided for this package.",
@@ -627,6 +627,37 @@
           "date": "2019-03-26T00:26:23Z",
           "userName": "pedropaulopop",
           "issueNumber": 80677,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.9-beta-8",
+      "iOSVersion": "12.1.2",
+      "repository": "IArrays",
+      "date": "2019-03-27T19:25:13Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2019-03-27T19:25:13Z",
+          "userName": "alaancee",
+          "issueNumber": 81169,
           "arch32": false
         }
       ]
