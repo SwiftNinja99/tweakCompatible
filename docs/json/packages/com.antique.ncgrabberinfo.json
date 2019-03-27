@@ -435,11 +435,11 @@
       "repository": "Packix",
       "date": "2019-03-25T11:05:40Z",
       "outcome": {
-        "calculatedStatus": "Likely working",
-        "percentage": 50,
+        "calculatedStatus": "Not working",
+        "percentage": 33,
         "good": 1,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -465,6 +465,15 @@
           "date": "2019-03-25T19:50:15Z",
           "userName": "Yato1201",
           "issueNumber": 80653,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone8,4",
+          "issues": "no changes",
+          "date": "2019-03-27T09:47:43Z",
+          "userName": "jack793",
+          "issueNumber": 81103,
           "arch32": false
         }
       ]
