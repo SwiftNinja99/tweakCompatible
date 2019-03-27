@@ -854,11 +854,11 @@
       "repository": "BigBoss",
       "date": "2019-03-22T03:32:12Z",
       "outcome": {
-        "calculatedStatus": "Likely working",
-        "percentage": 50,
+        "calculatedStatus": "Not working",
+        "percentage": 33,
         "good": 1,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -884,6 +884,15 @@
           "date": "2019-03-22T05:44:52Z",
           "userName": "Ghostbomb",
           "issueNumber": 79881,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone8,1",
+          "issues": "Does not appear in bottom of cellular page as described",
+          "date": "2019-03-27T16:28:48Z",
+          "userName": "Brandon097",
+          "issueNumber": 81133,
           "arch32": false
         }
       ]
