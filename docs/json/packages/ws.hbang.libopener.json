@@ -840,10 +840,10 @@
       "date": "2019-02-23T03:10:03Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 50,
+        "percentage": 45,
         "good": 5,
         "bad": 0,
-        "total": 10,
+        "total": 11,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -941,6 +941,15 @@
           "date": "2019-03-07T23:58:56Z",
           "userName": "Masterfellow",
           "issueNumber": 74627,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,4",
+          "issues": "The links work, but it breaks the ability to make calls",
+          "date": "2019-03-27T18:11:34Z",
+          "userName": "rourien",
+          "issueNumber": 81159,
           "arch32": false
         }
       ]
