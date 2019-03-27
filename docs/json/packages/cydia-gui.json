@@ -1255,10 +1255,10 @@
       "date": "2019-02-01T11:00:13Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 50,
-        "good": 2,
+        "percentage": 60,
+        "good": 3,
         "bad": 0,
-        "total": 4,
+        "total": 5,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1302,6 +1302,15 @@
           "date": "2019-02-11T06:06:46Z",
           "userName": "Ringo-Keitai",
           "issueNumber": 59191,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,2",
+          "issues": "",
+          "date": "2019-03-27T04:24:18Z",
+          "userName": "tsxcobra",
+          "issueNumber": 80952,
           "arch32": false
         }
       ]
