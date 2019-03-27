@@ -1,7 +1,7 @@
 {
   "id": "findutils",
   "name": "Find Utilities",
-  "latest": "4.6.0-1",
+  "latest": "4.6-1",
   "repository": "Electra's iOS Utilities",
   "url": "http://cydia.saurik.com/package/findutils/",
   "shortDescription": "indexes and searches filesystems",
@@ -978,6 +978,37 @@
           "date": "2019-03-19T22:48:46Z",
           "userName": "OverHereIdiots",
           "issueNumber": 79267,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "4.6-1",
+      "iOSVersion": "11.3.1",
+      "repository": "Electra's iOS Utilities",
+      "date": "2019-03-27T04:22:26Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,2",
+          "issues": "Tsxcobra ",
+          "date": "2019-03-27T04:22:26Z",
+          "userName": "tsxcobra",
+          "issueNumber": 80947,
           "arch32": false
         }
       ]
