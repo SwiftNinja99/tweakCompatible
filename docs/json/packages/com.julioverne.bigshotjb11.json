@@ -608,10 +608,10 @@
       "date": "2019-03-05T06:26:53Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 71,
-        "good": 5,
+        "percentage": 75,
+        "good": 6,
         "bad": 0,
-        "total": 7,
+        "total": 8,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -682,6 +682,15 @@
           "date": "2019-03-25T02:12:38Z",
           "userName": "mohitt01p",
           "issueNumber": 80515,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone10,6",
+          "issues": "Doesnt work with apps like Discord or Twitter",
+          "date": "2019-03-27T00:27:55Z",
+          "userName": "Nixuge",
+          "issueNumber": 80922,
           "arch32": false
         }
       ]
