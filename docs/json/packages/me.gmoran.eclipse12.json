@@ -1540,11 +1540,11 @@
       "repository": "Packix",
       "date": "2019-03-27T01:03:11Z",
       "outcome": {
-        "calculatedStatus": "Likely working",
-        "percentage": 50,
+        "calculatedStatus": "Not working",
+        "percentage": 33,
         "good": 1,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1570,6 +1570,15 @@
           "date": "2019-03-27T20:14:20Z",
           "userName": "ghostenigmaxx",
           "issueNumber": 81172,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,3",
+          "issues": "",
+          "date": "2019-03-27T21:16:58Z",
+          "userName": "tweakmaster7",
+          "issueNumber": 81195,
           "arch32": false
         }
       ]
