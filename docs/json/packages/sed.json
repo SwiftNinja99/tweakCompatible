@@ -1,7 +1,7 @@
 {
   "id": "sed",
   "name": "sed",
-  "latest": "4.5-1",
+  "latest": "4.7",
   "repository": "Cydia/Telesphoreo",
   "url": "http://cydia.saurik.com/package/sed/",
   "shortDescription": "edits streams of text using patterns",
@@ -982,6 +982,37 @@
           "date": "2019-03-19T22:44:47Z",
           "userName": "OverHereIdiots",
           "issueNumber": 79256,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "4.7",
+      "iOSVersion": "11.3.1",
+      "repository": "Electra's iOS Utilities",
+      "date": "2019-03-27T04:22:58Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,2",
+          "issues": "",
+          "date": "2019-03-27T04:22:58Z",
+          "userName": "tsxcobra",
+          "issueNumber": 80949,
           "arch32": false
         }
       ]
