@@ -1860,9 +1860,9 @@
       "repository": "Dynastic Repo",
       "date": "2019-03-26T22:55:13Z",
       "outcome": {
-        "calculatedStatus": "Not working",
-        "percentage": 0,
-        "good": 0,
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
         "bad": 0,
         "total": 1,
         "arch32": {
@@ -1875,12 +1875,12 @@
       },
       "users": [
         {
-          "status": "not working",
+          "status": "working",
           "device": "iPhone9,4",
-          "issues": "\"Once you go black you can never go back\" ShortLook on test notification.",
-          "date": "2019-03-26T22:55:13Z",
+          "issues": "Working fine, conflicts with SpringPlus11",
+          "date": "2019-03-27T12:36:01Z",
           "userName": "amatsune",
-          "issueNumber": 80912,
+          "issueNumber": 81109,
           "arch32": false
         }
       ]
