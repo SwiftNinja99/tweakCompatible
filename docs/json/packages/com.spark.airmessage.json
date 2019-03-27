@@ -1,10 +1,10 @@
 {
   "id": "com.spark.airmessage",
   "name": "AirMessage",
-  "latest": "1.0.6r1",
+  "latest": "2.0.1b1",
   "repository": "Spark's Repo",
   "url": "https://repo.sparkservers.co.uk",
-  "shortDescription": "Messages in your browser",
+  "shortDescription": "Messages in your browser!",
   "category": "Tweaks",
   "author": "Spark",
   "commercial": false,
@@ -146,6 +146,37 @@
           "date": "2018-09-06T19:06:16Z",
           "userName": "ianrod30",
           "issueNumber": 49553,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0.1b1",
+      "iOSVersion": "12.1.1",
+      "repository": "SparkDev",
+      "date": "2019-03-27T13:51:02Z",
+      "outcome": {
+        "calculatedStatus": "Not working",
+        "percentage": 0,
+        "good": 0,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone10,2",
+          "issues": "Settings shows a blank page",
+          "date": "2019-03-27T13:51:02Z",
+          "userName": "burkybang",
+          "issueNumber": 81117,
           "arch32": false
         }
       ]
