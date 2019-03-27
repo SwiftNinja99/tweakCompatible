@@ -1,7 +1,7 @@
 {
   "id": "iokittools",
   "name": "IOKit Tools",
-  "latest": "76-1",
+  "latest": "108",
   "repository": "Cydia/Telesphoreo",
   "url": "http://cydia.saurik.com/package/iokittools/",
   "shortDescription": "ioalloccount, ioclasscount, ioreg",
@@ -151,9 +151,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 3,
+        "good": 4,
         "bad": 0,
-        "total": 3,
+        "total": 4,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -188,6 +188,15 @@
           "date": "2018-08-24T17:06:12Z",
           "userName": "XweAponX",
           "issueNumber": 46910,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,2",
+          "issues": "",
+          "date": "2019-03-27T04:28:22Z",
+          "userName": "tsxcobra",
+          "issueNumber": 80967,
           "arch32": false
         }
       ]
