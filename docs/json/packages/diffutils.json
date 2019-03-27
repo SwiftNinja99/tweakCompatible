@@ -1,7 +1,7 @@
 {
   "id": "diffutils",
   "name": "Diff Utilities",
-  "latest": "3.6-1",
+  "latest": "3.7",
   "repository": "Electra's iOS Utilities",
   "url": "http://cydia.saurik.com/package/diffutils/",
   "shortDescription": "compare two files for differences",
@@ -916,6 +916,37 @@
           "date": "2019-03-19T22:46:18Z",
           "userName": "OverHereIdiots",
           "issueNumber": 79261,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "3.7",
+      "iOSVersion": "11.3.1",
+      "repository": "Electra's iOS Utilities",
+      "date": "2019-03-27T04:25:58Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,2",
+          "issues": "",
+          "date": "2019-03-27T04:25:58Z",
+          "userName": "tsxcobra",
+          "issueNumber": 80957,
           "arch32": false
         }
       ]
