@@ -1,7 +1,7 @@
 {
   "id": "gzip",
   "name": "gzip",
-  "latest": "1.9-1",
+  "latest": "1.10",
   "repository": "Electra's iOS Utilities",
   "url": "http://cydia.saurik.com/package/gzip/",
   "shortDescription": "the standard Unix compression algorithm",
@@ -1004,6 +1004,37 @@
           "date": "2019-03-19T22:48:30Z",
           "userName": "OverHereIdiots",
           "issueNumber": 79266,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.10",
+      "iOSVersion": "11.3.1",
+      "repository": "Electra's iOS Utilities",
+      "date": "2019-03-27T04:26:46Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,2",
+          "issues": "",
+          "date": "2019-03-27T04:26:46Z",
+          "userName": "tsxcobra",
+          "issueNumber": 80959,
           "arch32": false
         }
       ]
