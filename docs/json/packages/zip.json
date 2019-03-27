@@ -1,7 +1,7 @@
 {
   "id": "zip",
   "name": "zip",
-  "latest": "2.32-6",
+  "latest": "3.0",
   "repository": "Electra's iOS Utilities",
   "url": "http://cydia.saurik.com/package/zip/",
   "shortDescription": "standard Windows compression tool",
@@ -151,9 +151,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 1,
+        "good": 2,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -170,6 +170,15 @@
           "date": "2018-07-07T14:28:59Z",
           "userName": "lilquezzi",
           "issueNumber": 13240,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,2",
+          "issues": "",
+          "date": "2019-03-27T04:27:38Z",
+          "userName": "tsxcobra",
+          "issueNumber": 80964,
           "arch32": false
         }
       ]
