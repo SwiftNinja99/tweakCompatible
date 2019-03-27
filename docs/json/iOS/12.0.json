@@ -855,40 +855,6 @@
       ]
     },
     {
-      "id": "com.adamseiter.animationbefast",
-      "name": "AnimationsBeFast",
-      "latest": "1.4.1",
-      "repository": "eXqusic's Repo",
-      "url": "http://cydia.saurik.com/package/com.adamseiter.animationbefast/",
-      "shortDescription": "Speeds up animations",
-      "category": "Tweaks",
-      "author": "Adam Seiter",
-      "commercial": false,
-      "date": "2018-07-17T09:43:18Z",
-      "versions": [
-        {
-          "tweakVersion": "1.4.1",
-          "iOSVersion": "12.0",
-          "repository": "(null)",
-          "date": "2019-02-27T15:13:46Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.adamseiter.animationsbefast",
       "name": "AnimationsBeFast",
       "latest": "1.4.5",
@@ -945,6 +911,40 @@
           "iOSVersion": "12.0",
           "repository": "eXqusic's Repo",
           "date": "2019-03-06T02:39:58Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.adamseiter.animationbefast",
+      "name": "AnimationsBeFast",
+      "latest": "1.4.1",
+      "repository": "eXqusic's Repo",
+      "url": "http://cydia.saurik.com/package/com.adamseiter.animationbefast/",
+      "shortDescription": "Speeds up animations",
+      "category": "Tweaks",
+      "author": "Adam Seiter",
+      "commercial": false,
+      "date": "2018-07-17T09:43:18Z",
+      "versions": [
+        {
+          "tweakVersion": "1.4.1",
+          "iOSVersion": "12.0",
+          "repository": "(null)",
+          "date": "2019-02-27T15:13:46Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -14842,10 +14842,10 @@
     {
       "id": "com.creaturecoding.libcspreferences",
       "name": "libCSPreferences",
-      "latest": "1.0.6",
+      "latest": "1.0.8",
       "repository": "CreatureSurvive's Repo",
       "url": "http://cydia.saurik.com/package/com.creaturecoding.libcspreferences/",
-      "shortDescription": "An awesome Preference Library!",
+      "shortDescription": "A Preference Library that doesn't suck!",
       "category": "System",
       "author": "CreatureSurvive",
       "commercial": false,
@@ -14856,6 +14856,26 @@
           "iOSVersion": "12.0",
           "repository": "BigBoss",
           "date": "2019-03-19T22:57:32Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        },
+        {
+          "tweakVersion": "1.0.8",
+          "iOSVersion": "12.0",
+          "repository": "CreatureSurvive's Repo",
+          "date": "2019-03-27T02:30:52Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -20851,40 +20871,6 @@
       ]
     },
     {
-      "id": "com.jakeashacks.realcc",
-      "name": "RealCC",
-      "latest": "1.0.1",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/com.jakeashacks.realcc/",
-      "shortDescription": "Actually disable Wi-Fi from the iOS 11 CC",
-      "category": "Tweaks",
-      "author": "Jake James",
-      "commercial": false,
-      "date": "2018-07-11T02:33:10Z",
-      "versions": [
-        {
-          "tweakVersion": "1.0.1",
-          "iOSVersion": "12.0",
-          "repository": "BigBoss",
-          "date": "2019-02-23T02:29:24Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 7,
-            "bad": 0,
-            "total": 7,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.subdiox.realcc",
       "name": "RealCC",
       "latest": "0.0.4",
@@ -20907,6 +20893,40 @@
             "good": 1,
             "bad": 0,
             "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.jakeashacks.realcc",
+      "name": "RealCC",
+      "latest": "1.0.1",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.jakeashacks.realcc/",
+      "shortDescription": "Actually disable Wi-Fi from the iOS 11 CC",
+      "category": "Tweaks",
+      "author": "Jake James",
+      "commercial": false,
+      "date": "2018-07-11T02:33:10Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0.1",
+          "iOSVersion": "12.0",
+          "repository": "BigBoss",
+          "date": "2019-02-23T02:29:24Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 7,
+            "bad": 0,
+            "total": 7,
             "arch32": {
               "total": 0,
               "good": 0,
