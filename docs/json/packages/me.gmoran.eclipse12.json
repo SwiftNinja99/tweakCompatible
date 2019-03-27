@@ -1540,11 +1540,11 @@
       "repository": "Packix",
       "date": "2019-03-27T01:03:11Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 100,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
         "good": 1,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1561,6 +1561,15 @@
           "date": "2019-03-27T01:03:11Z",
           "userName": "pedropaulopop",
           "issueNumber": 80927,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,3",
+          "issues": "Sharesheet label colors are gray and cant be seen,dark mode for web not working",
+          "date": "2019-03-27T20:14:20Z",
+          "userName": "ghostenigmaxx",
+          "issueNumber": 81172,
           "arch32": false
         }
       ]
