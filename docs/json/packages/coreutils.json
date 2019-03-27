@@ -1,7 +1,7 @@
 {
   "id": "coreutils",
   "name": "Core Utilities",
-  "latest": "8.30-2",
+  "latest": "8.30",
   "repository": "Cydia/Telesphoreo",
   "url": "http://cydia.saurik.com/package/coreutils/",
   "shortDescription": "core set of Unix shell utilities from GNU",
@@ -1305,9 +1305,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 1,
+        "good": 2,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1324,6 +1324,15 @@
           "date": "2019-03-03T15:37:13Z",
           "userName": "nguyenduongngoc",
           "issueNumber": 71503,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,2",
+          "issues": "Tsxcobra ",
+          "date": "2019-03-27T04:21:23Z",
+          "userName": "tsxcobra",
+          "issueNumber": 80945,
           "arch32": false
         }
       ]
