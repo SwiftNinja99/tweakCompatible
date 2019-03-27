@@ -1,7 +1,7 @@
 {
   "id": "com.iarrays.libiarrays",
   "name": "libarrays",
-  "latest": "1.0.9-beta-7",
+  "latest": "1.0.9",
   "repository": "IArrays",
   "url": "http://cydia.saurik.com/package/com.iarrays.libiarrays/",
   "shortDescription": "Should be used only by IArrays products. This is closed library and no support is provided for this package.",
@@ -181,10 +181,10 @@
       "date": "2018-07-11T09:07:30Z",
       "outcome": {
         "calculatedStatus": "Working",
-        "percentage": 80,
-        "good": 4,
+        "percentage": 83,
+        "good": 5,
         "bad": 0,
-        "total": 5,
+        "total": 6,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -237,6 +237,15 @@
           "date": "2019-01-15T17:02:05Z",
           "userName": "atifchy",
           "issueNumber": 57404,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,2",
+          "issues": "",
+          "date": "2019-03-27T06:26:23Z",
+          "userName": "tsxcobra",
+          "issueNumber": 81054,
           "arch32": false
         }
       ]
