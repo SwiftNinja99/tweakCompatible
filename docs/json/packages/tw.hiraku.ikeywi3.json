@@ -584,11 +584,11 @@
       "repository": "BigBoss",
       "date": "2019-02-24T07:54:34Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 100,
+        "calculatedStatus": "Likely working",
+        "percentage": 66,
         "good": 2,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -614,6 +614,15 @@
           "date": "2019-02-24T17:56:11Z",
           "userName": "ZacharyT6",
           "issueNumber": 65015,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone8,1",
+          "issues": "I used to usually work but now it’s causing Safe Mode ... suddenly after waking up I fibd my iPhone on Safe Mode ... this tweak was the cause",
+          "date": "2019-03-28T07:48:01Z",
+          "userName": "hero3210",
+          "issueNumber": 81289,
           "arch32": false
         }
       ]
