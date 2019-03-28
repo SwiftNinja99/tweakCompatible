@@ -520,9 +520,9 @@
       "repository": "BigBoss",
       "date": "2019-02-25T21:27:15Z",
       "outcome": {
-        "calculatedStatus": "Likely working",
-        "percentage": 60,
-        "good": 3,
+        "calculatedStatus": "Not working",
+        "percentage": 40,
+        "good": 2,
         "bad": 0,
         "total": 5,
         "arch32": {
@@ -563,20 +563,20 @@
         },
         {
           "status": "working",
-          "device": "iPhone8,1",
-          "issues": "",
-          "date": "2019-03-23T16:46:51Z",
-          "userName": "andrearug",
-          "issueNumber": 80196,
-          "arch32": false
-        },
-        {
-          "status": "working",
           "device": "iPhone10,4",
           "issues": "",
           "date": "2019-03-24T07:00:23Z",
           "userName": "KennerBoy",
           "issueNumber": 80330,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone8,1",
+          "issues": "Opener bugs related",
+          "date": "2019-03-28T07:26:26Z",
+          "userName": "andrearug",
+          "issueNumber": 81288,
           "arch32": false
         }
       ]
