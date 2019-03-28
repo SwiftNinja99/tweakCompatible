@@ -456,11 +456,11 @@
       "repository": "CreatureSurvive's Repo",
       "date": "2019-02-23T22:42:49Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 100,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
         "good": 1,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -477,6 +477,15 @@
           "date": "2019-02-23T22:42:49Z",
           "userName": "CreatureSurvive",
           "issueNumber": 62862,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone8,1",
+          "issues": "Stops and starts updating resources as soon as going to homescreen",
+          "date": "2019-03-28T18:24:36Z",
+          "userName": "Broxin",
+          "issueNumber": 81386,
           "arch32": false
         }
       ]
