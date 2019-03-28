@@ -564,11 +564,11 @@
       "repository": "Packix",
       "date": "2019-02-26T05:55:50Z",
       "outcome": {
-        "calculatedStatus": "Likely working",
-        "percentage": 75,
-        "good": 3,
+        "calculatedStatus": "Working",
+        "percentage": 80,
+        "good": 4,
         "bad": 0,
-        "total": 4,
+        "total": 5,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -612,6 +612,15 @@
           "date": "2019-03-12T22:22:43Z",
           "userName": "Andrew-Finn",
           "issueNumber": 76895,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2019-03-28T11:04:42Z",
+          "userName": "kyselalukas",
+          "issueNumber": 81311,
           "arch32": false
         }
       ]
