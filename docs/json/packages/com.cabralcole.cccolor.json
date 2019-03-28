@@ -47,11 +47,11 @@
       "repository": "BigBoss",
       "date": "2019-03-07T04:50:56Z",
       "outcome": {
-        "calculatedStatus": "Likely working",
-        "percentage": 50,
+        "calculatedStatus": "Not working",
+        "percentage": 33,
         "good": 1,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -77,6 +77,15 @@
           "date": "2019-03-09T22:23:28Z",
           "userName": "jbringle",
           "issueNumber": 75605,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,3",
+          "issues": "It doesn’t crash on iOS 12.0.1 iPhone X but it doesn’t color the control center ",
+          "date": "2019-03-28T00:36:22Z",
+          "userName": "cydia808",
+          "issueNumber": 81224,
           "arch32": false
         }
       ]
