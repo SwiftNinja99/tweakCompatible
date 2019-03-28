@@ -841,6 +841,37 @@
           "arch32": false
         }
       ]
+    },
+    {
+      "tweakVersion": "1.0.1",
+      "iOSVersion": "12.0.1",
+      "repository": "BigBoss",
+      "date": "2019-03-28T05:49:20Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "You should hit blue Search button on a keyboard in order long tap on an app icon to work.",
+          "date": "2019-03-28T05:49:20Z",
+          "userName": "AndreySu",
+          "issueNumber": 81277,
+          "arch32": false
+        }
+      ]
     }
   ]
 }
