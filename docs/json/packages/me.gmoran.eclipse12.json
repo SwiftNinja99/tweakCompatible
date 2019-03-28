@@ -1541,10 +1541,10 @@
       "date": "2019-03-27T01:03:11Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 50,
-        "good": 2,
+        "percentage": 60,
+        "good": 3,
         "bad": 0,
-        "total": 4,
+        "total": 5,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1588,6 +1588,15 @@
           "date": "2019-03-27T22:43:48Z",
           "userName": "GreyAsteroid",
           "issueNumber": 81204,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone9,4",
+          "issues": "Share sheet still not theming properly",
+          "date": "2019-03-27T23:34:56Z",
+          "userName": "Favna",
+          "issueNumber": 81213,
           "arch32": false
         }
       ]
