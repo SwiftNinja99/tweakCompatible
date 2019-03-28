@@ -347,10 +347,10 @@
       "date": "2019-02-24T07:33:04Z",
       "outcome": {
         "calculatedStatus": "Working",
-        "percentage": 76,
-        "good": 13,
+        "percentage": 77,
+        "good": 14,
         "bad": 0,
-        "total": 17,
+        "total": 18,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -511,6 +511,15 @@
           "date": "2019-03-12T15:50:45Z",
           "userName": "Popcorncandy09",
           "issueNumber": 76776,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPad7,1",
+          "issues": "Crashes settings app whenever trying to change the gif that is already applied.  Unable to change gif on iPad Pro 12.9 2nd Gen",
+          "date": "2019-03-28T12:54:12Z",
+          "userName": "RiPx88",
+          "issueNumber": 81319,
           "arch32": false
         }
       ]
