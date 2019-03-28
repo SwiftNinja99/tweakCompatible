@@ -960,9 +960,9 @@
       "repository": "Chariz",
       "date": "2019-02-25T01:10:01Z",
       "outcome": {
-        "calculatedStatus": "Likely working",
-        "percentage": 50,
-        "good": 3,
+        "calculatedStatus": "Not working",
+        "percentage": 33,
+        "good": 2,
         "bad": 0,
         "total": 6,
         "arch32": {
@@ -1020,12 +1020,12 @@
           "arch32": false
         },
         {
-          "status": "working",
+          "status": "not working",
           "device": "iPhone8,1",
-          "issues": "",
-          "date": "2019-03-23T16:47:54Z",
+          "issues": "Buggy, works but breaks phone calls",
+          "date": "2019-03-28T07:25:18Z",
           "userName": "andrearug",
-          "issueNumber": 80199,
+          "issueNumber": 81287,
           "arch32": false
         }
       ]
