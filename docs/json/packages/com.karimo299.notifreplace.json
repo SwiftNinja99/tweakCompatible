@@ -1,7 +1,7 @@
 {
   "id": "com.karimo299.notifreplace",
   "name": "NotifReplace",
-  "latest": "1.0.0",
+  "latest": "1.0.1",
   "repository": "Kaurux",
   "url": "http://cydia.saurik.com/package/com.karimo299.notifreplace/",
   "shortDescription": "Replaces specific text in the notification, and messages",
@@ -68,6 +68,37 @@
           "date": "2019-03-16T02:40:06Z",
           "userName": "trvstmysole",
           "issueNumber": 77911,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.1",
+      "iOSVersion": "12.1.2",
+      "repository": "Kaurux",
+      "date": "2019-03-28T06:24:40Z",
+      "outcome": {
+        "calculatedStatus": "Not working",
+        "percentage": 0,
+        "good": 0,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone8,2",
+          "issues": "Not working with Message app or it notifications",
+          "date": "2019-03-28T06:24:40Z",
+          "userName": "anonypublic",
+          "issueNumber": 81285,
           "arch32": false
         }
       ]
