@@ -1,10 +1,10 @@
 {
   "id": "me.gmoran.eclipsex",
   "name": "Eclipse X Beta 7 (iOS 11)",
-  "latest": "5.1.8",
+  "latest": "5.0b-255",
   "repository": "GMoran Beta Software",
   "url": "http://gmoran.me/repo/",
-  "shortDescription": "Customizable Dark Mode for iOS 11",
+  "shortDescription": "System-wide Night Mode and more for iOS 11. This build expires March 15",
   "category": "Tweaks",
   "author": "Guillermo Morán (fr0st)",
   "commercial": false,
@@ -535,9 +535,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 1,
+        "good": 2,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -554,6 +554,15 @@
           "date": "2018-03-10T21:32:40Z",
           "userName": "nbrunette",
           "issueNumber": 5408,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,3",
+          "issues": "",
+          "date": "2018-03-11T01:03:12Z",
+          "userName": "pipoliviero",
+          "issueNumber": 5438,
           "arch32": false
         }
       ]
