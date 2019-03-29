@@ -1,7 +1,7 @@
 {
   "id": "org.evendev.cydiaxii",
   "name": "CydiaXI",
-  "latest": "2.0.2",
+  "latest": "2.0",
   "repository": "EvenDev",
   "url": "http://cydia.saurik.com/package/org.evendev.cydiaxii/",
   "shortDescription": "Cydia, now with more iOS 11.",
@@ -139,6 +139,37 @@
           "date": "2019-03-24T17:15:42Z",
           "userName": "thanhx18",
           "issueNumber": 80407,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0",
+      "iOSVersion": "12.1.2",
+      "repository": "evendev.org",
+      "date": "2019-03-29T03:10:35Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "partial",
+          "device": "iPhone9,3",
+          "issues": "The text is not displaying properly on the changes and on the installed tweaks section ",
+          "date": "2019-03-29T03:10:35Z",
+          "userName": "Goldstriker208",
+          "issueNumber": 81474,
           "arch32": false
         }
       ]
