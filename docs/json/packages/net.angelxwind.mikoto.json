@@ -1,7 +1,7 @@
 {
   "id": "net.angelxwind.mikoto",
   "name": "mikoto",
-  "latest": "4.0.3",
+  "latest": "3.0.8",
   "repository": "Karen's Repo",
   "url": "https://cydia.angelxwind.net/",
   "shortDescription": "Comprehensive iOS System/App Store App customisation suite",
@@ -145,11 +145,11 @@
       "repository": "Karen's Repo",
       "date": "2018-03-04T18:56:44Z",
       "outcome": {
-        "calculatedStatus": "Likely working",
-        "percentage": 75,
-        "good": 3,
+        "calculatedStatus": "Working",
+        "percentage": 80,
+        "good": 4,
         "bad": 0,
-        "total": 4,
+        "total": 5,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -193,6 +193,15 @@
           "date": "2018-05-24T23:23:15Z",
           "userName": "theb1g0ne",
           "issueNumber": 12017,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,3",
+          "issues": "",
+          "date": "2018-03-07T20:22:54Z",
+          "userName": "pipoliviero",
+          "issueNumber": 4822,
           "arch32": false
         }
       ]
