@@ -1,7 +1,7 @@
 {
   "id": "openssh",
   "name": "OpenSSH",
-  "latest": "6.7p1-13",
+  "latest": "7.9p1-3",
   "repository": "Electra's iOS Utilities",
   "url": "http://cydia.saurik.com/package/openssh/",
   "shortDescription": "secure remote access between machines",
@@ -1694,9 +1694,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 1,
+        "good": 2,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1713,6 +1713,15 @@
           "date": "2019-03-12T08:16:27Z",
           "userName": "EnveRuleZZ",
           "issueNumber": 76665,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2019-03-29T06:15:47Z",
+          "userName": "delon5",
+          "issueNumber": 81508,
           "arch32": false
         }
       ]
