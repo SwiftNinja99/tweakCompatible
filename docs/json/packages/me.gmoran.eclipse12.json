@@ -1758,11 +1758,11 @@
       "repository": "Packix",
       "date": "2019-03-28T15:45:48Z",
       "outcome": {
-        "calculatedStatus": "Likely working",
-        "percentage": 75,
-        "good": 3,
+        "calculatedStatus": "Working",
+        "percentage": 80,
+        "good": 4,
         "bad": 0,
-        "total": 4,
+        "total": 5,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1806,6 +1806,15 @@
           "date": "2019-03-29T17:31:57Z",
           "userName": "fastbreakj",
           "issueNumber": 81585,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone10,3",
+          "issues": "Can’t move homescreen icons",
+          "date": "2019-03-29T22:30:29Z",
+          "userName": "magicbandz",
+          "issueNumber": 81649,
           "arch32": false
         }
       ]
