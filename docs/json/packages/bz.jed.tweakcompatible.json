@@ -1,7 +1,7 @@
 {
   "id": "bz.jed.tweakcompatible",
   "name": "tweakCompatible",
-  "latest": "0.0.6",
+  "latest": "0.1.5",
   "repository": "BigBoss",
   "url": "http://cydia.saurik.com/package/bz.jed.tweakcompatible/",
   "shortDescription": "Adds a way to check tweak compatibility in cydia",
@@ -11648,9 +11648,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 1,
+        "good": 2,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -11667,6 +11667,15 @@
           "date": "2019-03-19T23:00:35Z",
           "userName": "OverHereIdiots",
           "issueNumber": 79311,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,4",
+          "issues": "",
+          "date": "2019-03-29T23:16:28Z",
+          "userName": "stas-prze",
+          "issueNumber": 81671,
           "arch32": false
         }
       ]
