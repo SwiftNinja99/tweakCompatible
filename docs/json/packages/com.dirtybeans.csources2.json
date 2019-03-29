@@ -158,11 +158,11 @@
       "repository": "BigBoss",
       "date": "2019-02-26T19:31:56Z",
       "outcome": {
-        "calculatedStatus": "Not working",
-        "percentage": 0,
-        "good": 0,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
+        "good": 1,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -179,6 +179,15 @@
           "date": "2019-02-26T19:31:56Z",
           "userName": "neumaif02",
           "issueNumber": 67912,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone9,1",
+          "issues": "",
+          "date": "2019-03-29T02:29:47Z",
+          "userName": "Grapplerone",
+          "issueNumber": 81468,
           "arch32": false
         }
       ]
