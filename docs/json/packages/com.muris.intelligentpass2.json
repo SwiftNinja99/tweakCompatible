@@ -151,9 +151,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 1,
+        "good": 2,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -170,6 +170,15 @@
           "date": "2019-03-16T19:27:53Z",
           "userName": "rabidi1",
           "issueNumber": 78125,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "It’s working, but Bluetooth unlock still doesn’t work with the latest update with devices like fossil hybrid Smartwatch. ",
+          "date": "2019-03-29T06:55:33Z",
+          "userName": "jacobmilli10",
+          "issueNumber": 81513,
           "arch32": false
         }
       ]
