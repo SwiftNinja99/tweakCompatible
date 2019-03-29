@@ -4055,10 +4055,10 @@
       "date": "2019-03-06T16:58:09Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 72,
+        "percentage": 66,
         "good": 8,
         "bad": 0,
-        "total": 11,
+        "total": 12,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -4165,6 +4165,15 @@
           "date": "2019-03-28T21:57:07Z",
           "userName": "drmaernardi",
           "issueNumber": 81411,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,2",
+          "issues": "Safe mode",
+          "date": "2019-03-29T18:58:03Z",
+          "userName": "TheWarDoctor88",
+          "issueNumber": 81592,
           "arch32": false
         }
       ]
