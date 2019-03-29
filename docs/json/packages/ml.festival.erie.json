@@ -1,7 +1,7 @@
 {
   "id": "ml.festival.erie",
   "name": "Erie",
-  "latest": "0.6",
+  "latest": "0.5-1",
   "repository": "BigBoss",
   "url": "http://cydia.saurik.com/package/ml.festival.erie/",
   "shortDescription": "Taptic feedback when pressing buttons. Inpspired by iPhone 7.",
@@ -108,10 +108,10 @@
       "date": "2018-03-13T16:33:53Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 50,
-        "good": 1,
+        "percentage": 66,
+        "good": 2,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -137,6 +137,15 @@
           "date": "2018-03-26T11:13:07Z",
           "userName": "zzaibis",
           "issueNumber": 8308,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,3",
+          "issues": "",
+          "date": "2018-03-11T01:03:46Z",
+          "userName": "pipoliviero",
+          "issueNumber": 5439,
           "arch32": false
         }
       ]
