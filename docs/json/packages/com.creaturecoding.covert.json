@@ -248,10 +248,10 @@
       "date": "2019-02-23T03:04:37Z",
       "outcome": {
         "calculatedStatus": "Not working",
-        "percentage": 0,
-        "good": 0,
+        "percentage": 33,
+        "good": 1,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -277,6 +277,15 @@
           "date": "2019-02-24T18:34:52Z",
           "userName": "Popcorncandy09",
           "issueNumber": 65096,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone9,2",
+          "issues": "Hiding chat list doesn’t work. Just enables DND mode",
+          "date": "2019-03-29T04:36:35Z",
+          "userName": "jakeroxen",
+          "issueNumber": 81497,
           "arch32": false
         }
       ]
