@@ -154,11 +154,11 @@
       "repository": "BigBoss",
       "date": "2019-03-17T21:57:11Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 100,
+        "calculatedStatus": "Likely working",
+        "percentage": 66,
         "good": 2,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -184,6 +184,15 @@
           "date": "2019-03-26T09:32:59Z",
           "userName": "RealRavix",
           "issueNumber": 80795,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPad7,5",
+          "issues": "No multitasking on iPad",
+          "date": "2019-03-29T09:03:40Z",
+          "userName": "konstantintuev",
+          "issueNumber": 81530,
           "arch32": false
         }
       ]
