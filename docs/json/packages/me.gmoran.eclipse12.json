@@ -1758,11 +1758,11 @@
       "repository": "Packix",
       "date": "2019-03-28T15:45:48Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 100,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
         "good": 1,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1779,6 +1779,15 @@
           "date": "2019-03-28T15:45:48Z",
           "userName": "813Samauarai",
           "issueNumber": 81332,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,3",
+          "issues": "crashes all apps on launch",
+          "date": "2019-03-29T06:44:23Z",
+          "userName": "tweakmaster7",
+          "issueNumber": 81512,
           "arch32": false
         }
       ]
