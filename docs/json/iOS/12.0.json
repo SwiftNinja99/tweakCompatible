@@ -5055,7 +5055,7 @@
     {
       "id": "com.dpkg.cappd",
       "name": "Cappd",
-      "latest": "1.0.2",
+      "latest": "1.0.2-1",
       "repository": "dpkg9510's Repo",
       "url": "http://cydia.saurik.com/package/com.dpkg.cappd/",
       "shortDescription": "Safely disable some executables/daemons.",
@@ -5608,7 +5608,7 @@
     {
       "id": "me.alfhaily.cercube",
       "name": "Cercube for YouTube",
-      "latest": "4.2.2.5",
+      "latest": "4.2.2.10",
       "repository": "Alfhaily APT",
       "url": "https://apt.alfhaily.me/",
       "shortDescription": "Download YouTube videos and more!",
@@ -6293,6 +6293,40 @@
           "iOSVersion": "12.0",
           "repository": "Packix",
           "date": "2019-03-13T06:45:33Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "me.gmoran.colorboard",
+      "name": "ColorBoard",
+      "latest": "0.0.3",
+      "repository": "GMoran Beta Software",
+      "url": "http://cydia.saurik.com/package/me.gmoran.colorboard/",
+      "shortDescription": "Changes your keyboard's color based on the app's icon color!",
+      "category": "Tweaks",
+      "author": "Guillermo Moran",
+      "commercial": false,
+      "date": "2019-03-28T04:19:34Z",
+      "versions": [
+        {
+          "tweakVersion": "0.0.3",
+          "iOSVersion": "12.0",
+          "repository": "GMoran Beta Software",
+          "date": "2019-03-29T01:44:10Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -10480,7 +10514,7 @@
     {
       "id": "com.tigisoftware.filza",
       "name": "Filza File Manager",
-      "latest": "3.6.4",
+      "latest": "3.7.0-18",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.tigisoftware.filza/",
       "shortDescription": "File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+",
@@ -16490,7 +16524,7 @@
     {
       "id": "com.spark.lowbatterybanner",
       "name": "LowBatteryBanner [Public]",
-      "latest": "1.0.0-1",
+      "latest": "1.0.2",
       "repository": "Spark's Beta Repo",
       "url": "http://cydia.saurik.com/package/com.spark.lowbatterybanner/",
       "shortDescription": "Replace low power alert with a banner notification!",
