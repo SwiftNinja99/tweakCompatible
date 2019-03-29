@@ -195,10 +195,10 @@
       "date": "2019-03-20T22:22:04Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 66,
-        "good": 2,
+        "percentage": 75,
+        "good": 3,
         "bad": 0,
-        "total": 3,
+        "total": 4,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -233,6 +233,15 @@
           "date": "2019-03-25T14:29:56Z",
           "userName": "rwkearns",
           "issueNumber": 80613,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,4",
+          "issues": "",
+          "date": "2019-03-29T07:21:36Z",
+          "userName": "Jmancill1",
+          "issueNumber": 81515,
           "arch32": false
         }
       ]
