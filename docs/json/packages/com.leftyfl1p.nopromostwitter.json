@@ -314,11 +314,11 @@
       "repository": "Alex's Repo",
       "date": "2019-02-24T10:04:13Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 100,
+        "calculatedStatus": "Likely working",
+        "percentage": 66,
         "good": 2,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -344,6 +344,15 @@
           "date": "2019-02-27T22:19:09Z",
           "userName": "Chilly167",
           "issueNumber": 68991,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone8,1",
+          "issues": "Newest version of Twitter (7.45) crashes on dashboard.",
+          "date": "2019-03-30T06:34:50Z",
+          "userName": "Arpsdeux",
+          "issueNumber": 81727,
           "arch32": false
         }
       ]
