@@ -840,11 +840,11 @@
       "repository": "BigBoss",
       "date": "2019-03-11T22:43:27Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 100,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
         "good": 1,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -861,6 +861,15 @@
           "date": "2019-03-11T22:42:38Z",
           "userName": "fazlul101",
           "issueNumber": 76532,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,6",
+          "issues": "iPhone X WARNING!!! I had to wait a week before I could use my phone again. I intiated a manual safe shutdown while my phone was at 100%, but after plugging in the charger, the phone did not come out of shutdown mode. I had to wait a week for my battery to die, and then re-jailbreak.",
+          "date": "2019-03-30T14:06:05Z",
+          "userName": "HenshinMijin",
+          "issueNumber": 81848,
           "arch32": false
         }
       ]
