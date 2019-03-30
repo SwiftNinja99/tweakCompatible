@@ -173,6 +173,37 @@
           "arch32": false
         }
       ]
+    },
+    {
+      "tweakVersion": "3.0.8.8",
+      "iOSVersion": "10.3.3",
+      "repository": "CreatureCoding",
+      "date": "2019-03-30T22:00:02Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 1,
+          "good": 1,
+          "bad": 0,
+          "percentage": 100,
+          "calculatedStatus": "Working"
+        }
+      },
+      "users": [
+        {
+          "status": "partial",
+          "device": "iPhone5,4",
+          "issues": "Notifications settings crashes when opened. The lock screen on left side is not configurable. ",
+          "date": "2019-03-30T22:00:02Z",
+          "userName": "gamma-577",
+          "issueNumber": 81932,
+          "arch32": true
+        }
+      ]
     }
   ]
 }
