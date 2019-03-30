@@ -655,11 +655,11 @@
       "repository": "rpetrich repo",
       "date": "2019-02-23T02:44:37Z",
       "outcome": {
-        "calculatedStatus": "Likely working",
-        "percentage": 75,
-        "good": 6,
+        "calculatedStatus": "Working",
+        "percentage": 77,
+        "good": 7,
         "bad": 0,
-        "total": 8,
+        "total": 9,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -739,6 +739,15 @@
           "date": "2019-03-20T17:25:00Z",
           "userName": "SanguineL",
           "issueNumber": 79496,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-03-30T16:57:53Z",
+          "userName": "meatyalien",
+          "issueNumber": 81895,
           "arch32": false
         }
       ]
