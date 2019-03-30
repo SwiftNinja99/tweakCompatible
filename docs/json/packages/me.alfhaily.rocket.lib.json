@@ -482,11 +482,11 @@
       "repository": "Alfhaily APT",
       "date": "2019-02-23T05:02:18Z",
       "outcome": {
-        "calculatedStatus": "Likely working",
-        "percentage": 75,
-        "good": 3,
+        "calculatedStatus": "Working",
+        "percentage": 80,
+        "good": 4,
         "bad": 0,
-        "total": 4,
+        "total": 5,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -530,6 +530,15 @@
           "date": "2019-03-30T05:34:20Z",
           "userName": "andrearug",
           "issueNumber": 81716,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2019-03-30T14:08:02Z",
+          "userName": "charalez",
+          "issueNumber": 81851,
           "arch32": false
         }
       ]
