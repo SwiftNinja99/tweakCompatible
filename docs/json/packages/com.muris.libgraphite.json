@@ -296,10 +296,10 @@
       "date": "2019-03-07T00:28:38Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 66,
+        "percentage": 50,
         "good": 2,
         "bad": 0,
-        "total": 3,
+        "total": 4,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -334,6 +334,15 @@
           "date": "2019-03-17T16:02:09Z",
           "userName": "johnnyy1337",
           "issueNumber": 78461,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone8,1",
+          "issues": "Safemode ",
+          "date": "2019-03-30T14:45:57Z",
+          "userName": "MrDiamond64",
+          "issueNumber": 81860,
           "arch32": false
         }
       ]
