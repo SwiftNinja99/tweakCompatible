@@ -482,11 +482,11 @@
       "repository": "Alfhaily APT",
       "date": "2019-02-23T05:02:18Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 100,
+        "calculatedStatus": "Likely working",
+        "percentage": 75,
         "good": 3,
         "bad": 0,
-        "total": 3,
+        "total": 4,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -521,6 +521,15 @@
           "date": "2019-02-23T17:04:13Z",
           "userName": "kruljulord",
           "issueNumber": 62504,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone8,1",
+          "issues": "Not fully supported by UncOver b46/b48 RSD",
+          "date": "2019-03-30T05:34:20Z",
+          "userName": "andrearug",
+          "issueNumber": 81716,
           "arch32": false
         }
       ]
