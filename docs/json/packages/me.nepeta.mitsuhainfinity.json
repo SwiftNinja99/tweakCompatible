@@ -1,7 +1,7 @@
 {
   "id": "me.nepeta.mitsuhainfinity",
   "name": "Mitsuha Infinity",
-  "latest": "0.1.1",
+  "latest": "0.1.2",
   "repository": "Nepeta",
   "url": "http://cydia.saurik.com/package/me.nepeta.mitsuhainfinity/",
   "shortDescription": "Audio visualizer for iOS",
@@ -210,6 +210,37 @@
           "date": "2019-03-30T20:50:50Z",
           "userName": "theawsomenator",
           "issueNumber": 81924,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.1.2",
+      "iOSVersion": "12.0.1",
+      "repository": "Nepeta",
+      "date": "2019-03-30T22:40:41Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "partial",
+          "device": "iPhone10,4",
+          "issues": "",
+          "date": "2019-03-30T22:40:41Z",
+          "userName": "Shil0h",
+          "issueNumber": 81938,
           "arch32": false
         }
       ]
