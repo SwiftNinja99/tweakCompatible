@@ -220,11 +220,11 @@
       "repository": "Packix",
       "date": "2019-02-23T15:05:28Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 100,
+        "calculatedStatus": "Likely working",
+        "percentage": 66,
         "good": 2,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -250,6 +250,15 @@
           "date": "2019-02-24T08:50:26Z",
           "userName": "Starbix",
           "issueNumber": 64148,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone8,1",
+          "issues": "Currently does not work on Twitter version 7.45 or higher.",
+          "date": "2019-03-30T09:28:19Z",
+          "userName": "Arpsdeux",
+          "issueNumber": 81738,
           "arch32": false
         }
       ]
