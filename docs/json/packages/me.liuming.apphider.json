@@ -1,7 +1,7 @@
 {
   "id": "me.liuming.apphider",
   "name": "App Hider(应用隐藏) - Make Apps disappeared from SpringBoard",
-  "latest": "1.5.2",
+  "latest": "1.5.6",
   "repository": "BigBoss",
   "url": "http://cydia.saurik.com/package/me.liuming.apphider/",
   "shortDescription": "Hide your Apps from SpringBoard",
@@ -263,6 +263,37 @@
           "date": "2019-03-21T08:24:08Z",
           "userName": "gatekeeper1122",
           "issueNumber": 79686,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.5.6",
+      "iOSVersion": "12.1.2",
+      "repository": "BigBoss",
+      "date": "2019-03-31T16:46:27Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,2",
+          "issues": "",
+          "date": "2019-03-31T16:46:27Z",
+          "userName": "nqlvrd",
+          "issueNumber": 82090,
           "arch32": false
         }
       ]
