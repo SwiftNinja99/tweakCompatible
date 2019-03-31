@@ -1727,10 +1727,10 @@
       "date": "2019-03-08T18:34:11Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 69,
+        "percentage": 64,
         "good": 9,
         "bad": 0,
-        "total": 13,
+        "total": 14,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1855,6 +1855,15 @@
           "date": "2019-03-26T06:25:42Z",
           "userName": "ehoeve786",
           "issueNumber": 80758,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone8,1",
+          "issues": "Doesn’t work iPhone 6S iOS 12.1.1 beta 3",
+          "date": "2019-03-31T13:31:54Z",
+          "userName": "Dopertje",
+          "issueNumber": 82044,
           "arch32": false
         }
       ]
