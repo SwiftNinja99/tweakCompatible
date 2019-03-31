@@ -1,7 +1,7 @@
 {
   "id": "com.ps.amber",
   "name": "Amber",
-  "latest": "0.0.2.10",
+  "latest": "0.0.3",
   "repository": "PoomSmart's Repo",
   "url": "http://cydia.saurik.com/package/com.ps.amber/",
   "shortDescription": "Amber-ify your LED torch.",
@@ -739,6 +739,37 @@
           "date": "2019-03-30T12:38:28Z",
           "userName": "gochart420",
           "issueNumber": 81823,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.0.3",
+      "iOSVersion": "12.1.1",
+      "repository": "PoomSmart's Repo",
+      "date": "2019-03-31T06:43:07Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone7,2",
+          "issues": "",
+          "date": "2019-03-31T06:43:07Z",
+          "userName": "Abdullah123451",
+          "issueNumber": 81991,
           "arch32": false
         }
       ]
