@@ -433,11 +433,11 @@
       "repository": "Bingner/Elucubratus",
       "date": "2019-02-24T08:02:15Z",
       "outcome": {
-        "calculatedStatus": "Likely working",
-        "percentage": 50,
+        "calculatedStatus": "Not working",
+        "percentage": 40,
         "good": 2,
         "bad": 0,
-        "total": 4,
+        "total": 5,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -481,6 +481,15 @@
           "date": "2019-03-17T09:57:10Z",
           "userName": "mastercreeper66",
           "issueNumber": 78330,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone8,4",
+          "issues": "It doesnt show the process list just the header section, but that is okay and working",
+          "date": "2019-03-31T10:47:40Z",
+          "userName": "vbtiger",
+          "issueNumber": 82021,
           "arch32": false
         }
       ]
