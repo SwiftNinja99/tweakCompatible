@@ -1,7 +1,7 @@
 {
   "id": "com.julioverne.cypush2",
   "name": "CyPush2",
-  "latest": "1.1-1",
+  "latest": "1.1",
   "repository": "julioverne's Repo",
   "url": "http://twitter.com/ijulioverne",
   "shortDescription": "Cydia Push Notifications Background",
@@ -530,11 +530,11 @@
       "repository": "julioverne's Repo",
       "date": "2019-03-01T14:56:21Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 100,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
         "good": 1,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -551,6 +551,15 @@
           "date": "2019-03-01T14:56:21Z",
           "userName": "MattieThurlow96",
           "issueNumber": 70146,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone7,2",
+          "issues": "",
+          "date": "2019-03-31T02:04:13Z",
+          "userName": "Vipsaeed",
+          "issueNumber": 81956,
           "arch32": false
         }
       ]
