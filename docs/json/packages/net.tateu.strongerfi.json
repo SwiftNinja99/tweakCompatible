@@ -313,11 +313,11 @@
       "repository": "tateu's repo",
       "date": "2019-03-03T03:10:35Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 100,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
         "good": 1,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -334,6 +334,15 @@
           "date": "2019-03-03T03:10:35Z",
           "userName": "percyjk23",
           "issueNumber": 71150,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,4",
+          "issues": "The tweak halts the scanning of wifi unless you stay in the settings page. When RSSI goes below the threshold, it disconnects from the wifi, but does NOT connect to the stronger one. In fact, it keeps the phone disconnected from any wifi network, unless you connect manually via settings, which defeats the point.",
+          "date": "2019-03-31T11:53:06Z",
+          "userName": "Garlicvideos",
+          "issueNumber": 82031,
           "arch32": false
         }
       ]
