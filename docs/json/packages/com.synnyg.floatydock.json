@@ -1,7 +1,7 @@
 {
   "id": "com.synnyg.floatydock",
   "name": "FloatyDock",
-  "latest": "1.4.1",
+  "latest": "1.5",
   "repository": "BigBoss",
   "url": "http://cydia.saurik.com/package/com.synnyg.floatydock/",
   "shortDescription": "iPad dock power, for all !",
@@ -2072,6 +2072,37 @@
           "date": "2019-03-26T06:25:26Z",
           "userName": "ehoeve786",
           "issueNumber": 80756,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.5",
+      "iOSVersion": "12.0",
+      "repository": "BigBoss",
+      "date": "2019-03-31T18:23:54Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,4",
+          "issues": "",
+          "date": "2019-03-31T18:23:54Z",
+          "userName": "leveron1995",
+          "issueNumber": 82117,
           "arch32": false
         }
       ]
