@@ -363,11 +363,11 @@
       "repository": "Alex's Repo",
       "date": "2019-02-24T16:47:55Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 100,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
         "good": 1,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -384,6 +384,15 @@
           "date": "2019-02-24T16:47:55Z",
           "userName": "MrZenon",
           "issueNumber": 64873,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone9,3",
+          "issues": "Twitter Version 7.45 Crash ",
+          "date": "2019-03-31T11:43:03Z",
+          "userName": "pali768",
+          "issueNumber": 82030,
           "arch32": false
         }
       ]
