@@ -158,11 +158,11 @@
       "repository": "Packix",
       "date": "2019-03-02T03:26:14Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 100,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
         "good": 1,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -179,6 +179,15 @@
           "date": "2019-03-02T03:26:14Z",
           "userName": "michalek1999",
           "issueNumber": 70555,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone8,4",
+          "issues": "Not save the settings after any respring",
+          "date": "2019-04-01T20:58:03Z",
+          "userName": "midjih",
+          "issueNumber": 82307,
           "arch32": false
         }
       ]
