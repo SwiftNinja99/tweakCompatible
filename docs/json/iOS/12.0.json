@@ -943,40 +943,6 @@
       ]
     },
     {
-      "id": "com.adamseiter.animationbefast",
-      "name": "AnimationsBeFast",
-      "latest": "1.4.1",
-      "repository": "eXqusic's Repo",
-      "url": "http://cydia.saurik.com/package/com.adamseiter.animationbefast/",
-      "shortDescription": "Speeds up animations",
-      "category": "Tweaks",
-      "author": "Adam Seiter",
-      "commercial": false,
-      "date": "2018-07-17T09:43:18Z",
-      "versions": [
-        {
-          "tweakVersion": "1.4.1",
-          "iOSVersion": "12.0",
-          "repository": "(null)",
-          "date": "2019-02-27T15:13:46Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.adamseiter.animationsbefast",
       "name": "AnimationsBeFast",
       "latest": "1.4.5",
@@ -1033,6 +999,40 @@
           "iOSVersion": "12.0",
           "repository": "eXqusic's Repo",
           "date": "2019-03-06T02:39:58Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.adamseiter.animationbefast",
+      "name": "AnimationsBeFast",
+      "latest": "1.4.1",
+      "repository": "eXqusic's Repo",
+      "url": "http://cydia.saurik.com/package/com.adamseiter.animationbefast/",
+      "shortDescription": "Speeds up animations",
+      "category": "Tweaks",
+      "author": "Adam Seiter",
+      "commercial": false,
+      "date": "2018-07-17T09:43:18Z",
+      "versions": [
+        {
+          "tweakVersion": "1.4.1",
+          "iOSVersion": "12.0",
+          "repository": "(null)",
+          "date": "2019-02-27T15:13:46Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -4728,7 +4728,7 @@
     {
       "id": "com.bytafont.bytafont3",
       "name": "BytaFont 3",
-      "latest": "3.6",
+      "latest": "3.1.5",
       "repository": "ModMyi (Archive)",
       "url": "http://cydia.saurik.com/package/com.bytafont.bytafont3/",
       "shortDescription": "BytaFont 3 lets you apply fonts to your iDevice in few taps.",
@@ -4746,7 +4746,7 @@
             "percentage": 0,
             "good": 0,
             "bad": 0,
-            "total": 1,
+            "total": 2,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -5413,7 +5413,7 @@
     {
       "id": "com.dpkg.cappd",
       "name": "Cappd",
-      "latest": "1.0.2-1",
+      "latest": "1.0.3",
       "repository": "dpkg9510's Repo",
       "url": "http://cydia.saurik.com/package/com.dpkg.cappd/",
       "shortDescription": "Safely disable some executables/daemons.",
@@ -7808,40 +7808,6 @@
       ]
     },
     {
-      "id": "com.mc.curl",
-      "name": "cURL",
-      "latest": "7.62.0-3",
-      "repository": "MCApollo",
-      "url": "http://cydia.saurik.com/package/com.mc.curl/",
-      "shortDescription": "Athena Project | Compiled for ARM64.",
-      "category": "Networking",
-      "author": "(null)",
-      "commercial": false,
-      "date": "2019-02-23T07:59:55Z",
-      "versions": [
-        {
-          "tweakVersion": "7.62.0-3",
-          "iOSVersion": "12.0",
-          "repository": "MCApollo",
-          "date": "2019-03-12T11:27:51Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "curl",
       "name": "cURL",
       "latest": "7.62.0-1",
@@ -7864,6 +7830,40 @@
             "good": 2,
             "bad": 0,
             "total": 2,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.mc.curl",
+      "name": "cURL",
+      "latest": "7.62.0-3",
+      "repository": "MCApollo",
+      "url": "http://cydia.saurik.com/package/com.mc.curl/",
+      "shortDescription": "Athena Project | Compiled for ARM64.",
+      "category": "Networking",
+      "author": "(null)",
+      "commercial": false,
+      "date": "2019-02-23T07:59:55Z",
+      "versions": [
+        {
+          "tweakVersion": "7.62.0-3",
+          "iOSVersion": "12.0",
+          "repository": "MCApollo",
+          "date": "2019-03-12T11:27:51Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -8152,7 +8152,7 @@
     {
       "id": "com.swedishprxck.cydiaupdates",
       "name": "CydiaUpdates",
-      "latest": "0.0.1-1+debug",
+      "latest": "0.0.1-2+debug",
       "repository": "Packix",
       "url": "http://cydia.saurik.com/package/com.swedishprxck.cydiaupdates/",
       "shortDescription": "Shows all package updates under changes tab in Cydia",
@@ -8186,7 +8186,7 @@
     {
       "id": "com.iosnjb.cydiaxistyle2",
       "name": "CydiaXIStyle 2.0",
-      "latest": "2.0.1",
+      "latest": "2.0.2",
       "repository": "Packix",
       "url": "http://cydia.saurik.com/package/com.iosnjb.cydiaxistyle2/",
       "shortDescription": "iOS 11 and 12 style cydia home page",
@@ -18436,10 +18436,10 @@
     {
       "id": "com.idevicehacked.miscsettings",
       "name": "MiscSettings",
-      "latest": "2.3.0",
+      "latest": "2.3.1",
       "repository": "iDevice Hacked Repo",
       "url": "http://cydia.saurik.com/package/com.idevicehacked.miscsettings/",
-      "shortDescription": "So far has 50+ Miscellaneous toggles!",
+      "shortDescription": "So far has 46+ Miscellaneous toggles!",
       "category": "Tweaks",
       "author": "Lucifers Circle",
       "commercial": false,
@@ -22970,40 +22970,6 @@
       ]
     },
     {
-      "id": "com.jakeashacks.realcc",
-      "name": "RealCC",
-      "latest": "1.0.1",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/com.jakeashacks.realcc/",
-      "shortDescription": "Actually disable Wi-Fi from the iOS 11 CC",
-      "category": "Tweaks",
-      "author": "Jake James",
-      "commercial": false,
-      "date": "2018-07-11T02:33:10Z",
-      "versions": [
-        {
-          "tweakVersion": "1.0.1",
-          "iOSVersion": "12.0",
-          "repository": "BigBoss",
-          "date": "2019-02-23T02:29:24Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 7,
-            "bad": 0,
-            "total": 7,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.subdiox.realcc",
       "name": "RealCC",
       "latest": "0.0.4",
@@ -23026,6 +22992,40 @@
             "good": 1,
             "bad": 0,
             "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.jakeashacks.realcc",
+      "name": "RealCC",
+      "latest": "1.0.1",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.jakeashacks.realcc/",
+      "shortDescription": "Actually disable Wi-Fi from the iOS 11 CC",
+      "category": "Tweaks",
+      "author": "Jake James",
+      "commercial": false,
+      "date": "2018-07-11T02:33:10Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0.1",
+          "iOSVersion": "12.0",
+          "repository": "BigBoss",
+          "date": "2019-02-23T02:29:24Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 7,
+            "bad": 0,
+            "total": 7,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -24167,7 +24167,7 @@
     {
       "id": "co.dynastic.ios.tweak.shortlook",
       "name": "ShortLook",
-      "latest": "1.0.10",
+      "latest": "1.0.12",
       "repository": "Dynastic Repo",
       "url": "http://cydia.saurik.com/package/co.dynastic.ios.tweak.shortlook/",
       "shortDescription": "Your notifications. At a glance. — ShortLook displays on your locked iPhone as you receive a notification using it's beautiful full screen design, allowing for readability from a distance. Made to be as unobtrusive as possible, it dismisses",
@@ -25062,22 +25062,22 @@
       ]
     },
     {
-      "id": "com.mvincentm.snoozex",
+      "id": "com.yourepo.vincentmdlm.snooze",
       "name": "SnoozeX",
       "latest": "1.0",
-      "repository": "Packix",
-      "url": "http://cydia.saurik.com/package/com.mvincentm.snoozex/",
+      "repository": "VincentMdlM Source - YouRepo",
+      "url": "http://cydia.saurik.com/package/com.yourepo.vincentmdlm.snooze/",
       "shortDescription": "Thanks to SnoozeX, you will no longer have any trouble waking up or going back to sleep.",
       "category": "Tweaks",
       "author": "VincentMdlM",
       "commercial": true,
-      "date": "2019-03-21T10:02:39Z",
+      "date": "2019-03-13T13:04:12Z",
       "versions": [
         {
           "tweakVersion": "1.0",
           "iOSVersion": "12.0",
-          "repository": "Packix",
-          "date": "2019-03-21T10:02:39Z",
+          "repository": "VincentMdlM Source - YouRepo",
+          "date": "2019-03-13T13:04:12Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -25096,22 +25096,22 @@
       ]
     },
     {
-      "id": "com.yourepo.vincentmdlm.snooze",
+      "id": "com.mvincentm.snoozex",
       "name": "SnoozeX",
       "latest": "1.0",
-      "repository": "VincentMdlM Source - YouRepo",
-      "url": "http://cydia.saurik.com/package/com.yourepo.vincentmdlm.snooze/",
+      "repository": "Packix",
+      "url": "http://cydia.saurik.com/package/com.mvincentm.snoozex/",
       "shortDescription": "Thanks to SnoozeX, you will no longer have any trouble waking up or going back to sleep.",
       "category": "Tweaks",
       "author": "VincentMdlM",
       "commercial": true,
-      "date": "2019-03-13T13:04:12Z",
+      "date": "2019-03-21T10:02:39Z",
       "versions": [
         {
           "tweakVersion": "1.0",
           "iOSVersion": "12.0",
-          "repository": "VincentMdlM Source - YouRepo",
-          "date": "2019-03-13T13:04:12Z",
+          "repository": "Packix",
+          "date": "2019-03-21T10:02:39Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
