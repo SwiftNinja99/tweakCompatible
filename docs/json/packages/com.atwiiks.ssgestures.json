@@ -430,11 +430,11 @@
       "repository": "Packix",
       "date": "2019-03-28T13:11:06Z",
       "outcome": {
-        "calculatedStatus": "Not working",
-        "percentage": 0,
-        "good": 0,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
+        "good": 1,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -451,6 +451,15 @@
           "date": "2019-03-28T13:11:06Z",
           "userName": "ninonins",
           "issueNumber": 81320,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone6,2",
+          "issues": "Makes the screenshot slower but it seems to work for me ",
+          "date": "2019-04-01T22:29:06Z",
+          "userName": "Pick-Another-Username",
+          "issueNumber": 82317,
           "arch32": false
         }
       ]
