@@ -319,11 +319,11 @@
       "repository": "BigBoss",
       "date": "2019-02-28T17:20:56Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 100,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
         "good": 1,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -340,6 +340,15 @@
           "date": "2019-02-28T17:20:56Z",
           "userName": "lolihikikomori",
           "issueNumber": 69492,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone8,1",
+          "issues": "Didn’t work with SoundCloud or overcast",
+          "date": "2019-04-01T22:45:01Z",
+          "userName": "cmon1193",
+          "issueNumber": 82319,
           "arch32": false
         }
       ]
