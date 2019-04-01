@@ -1,10 +1,10 @@
 {
   "id": "com.idevicehacked.miscsettings",
   "name": "MiscSettings",
-  "latest": "2.3.0",
+  "latest": "2.3.1",
   "repository": "iDevice Hacked Repo",
   "url": "http://cydia.saurik.com/package/com.idevicehacked.miscsettings/",
-  "shortDescription": "So far has 50+ Miscellaneous toggles!",
+  "shortDescription": "So far has 46+ Miscellaneous toggles!",
   "category": "Tweaks",
   "author": "Lucifers Circle",
   "commercial": false,
@@ -851,6 +851,37 @@
           "date": "2019-03-23T22:49:05Z",
           "userName": "DogWav3",
           "issueNumber": 80286,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.3.1",
+      "iOSVersion": "12.1.2",
+      "repository": "iDevice Hacked Repo",
+      "date": "2019-04-01T12:05:45Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,4",
+          "issues": "",
+          "date": "2019-04-01T12:05:45Z",
+          "userName": "b1ngfun",
+          "issueNumber": 82248,
           "arch32": false
         }
       ]
