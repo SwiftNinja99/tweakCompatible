@@ -17,10 +17,10 @@
       "date": "2019-03-31T18:09:21Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 75,
+        "percentage": 60,
         "good": 3,
         "bad": 0,
-        "total": 4,
+        "total": 5,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -64,6 +64,15 @@
           "date": "2019-04-01T13:51:55Z",
           "userName": "obito26m",
           "issueNumber": 82266,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone8,1",
+          "issues": "Causes respringloop",
+          "date": "2019-04-01T15:30:52Z",
+          "userName": "samisahin",
+          "issueNumber": 82277,
           "arch32": false
         }
       ]
