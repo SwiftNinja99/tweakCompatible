@@ -1367,9 +1367,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 2,
+        "good": 3,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1395,6 +1395,15 @@
           "date": "2019-02-24T09:27:03Z",
           "userName": "HeyItsMeNobody",
           "issueNumber": 64192,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone9,4",
+          "issues": "It doesn’t work on iMessage",
+          "date": "2019-04-01T19:50:03Z",
+          "userName": "kevmorav",
+          "issueNumber": 82301,
           "arch32": false
         }
       ]
