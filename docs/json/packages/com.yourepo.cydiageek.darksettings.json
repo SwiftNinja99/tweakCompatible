@@ -111,9 +111,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 1,
+        "good": 2,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -130,6 +130,15 @@
           "date": "2019-03-16T08:04:36Z",
           "userName": "tomhop99",
           "issueNumber": 77987,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,3",
+          "issues": "Works but shows white boxes in WiFi settings",
+          "date": "2019-04-01T20:58:12Z",
+          "userName": "Goldstriker208",
+          "issueNumber": 82308,
           "arch32": false
         }
       ]
