@@ -244,10 +244,10 @@
       "date": "2019-03-14T04:33:46Z",
       "outcome": {
         "calculatedStatus": "Not working",
-        "percentage": 33,
+        "percentage": 25,
         "good": 1,
         "bad": 0,
-        "total": 3,
+        "total": 4,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -282,6 +282,15 @@
           "date": "2019-03-27T05:22:24Z",
           "userName": "Pjryes",
           "issueNumber": 81017,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone8,1",
+          "issues": "Didn’t work with Discord calls, which is what i wanted it for",
+          "date": "2019-04-01T00:01:42Z",
+          "userName": "heat200",
+          "issueNumber": 82181,
           "arch32": false
         }
       ]
