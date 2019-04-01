@@ -56,11 +56,11 @@
       "repository": "julioverne's Repo",
       "date": "2018-07-08T09:55:42Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 77,
+        "calculatedStatus": "Likely working",
+        "percentage": 70,
         "good": 7,
         "bad": 0,
-        "total": 9,
+        "total": 10,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -149,6 +149,15 @@
           "date": "2019-01-29T07:01:44Z",
           "userName": "dollerbill",
           "issueNumber": 57790,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone8,1",
+          "issues": "Caused a lot of random reboots and resprings for me. Switched to Palbreak and haven’t had a reboot/respiring yet in 2 days. I believe it may be an issue with substrate vs substitute. I’m on substrate. ",
+          "date": "2019-04-01T18:17:49Z",
+          "userName": "zpersondude9",
+          "issueNumber": 82297,
           "arch32": false
         }
       ]
