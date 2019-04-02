@@ -16,11 +16,11 @@
       "repository": "dpkg9510's Repo",
       "date": "2019-04-02T07:35:07Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 100,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
         "good": 1,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -37,6 +37,15 @@
           "date": "2019-04-02T07:35:07Z",
           "userName": "mastercreeper66",
           "issueNumber": 82424,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPad7,1",
+          "issues": "Not working on iPad Pro 12.9 2nd Gen ",
+          "date": "2019-04-02T13:10:31Z",
+          "userName": "RiPx88",
+          "issueNumber": 82460,
           "arch32": false
         }
       ]
