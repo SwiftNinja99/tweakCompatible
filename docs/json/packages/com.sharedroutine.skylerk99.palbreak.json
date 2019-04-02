@@ -199,11 +199,11 @@
       "repository": "Skylerk99",
       "date": "2019-02-23T00:15:00Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 83,
+        "calculatedStatus": "Likely working",
+        "percentage": 71,
         "good": 5,
         "bad": 0,
-        "total": 6,
+        "total": 7,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -265,6 +265,15 @@
           "date": "2019-02-28T22:43:38Z",
           "userName": "daniel-d273",
           "issueNumber": 69751,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone8,1",
+          "issues": "Doesn’t with some apps like SkyGo",
+          "date": "2019-04-02T02:10:15Z",
+          "userName": "andrearug",
+          "issueNumber": 82382,
           "arch32": false
         }
       ]
