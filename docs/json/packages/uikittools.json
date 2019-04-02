@@ -1,7 +1,7 @@
 {
   "id": "uikittools",
   "name": "UIKit Tools",
-  "latest": "1.1.12-coolstar2",
+  "latest": "1.1.13-5",
   "repository": "Cydia/Telesphoreo",
   "url": "http://cydia.saurik.com/package/uikittools/",
   "shortDescription": "UIKit/GraphicsServices command line access",
@@ -887,9 +887,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 3,
+        "good": 4,
         "bad": 0,
-        "total": 3,
+        "total": 4,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -924,6 +924,15 @@
           "date": "2019-03-01T16:12:35Z",
           "userName": "tomhmoses",
           "issueNumber": 70198,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2019-04-02T02:07:58Z",
+          "userName": "andrearug",
+          "issueNumber": 82378,
           "arch32": false
         }
       ]
