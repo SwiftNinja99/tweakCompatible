@@ -70,7 +70,7 @@
     {
       "id": "libactivator",
       "name": "Activator",
-      "latest": "1.9.13~beta4",
+      "latest": "1.9.12",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/libactivator/",
       "shortDescription": "Centralized gestures, button and shortcut management for iOS",
@@ -116,6 +116,40 @@
           "iOSVersion": "11.2.5",
           "repository": "(null)",
           "date": "2019-03-05T03:23:13Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.xcxiao.quickswitcherxi",
+      "name": "Adagio",
+      "latest": "1.3.1",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.xcxiao.quickswitcherxi/",
+      "shortDescription": "Quickswitcher for iOS",
+      "category": "Tweaks",
+      "author": "XCXiao",
+      "commercial": false,
+      "date": "2018-08-20T16:28:28Z",
+      "versions": [
+        {
+          "tweakVersion": "1.3.1",
+          "iOSVersion": "11.2.5",
+          "repository": "BigBoss",
+          "date": "2019-04-02T01:59:17Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -528,7 +562,7 @@
     {
       "id": "com.ps.amber",
       "name": "Amber",
-      "latest": "0.0.2.10",
+      "latest": "0.0.3",
       "repository": "PoomSmart's Repo",
       "url": "http://cydia.saurik.com/package/com.ps.amber/",
       "shortDescription": "Amber-ify your LED torch.",
@@ -647,40 +681,6 @@
       ]
     },
     {
-      "id": "com.adamseiter.animationbefast",
-      "name": "AnimationsBeFast",
-      "latest": "1.4.1",
-      "repository": "eXqusic's Repo",
-      "url": "http://cydia.saurik.com/package/com.adamseiter.animationbefast/",
-      "shortDescription": "Speeds up animations",
-      "category": "Tweaks",
-      "author": "Adam Seiter",
-      "commercial": false,
-      "date": "2018-07-17T09:43:18Z",
-      "versions": [
-        {
-          "tweakVersion": "1.4.1",
-          "iOSVersion": "11.2.5",
-          "repository": "eXqusic's Repo",
-          "date": "2018-09-12T03:20:04Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.adamseiter.animationsbefast",
       "name": "AnimationsBeFast",
       "latest": "1.4.5",
@@ -715,12 +715,46 @@
       ]
     },
     {
+      "id": "com.adamseiter.animationbefast",
+      "name": "AnimationsBeFast",
+      "latest": "1.4.1",
+      "repository": "eXqusic's Repo",
+      "url": "http://cydia.saurik.com/package/com.adamseiter.animationbefast/",
+      "shortDescription": "Speeds up animations",
+      "category": "Tweaks",
+      "author": "Adam Seiter",
+      "commercial": false,
+      "date": "2018-07-17T09:43:18Z",
+      "versions": [
+        {
+          "tweakVersion": "1.4.1",
+          "iOSVersion": "11.2.5",
+          "repository": "eXqusic's Repo",
+          "date": "2018-09-12T03:20:04Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "net.limneos.answeringmachinex",
       "name": "AnsweringMachineX",
-      "latest": "0.4-21",
+      "latest": "1.0-6",
       "repository": "limneos.net",
       "url": "http://cydia.saurik.com/package/net.limneos.answeringmachinex/",
-      "shortDescription": "AnsweringMachine X",
+      "shortDescription": "Receive voicemails on device!",
       "category": "Tweaks",
       "author": "Elias Limneos",
       "commercial": false,
@@ -1318,7 +1352,7 @@
     {
       "id": "apt7",
       "name": "APT 0.7 Strict",
-      "latest": "0-2",
+      "latest": "1.7.2",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/apt7/",
       "shortDescription": "the advanced packaging tool from Debian",
@@ -2593,7 +2627,7 @@
     {
       "id": "ca.ndoizo.bolders",
       "name": "Bolders",
-      "latest": "1.1",
+      "latest": "1.1.1-1",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/ca.ndoizo.bolders/",
       "shortDescription": "Bigger bolder folders",
@@ -2795,7 +2829,7 @@
     {
       "id": "com.creaturecoding.bubbles",
       "name": "bubbles",
-      "latest": "0.3.0b",
+      "latest": "0.3.1b",
       "repository": "CreatureSurvive's Repo",
       "url": "http://cydia.saurik.com/package/com.creaturecoding.bubbles/",
       "shortDescription": "Make your Messages pop!",
@@ -2964,7 +2998,7 @@
     {
       "id": "com.bytafont.bytafont3",
       "name": "BytaFont 3",
-      "latest": "3.5",
+      "latest": "3.1.5",
       "repository": "ModMyi (Archive)",
       "url": "http://cydia.saurik.com/package/com.bytafont.bytafont3/",
       "shortDescription": "BytaFont 3 lets you apply fonts to your iDevice in few taps.",
@@ -3185,7 +3219,7 @@
     {
       "id": "com.dpkg.cappd",
       "name": "Cappd",
-      "latest": "1.0.2",
+      "latest": "1.0.3",
       "repository": "dpkg9510's Repo",
       "url": "http://cydia.saurik.com/package/com.dpkg.cappd/",
       "shortDescription": "Safely disable some executables/daemons.",
@@ -3550,7 +3584,7 @@
     {
       "id": "com.opa334.ccsupport",
       "name": "CCSupport",
-      "latest": "1.2-2",
+      "latest": "1.2-3",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.opa334.ccsupport/",
       "shortDescription": "Support tweak for CC modules!",
@@ -4731,7 +4765,7 @@
     {
       "id": "coreutils",
       "name": "Core Utilities",
-      "latest": "8.30-2",
+      "latest": "8.30",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/coreutils/",
       "shortDescription": "core set of Unix shell utilities from GNU",
@@ -4799,7 +4833,7 @@
     {
       "id": "com.muirey03.cr4shed",
       "name": "Cr4shed",
-      "latest": "2.0.6",
+      "latest": "2.0.7",
       "repository": "Packix",
       "url": "http://cydia.saurik.com/package/com.muirey03.cr4shed/",
       "shortDescription": "More useful crash logs",
@@ -4987,10 +5021,10 @@
     {
       "id": "cydia",
       "name": "Cydia Installer",
-      "latest": "2.1-1",
+      "latest": "1.1.32~b12",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/cydia/",
-      "shortDescription": "Base scripts and tools to set up Cydia-compatible virtual dependencies",
+      "shortDescription": "graphical iPhone front-end for APT",
       "category": "Packaging",
       "author": "Jay Freeman (saurik)",
       "commercial": false,
@@ -5093,7 +5127,7 @@
     {
       "id": "cydia-lproj",
       "name": "Cydia Translations",
-      "latest": "1.1.32~b1",
+      "latest": "1.1.12",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/cydia-lproj/",
       "shortDescription": "languages and translations for Cydia",
@@ -5159,7 +5193,7 @@
     {
       "id": "com.foxfort.darkmessenger",
       "name": "Dark Messenger",
-      "latest": "2.0.3",
+      "latest": "2.0.4",
       "repository": "Packix",
       "url": "http://cydia.saurik.com/package/com.foxfort.darkmessenger/",
       "shortDescription": "Dark mode for Messenger",
@@ -5260,7 +5294,7 @@
     {
       "id": "dpkg",
       "name": "Debian Packager",
-      "latest": "1.18.25-10",
+      "latest": "1.18.25-11",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/dpkg/",
       "shortDescription": "package maintainance tools from Debian",
@@ -5394,7 +5428,7 @@
     {
       "id": "com.foxfort.deluminator",
       "name": "Deluminator",
-      "latest": "2.1.7",
+      "latest": "2.1.9",
       "repository": "Packix",
       "url": "http://cydia.saurik.com/package/com.foxfort.deluminator/",
       "shortDescription": "Night mode for the web",
@@ -5785,7 +5819,7 @@
     {
       "id": "com.spark.doubletaplock",
       "name": "DoubleTapLock [Public]",
-      "latest": "0.0.3",
+      "latest": "1.0.0",
       "repository": "Spark's Beta Repo",
       "url": "http://cydia.saurik.com/package/com.spark.doubletaplock/",
       "shortDescription": "Double tap homescreen wallpaper to lock device",
@@ -5920,7 +5954,7 @@
     {
       "id": "com.kingpuffdaddi.dynamictimer",
       "name": "DynamicTimer",
-      "latest": "1.1",
+      "latest": "1.2.1",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.kingpuffdaddi.dynamictimer/",
       "shortDescription": "change between \"Stop Playing\" and ringtone",
@@ -6363,10 +6397,10 @@
     {
       "id": "com.thireus.untrustedhostsblockerexperimental",
       "name": "Experimental Untrusted Hosts Blocker",
-      "latest": "2.7.4",
+      "latest": "2.9.1",
       "repository": "Thireus Repository",
       "url": "http://repo.thireus.com",
-      "shortDescription": "Additional experimental hosts for UHB (Untrusted Hosts Blocker).",
+      "shortDescription": "Additional experimental hosts for UHB (Untrusted Hosts Blocker). PLEASE READ THE TWEAK DESCRIPTION PAGE!",
       "category": "Security",
       "author": "Thireus",
       "commercial": false,
@@ -6673,10 +6707,10 @@
     {
       "id": "com.kaitouiet.fastforwardtime",
       "name": "FastForwardTime",
-      "latest": "1.0.2",
+      "latest": "2.0.1",
       "repository": "iDevice Hacked Repo",
       "url": "http://cydia.saurik.com/package/com.kaitouiet.fastforwardtime/",
-      "shortDescription": "Adds seconds to your lockscreen clock!",
+      "shortDescription": "Adds seconds to your lockscreen clock, change font size of time and date, and moves them!",
       "category": "Tweaks",
       "author": "Kiet Ha",
       "commercial": false,
@@ -6761,7 +6795,7 @@
     {
       "id": "com.tigisoftware.filza",
       "name": "Filza File Manager",
-      "latest": "3.6.5-12",
+      "latest": "3.6.4",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.tigisoftware.filza/",
       "shortDescription": "File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+",
@@ -6834,7 +6868,7 @@
     {
       "id": "com.tigisoftware.filza64bit",
       "name": "Filza File Manager (64-bit only)",
-      "latest": "3.6.5-12",
+      "latest": "3.7.0-18",
       "repository": "tigisoftware.com",
       "url": "http://cydia.saurik.com/package/com.tigisoftware.filza64bit/",
       "shortDescription": "File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+. This special version only supports 64-bit devices",
@@ -6954,7 +6988,7 @@
     {
       "id": "com.cydiageek.fleetingswitcher11",
       "name": "fleetingSwitcher11",
-      "latest": "1.0.9",
+      "latest": "1.1.0",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.cydiageek.fleetingswitcher11/",
       "shortDescription": "Useful and Visual options for the iOS 11 App Switcher!",
@@ -7061,7 +7095,7 @@
     {
       "id": "flex3beta",
       "name": "Flex 3 Beta",
-      "latest": "3~Beta60",
+      "latest": "3~Beta61",
       "repository": "Delta",
       "url": "http://getdelta.co/",
       "shortDescription": "Develop your own tweaks and share them on the Flex Community Cloud",
@@ -7297,7 +7331,7 @@
     {
       "id": "com.junesiphone.frontpage",
       "name": "FrontPage",
-      "latest": "1.4",
+      "latest": "1.4.1",
       "repository": "junesiphone.com",
       "url": "http://junesiphone.com/supersecret/",
       "shortDescription": "Powerful html for the springboard.",
@@ -8133,7 +8167,7 @@
     {
       "id": "com.unlimapps.gramplus",
       "name": "Instagram ++",
-      "latest": "1.8r-249",
+      "latest": "1.8r-251",
       "repository": "beta.unlimapps.com",
       "url": "http://beta.unlimapps.com/",
       "shortDescription": "Download & Copy Instagram media",
@@ -8328,10 +8362,10 @@
     {
       "id": "com.thireus.untrustedhostsblocker9",
       "name": "iOS 9/10 - Untrusted Hosts Blocker",
-      "latest": "1.5.9",
+      "latest": "1.7.0",
       "repository": "Thireus Repository",
       "url": "http://repo.thireus.com",
-      "shortDescription": "Say goodbye to tracking, spies, intrusive ads and untrusted hosts.\r",
+      "shortDescription": "READ THE TWEAK DESCRIPTION/FAQ PAGE! Say goodbye to tracking, spies, intrusive ads and untrusted hosts. IPv4 support only.\r",
       "category": "Security",
       "author": "Thireus",
       "commercial": false,
@@ -8846,7 +8880,7 @@
     {
       "id": "com.ps.letmeblock",
       "name": "LetMeBlock",
-      "latest": "0.0.5",
+      "latest": "0.0.6.3",
       "repository": "PoomSmart's Repo",
       "url": "http://cydia.saurik.com/package/com.ps.letmeblock/",
       "shortDescription": "Make mDNSResponder care more about /etc/hosts",
@@ -8880,10 +8914,10 @@
     {
       "id": "net.limneos.libbulletin",
       "name": "libbulletin",
-      "latest": "0.1-146-trevor",
+      "latest": "0.1-145",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/net.limneos.libbulletin/",
-      "shortDescription": "Modified version of libbulletin that fixes a nasty crash on iOS 12",
+      "shortDescription": "Simple library that displays bulletins",
       "category": "Development",
       "author": "Elias Limneos",
       "commercial": false,
@@ -9000,7 +9034,7 @@
     {
       "id": "com.creaturesurvive.libcscolorpicker",
       "name": "libCSColorPicker",
-      "latest": "0.7.9",
+      "latest": "0.8.1",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.creaturesurvive.libcscolorpicker/",
       "shortDescription": "A minimal color picker library for developers",
@@ -9033,10 +9067,10 @@
     {
       "id": "com.creaturecoding.libcspreferences",
       "name": "libCSPreferences",
-      "latest": "1.0.6",
+      "latest": "1.0.8",
       "repository": "CreatureSurvive's Repo",
       "url": "http://cydia.saurik.com/package/com.creaturecoding.libcspreferences/",
-      "shortDescription": "An awesome Preference Library!",
+      "shortDescription": "A Preference Library that doesn't suck!",
       "category": "System",
       "author": "CreatureSurvive",
       "commercial": false,
@@ -9359,7 +9393,7 @@
     {
       "id": "com.spark.libsparkapplist",
       "name": "libSparkAppList",
-      "latest": "1.0.1-1",
+      "latest": "1.0.3",
       "repository": "Spark's Beta Repo",
       "url": "http://cydia.saurik.com/package/com.spark.libsparkapplist/",
       "shortDescription": "AppList alternative",
@@ -9521,7 +9555,7 @@
     {
       "id": "ldid",
       "name": "Link Identity Editor",
-      "latest": "2.1.1+elucubratus2",
+      "latest": "1.2.2-coolstar2",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/ldid/",
       "shortDescription": "pseudo-codesign Mach-O files",
@@ -9858,7 +9892,7 @@
     {
       "id": "com.favware.lotusdarkextra",
       "name": "Lotus Dark Extra",
-      "latest": "1.0.13",
+      "latest": "1.0.15",
       "repository": "Favware",
       "url": "http://cydia.saurik.com/package/com.favware.lotusdarkextra/",
       "shortDescription": "Extra Lotus Dark Icons",
@@ -10779,10 +10813,10 @@
     {
       "id": "com.thireus.untrustedhostsblockermega",
       "name": "Mega UHB - iOS 12 - MUHB (Mega Untrusted Hosts Blocker)",
-      "latest": "1.3.6",
+      "latest": "2.1.0",
       "repository": "Thireus Repository",
       "url": "http://cydia.saurik.com/package/com.thireus.untrustedhostsblockermega/",
-      "shortDescription": "Say goodbye to tracking, spies, intrusive ads and untrusted hosts.\r",
+      "shortDescription": "READ THE TWEAK DESCRIPTION/FAQ PAGE! Say goodbye to tracking, spies, intrusive ads and untrusted hosts. Supports both IPv4 and IPv6.\r",
       "category": "Security",
       "author": "Thireus",
       "commercial": false,
@@ -11192,7 +11226,7 @@
     {
       "id": "net.tateu.moveable9",
       "name": "Moveable9",
-      "latest": "1.0.0~beta29-31",
+      "latest": "1.0.0~beta29-32",
       "repository": "tateu's repo",
       "url": "http://www.tateu.net/repo/",
       "shortDescription": "Arrange statusbar icons.",
@@ -12629,21 +12663,22 @@
       ]
     },
     {
-      "id": "com.julioverne.ntspeed",
+      "id": "com.hackyouriphone.ntspeed",
       "name": "NtSpeed",
-      "latest": "0.2~beta6a",
-      "repository": "ipad_kid's repo",
-      "url": "http://ipadkid.cf/",
+      "latest": "0.2~beta5",
+      "repository": "HackYouriPhone",
+      "url": "http://cydia.saurik.com/package/com.hackyouriphone.ntspeed/",
       "shortDescription": "See Active Traffic Network Speed",
-      "category": "Tweaks",
+      "category": "HYI - Tweaks",
       "author": "julioverne",
       "commercial": false,
+      "date": "2018-06-20T21:19:38Z",
       "versions": [
         {
-          "tweakVersion": "0.2~beta6",
+          "tweakVersion": "0.2~beta5",
           "iOSVersion": "11.2.5",
-          "repository": "julioverne's Repo",
-          "date": "2018-07-30T14:47:02Z",
+          "repository": "HackYouriPhone",
+          "date": "2018-07-10T12:50:18Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -12662,22 +12697,21 @@
       ]
     },
     {
-      "id": "com.hackyouriphone.ntspeed",
+      "id": "com.julioverne.ntspeed",
       "name": "NtSpeed",
-      "latest": "0.2~beta5",
-      "repository": "HackYouriPhone",
-      "url": "http://cydia.saurik.com/package/com.hackyouriphone.ntspeed/",
+      "latest": "0.2~beta6a",
+      "repository": "ipad_kid's repo",
+      "url": "http://ipadkid.cf/",
       "shortDescription": "See Active Traffic Network Speed",
-      "category": "HYI - Tweaks",
+      "category": "Tweaks",
       "author": "julioverne",
       "commercial": false,
-      "date": "2018-06-20T21:19:38Z",
       "versions": [
         {
-          "tweakVersion": "0.2~beta5",
+          "tweakVersion": "0.2~beta6",
           "iOSVersion": "11.2.5",
-          "repository": "HackYouriPhone",
-          "date": "2018-07-10T12:50:18Z",
+          "repository": "julioverne's Repo",
+          "date": "2018-07-30T14:47:02Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -13800,7 +13834,7 @@
     {
       "id": "com.weesstt.powerdownoptions",
       "name": "PowerdownOptions",
-      "latest": "1.1.3-2+debug",
+      "latest": "1.0",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.weesstt.powerdownoptions/",
       "shortDescription": "More power down options",
@@ -13942,7 +13976,7 @@
     {
       "id": "preferenceloader",
       "name": "PreferenceLoader",
-      "latest": "2.2.3-3",
+      "latest": "2.2.4~alpha1",
       "repository": "rpetrich repo",
       "url": "http://cydia.saurik.com/package/preferenceloader/",
       "shortDescription": "load preferences in style",
@@ -14009,7 +14043,7 @@
     {
       "id": "com.laughingquoll.prefixui",
       "name": "PrefixUI",
-      "latest": "1.0-1+debug",
+      "latest": "1.1",
       "repository": "Packix",
       "url": "http://cydia.saurik.com/package/com.laughingquoll.prefixui/",
       "shortDescription": "An awesome framework of some sort!!",
@@ -14839,7 +14873,7 @@
     {
       "id": "com.rpetrich.rocketbootstrap",
       "name": "RocketBootstrap",
-      "latest": "1.0.6",
+      "latest": "1.0.7~beta2",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.rpetrich.rocketbootstrap/",
       "shortDescription": "Support library allowing tweaks to communicate with sandboxed processes",
@@ -15432,7 +15466,7 @@
     {
       "id": "sed",
       "name": "sed",
-      "latest": "4.5-1",
+      "latest": "4.7",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/sed/",
       "shortDescription": "edits streams of text using patterns",
@@ -15574,7 +15608,7 @@
     {
       "id": "shell-cmds",
       "name": "shell-cmds",
-      "latest": "118-8",
+      "latest": "203-2",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/shell-cmds/",
       "shortDescription": "killall, mktemp, renice, time, which",
@@ -15642,7 +15676,7 @@
     {
       "id": "co.dynastic.ios.tweak.shortlook",
       "name": "ShortLook",
-      "latest": "1.0.8",
+      "latest": "1.0.12",
       "repository": "Dynastic Repo",
       "url": "http://cydia.saurik.com/package/co.dynastic.ios.tweak.shortlook/",
       "shortDescription": "Your notifications. At a glance. — ShortLook displays on your locked iPhone as you receive a notification using it's beautiful full screen design, allowing for readability from a distance. Made to be as unobtrusive as possible, it dismisses",
@@ -16464,7 +16498,7 @@
     {
       "id": "com.spark.snowboard",
       "name": "Snowboard",
-      "latest": "1.1.5",
+      "latest": "1.1.6",
       "repository": "(null)",
       "url": "http://cydia.saurik.com/package/com.spark.snowboard/",
       "shortDescription": "Snowboard theming engine",
@@ -16776,7 +16810,7 @@
     {
       "id": "com.rishanan.springplus11",
       "name": "SpringPlus11",
-      "latest": "1.1.1",
+      "latest": "1.2",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.rishanan.springplus11/",
       "shortDescription": "Internal settings unlocked for ios 11.",
@@ -17107,7 +17141,7 @@
     {
       "id": "ajbbotech.com.storefeatures",
       "name": "Store Features",
-      "latest": "1.1",
+      "latest": "1.2",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/ajbbotech.com.storefeatures/",
       "shortDescription": "Add More Features to Cydia",
@@ -17242,7 +17276,7 @@
     {
       "id": "com.ioscreatix.sugarcane",
       "name": "SugarCane",
-      "latest": "1.0.0",
+      "latest": "1.0.0-1+debug",
       "repository": "iOS Creatix",
       "url": "http://cydia.saurik.com/package/com.ioscreatix.sugarcane/",
       "shortDescription": "Get percentages for the sliders in the Control Center on iOS 11",
@@ -17449,7 +17483,7 @@
     {
       "id": "com.c1d3r.switches",
       "name": "Switches",
-      "latest": "1.1",
+      "latest": "1.3",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.c1d3r.switches/",
       "shortDescription": "Add a little flair to your switches",
@@ -17537,7 +17571,7 @@
     {
       "id": "xyz.xninja.systeminfo",
       "name": "System Info",
-      "latest": "2.0.0-1",
+      "latest": "2.2.0-19+debug",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/xyz.xninja.systeminfo/",
       "shortDescription": "System information in Settings app > General > About, and other sections. Set boot-nonce, save shsh, battery info etc",
@@ -17570,7 +17604,7 @@
     {
       "id": "system-cmds",
       "name": "system-cmds",
-      "latest": "790.30.1-2",
+      "latest": "790-2",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/system-cmds/",
       "shortDescription": "iostat, login, passwd, sync, sysctl",
@@ -17638,7 +17672,7 @@
     {
       "id": "tar",
       "name": "Tape Archive",
-      "latest": "1.30-2",
+      "latest": "1.31-1",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/tar/",
       "shortDescription": "tool for making tape archives",
@@ -17942,7 +17976,7 @@
     {
       "id": "com.kaneb.trimtimes",
       "name": "Trim Times",
-      "latest": "0.0.2",
+      "latest": "0.0.4",
       "repository": "Packix",
       "url": "http://cydia.saurik.com/package/com.kaneb.trimtimes/",
       "shortDescription": "Tweak to add trim times when editing videos.",
@@ -18486,7 +18520,7 @@
     {
       "id": "uikittools",
       "name": "UIKit Tools",
-      "latest": "1.1.13-5",
+      "latest": "1.1.12-coolstar2",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/uikittools/",
       "shortDescription": "UIKit/GraphicsServices command line access",
@@ -18574,7 +18608,7 @@
     {
       "id": "jailbreak-resources",
       "name": "Unc0ver Jailbreak Resources",
-      "latest": "1.0~b6",
+      "latest": "1.0~b7",
       "repository": "(null)",
       "url": "http://cydia.saurik.com/package/jailbreak-resources/",
       "shortDescription": "Resources used by KPPLess Jailbreaks",
@@ -18675,7 +18709,7 @@
     {
       "id": "unrar",
       "name": "unrar",
-      "latest": "5.6.4-1",
+      "latest": "5.5.8",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/unrar/",
       "shortDescription": "de-compresses files in rar format",
@@ -18709,7 +18743,7 @@
     {
       "id": "unzip",
       "name": "unzip",
-      "latest": "6.0-1",
+      "latest": "6.0",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/unzip/",
       "shortDescription": "de-compesses files in zip format",
@@ -18811,7 +18845,7 @@
     {
       "id": "com.fouadraheb.watusi",
       "name": "Watusi 2 for WhatsApp",
-      "latest": "1.1.9",
+      "latest": "1.1.10",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.fouadraheb.watusi/",
       "shortDescription": "The all-in-one tweak for WhatsApp Messenger",
@@ -19134,7 +19168,7 @@
     {
       "id": "com.oly.xb-autonetwork",
       "name": "XB-AutoNetwork",
-      "latest": "1.5",
+      "latest": "1.6",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.oly.xb-autonetwork/",
       "shortDescription": "Save battery disabling WiFi or Data!",
@@ -19236,7 +19270,7 @@
     {
       "id": "com.matchstic.xenhtml",
       "name": "Xen HTML",
-      "latest": "0.4rc7-1",
+      "latest": "0.4rc8",
       "repository": "xenpublic.incendo.ws",
       "url": "http://cydia.saurik.com/package/com.matchstic.xenhtml/",
       "shortDescription": "Unified HTML rendering; lockscreen and homescreen",
@@ -19338,7 +19372,7 @@
     {
       "id": "com.junesiphone.xeninfo",
       "name": "XenInfo",
-      "latest": "2.0.9",
+      "latest": "2.2.2",
       "repository": "junesiphone.com",
       "url": "http://cydia.saurik.com/package/com.junesiphone.xeninfo/",
       "shortDescription": "Music, Weather, and battery info for XenHTML",
@@ -19805,7 +19839,7 @@
     {
       "id": "com.alexzielenski.zeppelin",
       "name": "Zeppelin",
-      "latest": "2.1.0-12",
+      "latest": "2.1.1-1",
       "repository": "ModMyi (Archive)",
       "url": "http://cydia.saurik.com/package/com.alexzielenski.zeppelin/",
       "shortDescription": "Replaces carrier text with an image!",
@@ -19940,7 +19974,7 @@
     {
       "id": "zip",
       "name": "zip",
-      "latest": "2.32-1",
+      "latest": "3.0",
       "repository": "Electra's iOS Utilities",
       "url": "http://cydia.saurik.com/package/zip/",
       "shortDescription": "standard Windows compression tool",
