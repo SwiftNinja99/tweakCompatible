@@ -977,40 +977,6 @@
       ]
     },
     {
-      "id": "com.adamseiter.animationbefast",
-      "name": "AnimationsBeFast",
-      "latest": "1.4.1",
-      "repository": "eXqusic's Repo",
-      "url": "http://cydia.saurik.com/package/com.adamseiter.animationbefast/",
-      "shortDescription": "Speeds up animations",
-      "category": "Tweaks",
-      "author": "Adam Seiter",
-      "commercial": false,
-      "date": "2018-07-17T09:43:18Z",
-      "versions": [
-        {
-          "tweakVersion": "1.4.1",
-          "iOSVersion": "12.0",
-          "repository": "(null)",
-          "date": "2019-02-27T15:13:46Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.adamseiter.animationsbefast",
       "name": "AnimationsBeFast",
       "latest": "1.4.5",
@@ -1067,6 +1033,40 @@
           "iOSVersion": "12.0",
           "repository": "eXqusic's Repo",
           "date": "2019-03-06T02:39:58Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.adamseiter.animationbefast",
+      "name": "AnimationsBeFast",
+      "latest": "1.4.1",
+      "repository": "eXqusic's Repo",
+      "url": "http://cydia.saurik.com/package/com.adamseiter.animationbefast/",
+      "shortDescription": "Speeds up animations",
+      "category": "Tweaks",
+      "author": "Adam Seiter",
+      "commercial": false,
+      "date": "2018-07-17T09:43:18Z",
+      "versions": [
+        {
+          "tweakVersion": "1.4.1",
+          "iOSVersion": "12.0",
+          "repository": "(null)",
+          "date": "2019-02-27T15:13:46Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -16079,6 +16079,26 @@
               "calculatedStatus": "Unknown"
             }
           }
+        },
+        {
+          "tweakVersion": "0.8.2",
+          "iOSVersion": "12.0",
+          "repository": "CreatureSurvive's Repo",
+          "date": "2019-04-02T05:11:25Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
         }
       ]
     },
@@ -19542,22 +19562,22 @@
       ]
     },
     {
-      "id": "ncurses",
+      "id": "ncurses5-libs",
       "name": "New Curses",
-      "latest": "6.1-1",
-      "repository": "Electra's iOS Utilities",
-      "url": "http://cydia.saurik.com/package/ncurses/",
+      "latest": "5.9-1",
+      "repository": "Bingner/Elucubratus",
+      "url": "http://cydia.saurik.com/package/ncurses5-libs/",
       "shortDescription": "feature-complete terminal library",
       "category": "System",
       "author": "(null)",
       "commercial": false,
-      "date": "2018-03-04T19:02:12Z",
+      "date": "2018-10-14T00:25:17Z",
       "versions": [
         {
-          "tweakVersion": "6.1-1",
+          "tweakVersion": "5.9-1",
           "iOSVersion": "12.0",
           "repository": "Bingner/Elucubratus",
-          "date": "2019-03-19T23:14:18Z",
+          "date": "2019-03-19T22:42:05Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -19576,22 +19596,22 @@
       ]
     },
     {
-      "id": "ncurses5-libs",
+      "id": "ncurses",
       "name": "New Curses",
-      "latest": "5.9-1",
-      "repository": "Bingner/Elucubratus",
-      "url": "http://cydia.saurik.com/package/ncurses5-libs/",
+      "latest": "6.1-1",
+      "repository": "Electra's iOS Utilities",
+      "url": "http://cydia.saurik.com/package/ncurses/",
       "shortDescription": "feature-complete terminal library",
       "category": "System",
       "author": "(null)",
       "commercial": false,
-      "date": "2018-10-14T00:25:17Z",
+      "date": "2018-03-04T19:02:12Z",
       "versions": [
         {
-          "tweakVersion": "5.9-1",
+          "tweakVersion": "6.1-1",
           "iOSVersion": "12.0",
           "repository": "Bingner/Elucubratus",
-          "date": "2019-03-19T22:42:05Z",
+          "date": "2019-03-19T23:14:18Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -23404,40 +23424,6 @@
       ]
     },
     {
-      "id": "com.tqm-mos.reprovision",
-      "name": "ReProvision",
-      "latest": "0.4",
-      "repository": "TQM-Mos™︵⁹² ",
-      "url": "http://cydia.saurik.com/package/com.tqm-mos.reprovision/",
-      "shortDescription": "Re-sign applications on your device",
-      "category": "System",
-      "author": "Matt Clarke",
-      "commercial": false,
-      "date": "2019-02-25T16:10:31Z",
-      "versions": [
-        {
-          "tweakVersion": "0.4",
-          "iOSVersion": "12.0",
-          "repository": "TQM-Mos™︵⁹² ",
-          "date": "2019-02-25T16:10:31Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.matchstic.reprovision",
       "name": "ReProvision",
       "latest": "0.4.2",
@@ -23494,6 +23480,40 @@
           "iOSVersion": "12.0",
           "repository": "repo.incendo.ws",
           "date": "2019-03-17T22:29:21Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.tqm-mos.reprovision",
+      "name": "ReProvision",
+      "latest": "0.4",
+      "repository": "TQM-Mos™︵⁹² ",
+      "url": "http://cydia.saurik.com/package/com.tqm-mos.reprovision/",
+      "shortDescription": "Re-sign applications on your device",
+      "category": "System",
+      "author": "Matt Clarke",
+      "commercial": false,
+      "date": "2019-02-25T16:10:31Z",
+      "versions": [
+        {
+          "tweakVersion": "0.4",
+          "iOSVersion": "12.0",
+          "repository": "TQM-Mos™︵⁹² ",
+          "date": "2019-02-25T16:10:31Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
