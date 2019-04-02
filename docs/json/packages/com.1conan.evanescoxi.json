@@ -1,7 +1,7 @@
 {
   "id": "com.1conan.evanescoxi",
   "name": "EvanescoXI",
-  "latest": "1.4.1",
+  "latest": "1.3.0",
   "repository": "Conan's Secret Stash",
   "url": "http://cydia.saurik.com/package/com.1conan.evanescoxi/",
   "shortDescription": "Clear Your Homescreen After Inactivity",
@@ -393,11 +393,11 @@
       "repository": "Chariz",
       "date": "2019-02-23T00:46:10Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 100,
+        "calculatedStatus": "Likely working",
+        "percentage": 75,
         "good": 3,
         "bad": 0,
-        "total": 3,
+        "total": 4,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -432,6 +432,15 @@
           "date": "2019-03-06T15:14:22Z",
           "userName": "BenSanzone",
           "issueNumber": 73803,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,3",
+          "issues": "Status bar fades but icons dont",
+          "date": "2019-04-02T01:12:23Z",
+          "userName": "kalafalas",
+          "issueNumber": 82326,
           "arch32": false
         }
       ]
