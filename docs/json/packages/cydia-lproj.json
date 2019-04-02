@@ -1,7 +1,7 @@
 {
   "id": "cydia-lproj",
   "name": "Cydia Translations",
-  "latest": "1.1.12",
+  "latest": "1.1.32~b1",
   "repository": "Cydia/Telesphoreo",
   "url": "http://cydia.saurik.com/package/cydia-lproj/",
   "shortDescription": "languages and translations for Cydia",
@@ -1149,9 +1149,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 4,
+        "good": 5,
         "bad": 0,
-        "total": 4,
+        "total": 5,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1195,6 +1195,15 @@
           "date": "2019-03-01T16:09:26Z",
           "userName": "tomhmoses",
           "issueNumber": 70183,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2019-04-02T02:13:14Z",
+          "userName": "andrearug",
+          "issueNumber": 82387,
           "arch32": false
         }
       ]
