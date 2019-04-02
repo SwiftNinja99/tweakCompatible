@@ -2127,10 +2127,10 @@
       "date": "2019-02-23T00:28:57Z",
       "outcome": {
         "calculatedStatus": "Working",
-        "percentage": 85,
+        "percentage": 80,
         "good": 12,
         "bad": 0,
-        "total": 14,
+        "total": 15,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -2264,6 +2264,15 @@
           "date": "2019-03-12T11:26:26Z",
           "userName": "Fiaccus",
           "issueNumber": 76699,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone8,1",
+          "issues": "Crashes on opening",
+          "date": "2019-04-02T07:36:35Z",
+          "userName": "jefro108",
+          "issueNumber": 82425,
           "arch32": false
         }
       ]
