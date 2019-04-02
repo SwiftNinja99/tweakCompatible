@@ -4,7 +4,7 @@
   "latest": "8.3",
   "repository": "iGG",
   "url": "http://cydia.saurik.com/package/idv.aqua.igameguardian/",
-  "shortDescription": "iGameGuardian is a game cheating engine for iOS 8.x/9.x/10.2/11.0-11.3.1",
+  "shortDescription": "iGameGuardian is a game cheating engine for iOS 8.x/9.x/10.2/11.x",
   "category": "utils",
   "author": "Aqua Wu",
   "commercial": false,
@@ -750,10 +750,10 @@
       "date": "2018-09-26T15:03:12Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 50,
-        "good": 1,
+        "percentage": 66,
+        "good": 2,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -779,6 +779,15 @@
           "date": "2019-02-01T22:04:21Z",
           "userName": "WezXBL",
           "issueNumber": 58125,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,4",
+          "issues": "",
+          "date": "2019-04-02T18:47:28Z",
+          "userName": "kurtkuzu",
+          "issueNumber": 82495,
           "arch32": false
         }
       ]
