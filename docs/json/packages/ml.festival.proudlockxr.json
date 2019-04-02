@@ -49,9 +49,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 1,
+        "good": 2,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -68,6 +68,15 @@
           "date": "2019-03-26T15:27:48Z",
           "userName": "binksxela",
           "issueNumber": 80855,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,1",
+          "issues": "Animation is a little bugged",
+          "date": "2019-04-02T00:41:01Z",
+          "userName": "wbraffman",
+          "issueNumber": 82324,
           "arch32": false
         }
       ]
