@@ -1,7 +1,7 @@
 {
   "id": "com.dpkg.batterypercent12",
   "name": "Batterypercent12",
-  "latest": "1.0-95",
+  "latest": "1.0-97",
   "repository": "dpkg9510's Repo",
   "url": "http://cydia.saurik.com/package/com.dpkg.batterypercent12/",
   "shortDescription": "Shows battery percentage inside the icon.",
@@ -117,6 +117,37 @@
           "date": "2019-04-02T21:33:16Z",
           "userName": "misfitskater6",
           "issueNumber": 82543,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0-97",
+      "iOSVersion": "12.1",
+      "repository": "dpkg9510's Repo",
+      "date": "2019-04-03T09:37:09Z",
+      "outcome": {
+        "calculatedStatus": "Not working",
+        "percentage": 0,
+        "good": 0,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone10,5",
+          "issues": "iPhone 8 Plus",
+          "date": "2019-04-03T09:37:09Z",
+          "userName": "ViniDaBoss",
+          "issueNumber": 82606,
           "arch32": false
         }
       ]
