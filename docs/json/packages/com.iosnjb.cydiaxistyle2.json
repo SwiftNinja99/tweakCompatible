@@ -1,7 +1,7 @@
 {
   "id": "com.iosnjb.cydiaxistyle2",
   "name": "CydiaXIStyle 2.0",
-  "latest": "2.0.5",
+  "latest": "2.0.6",
   "repository": "Packix",
   "url": "http://cydia.saurik.com/package/com.iosnjb.cydiaxistyle2/",
   "shortDescription": "iOS 11 and 12 style cydia home page",
@@ -374,6 +374,37 @@
           "date": "2019-04-03T18:15:07Z",
           "userName": "LudnicaKiller",
           "issueNumber": 82661,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0.6",
+      "iOSVersion": "12.1.1",
+      "repository": "Packix",
+      "date": "2019-04-03T21:30:49Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,4",
+          "issues": "",
+          "date": "2019-04-03T21:30:49Z",
+          "userName": "Lord-by-default",
+          "issueNumber": 82694,
           "arch32": false
         }
       ]
