@@ -2514,11 +2514,11 @@
       "repository": "BigBoss",
       "date": "2019-02-24T20:51:08Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 100,
+        "calculatedStatus": "Likely working",
+        "percentage": 75,
         "good": 3,
         "bad": 0,
-        "total": 3,
+        "total": 4,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -2553,6 +2553,15 @@
           "date": "2019-02-27T23:24:09Z",
           "userName": "James76931",
           "issueNumber": 69045,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone8,1",
+          "issues": "Crashes on opening ",
+          "date": "2019-04-03T10:55:42Z",
+          "userName": "jefro108",
+          "issueNumber": 82612,
           "arch32": false
         }
       ]
