@@ -453,9 +453,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 1,
+        "good": 2,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -472,6 +472,15 @@
           "date": "2019-02-25T08:44:12Z",
           "userName": "FlowV2",
           "issueNumber": 66251,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone10,5",
+          "issues": "",
+          "date": "2019-04-03T07:53:34Z",
+          "userName": "Se7Touch",
+          "issueNumber": 82602,
           "arch32": false
         }
       ]
