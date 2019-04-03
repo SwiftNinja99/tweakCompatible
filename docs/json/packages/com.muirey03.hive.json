@@ -871,21 +871,21 @@
       },
       "users": [
         {
-          "status": "not working",
-          "device": "iPhone10,3",
-          "issues": "DOES NOT WORK if Face ID is enabled ",
-          "date": "2019-03-15T19:41:59Z",
-          "userName": "chriscegz",
-          "issueNumber": 77838,
-          "arch32": false
-        },
-        {
           "status": "working",
           "device": "iPhone10,5",
           "issues": "",
           "date": "2019-03-19T15:07:08Z",
           "userName": "ninjaboy91911",
           "issueNumber": 79181,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,3",
+          "issues": "SHOWS REGULAR PASSCODE SCREEN IF USING FACE ID",
+          "date": "2019-04-03T19:47:39Z",
+          "userName": "chriscegz",
+          "issueNumber": 82673,
           "arch32": false
         }
       ]
