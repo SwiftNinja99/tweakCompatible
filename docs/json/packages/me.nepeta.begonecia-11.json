@@ -243,11 +243,11 @@
       "repository": "Nepeta",
       "date": "2019-02-24T21:40:38Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 100,
+        "calculatedStatus": "Likely working",
+        "percentage": 66,
         "good": 2,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -273,6 +273,15 @@
           "date": "2019-02-26T20:01:46Z",
           "userName": "aizoule",
           "issueNumber": 67974,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone9,3",
+          "issues": "Does what it says but broke the jailbreak for me, had to safe mode uninstall it and delete preferences before my phone would jailbreak successfully ",
+          "date": "2019-04-03T04:09:44Z",
+          "userName": "mrpras",
+          "issueNumber": 82588,
           "arch32": false
         }
       ]
