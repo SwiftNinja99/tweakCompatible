@@ -791,11 +791,11 @@
       "repository": "BigBoss",
       "date": "2019-02-23T12:28:15Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 100,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
         "good": 1,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -812,6 +812,15 @@
           "date": "2019-02-23T12:28:15Z",
           "userName": "MrBlue9",
           "issueNumber": 61997,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone9,4",
+          "issues": "Not working ",
+          "date": "2019-04-03T20:52:14Z",
+          "userName": "MTunes",
+          "issueNumber": 82684,
           "arch32": false
         }
       ]
