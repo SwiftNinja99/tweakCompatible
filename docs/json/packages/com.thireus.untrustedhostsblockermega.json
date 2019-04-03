@@ -863,11 +863,11 @@
       "repository": "repo.thireus.com",
       "date": "2019-03-30T23:21:37Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 100,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
         "good": 1,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -884,6 +884,15 @@
           "date": "2019-03-30T23:21:37Z",
           "userName": "hypertjs",
           "issueNumber": 81943,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone8,1",
+          "issues": "Conflicts with “LetMeBlock” even after removing “LetMeBlock” it still conflicts?",
+          "date": "2019-04-03T05:06:28Z",
+          "userName": "Tgod1991",
+          "issueNumber": 82591,
           "arch32": false
         }
       ]
