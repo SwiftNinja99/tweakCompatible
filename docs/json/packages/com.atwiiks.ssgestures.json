@@ -373,10 +373,10 @@
       "date": "2019-02-26T23:59:59Z",
       "outcome": {
         "calculatedStatus": "Not working",
-        "percentage": 25,
-        "good": 1,
+        "percentage": 40,
+        "good": 2,
         "bad": 0,
-        "total": 4,
+        "total": 5,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -420,6 +420,15 @@
           "date": "2019-03-17T05:08:23Z",
           "userName": "Favna",
           "issueNumber": 78265,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "Use with “SSGesturesFix” from poomsmart’s repo",
+          "date": "2019-04-03T19:21:24Z",
+          "userName": "813Samauarai",
+          "issueNumber": 82668,
           "arch32": false
         }
       ]
