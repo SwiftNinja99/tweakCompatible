@@ -1,7 +1,7 @@
 {
   "id": "me.nepeta.libmitsuha",
   "name": "libmitsuha",
-  "latest": "0.1.4",
+  "latest": "0.1.5",
   "repository": "Nepeta",
   "url": "http://cydia.saurik.com/package/me.nepeta.libmitsuha/",
   "shortDescription": "Audio visualizer library",
@@ -179,6 +179,37 @@
           "date": "2019-04-01T01:58:35Z",
           "userName": "luiggimaster",
           "issueNumber": 82190,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.1.5",
+      "iOSVersion": "12.1",
+      "repository": "Nepeta",
+      "date": "2019-04-04T22:21:26Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,1",
+          "issues": "",
+          "date": "2019-04-04T22:21:26Z",
+          "userName": "T-K0",
+          "issueNumber": 82821,
           "arch32": false
         }
       ]
