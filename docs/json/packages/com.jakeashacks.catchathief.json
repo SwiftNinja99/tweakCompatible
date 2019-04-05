@@ -1,10 +1,10 @@
 {
   "id": "com.jakeashacks.catchathief",
   "name": "CatchaThief",
-  "latest": "1.0.0-1+debug",
+  "latest": "1.0.0",
   "repository": "Jakeashacks",
   "url": "http://cydia.saurik.com/package/com.jakeashacks.catchathief/",
-  "shortDescription": "Take a picture of whoever inputs an incorrect passcode! Does not support Touch ID/Face ID yet. Images are stored in /var/mobile/catchathief. Sending images via email is being looked into.",
+  "shortDescription": "Take a picture of whoever inputs an incorrect passcode!",
   "category": "Tweaks",
   "author": "Jake James",
   "commercial": false,
@@ -689,10 +689,10 @@
       "date": "2019-02-24T16:14:09Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 50,
-        "good": 1,
+        "percentage": 66,
+        "good": 2,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -718,6 +718,15 @@
           "date": "2019-02-25T23:48:53Z",
           "userName": "inservienti",
           "issueNumber": 67016,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2019-04-05T19:57:37Z",
+          "userName": "Brandon097",
+          "issueNumber": 82947,
           "arch32": false
         }
       ]
