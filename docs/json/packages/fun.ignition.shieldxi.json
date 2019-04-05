@@ -624,6 +624,37 @@
           "arch32": false
         }
       ]
+    },
+    {
+      "tweakVersion": "1.0.1",
+      "iOSVersion": "12.0",
+      "repository": "BigBoss",
+      "date": "2019-04-05T14:16:21Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "partial",
+          "device": "iPhone9,2",
+          "issues": "Tweak can be bypassed using the multitasking view ",
+          "date": "2019-04-05T14:16:21Z",
+          "userName": "bzixx",
+          "issueNumber": 82886,
+          "arch32": false
+        }
+      ]
     }
   ]
 }
