@@ -8018,40 +8018,6 @@
       ]
     },
     {
-      "id": "curl",
-      "name": "cURL",
-      "latest": "7.62.0-1",
-      "repository": "Electra's iOS Utilities",
-      "url": "http://cydia.saurik.com/package/curl/",
-      "shortDescription": "flexible multi-protocol file transfers",
-      "category": "Networking",
-      "author": "(null)",
-      "commercial": false,
-      "date": "2018-03-02T04:38:24Z",
-      "versions": [
-        {
-          "tweakVersion": "7.62.0-1",
-          "iOSVersion": "12.0",
-          "repository": "Bingner/Elucubratus",
-          "date": "2019-03-13T06:43:56Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 2,
-            "bad": 0,
-            "total": 2,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.mc.curl",
       "name": "cURL",
       "latest": "7.62.0-3",
@@ -8074,6 +8040,40 @@
             "good": 1,
             "bad": 0,
             "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "curl",
+      "name": "cURL",
+      "latest": "7.62.0-1",
+      "repository": "Electra's iOS Utilities",
+      "url": "http://cydia.saurik.com/package/curl/",
+      "shortDescription": "flexible multi-protocol file transfers",
+      "category": "Networking",
+      "author": "(null)",
+      "commercial": false,
+      "date": "2018-03-02T04:38:24Z",
+      "versions": [
+        {
+          "tweakVersion": "7.62.0-1",
+          "iOSVersion": "12.0",
+          "repository": "Bingner/Elucubratus",
+          "date": "2019-03-13T06:43:56Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 2,
+            "bad": 0,
+            "total": 2,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -8414,6 +8414,40 @@
       ]
     },
     {
+      "id": "com.yourepo.cydiaxistyle.cydiaxistyle20",
+      "name": "CydiaXIStyle 2.0",
+      "latest": "2.0",
+      "repository": "cydiaxistyle Source - YouRepo",
+      "url": "http://cydia.saurik.com/package/com.yourepo.cydiaxistyle.cydiaxistyle20/",
+      "shortDescription": "iOS 11 and 12 style cydia home page",
+      "category": "Tweaks",
+      "author": "CydiaXIStyle.fun",
+      "commercial": false,
+      "date": "2019-02-27T16:46:01Z",
+      "versions": [
+        {
+          "tweakVersion": "2.0",
+          "iOSVersion": "12.0",
+          "repository": "cydiaxistyle Source - YouRepo",
+          "date": "2019-03-05T04:32:53Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.iosnjb.cydiaxistyle2",
       "name": "CydiaXIStyle 2.0",
       "latest": "2.0.6",
@@ -8490,40 +8524,6 @@
           "iOSVersion": "12.0",
           "repository": "Packix",
           "date": "2019-04-03T22:48:03Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "com.yourepo.cydiaxistyle.cydiaxistyle20",
-      "name": "CydiaXIStyle 2.0",
-      "latest": "2.0",
-      "repository": "cydiaxistyle Source - YouRepo",
-      "url": "http://cydia.saurik.com/package/com.yourepo.cydiaxistyle.cydiaxistyle20/",
-      "shortDescription": "iOS 11 and 12 style cydia home page",
-      "category": "Tweaks",
-      "author": "CydiaXIStyle.fun",
-      "commercial": false,
-      "date": "2019-02-27T16:46:01Z",
-      "versions": [
-        {
-          "tweakVersion": "2.0",
-          "iOSVersion": "12.0",
-          "repository": "cydiaxistyle Source - YouRepo",
-          "date": "2019-03-05T04:32:53Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -12751,22 +12751,22 @@
       ]
     },
     {
-      "id": "com.spicat.forceinpicture",
+      "id": "com.cabralcole.forceinpicture",
       "name": "ForceInPicture",
-      "latest": "1.1",
-      "repository": "Spica T Repo",
-      "url": "http://cydia.saurik.com/package/com.spicat.forceinpicture/",
-      "shortDescription": "Enable picture in picture feature with no crashes.",
+      "latest": "0.0.1-2",
+      "repository": "apt.thebigboss.org",
+      "url": "http://cydia.saurik.com/package/com.cabralcole.forceinpicture/",
+      "shortDescription": "\"Programmatically\" enable picture in picture feature.",
       "category": "Tweaks",
-      "author": "SpicaT",
+      "author": "cole cabral @ca13ra1",
       "commercial": false,
-      "date": "2018-07-18T14:45:11Z",
+      "date": "2018-03-01T20:00:33Z",
       "versions": [
         {
-          "tweakVersion": "1.1",
+          "tweakVersion": "0.0.1-2",
           "iOSVersion": "12.0",
-          "repository": "Spica T Repo",
-          "date": "2019-02-24T00:10:08Z",
+          "repository": "BigBoss",
+          "date": "2019-02-25T16:56:10Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -12785,22 +12785,22 @@
       ]
     },
     {
-      "id": "com.cabralcole.forceinpicture",
+      "id": "com.spicat.forceinpicture",
       "name": "ForceInPicture",
-      "latest": "0.0.1-2",
-      "repository": "apt.thebigboss.org",
-      "url": "http://cydia.saurik.com/package/com.cabralcole.forceinpicture/",
-      "shortDescription": "\"Programmatically\" enable picture in picture feature.",
+      "latest": "1.1",
+      "repository": "Spica T Repo",
+      "url": "http://cydia.saurik.com/package/com.spicat.forceinpicture/",
+      "shortDescription": "Enable picture in picture feature with no crashes.",
       "category": "Tweaks",
-      "author": "cole cabral @ca13ra1",
+      "author": "SpicaT",
       "commercial": false,
-      "date": "2018-03-01T20:00:33Z",
+      "date": "2018-07-18T14:45:11Z",
       "versions": [
         {
-          "tweakVersion": "0.0.1-2",
+          "tweakVersion": "1.1",
           "iOSVersion": "12.0",
-          "repository": "BigBoss",
-          "date": "2019-02-25T16:56:10Z",
+          "repository": "Spica T Repo",
+          "date": "2019-02-24T00:10:08Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -19393,22 +19393,21 @@
       ]
     },
     {
-      "id": "mterminal",
+      "id": "com.officialscheduler.mterminal",
       "name": "MTerminal",
-      "latest": "1.4-6",
-      "repository": "Bingner/Elucubratus",
-      "url": "http://cydia.saurik.com/package/mterminal/",
+      "latest": "1.4-5",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.officialscheduler.mterminal/",
       "shortDescription": "A MobileTerminal fork",
       "category": "Utilities",
       "author": "lordscotland",
       "commercial": false,
-      "date": "2018-11-13T09:26:26Z",
       "versions": [
         {
-          "tweakVersion": "1.4-6",
+          "tweakVersion": "1.4-5",
           "iOSVersion": "12.0",
-          "repository": "Bingner/Elucubratus",
-          "date": "2019-02-23T03:25:37Z",
+          "repository": "BigBoss",
+          "date": "2019-02-23T02:51:05Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -19427,21 +19426,22 @@
       ]
     },
     {
-      "id": "com.officialscheduler.mterminal",
+      "id": "mterminal",
       "name": "MTerminal",
-      "latest": "1.4-5",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/com.officialscheduler.mterminal/",
+      "latest": "1.4-6",
+      "repository": "Bingner/Elucubratus",
+      "url": "http://cydia.saurik.com/package/mterminal/",
       "shortDescription": "A MobileTerminal fork",
       "category": "Utilities",
       "author": "lordscotland",
       "commercial": false,
+      "date": "2018-11-13T09:26:26Z",
       "versions": [
         {
-          "tweakVersion": "1.4-5",
+          "tweakVersion": "1.4-6",
           "iOSVersion": "12.0",
-          "repository": "BigBoss",
-          "date": "2019-02-23T02:51:05Z",
+          "repository": "Bingner/Elucubratus",
+          "date": "2019-02-23T03:25:37Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -20150,22 +20150,22 @@
       ]
     },
     {
-      "id": "ncurses5-libs",
+      "id": "ncurses",
       "name": "New Curses",
-      "latest": "5.9-1",
-      "repository": "Bingner/Elucubratus",
-      "url": "http://cydia.saurik.com/package/ncurses5-libs/",
+      "latest": "6.1-1",
+      "repository": "Electra's iOS Utilities",
+      "url": "http://cydia.saurik.com/package/ncurses/",
       "shortDescription": "feature-complete terminal library",
       "category": "System",
       "author": "(null)",
       "commercial": false,
-      "date": "2018-10-14T00:25:17Z",
+      "date": "2018-03-04T19:02:12Z",
       "versions": [
         {
-          "tweakVersion": "5.9-1",
+          "tweakVersion": "6.1-1",
           "iOSVersion": "12.0",
           "repository": "Bingner/Elucubratus",
-          "date": "2019-03-19T22:42:05Z",
+          "date": "2019-03-19T23:14:18Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -20184,22 +20184,22 @@
       ]
     },
     {
-      "id": "ncurses",
+      "id": "ncurses5-libs",
       "name": "New Curses",
-      "latest": "6.1-1",
-      "repository": "Electra's iOS Utilities",
-      "url": "http://cydia.saurik.com/package/ncurses/",
+      "latest": "5.9-1",
+      "repository": "Bingner/Elucubratus",
+      "url": "http://cydia.saurik.com/package/ncurses5-libs/",
       "shortDescription": "feature-complete terminal library",
       "category": "System",
       "author": "(null)",
       "commercial": false,
-      "date": "2018-03-04T19:02:12Z",
+      "date": "2018-10-14T00:25:17Z",
       "versions": [
         {
-          "tweakVersion": "6.1-1",
+          "tweakVersion": "5.9-1",
           "iOSVersion": "12.0",
           "repository": "Bingner/Elucubratus",
-          "date": "2019-03-19T23:14:18Z",
+          "date": "2019-03-19T22:42:05Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -23808,40 +23808,6 @@
       ]
     },
     {
-      "id": "com.spicat.recordpause",
-      "name": "RecordPause",
-      "latest": "1.3.1",
-      "repository": "Spica T Repo",
-      "url": "http://cydia.saurik.com/package/com.spicat.recordpause/",
-      "shortDescription": "Pause/resume video recording.",
-      "category": "Tweaks",
-      "author": "SpicaT",
-      "commercial": false,
-      "date": "2018-07-22T00:19:36Z",
-      "versions": [
-        {
-          "tweakVersion": "1.3.1",
-          "iOSVersion": "12.0",
-          "repository": "Spica T Repo",
-          "date": "2019-03-03T07:05:35Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "org.thebigboss.recordpause",
       "name": "RecordPause",
       "latest": "1.2.2",
@@ -23864,6 +23830,40 @@
             "good": 1,
             "bad": 0,
             "total": 2,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.spicat.recordpause",
+      "name": "RecordPause",
+      "latest": "1.3.1",
+      "repository": "Spica T Repo",
+      "url": "http://cydia.saurik.com/package/com.spicat.recordpause/",
+      "shortDescription": "Pause/resume video recording.",
+      "category": "Tweaks",
+      "author": "SpicaT",
+      "commercial": false,
+      "date": "2018-07-22T00:19:36Z",
+      "versions": [
+        {
+          "tweakVersion": "1.3.1",
+          "iOSVersion": "12.0",
+          "repository": "Spica T Repo",
+          "date": "2019-03-03T07:05:35Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -25421,6 +25421,40 @@
       ]
     },
     {
+      "id": "org.packix.sleeper",
+      "name": "Sleeper",
+      "latest": "5.0.0",
+      "repository": "Packix",
+      "url": "http://cydia.saurik.com/package/org.packix.sleeper/",
+      "shortDescription": "Set custom snooze times and skip alarms with the Clock app using Sleeper!",
+      "category": "Tweaks",
+      "author": "Joshua Seltzer",
+      "commercial": true,
+      "date": "2019-04-04T21:14:25Z",
+      "versions": [
+        {
+          "tweakVersion": "5.0.0",
+          "iOSVersion": "12.0",
+          "repository": "Packix",
+          "date": "2019-04-05T13:27:48Z",
+          "outcome": {
+            "calculatedStatus": "Not working",
+            "percentage": 0,
+            "good": 0,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "jp.r-plus.sleipnizer3",
       "name": "Sleipnizer for Safari (iOS 9 & 10)",
       "latest": "8.1.2",
@@ -25886,22 +25920,22 @@
       ]
     },
     {
-      "id": "com.mvincentm.snoozex",
+      "id": "com.yourepo.vincentmdlm.snooze",
       "name": "SnoozeX",
       "latest": "1.0",
-      "repository": "Packix",
-      "url": "http://cydia.saurik.com/package/com.mvincentm.snoozex/",
+      "repository": "VincentMdlM Source - YouRepo",
+      "url": "http://cydia.saurik.com/package/com.yourepo.vincentmdlm.snooze/",
       "shortDescription": "Thanks to SnoozeX, you will no longer have any trouble waking up or going back to sleep.",
       "category": "Tweaks",
       "author": "VincentMdlM",
       "commercial": true,
-      "date": "2019-03-21T10:02:39Z",
+      "date": "2019-03-13T13:04:12Z",
       "versions": [
         {
           "tweakVersion": "1.0",
           "iOSVersion": "12.0",
-          "repository": "Packix",
-          "date": "2019-03-21T10:02:39Z",
+          "repository": "VincentMdlM Source - YouRepo",
+          "date": "2019-03-13T13:04:12Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -25920,22 +25954,22 @@
       ]
     },
     {
-      "id": "com.yourepo.vincentmdlm.snooze",
+      "id": "com.mvincentm.snoozex",
       "name": "SnoozeX",
       "latest": "1.0",
-      "repository": "VincentMdlM Source - YouRepo",
-      "url": "http://cydia.saurik.com/package/com.yourepo.vincentmdlm.snooze/",
+      "repository": "Packix",
+      "url": "http://cydia.saurik.com/package/com.mvincentm.snoozex/",
       "shortDescription": "Thanks to SnoozeX, you will no longer have any trouble waking up or going back to sleep.",
       "category": "Tweaks",
       "author": "VincentMdlM",
       "commercial": true,
-      "date": "2019-03-13T13:04:12Z",
+      "date": "2019-03-21T10:02:39Z",
       "versions": [
         {
           "tweakVersion": "1.0",
           "iOSVersion": "12.0",
-          "repository": "VincentMdlM Source - YouRepo",
-          "date": "2019-03-13T13:04:12Z",
+          "repository": "Packix",
+          "date": "2019-03-21T10:02:39Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -28292,7 +28326,7 @@
     {
       "id": "com.smokin1337.togglow",
       "name": "Togglow",
-      "latest": "1.0.4-1",
+      "latest": "1.0.6-3",
       "repository": "iDevice Hacked Repo",
       "url": "http://cydia.saurik.com/package/com.smokin1337.togglow/",
       "shortDescription": "Make the control center your own !",
@@ -30924,22 +30958,22 @@
       ]
     },
     {
-      "id": "xz",
+      "id": "lzma",
       "name": "XZ Utils",
-      "latest": "5.2.4-4",
-      "repository": "Bingner/Elucubratus",
-      "url": "http://cydia.saurik.com/package/xz/",
+      "latest": "5.2.4-1",
+      "repository": "Electra's iOS Utilities",
+      "url": "http://cydia.saurik.com/package/lzma/",
       "shortDescription": "slower, but better, compression algorithm",
       "category": "Archiving",
       "author": "(null)",
       "commercial": false,
-      "date": "2018-10-24T08:16:57Z",
+      "date": "2018-03-04T19:03:45Z",
       "versions": [
         {
-          "tweakVersion": "5.2.4-4",
+          "tweakVersion": "4.32.7-2",
           "iOSVersion": "12.0",
           "repository": "Bingner/Elucubratus",
-          "date": "2019-03-19T22:49:12Z",
+          "date": "2019-03-19T22:49:37Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -30958,22 +30992,22 @@
       ]
     },
     {
-      "id": "lzma",
+      "id": "xz",
       "name": "XZ Utils",
-      "latest": "5.2.4-1",
-      "repository": "Electra's iOS Utilities",
-      "url": "http://cydia.saurik.com/package/lzma/",
+      "latest": "5.2.4-4",
+      "repository": "Bingner/Elucubratus",
+      "url": "http://cydia.saurik.com/package/xz/",
       "shortDescription": "slower, but better, compression algorithm",
       "category": "Archiving",
       "author": "(null)",
       "commercial": false,
-      "date": "2018-03-04T19:03:45Z",
+      "date": "2018-10-24T08:16:57Z",
       "versions": [
         {
-          "tweakVersion": "4.32.7-2",
+          "tweakVersion": "5.2.4-4",
           "iOSVersion": "12.0",
           "repository": "Bingner/Elucubratus",
-          "date": "2019-03-19T22:49:37Z",
+          "date": "2019-03-19T22:49:12Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
