@@ -97,10 +97,10 @@
       "date": "2018-07-10T20:51:47Z",
       "outcome": {
         "calculatedStatus": "Not working",
-        "percentage": 0,
-        "good": 0,
+        "percentage": 20,
+        "good": 1,
         "bad": 0,
-        "total": 4,
+        "total": 5,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -144,6 +144,15 @@
           "date": "2018-09-23T19:01:28Z",
           "userName": "latinti81",
           "issueNumber": 51326,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone7,1",
+          "issues": "",
+          "date": "2019-04-05T14:35:22Z",
+          "userName": "tlurk",
+          "issueNumber": 82895,
           "arch32": false
         }
       ]
