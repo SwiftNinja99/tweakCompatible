@@ -1,10 +1,10 @@
 {
   "id": "com.squ1dd13.sizefinder",
   "name": "SizeFinder",
-  "latest": "2.0",
+  "latest": "1.0",
   "repository": "BigBoss",
   "url": "http://cydia.saurik.com/package/com.squ1dd13.sizefinder/",
-  "shortDescription": "Add app size to delete button",
+  "shortDescription": "Show app size instead of delete button",
   "category": "Tweaks",
   "author": "Squ1dd13",
   "commercial": false,
@@ -510,7 +510,7 @@
         "percentage": 0,
         "good": 0,
         "bad": 0,
-        "total": 3,
+        "total": 4,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -545,6 +545,15 @@
           "date": "2019-03-28T20:59:31Z",
           "userName": "Jukebox90",
           "issueNumber": 81405,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone8,2",
+          "issues": "Size does not appear ",
+          "date": "2019-04-05T09:39:58Z",
+          "userName": "timoboytje",
+          "issueNumber": 82861,
           "arch32": false
         }
       ]
