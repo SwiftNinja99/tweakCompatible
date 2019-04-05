@@ -1,7 +1,7 @@
 {
   "id": "com.diatrus.sileo-installer",
   "name": "Sileo for unc0ver",
-  "latest": "1.1",
+  "latest": "1.2",
   "repository": "Diatrus Sileo",
   "url": "http://cydia.saurik.com/package/com.diatrus.sileo-installer/",
   "shortDescription": "Safely install official Sileo on unc0ver. Run the command \"installsileo\" over ssh or MTerminal to install/update, and \"removesileo\" to uninstall.",
@@ -446,6 +446,37 @@
           "date": "2019-03-25T00:55:20Z",
           "userName": "The-Hacker894",
           "issueNumber": 80508,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.2",
+      "iOSVersion": "12.1.1",
+      "repository": "Sileo for unc0ver",
+      "date": "2019-04-05T16:49:42Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,4",
+          "issues": "",
+          "date": "2019-04-05T16:49:42Z",
+          "userName": "StigiTT",
+          "issueNumber": 82930,
           "arch32": false
         }
       ]
