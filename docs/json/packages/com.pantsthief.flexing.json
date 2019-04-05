@@ -1,7 +1,7 @@
 {
   "id": "com.pantsthief.flexing",
   "name": "FLEXing",
-  "latest": "0.0.10",
+  "latest": "0.0.11",
   "repository": "BigBoss",
   "url": "http://cydia.saurik.com/package/com.pantsthief.flexing/",
   "shortDescription": "Open FLEX anywhere!",
@@ -239,6 +239,37 @@
           "date": "2019-03-13T06:10:50Z",
           "userName": "SlashNephy",
           "issueNumber": 77006,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.0.11",
+      "iOSVersion": "12.1",
+      "repository": "BigBoss",
+      "date": "2019-04-05T12:57:16Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2019-04-05T12:57:16Z",
+          "userName": "Brandon097",
+          "issueNumber": 82874,
           "arch32": false
         }
       ]
