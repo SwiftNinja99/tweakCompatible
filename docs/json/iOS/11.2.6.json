@@ -274,7 +274,7 @@
     {
       "id": "libactivator",
       "name": "Activator",
-      "latest": "1.9.12",
+      "latest": "1.9.13~beta4",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/libactivator/",
       "shortDescription": "Centralized gestures, button and shortcut management for iOS",
@@ -307,6 +307,26 @@
           "iOSVersion": "11.2.6",
           "repository": "rpetrich repo",
           "date": "2019-03-05T16:11:35Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        },
+        {
+          "tweakVersion": "1.9.13~beta4",
+          "iOSVersion": "11.2.6",
+          "repository": "rpetrich repo",
+          "date": "2019-04-05T21:41:27Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -1938,10 +1958,10 @@
     {
       "id": "ch.mdaus.artsy",
       "name": "Artsy",
-      "latest": "1.2",
+      "latest": "2.0~Beta.3",
       "repository": "Maxwell Dausch's Repo",
       "url": "http://cydia.saurik.com/package/ch.mdaus.artsy/",
-      "shortDescription": "Colorize and customize  your music players",
+      "shortDescription": "An awesome MobileSubstrate tweak!",
       "category": "Tweaks",
       "author": "Maxwell Dausch",
       "commercial": false,
@@ -2656,6 +2676,40 @@
       ]
     },
     {
+      "id": "com.modmyi.batterylife",
+      "name": "BatteryLife",
+      "latest": "1.6.15",
+      "repository": "ModMyi (Archive)",
+      "url": "http://cydia.saurik.com/package/com.modmyi.batterylife/",
+      "shortDescription": "BatteryLife displays useful information about your device's battery health and life.",
+      "category": "Themes (SpringBoard)",
+      "author": "rbt",
+      "commercial": false,
+      "date": "2018-07-10T16:20:42Z",
+      "versions": [
+        {
+          "tweakVersion": "1.6.15",
+          "iOSVersion": "11.2.6",
+          "repository": "ModMyi (Archive)",
+          "date": "2018-07-10T16:20:42Z",
+          "outcome": {
+            "calculatedStatus": "Not working",
+            "percentage": 0,
+            "good": 0,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.rbt.batterylife",
       "name": "BatteryLife",
       "latest": "1.7.0",
@@ -2695,40 +2749,6 @@
             "calculatedStatus": "Working",
             "percentage": 100,
             "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "com.modmyi.batterylife",
-      "name": "BatteryLife",
-      "latest": "1.6.15",
-      "repository": "ModMyi (Archive)",
-      "url": "http://cydia.saurik.com/package/com.modmyi.batterylife/",
-      "shortDescription": "BatteryLife displays useful information about your device's battery health and life.",
-      "category": "Themes (SpringBoard)",
-      "author": "rbt",
-      "commercial": false,
-      "date": "2018-07-10T16:20:42Z",
-      "versions": [
-        {
-          "tweakVersion": "1.6.15",
-          "iOSVersion": "11.2.6",
-          "repository": "ModMyi (Archive)",
-          "date": "2018-07-10T16:20:42Z",
-          "outcome": {
-            "calculatedStatus": "Not working",
-            "percentage": 0,
-            "good": 0,
             "bad": 0,
             "total": 1,
             "arch32": {
@@ -3135,6 +3155,40 @@
       ]
     },
     {
+      "id": "com.hackyouriphone.betterccxi",
+      "name": "BetterCCXI",
+      "latest": "1.1.9.2",
+      "repository": "HackYouriPhone",
+      "url": "http://cydia.saurik.com/package/com.hackyouriphone.betterccxi/",
+      "shortDescription": "Enhance your control center on iOS 11",
+      "category": "HYI - Tweaks",
+      "author": "ATWiiks",
+      "commercial": false,
+      "date": "2018-06-30T16:14:01Z",
+      "versions": [
+        {
+          "tweakVersion": "1.1.3",
+          "iOSVersion": "11.2.6",
+          "repository": "HackYouriPhone",
+          "date": "2018-07-08T22:20:30Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.atwiiks.betterccxi",
       "name": "BetterCCXI",
       "latest": "1.4.8",
@@ -3191,40 +3245,6 @@
           "iOSVersion": "11.2.6",
           "repository": "Packix",
           "date": "2019-04-03T22:20:02Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "com.hackyouriphone.betterccxi",
-      "name": "BetterCCXI",
-      "latest": "1.1.9.2",
-      "repository": "HackYouriPhone",
-      "url": "http://cydia.saurik.com/package/com.hackyouriphone.betterccxi/",
-      "shortDescription": "Enhance your control center on iOS 11",
-      "category": "HYI - Tweaks",
-      "author": "ATWiiks",
-      "commercial": false,
-      "date": "2018-06-30T16:14:01Z",
-      "versions": [
-        {
-          "tweakVersion": "1.1.3",
-          "iOSVersion": "11.2.6",
-          "repository": "HackYouriPhone",
-          "date": "2018-07-08T22:20:30Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -4118,6 +4138,60 @@
       ]
     },
     {
+      "id": "bundleidsxi",
+      "name": "BundleIDsXI",
+      "latest": "1.1.0-2",
+      "repository": "Packix",
+      "url": "http://cydia.saurik.com/package/bundleidsxi/",
+      "shortDescription": "App to see installed app bundle IDs.",
+      "category": "Utilities",
+      "author": "TD",
+      "commercial": false,
+      "date": "2018-07-28T04:18:06Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0.2-2",
+          "iOSVersion": "11.2.6",
+          "repository": "Packix",
+          "date": "2018-08-09T15:48:16Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        },
+        {
+          "tweakVersion": "1.1.0-2",
+          "iOSVersion": "11.2.6",
+          "repository": "Packix",
+          "date": "2018-12-18T08:46:59Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.yourepo.tdadvocate.bundleidsxi",
       "name": "BundleIDsXI",
       "latest": "1.1.0-1",
@@ -4174,60 +4248,6 @@
           "iOSVersion": "11.2.6",
           "repository": "TDAdvocate Source - YouRepo",
           "date": "2018-12-06T19:17:14Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "bundleidsxi",
-      "name": "BundleIDsXI",
-      "latest": "1.1.0-2",
-      "repository": "Packix",
-      "url": "http://cydia.saurik.com/package/bundleidsxi/",
-      "shortDescription": "App to see installed app bundle IDs.",
-      "category": "Utilities",
-      "author": "TD",
-      "commercial": false,
-      "date": "2018-07-28T04:18:06Z",
-      "versions": [
-        {
-          "tweakVersion": "1.0.2-2",
-          "iOSVersion": "11.2.6",
-          "repository": "Packix",
-          "date": "2018-08-09T15:48:16Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        },
-        {
-          "tweakVersion": "1.1.0-2",
-          "iOSVersion": "11.2.6",
-          "repository": "Packix",
-          "date": "2018-12-18T08:46:59Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -4809,10 +4829,10 @@
     {
       "id": "com.jakeashacks.catchathief",
       "name": "CatchaThief",
-      "latest": "1.0.0-1+debug",
+      "latest": "1.0.0",
       "repository": "Jakeashacks",
       "url": "http://cydia.saurik.com/package/com.jakeashacks.catchathief/",
-      "shortDescription": "Take a picture of whoever inputs an incorrect passcode! Does not support Touch ID/Face ID yet. Images are stored in /var/mobile/catchathief. Sending images via email is being looked into.",
+      "shortDescription": "Take a picture of whoever inputs an incorrect passcode!",
       "category": "Tweaks",
       "author": "Jake James",
       "commercial": false,
@@ -5778,39 +5798,6 @@
       ]
     },
     {
-      "id": "ru.domo.cocoatop",
-      "name": "CocoaTop",
-      "latest": "2.0.1",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/ru.domo.cocoatop/",
-      "shortDescription": "Process Viewer for iOS GUI",
-      "category": "Utilities",
-      "author": "Domo",
-      "commercial": false,
-      "versions": [
-        {
-          "tweakVersion": "2.0.1",
-          "iOSVersion": "11.2.6",
-          "repository": "BigBoss",
-          "date": "2018-10-01T07:43:25Z",
-          "outcome": {
-            "calculatedStatus": "Not working",
-            "percentage": 0,
-            "good": 0,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "ru.domo.cocoatop64",
       "name": "CocoaTop",
       "latest": "2.0.2-1+debug",
@@ -5851,6 +5838,39 @@
             "calculatedStatus": "Working",
             "percentage": 100,
             "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "ru.domo.cocoatop",
+      "name": "CocoaTop",
+      "latest": "2.0.1",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/ru.domo.cocoatop/",
+      "shortDescription": "Process Viewer for iOS GUI",
+      "category": "Utilities",
+      "author": "Domo",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "2.0.1",
+          "iOSVersion": "11.2.6",
+          "repository": "BigBoss",
+          "date": "2018-10-01T07:43:25Z",
+          "outcome": {
+            "calculatedStatus": "Not working",
+            "percentage": 0,
+            "good": 0,
             "bad": 0,
             "total": 1,
             "arch32": {
@@ -6192,10 +6212,10 @@
     {
       "id": "com.iarrays.copic2",
       "name": "Copic 2",
-      "latest": "1.0.11-beta-13",
+      "latest": "1.0.10",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.iarrays.copic2/",
-      "shortDescription": "The new Copic 2 is totally redesigned, optimized and rebuild from the scratch. Now brings the ability to display the Contact pictures everywhere on your iPhone.Integrates seamlessly with stock Contacts, FaceTime, Mail, Messages and Phone apps. The best part of this tweak is it also integrates with WhatsApp & infamous tweak Recents 2 too. Also integrates with locks screen and Notification Center. Brings ability to turn on or off monograms or show rounded or rectangular images and many more features.",
+      "shortDescription": "Display the Contact pictures everywhere on your iPhone",
       "category": "Tweaks",
       "author": "IArrays",
       "commercial": false,
@@ -6626,22 +6646,21 @@
       ]
     },
     {
-      "id": "us.evendev.cydiaxi",
+      "id": "com.artikus.cydiaxi",
       "name": "CydiaXI",
-      "latest": "2.0.1",
-      "repository": "CydiaXI",
-      "url": "http://cydia.saurik.com/package/us.evendev.cydiaxi/",
-      "shortDescription": "Making Cydia look more iOS 11-ish",
-      "category": "CydiaXI",
-      "author": "EvenDev",
+      "latest": "1.2",
+      "repository": "cydiaxi.at.ua",
+      "url": "http://cydiaxi.at.ua/",
+      "shortDescription": "A Tweak that Makes Cydia more iOS 11 like!",
+      "category": "Tweaks",
+      "author": "EvenD3V and ArtikusHG",
       "commercial": false,
-      "date": "2018-07-18T18:03:14Z",
       "versions": [
         {
-          "tweakVersion": "2.0.1",
+          "tweakVersion": "0.1",
           "iOSVersion": "11.2.6",
-          "repository": "EvenDev",
-          "date": "2018-10-13T11:07:19Z",
+          "repository": "Smacpats’ Repo",
+          "date": "2018-08-16T01:49:56Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -6660,21 +6679,22 @@
       ]
     },
     {
-      "id": "com.artikus.cydiaxi",
+      "id": "us.evendev.cydiaxi",
       "name": "CydiaXI",
-      "latest": "1.2",
-      "repository": "cydiaxi.at.ua",
-      "url": "http://cydiaxi.at.ua/",
-      "shortDescription": "A Tweak that Makes Cydia more iOS 11 like!",
-      "category": "Tweaks",
-      "author": "EvenD3V and ArtikusHG",
+      "latest": "2.0.1",
+      "repository": "CydiaXI",
+      "url": "http://cydia.saurik.com/package/us.evendev.cydiaxi/",
+      "shortDescription": "Making Cydia look more iOS 11-ish",
+      "category": "CydiaXI",
+      "author": "EvenDev",
       "commercial": false,
+      "date": "2018-07-18T18:03:14Z",
       "versions": [
         {
-          "tweakVersion": "0.1",
+          "tweakVersion": "2.0.1",
           "iOSVersion": "11.2.6",
-          "repository": "Smacpats’ Repo",
-          "date": "2018-08-16T01:49:56Z",
+          "repository": "EvenDev",
+          "date": "2018-10-13T11:07:19Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -8508,7 +8528,7 @@
     {
       "id": "com.r333d.eqe",
       "name": "EQE",
-      "latest": "2.0.9",
+      "latest": "2.0.10~beta",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.r333d.eqe/",
       "shortDescription": "System-wide parametric equalizer",
@@ -12512,7 +12532,7 @@
     {
       "id": "com.unlimapps.gramplus",
       "name": "Instagram ++",
-      "latest": "1.8r-64",
+      "latest": "1.8r-253",
       "repository": "beta.unlimapps.com",
       "url": "http://beta.unlimapps.com/",
       "shortDescription": "Download & Copy Instagram media",
@@ -18576,40 +18596,6 @@
       ]
     },
     {
-      "id": "com.jakeashacks.realcc",
-      "name": "RealCC",
-      "latest": "1.0.1",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/com.jakeashacks.realcc/",
-      "shortDescription": "Actually disable Wi-Fi from the iOS 11 CC",
-      "category": "Tweaks",
-      "author": "Jake James",
-      "commercial": false,
-      "date": "2018-07-11T02:33:10Z",
-      "versions": [
-        {
-          "tweakVersion": "1.0.1",
-          "iOSVersion": "11.2.6",
-          "repository": "BigBoss",
-          "date": "2018-07-13T21:09:22Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 80,
-            "good": 4,
-            "bad": 0,
-            "total": 5,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.subdiox.realcc",
       "name": "RealCC",
       "latest": "0.0.4",
@@ -18632,6 +18618,40 @@
             "good": 1,
             "bad": 0,
             "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.jakeashacks.realcc",
+      "name": "RealCC",
+      "latest": "1.0.1",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.jakeashacks.realcc/",
+      "shortDescription": "Actually disable Wi-Fi from the iOS 11 CC",
+      "category": "Tweaks",
+      "author": "Jake James",
+      "commercial": false,
+      "date": "2018-07-11T02:33:10Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0.1",
+          "iOSVersion": "11.2.6",
+          "repository": "BigBoss",
+          "date": "2018-07-13T21:09:22Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 80,
+            "good": 4,
+            "bad": 0,
+            "total": 5,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -18712,40 +18732,6 @@
       ]
     },
     {
-      "id": "com.spicat.recordpause",
-      "name": "RecordPause",
-      "latest": "1.3.1",
-      "repository": "Spica T Repo",
-      "url": "http://cydia.saurik.com/package/com.spicat.recordpause/",
-      "shortDescription": "Pause/resume video recording.",
-      "category": "Tweaks",
-      "author": "SpicaT",
-      "commercial": false,
-      "date": "2018-07-22T00:19:36Z",
-      "versions": [
-        {
-          "tweakVersion": "1.3.1",
-          "iOSVersion": "11.2.6",
-          "repository": "Spica T Repo",
-          "date": "2019-04-03T23:23:18Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "org.thebigboss.recordpause",
       "name": "RecordPause",
       "latest": "1.2.2",
@@ -18766,6 +18752,40 @@
             "calculatedStatus": "Not working",
             "percentage": 0,
             "good": 0,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.spicat.recordpause",
+      "name": "RecordPause",
+      "latest": "1.3.1",
+      "repository": "Spica T Repo",
+      "url": "http://cydia.saurik.com/package/com.spicat.recordpause/",
+      "shortDescription": "Pause/resume video recording.",
+      "category": "Tweaks",
+      "author": "SpicaT",
+      "commercial": false,
+      "date": "2018-07-22T00:19:36Z",
+      "versions": [
+        {
+          "tweakVersion": "1.3.1",
+          "iOSVersion": "11.2.6",
+          "repository": "Spica T Repo",
+          "date": "2019-04-03T23:23:18Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
             "bad": 0,
             "total": 1,
             "arch32": {
@@ -19348,7 +19368,7 @@
     {
       "id": "me.alfhaily.rocket",
       "name": "Rocket for Instagram",
-      "latest": "3.3.4",
+      "latest": "3.3.1",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/me.alfhaily.rocket/",
       "shortDescription": "posts and view stories anonymously and do much more",
@@ -20906,10 +20926,10 @@
     {
       "id": "com.squ1dd13.sizefinder",
       "name": "SizeFinder",
-      "latest": "2.0",
+      "latest": "1.0",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.squ1dd13.sizefinder/",
-      "shortDescription": "Add app size to delete button",
+      "shortDescription": "Show app size instead of delete button",
       "category": "Tweaks",
       "author": "Squ1dd13",
       "commercial": false,
@@ -25025,7 +25045,7 @@
     {
       "id": "com.justinpetkovic.youtubetools",
       "name": "YouTube Tools",
-      "latest": "2.0",
+      "latest": "1.7",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.justinpetkovic.youtubetools/",
       "shortDescription": "Essential toolbox for YouTube app.",
