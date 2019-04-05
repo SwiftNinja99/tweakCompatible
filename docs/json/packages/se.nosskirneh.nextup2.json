@@ -202,11 +202,11 @@
       "repository": "henrikssonbrothers",
       "date": "2019-04-04T11:55:59Z",
       "outcome": {
-        "calculatedStatus": "Not working",
-        "percentage": 0,
-        "good": 0,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
+        "good": 1,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -223,6 +223,15 @@
           "date": "2019-04-04T11:55:59Z",
           "userName": "fillupontacos",
           "issueNumber": 82762,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-04-05T09:27:20Z",
+          "userName": "JamieBerghmans",
+          "issueNumber": 82860,
           "arch32": false
         }
       ]
