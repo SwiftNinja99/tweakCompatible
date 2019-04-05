@@ -173,6 +173,37 @@
           "arch32": false
         }
       ]
+    },
+    {
+      "tweakVersion": "1.0.0",
+      "iOSVersion": "12.0",
+      "repository": "SparkDev",
+      "date": "2019-04-05T14:17:55Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,2",
+          "issues": "Works great, sometimes will bring up control center and app drawer when swiping up",
+          "date": "2019-04-05T14:17:55Z",
+          "userName": "bzixx",
+          "issueNumber": 82889,
+          "arch32": false
+        }
+      ]
     }
   ]
 }
