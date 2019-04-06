@@ -1,10 +1,10 @@
 {
   "id": "com.squ1dd13.sizefinder",
   "name": "SizeFinder",
-  "latest": "1.0",
+  "latest": "2.0",
   "repository": "BigBoss",
   "url": "http://cydia.saurik.com/package/com.squ1dd13.sizefinder/",
-  "shortDescription": "Show app size instead of delete button",
+  "shortDescription": "Add app size to delete button",
   "category": "Tweaks",
   "author": "Squ1dd13",
   "commercial": false,
@@ -625,6 +625,37 @@
           "date": "2019-04-04T06:50:41Z",
           "userName": "burkybang",
           "issueNumber": 82747,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0",
+      "iOSVersion": "12.0",
+      "repository": "level3tjg",
+      "date": "2019-04-06T19:14:59Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2019-04-06T19:14:59Z",
+          "userName": "CandiMan8",
+          "issueNumber": 83087,
           "arch32": false
         }
       ]
