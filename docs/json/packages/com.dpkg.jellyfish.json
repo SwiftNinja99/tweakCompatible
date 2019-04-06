@@ -118,9 +118,9 @@
       "repository": "dpkg9510's Repo",
       "date": "2019-03-26T12:57:24Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 100,
-        "good": 1,
+        "calculatedStatus": "Not working",
+        "percentage": 0,
+        "good": 0,
         "bad": 0,
         "total": 1,
         "arch32": {
@@ -133,12 +133,12 @@
       },
       "users": [
         {
-          "status": "partial",
+          "status": "not working",
           "device": "iPhone10,3",
-          "issues": "Some apps will stay on the loading screen until they crash. Other apps that open don’t give you the acceptional dark mode compared to iOS 11.",
-          "date": "2019-03-26T12:57:24Z",
+          "issues": "My last review was marked working on accident",
+          "date": "2019-04-06T20:33:57Z",
           "userName": "RedgeJ",
-          "issueNumber": 80815,
+          "issueNumber": 83098,
           "arch32": false
         }
       ]
