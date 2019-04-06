@@ -316,11 +316,11 @@
       "repository": "Karen's Repo",
       "date": "2019-02-27T04:19:42Z",
       "outcome": {
-        "calculatedStatus": "Likely working",
-        "percentage": 50,
+        "calculatedStatus": "Not working",
+        "percentage": 33,
         "good": 1,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -346,6 +346,15 @@
           "date": "2019-03-03T04:15:05Z",
           "userName": "jessegarcia69",
           "issueNumber": 71181,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone9,2",
+          "issues": "",
+          "date": "2019-04-06T05:08:42Z",
+          "userName": "Roverworld212",
+          "issueNumber": 83004,
           "arch32": false
         }
       ]
