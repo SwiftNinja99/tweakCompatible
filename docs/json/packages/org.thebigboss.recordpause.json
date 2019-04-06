@@ -300,11 +300,11 @@
       "repository": "BigBoss",
       "date": "2019-03-05T00:40:00Z",
       "outcome": {
-        "calculatedStatus": "Likely working",
-        "percentage": 50,
+        "calculatedStatus": "Not working",
+        "percentage": 33,
         "good": 1,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -330,6 +330,15 @@
           "date": "2019-03-12T07:41:44Z",
           "userName": "sasale24",
           "issueNumber": 76662,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,1",
+          "issues": "When you go to unpause the video, the tweak crashes the whole camera app, PLEAE HELP FIX!!!",
+          "date": "2019-04-06T00:24:47Z",
+          "userName": "Hexrepo",
+          "issueNumber": 82985,
           "arch32": false
         }
       ]
