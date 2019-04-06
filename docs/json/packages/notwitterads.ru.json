@@ -189,11 +189,11 @@
       "repository": "Packix",
       "date": "2019-02-22T23:57:07Z",
       "outcome": {
-        "calculatedStatus": "Likely working",
-        "percentage": 50,
+        "calculatedStatus": "Not working",
+        "percentage": 33,
         "good": 1,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -219,6 +219,15 @@
           "date": "2019-03-30T12:05:59Z",
           "userName": "pali768",
           "issueNumber": 81790,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone9,3",
+          "issues": "",
+          "date": "2019-04-06T02:14:00Z",
+          "userName": "ChefEr1c",
+          "issueNumber": 82997,
           "arch32": false
         }
       ]
