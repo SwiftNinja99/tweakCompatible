@@ -5852,39 +5852,6 @@
       ]
     },
     {
-      "id": "ru.domo.cocoatop",
-      "name": "CocoaTop",
-      "latest": "2.0.1",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/ru.domo.cocoatop/",
-      "shortDescription": "Process Viewer for iOS GUI",
-      "category": "Utilities",
-      "author": "Domo",
-      "commercial": false,
-      "versions": [
-        {
-          "tweakVersion": "2.0.1",
-          "iOSVersion": "11.2.6",
-          "repository": "BigBoss",
-          "date": "2018-10-01T07:43:25Z",
-          "outcome": {
-            "calculatedStatus": "Not working",
-            "percentage": 0,
-            "good": 0,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "ru.domo.cocoatop64",
       "name": "CocoaTop",
       "latest": "2.0.2-1+debug",
@@ -5925,6 +5892,39 @@
             "calculatedStatus": "Working",
             "percentage": 100,
             "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "ru.domo.cocoatop",
+      "name": "CocoaTop",
+      "latest": "2.0.1",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/ru.domo.cocoatop/",
+      "shortDescription": "Process Viewer for iOS GUI",
+      "category": "Utilities",
+      "author": "Domo",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "2.0.1",
+          "iOSVersion": "11.2.6",
+          "repository": "BigBoss",
+          "date": "2018-10-01T07:43:25Z",
+          "outcome": {
+            "calculatedStatus": "Not working",
+            "percentage": 0,
+            "good": 0,
             "bad": 0,
             "total": 1,
             "arch32": {
@@ -6700,21 +6700,22 @@
       ]
     },
     {
-      "id": "com.artikus.cydiaxi",
+      "id": "us.evendev.cydiaxi",
       "name": "CydiaXI",
-      "latest": "1.2",
-      "repository": "cydiaxi.at.ua",
-      "url": "http://cydiaxi.at.ua/",
-      "shortDescription": "A Tweak that Makes Cydia more iOS 11 like!",
-      "category": "Tweaks",
-      "author": "EvenD3V and ArtikusHG",
+      "latest": "2.0.1",
+      "repository": "CydiaXI",
+      "url": "http://cydia.saurik.com/package/us.evendev.cydiaxi/",
+      "shortDescription": "Making Cydia look more iOS 11-ish",
+      "category": "CydiaXI",
+      "author": "EvenDev",
       "commercial": false,
+      "date": "2018-07-18T18:03:14Z",
       "versions": [
         {
-          "tweakVersion": "0.1",
+          "tweakVersion": "2.0.1",
           "iOSVersion": "11.2.6",
-          "repository": "Smacpats’ Repo",
-          "date": "2018-08-16T01:49:56Z",
+          "repository": "EvenDev",
+          "date": "2018-10-13T11:07:19Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -6733,22 +6734,21 @@
       ]
     },
     {
-      "id": "us.evendev.cydiaxi",
+      "id": "com.artikus.cydiaxi",
       "name": "CydiaXI",
-      "latest": "2.0.1",
-      "repository": "CydiaXI",
-      "url": "http://cydia.saurik.com/package/us.evendev.cydiaxi/",
-      "shortDescription": "Making Cydia look more iOS 11-ish",
-      "category": "CydiaXI",
-      "author": "EvenDev",
+      "latest": "1.2",
+      "repository": "cydiaxi.at.ua",
+      "url": "http://cydiaxi.at.ua/",
+      "shortDescription": "A Tweak that Makes Cydia more iOS 11 like!",
+      "category": "Tweaks",
+      "author": "EvenD3V and ArtikusHG",
       "commercial": false,
-      "date": "2018-07-18T18:03:14Z",
       "versions": [
         {
-          "tweakVersion": "2.0.1",
+          "tweakVersion": "0.1",
           "iOSVersion": "11.2.6",
-          "repository": "EvenDev",
-          "date": "2018-10-13T11:07:19Z",
+          "repository": "Smacpats’ Repo",
+          "date": "2018-08-16T01:49:56Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -13771,6 +13771,39 @@
       ]
     },
     {
+      "id": "repo.biteyourapple.net.localiapstore",
+      "name": "LocalIAPStore",
+      "latest": "1.4-2",
+      "repository": "BiteYourApple",
+      "url": "http://repo.biteyourapple.net/",
+      "shortDescription": "Pwns In-App purchases on iOS 5.1.1 - 7.1.X. Compatible with ARMv8 (64 Bit). Enable in settings. PRESS 'DISMISS' ON POPUP!",
+      "category": "BYA Apps",
+      "author": "BYA Repository",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "1.4-2",
+          "iOSVersion": "11.2.6",
+          "repository": "BiteYourApple",
+          "date": "2018-07-07T21:41:41Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.repo.xarold.com.localiapstore",
       "name": "LocalIAPStore",
       "latest": "1.5",
@@ -13821,39 +13854,6 @@
           "iOSVersion": "11.2.6",
           "repository": "HackYouriPhone",
           "date": "2018-07-10T12:24:16Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "repo.biteyourapple.net.localiapstore",
-      "name": "LocalIAPStore",
-      "latest": "1.4-2",
-      "repository": "BiteYourApple",
-      "url": "http://repo.biteyourapple.net/",
-      "shortDescription": "Pwns In-App purchases on iOS 5.1.1 - 7.1.X. Compatible with ARMv8 (64 Bit). Enable in settings. PRESS 'DISMISS' ON POPUP!",
-      "category": "BYA Apps",
-      "author": "BYA Repository",
-      "commercial": false,
-      "versions": [
-        {
-          "tweakVersion": "1.4-2",
-          "iOSVersion": "11.2.6",
-          "repository": "BiteYourApple",
-          "date": "2018-07-07T21:41:41Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -14649,6 +14649,40 @@
             "good": 2,
             "bad": 0,
             "total": 2,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.ikilledappl3.maliposoundspack4",
+      "name": "Malipo Sounds Pack 4",
+      "latest": "1.0-1",
+      "repository": "Packix",
+      "url": "http://cydia.saurik.com/package/com.ikilledappl3.maliposoundspack4/",
+      "shortDescription": "Sounds pack 4 for Malipo.",
+      "category": "Tweaks",
+      "author": "iKilledAppl3",
+      "commercial": false,
+      "date": "2018-07-31T01:03:41Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0-1",
+          "iOSVersion": "11.2.6",
+          "repository": "Packix",
+          "date": "2019-04-06T01:16:28Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -18650,40 +18684,6 @@
       ]
     },
     {
-      "id": "com.jakeashacks.realcc",
-      "name": "RealCC",
-      "latest": "1.0.1",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/com.jakeashacks.realcc/",
-      "shortDescription": "Actually disable Wi-Fi from the iOS 11 CC",
-      "category": "Tweaks",
-      "author": "Jake James",
-      "commercial": false,
-      "date": "2018-07-11T02:33:10Z",
-      "versions": [
-        {
-          "tweakVersion": "1.0.1",
-          "iOSVersion": "11.2.6",
-          "repository": "BigBoss",
-          "date": "2018-07-13T21:09:22Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 80,
-            "good": 4,
-            "bad": 0,
-            "total": 5,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.subdiox.realcc",
       "name": "RealCC",
       "latest": "0.0.4",
@@ -18706,6 +18706,40 @@
             "good": 1,
             "bad": 0,
             "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.jakeashacks.realcc",
+      "name": "RealCC",
+      "latest": "1.0.1",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.jakeashacks.realcc/",
+      "shortDescription": "Actually disable Wi-Fi from the iOS 11 CC",
+      "category": "Tweaks",
+      "author": "Jake James",
+      "commercial": false,
+      "date": "2018-07-11T02:33:10Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0.1",
+          "iOSVersion": "11.2.6",
+          "repository": "BigBoss",
+          "date": "2018-07-13T21:09:22Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 80,
+            "good": 4,
+            "bad": 0,
+            "total": 5,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -20357,60 +20391,6 @@
       ]
     },
     {
-      "id": "org.thebigboss.selectmoji",
-      "name": "Selectmoji",
-      "latest": "1.0.3",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/org.thebigboss.selectmoji/",
-      "shortDescription": "Better frequently used emojis.",
-      "category": "Tweaks",
-      "author": "cole cabral @ca13ra1",
-      "commercial": true,
-      "date": "2018-07-24T21:49:12Z",
-      "versions": [
-        {
-          "tweakVersion": "1.0.2",
-          "iOSVersion": "11.2.6",
-          "repository": "BigBoss",
-          "date": "2018-08-12T09:22:31Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        },
-        {
-          "tweakVersion": "1.0.3",
-          "iOSVersion": "11.2.6",
-          "repository": "BigBoss",
-          "date": "2018-09-16T11:41:49Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.cc.selectmoji",
       "name": "Selectmoji",
       "latest": "1.2-4",
@@ -20481,6 +20461,60 @@
           "iOSVersion": "11.2.6",
           "repository": "(null)",
           "date": "2018-12-04T08:22:43Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "org.thebigboss.selectmoji",
+      "name": "Selectmoji",
+      "latest": "1.0.3",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/org.thebigboss.selectmoji/",
+      "shortDescription": "Better frequently used emojis.",
+      "category": "Tweaks",
+      "author": "cole cabral @ca13ra1",
+      "commercial": true,
+      "date": "2018-07-24T21:49:12Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0.2",
+          "iOSVersion": "11.2.6",
+          "repository": "BigBoss",
+          "date": "2018-08-12T09:22:31Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        },
+        {
+          "tweakVersion": "1.0.3",
+          "iOSVersion": "11.2.6",
+          "repository": "BigBoss",
+          "date": "2018-09-16T11:41:49Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
