@@ -1,10 +1,10 @@
 {
   "id": "apt",
   "name": "APT 0.6 Transitional",
-  "latest": "0-23",
+  "latest": "1.7.4",
   "repository": "Cydia/Telesphoreo",
   "url": "http://cydia.saurik.com/package/apt/",
-  "shortDescription": "any advanced packaging tool from Debian",
+  "shortDescription": "the advanced packaging tool from Debian",
   "category": "Packaging",
   "author": "(null)",
   "commercial": false,
@@ -423,6 +423,37 @@
           "date": "2019-03-25T17:42:32Z",
           "userName": "fazlul101",
           "issueNumber": 80639,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.7.4",
+      "iOSVersion": "12.1.2",
+      "repository": "(null)",
+      "date": "2019-04-07T12:36:43Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-04-07T12:36:43Z",
+          "userName": "FUNGAMEFR",
+          "issueNumber": 83218,
           "arch32": false
         }
       ]
