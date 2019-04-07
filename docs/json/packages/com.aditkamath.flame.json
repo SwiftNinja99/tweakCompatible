@@ -3117,10 +3117,10 @@
       "date": "2019-02-23T01:59:31Z",
       "outcome": {
         "calculatedStatus": "Working",
-        "percentage": 92,
+        "percentage": 85,
         "good": 12,
         "bad": 0,
-        "total": 13,
+        "total": 14,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -3245,6 +3245,15 @@
           "date": "2019-03-17T00:28:16Z",
           "userName": "Mosas123",
           "issueNumber": 78203,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,5",
+          "issues": "Batch repo upload/export works, but is negated by the timeout not functioning and causing Cydia to not properly reload repos before crashing/freezing resulting in having to reboot.",
+          "date": "2019-04-07T06:45:25Z",
+          "userName": "LuluBeaCreative",
+          "issueNumber": 83162,
           "arch32": false
         }
       ]
