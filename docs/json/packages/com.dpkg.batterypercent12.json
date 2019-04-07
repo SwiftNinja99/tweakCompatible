@@ -247,11 +247,11 @@
       "repository": "dpkg9510's Repo",
       "date": "2019-04-03T14:34:22Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 100,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
         "good": 1,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -268,6 +268,15 @@
           "date": "2019-04-03T14:34:22Z",
           "userName": "iThesmoke",
           "issueNumber": 82632,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone8,1",
+          "issues": "iP6s",
+          "date": "2019-04-07T14:05:30Z",
+          "userName": "iSung951",
+          "issueNumber": 83244,
           "arch32": false
         }
       ]
