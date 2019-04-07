@@ -1,7 +1,7 @@
 {
   "id": "me.autotouch.autotouch.ios8",
   "name": "AutoTouch",
-  "latest": "5.0.4",
+  "latest": "5.0.6-1",
   "repository": "BigBoss",
   "url": "http://cydia.saurik.com/package/me.autotouch.autotouch.ios8/",
   "shortDescription": "Record and playback touch operations, play macro scripts automatically.",
@@ -2145,6 +2145,37 @@
           "date": "2019-03-31T07:18:33Z",
           "userName": "wodnr4330",
           "issueNumber": 81995,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "5.0.6-1",
+      "iOSVersion": "12.1.1",
+      "repository": "AutoTouch",
+      "date": "2019-04-07T03:44:56Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,2",
+          "issues": "",
+          "date": "2019-04-07T03:44:56Z",
+          "userName": "PWittix",
+          "issueNumber": 83148,
           "arch32": false
         }
       ]
