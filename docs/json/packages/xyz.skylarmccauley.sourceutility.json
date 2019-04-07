@@ -1,10 +1,10 @@
 {
   "id": "xyz.skylarmccauley.sourceutility",
   "name": "sourceutility",
-  "latest": "0.4-1",
+  "latest": "0.4-3",
   "repository": "Hacker's Repo",
   "url": "http://cydia.saurik.com/package/xyz.skylarmccauley.sourceutility/",
-  "shortDescription": "The all-in-one utility for managing your already added Cydia and Sileo sources.",
+  "shortDescription": "The all-in-one utility for managing your already added Cydia and Sileo sources. Run sourceutility in MobileTerminal, NewTerm2, or over SSH.",
   "category": "Utilities",
   "author": "TheHacker",
   "commercial": false,
@@ -130,6 +130,37 @@
           "date": "2019-04-06T10:35:21Z",
           "userName": "MattieThurlow96",
           "issueNumber": 83043,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.4-3",
+      "iOSVersion": "12.1.1",
+      "repository": "Hacker's Repo",
+      "date": "2019-04-07T10:29:17Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,5",
+          "issues": "",
+          "date": "2019-04-07T10:29:17Z",
+          "userName": "MattieThurlow96",
+          "issueNumber": 83200,
           "arch32": false
         }
       ]
