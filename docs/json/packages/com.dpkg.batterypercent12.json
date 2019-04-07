@@ -185,11 +185,11 @@
       "repository": "dpkg9510's Repo",
       "date": "2019-04-03T10:44:16Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 100,
+        "calculatedStatus": "Likely working",
+        "percentage": 66,
         "good": 2,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -215,6 +215,15 @@
           "date": "2019-04-03T13:45:49Z",
           "userName": "mastercreeper66",
           "issueNumber": 82624,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone6,2",
+          "issues": "nothing happens ",
+          "date": "2019-04-07T18:42:03Z",
+          "userName": "iluwQaa",
+          "issueNumber": 83319,
           "arch32": false
         }
       ]
