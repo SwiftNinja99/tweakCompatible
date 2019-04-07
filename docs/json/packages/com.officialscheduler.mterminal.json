@@ -1131,10 +1131,10 @@
       "date": "2019-02-23T05:27:26Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 50,
-        "good": 1,
+        "percentage": 66,
+        "good": 2,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1160,6 +1160,15 @@
           "date": "2019-02-25T02:27:03Z",
           "userName": "nubbinyou",
           "issueNumber": 65863,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone10,6",
+          "issues": "Display problem on iPhone X",
+          "date": "2019-04-07T11:55:38Z",
+          "userName": "FUNGAMEFR",
+          "issueNumber": 83212,
           "arch32": false
         }
       ]
