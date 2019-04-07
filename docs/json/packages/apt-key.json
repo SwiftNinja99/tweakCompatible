@@ -1,7 +1,7 @@
 {
   "id": "apt-key",
   "name": "APT (apt-key)",
-  "latest": "1.4.8-3",
+  "latest": "1.7.4",
   "repository": "Bingner/Elucubratus",
   "url": "http://cydia.saurik.com/package/apt-key/",
   "shortDescription": "repository encryption key management tool",
@@ -414,6 +414,37 @@
           "date": "2019-03-19T22:53:37Z",
           "userName": "OverHereIdiots",
           "issueNumber": 79288,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.7.4",
+      "iOSVersion": "12.1.2",
+      "repository": "(null)",
+      "date": "2019-04-07T12:36:55Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-04-07T12:36:55Z",
+          "userName": "FUNGAMEFR",
+          "issueNumber": 83219,
           "arch32": false
         }
       ]
