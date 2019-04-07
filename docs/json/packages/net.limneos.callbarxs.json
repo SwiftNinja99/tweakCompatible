@@ -1,7 +1,7 @@
 {
   "id": "net.limneos.callbarxs",
   "name": "CallBar XS (iOS 12)",
-  "latest": "2.1-64",
+  "latest": "2.1-65",
   "repository": "limneos.net",
   "url": "http://cydia.saurik.com/package/net.limneos.callbarxs/",
   "shortDescription": "Don't let incoming calls interrupt you!",
@@ -1524,9 +1524,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 1,
+        "good": 2,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1543,6 +1543,15 @@
           "date": "2019-03-19T18:35:01Z",
           "userName": "alaancee",
           "issueNumber": 79225,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-04-07T17:19:48Z",
+          "userName": "frankdlavoie",
+          "issueNumber": 83276,
           "arch32": false
         }
       ]
