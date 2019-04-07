@@ -4,7 +4,7 @@
   "latest": "3.0-1",
   "repository": "apt.modmyi.com",
   "url": "http://cydia.saurik.com/package/com.modmyi.livebatteryindicatorios7/",
-  "shortDescription": "Live Battery Indicator Theme for Alkaline",
+  "shortDescription": "Merges battery and percentage in one circular indicator",
   "category": "Addons (Alkaline)",
   "author": "pw5a29",
   "commercial": false,
@@ -189,11 +189,11 @@
       "repository": "ModMyi (Archive)",
       "date": "2019-03-19T07:06:04Z",
       "outcome": {
-        "calculatedStatus": "Not working",
-        "percentage": 0,
-        "good": 0,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
+        "good": 1,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -210,6 +210,15 @@
           "date": "2019-03-19T07:06:04Z",
           "userName": "ROK5TAR",
           "issueNumber": 79072,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone7,2",
+          "issues": "",
+          "date": "2019-04-07T19:28:49Z",
+          "userName": "desepticon",
+          "issueNumber": 83327,
           "arch32": false
         }
       ]
