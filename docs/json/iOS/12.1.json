@@ -3036,10 +3036,10 @@
     {
       "id": "com.tigisoftware.appdatamanager",
       "name": "Apps Manager",
-      "latest": "1.5.0-12",
+      "latest": "1.4.2",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.tigisoftware.appdatamanager/",
-      "shortDescription": "This tool provides the way to WIPE, BACKUP, RESTORE AppData for installed Apps",
+      "shortDescription": "tool to WIPE, BACKUP, RESTORE AppData for installed Apps",
       "category": "Utilities",
       "author": "TIGI Software",
       "commercial": false,
@@ -3303,39 +3303,6 @@
       ]
     },
     {
-      "id": "net.angelxwind.appsyncunified",
-      "name": "AppSync Unified",
-      "latest": "32.0",
-      "repository": "Karen's Repo",
-      "url": "http://cydia.angelxwind.net/",
-      "shortDescription": "Enables the ability to install unsigned/fakesigned iOS applications.",
-      "category": "Tweaks",
-      "author": "Linus Yang, Karen／明美",
-      "commercial": false,
-      "versions": [
-        {
-          "tweakVersion": "32.0",
-          "iOSVersion": "12.1",
-          "repository": "Karen's Repo",
-          "date": "2019-02-24T10:58:00Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 4,
-            "bad": 0,
-            "total": 4,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "cydia.net.angelxwind.appsyncunified",
       "name": "AppSync Unified",
       "latest": "32.0",
@@ -3398,6 +3365,39 @@
             "good": 1,
             "bad": 0,
             "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "net.angelxwind.appsyncunified",
+      "name": "AppSync Unified",
+      "latest": "32.0",
+      "repository": "Karen's Repo",
+      "url": "http://cydia.angelxwind.net/",
+      "shortDescription": "Enables the ability to install unsigned/fakesigned iOS applications.",
+      "category": "Tweaks",
+      "author": "Linus Yang, Karen／明美",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "32.0",
+          "iOSVersion": "12.1",
+          "repository": "Karen's Repo",
+          "date": "2019-02-24T10:58:00Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 4,
+            "bad": 0,
+            "total": 4,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -6320,7 +6320,7 @@
     {
       "id": "net.limneos.bioprotectxs",
       "name": "BioProtect XS (iOS 12)",
-      "latest": "4.0-68",
+      "latest": "4.0-69",
       "repository": "limneos.net",
       "url": "http://cydia.saurik.com/package/net.limneos.bioprotectxs/",
       "shortDescription": "Protect your apps with Touch/Face ID!",
@@ -8037,7 +8037,7 @@
     {
       "id": "net.limneos.callbarxs",
       "name": "CallBar XS (iOS 12)",
-      "latest": "2.1-64",
+      "latest": "2.1-65",
       "repository": "limneos.net",
       "url": "http://cydia.saurik.com/package/net.limneos.callbarxs/",
       "shortDescription": "Don't let incoming calls interrupt you!",
@@ -8592,40 +8592,6 @@
       ]
     },
     {
-      "id": "com.yourepo.aumenjoyllc.carriercrack-t-mobileusa",
-      "name": "CarrierCrack - T-Mobile USA",
-      "latest": "1.4",
-      "repository": "AumenjoyLLC Source - YouRepo",
-      "url": "http://cydia.saurik.com/package/com.yourepo.aumenjoyllc.carriercrack-t-mobileusa/",
-      "shortDescription": "Enables hidden features, introduces new features, amplifies cell signal, amplifies data speeds and more!",
-      "category": "Tweaks",
-      "author": "iTweakiOS",
-      "commercial": true,
-      "date": "2019-02-26T00:37:25Z",
-      "versions": [
-        {
-          "tweakVersion": "1.4",
-          "iOSVersion": "12.1",
-          "repository": "AumenjoyLLC Source - YouRepo",
-          "date": "2019-02-27T13:24:58Z",
-          "outcome": {
-            "calculatedStatus": "Likely working",
-            "percentage": 66,
-            "good": 2,
-            "bad": 0,
-            "total": 3,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.itweakios.carriercracktmobileus",
       "name": "CarrierCrack - T-Mobile USA",
       "latest": "1.2",
@@ -8648,6 +8614,40 @@
             "good": 1,
             "bad": 0,
             "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.yourepo.aumenjoyllc.carriercrack-t-mobileusa",
+      "name": "CarrierCrack - T-Mobile USA",
+      "latest": "1.4",
+      "repository": "AumenjoyLLC Source - YouRepo",
+      "url": "http://cydia.saurik.com/package/com.yourepo.aumenjoyllc.carriercrack-t-mobileusa/",
+      "shortDescription": "Enables hidden features, introduces new features, amplifies cell signal, amplifies data speeds and more!",
+      "category": "Tweaks",
+      "author": "iTweakiOS",
+      "commercial": true,
+      "date": "2019-02-26T00:37:25Z",
+      "versions": [
+        {
+          "tweakVersion": "1.4",
+          "iOSVersion": "12.1",
+          "repository": "AumenjoyLLC Source - YouRepo",
+          "date": "2019-02-27T13:24:58Z",
+          "outcome": {
+            "calculatedStatus": "Likely working",
+            "percentage": 66,
+            "good": 2,
+            "bad": 0,
+            "total": 3,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -10382,39 +10382,6 @@
       ]
     },
     {
-      "id": "ru.domo.cocoatop",
-      "name": "CocoaTop",
-      "latest": "2.0.1",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/ru.domo.cocoatop/",
-      "shortDescription": "Process Viewer for iOS GUI",
-      "category": "Utilities",
-      "author": "Domo",
-      "commercial": false,
-      "versions": [
-        {
-          "tweakVersion": "2.0.1",
-          "iOSVersion": "12.1",
-          "repository": "BigBoss",
-          "date": "2019-02-23T11:30:21Z",
-          "outcome": {
-            "calculatedStatus": "Not working",
-            "percentage": 0,
-            "good": 0,
-            "bad": 0,
-            "total": 2,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "ru.domo.cocoatop64",
       "name": "CocoaTop",
       "latest": "2.0.2-1+debug",
@@ -10437,6 +10404,39 @@
             "good": 1,
             "bad": 0,
             "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "ru.domo.cocoatop",
+      "name": "CocoaTop",
+      "latest": "2.0.1",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/ru.domo.cocoatop/",
+      "shortDescription": "Process Viewer for iOS GUI",
+      "category": "Utilities",
+      "author": "Domo",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "2.0.1",
+          "iOSVersion": "12.1",
+          "repository": "BigBoss",
+          "date": "2019-02-23T11:30:21Z",
+          "outcome": {
+            "calculatedStatus": "Not working",
+            "percentage": 0,
+            "good": 0,
+            "bad": 0,
+            "total": 2,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -13185,22 +13185,22 @@
       ]
     },
     {
-      "id": "org.coolstar.cctools",
+      "id": "odcctools",
       "name": "Darwin CC Tools",
-      "latest": "895",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/org.coolstar.cctools/",
-      "shortDescription": "tools to work with mach-o files",
+      "latest": "895-3",
+      "repository": "Cydia/Telesphoreo",
+      "url": "http://cydia.saurik.com/package/odcctools/",
+      "shortDescription": "linker and assembler for the iPhone",
       "category": "Development",
-      "author": "CoolStar",
+      "author": "(null)",
       "commercial": false,
-      "date": "2018-06-07T19:23:50Z",
+      "date": "2018-07-20T18:21:05Z",
       "versions": [
         {
-          "tweakVersion": "895",
+          "tweakVersion": "895-3",
           "iOSVersion": "12.1",
-          "repository": "BigBoss",
-          "date": "2019-02-24T08:14:50Z",
+          "repository": "Bingner/Elucubratus",
+          "date": "2019-02-22T22:36:46Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -13219,22 +13219,22 @@
       ]
     },
     {
-      "id": "odcctools",
+      "id": "org.coolstar.cctools",
       "name": "Darwin CC Tools",
-      "latest": "895-3",
-      "repository": "Cydia/Telesphoreo",
-      "url": "http://cydia.saurik.com/package/odcctools/",
-      "shortDescription": "linker and assembler for the iPhone",
+      "latest": "895",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/org.coolstar.cctools/",
+      "shortDescription": "tools to work with mach-o files",
       "category": "Development",
-      "author": "(null)",
+      "author": "CoolStar",
       "commercial": false,
-      "date": "2018-07-20T18:21:05Z",
+      "date": "2018-06-07T19:23:50Z",
       "versions": [
         {
-          "tweakVersion": "895-3",
+          "tweakVersion": "895",
           "iOSVersion": "12.1",
-          "repository": "Bingner/Elucubratus",
-          "date": "2019-02-22T22:36:46Z",
+          "repository": "BigBoss",
+          "date": "2019-02-24T08:14:50Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -13354,40 +13354,6 @@
       ]
     },
     {
-      "id": "com.yourepo.ihackspapo85.dateinstatusbar",
-      "name": "Date In StatusBar",
-      "latest": "1.0.1",
-      "repository": "iHacksPaPo85 Source - YouRepo",
-      "url": "http://cydia.saurik.com/package/com.yourepo.ihackspapo85.dateinstatusbar/",
-      "shortDescription": "////////////////////////Adds current date to the status bar\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\",
-      "category": "Tweaks",
-      "author": "MatrixDevTeam",
-      "commercial": false,
-      "date": "2019-02-25T21:56:43Z",
-      "versions": [
-        {
-          "tweakVersion": "1.0.1",
-          "iOSVersion": "12.1",
-          "repository": "iHacksPaPo85 Source - YouRepo",
-          "date": "2019-02-25T21:56:43Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 2,
-            "bad": 0,
-            "total": 2,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.matrixdevteam.dateinstatusbar",
       "name": "Date In StatusBar",
       "latest": "1.0.1",
@@ -13410,6 +13376,40 @@
             "good": 1,
             "bad": 0,
             "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.yourepo.ihackspapo85.dateinstatusbar",
+      "name": "Date In StatusBar",
+      "latest": "1.0.1",
+      "repository": "iHacksPaPo85 Source - YouRepo",
+      "url": "http://cydia.saurik.com/package/com.yourepo.ihackspapo85.dateinstatusbar/",
+      "shortDescription": "////////////////////////Adds current date to the status bar\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\",
+      "category": "Tweaks",
+      "author": "MatrixDevTeam",
+      "commercial": false,
+      "date": "2019-02-25T21:56:43Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0.1",
+          "iOSVersion": "12.1",
+          "repository": "iHacksPaPo85 Source - YouRepo",
+          "date": "2019-02-25T21:56:43Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 2,
+            "bad": 0,
+            "total": 2,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -14316,6 +14316,40 @@
       ]
     },
     {
+      "id": "com.yourepo.ahmedbafkir.dleasy",
+      "name": "DLEasy",
+      "latest": "1.5",
+      "repository": "AhmedBafkir Source - YouRepo",
+      "url": "http://cydia.saurik.com/package/com.yourepo.ahmedbafkir.dleasy/",
+      "shortDescription": "Download images & videos from social apps easily!",
+      "category": "Tweaks",
+      "author": "AhmedBafkir",
+      "commercial": false,
+      "date": "2019-02-02T01:17:26Z",
+      "versions": [
+        {
+          "tweakVersion": "1.5",
+          "iOSVersion": "12.1",
+          "repository": "AhmedBafkir Source - YouRepo",
+          "date": "2019-04-07T14:25:06Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.ahmedbafkir.dleasy",
       "name": "DLEasy",
       "latest": "1.5",
@@ -14372,40 +14406,6 @@
           "iOSVersion": "12.1",
           "repository": "BigBoss",
           "date": "2019-03-18T23:48:09Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "com.yourepo.ahmedbafkir.dleasy",
-      "name": "DLEasy",
-      "latest": "1.5",
-      "repository": "AhmedBafkir Source - YouRepo",
-      "url": "http://cydia.saurik.com/package/com.yourepo.ahmedbafkir.dleasy/",
-      "shortDescription": "Download images & videos from social apps easily!",
-      "category": "Tweaks",
-      "author": "AhmedBafkir",
-      "commercial": false,
-      "date": "2019-02-02T01:17:26Z",
-      "versions": [
-        {
-          "tweakVersion": "1.5",
-          "iOSVersion": "12.1",
-          "repository": "AhmedBafkir Source - YouRepo",
-          "date": "2019-04-07T14:25:06Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -22889,40 +22889,6 @@
       ]
     },
     {
-      "id": "com.yourepo.ohshitwaddup.iconsupport",
-      "name": "IconSupport",
-      "latest": "1.11.0-1tempfix",
-      "repository": "ohshit_waddup - YouRepo",
-      "url": "http://cydia.saurik.com/package/com.yourepo.ohshitwaddup.iconsupport/",
-      "shortDescription": "Support library for safe icon tweaks.",
-      "category": "Development",
-      "author": "Lance Fetters (ashikase)",
-      "commercial": false,
-      "date": "2019-02-24T10:58:54Z",
-      "versions": [
-        {
-          "tweakVersion": "1.11.0-1tempfix",
-          "iOSVersion": "12.1",
-          "repository": "ohshit_waddup - YouRepo",
-          "date": "2019-02-24T10:58:54Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.chpwn.iconsupport",
       "name": "IconSupport",
       "latest": "1.11.1",
@@ -22962,6 +22928,40 @@
             "calculatedStatus": "Not working",
             "percentage": 0,
             "good": 0,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.yourepo.ohshitwaddup.iconsupport",
+      "name": "IconSupport",
+      "latest": "1.11.0-1tempfix",
+      "repository": "ohshit_waddup - YouRepo",
+      "url": "http://cydia.saurik.com/package/com.yourepo.ohshitwaddup.iconsupport/",
+      "shortDescription": "Support library for safe icon tweaks.",
+      "category": "Development",
+      "author": "Lance Fetters (ashikase)",
+      "commercial": false,
+      "date": "2019-02-24T10:58:54Z",
+      "versions": [
+        {
+          "tweakVersion": "1.11.0-1tempfix",
+          "iOSVersion": "12.1",
+          "repository": "ohshit_waddup - YouRepo",
+          "date": "2019-02-24T10:58:54Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
             "bad": 0,
             "total": 1,
             "arch32": {
@@ -26606,10 +26606,10 @@
     {
       "id": "com.ps.letmeblock",
       "name": "LetMeBlock",
-      "latest": "0.0.6.3",
+      "latest": "0.0.1",
       "repository": "PoomSmart's Repo",
       "url": "http://cydia.saurik.com/package/com.ps.letmeblock/",
-      "shortDescription": "Make mDNSResponder care more about /etc/hosts",
+      "shortDescription": "Make mDNSResponder care about /etc/hosts",
       "category": "Tweaks",
       "author": "PoomSmart",
       "commercial": false,
@@ -26947,7 +26947,7 @@
     {
       "id": "com.creaturesurvive.libcscolorpicker",
       "name": "libCSColorPicker",
-      "latest": "0.8.2",
+      "latest": "0.8.1",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.creaturesurvive.libcscolorpicker/",
       "shortDescription": "A minimal color picker library for developers",
@@ -28522,22 +28522,22 @@
       ]
     },
     {
-      "id": "com.yourepo.speedmx.localiapstore",
+      "id": "com.kurdios.localiapstore",
       "name": "LocalIAPStore",
-      "latest": "1.4-4",
-      "repository": "(null)",
-      "url": "http://cydia.saurik.com/package/com.yourepo.speedmx.localiapstore/",
-      "shortDescription": "Pwns In-App purchases on iOS 7 and 8. Compatible with ARMv8 (64 Bit). Enable in settings. PRESS 'DISMISS' ON POPUP!",
-      "category": "Tweaks",
-      "author": "Pangu",
+      "latest": "1.4-5b",
+      "repository": "KurdiOS",
+      "url": "http://cydia.saurik.com/package/com.kurdios.localiapstore/",
+      "shortDescription": "هاککردنی پارە و گۆڵدی ناو یارییەکان",
+      "category": "Kurd Tweaks",
+      "author": "KurdiOS Repo",
       "commercial": false,
-      "date": "2019-01-08T00:01:42Z",
+      "date": "2019-02-27T13:24:17Z",
       "versions": [
         {
-          "tweakVersion": "1.4-4",
+          "tweakVersion": "1.4-5b",
           "iOSVersion": "12.1",
-          "repository": "(null)",
-          "date": "2019-02-25T18:38:27Z",
+          "repository": "KurdiOS",
+          "date": "2019-02-27T13:24:17Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -28556,22 +28556,22 @@
       ]
     },
     {
-      "id": "com.kurdios.localiapstore",
+      "id": "com.yourepo.speedmx.localiapstore",
       "name": "LocalIAPStore",
-      "latest": "1.4-5b",
-      "repository": "KurdiOS",
-      "url": "http://cydia.saurik.com/package/com.kurdios.localiapstore/",
-      "shortDescription": "هاککردنی پارە و گۆڵدی ناو یارییەکان",
-      "category": "Kurd Tweaks",
-      "author": "KurdiOS Repo",
+      "latest": "1.4-4",
+      "repository": "(null)",
+      "url": "http://cydia.saurik.com/package/com.yourepo.speedmx.localiapstore/",
+      "shortDescription": "Pwns In-App purchases on iOS 7 and 8. Compatible with ARMv8 (64 Bit). Enable in settings. PRESS 'DISMISS' ON POPUP!",
+      "category": "Tweaks",
+      "author": "Pangu",
       "commercial": false,
-      "date": "2019-02-27T13:24:17Z",
+      "date": "2019-01-08T00:01:42Z",
       "versions": [
         {
-          "tweakVersion": "1.4-5b",
+          "tweakVersion": "1.4-4",
           "iOSVersion": "12.1",
-          "repository": "KurdiOS",
-          "date": "2019-02-27T13:24:17Z",
+          "repository": "(null)",
+          "date": "2019-02-25T18:38:27Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -31789,6 +31789,39 @@
       ]
     },
     {
+      "id": "com.hidan.musicsmalleralerts",
+      "name": "MusicSmallerAlertsPlz",
+      "latest": "1.0.0",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.hidan.musicsmalleralerts/",
+      "shortDescription": "Make annoying bulky Alerts smaller in Music app!",
+      "category": "Tweaks",
+      "author": "HiDaN",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "1.0.0",
+          "iOSVersion": "12.1",
+          "repository": "BigBoss",
+          "date": "2019-04-07T18:27:30Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.julioverne.musilyric",
       "name": "MusiLyric",
       "latest": "0.5~beta6b",
@@ -32729,40 +32762,6 @@
       ]
     },
     {
-      "id": "me.sethstephens.newgridswitcher",
-      "name": "NewGridSwitcher",
-      "latest": "1.1.0",
-      "repository": "Relative's Repo",
-      "url": "http://cydia.saurik.com/package/me.sethstephens.newgridswitcher/",
-      "shortDescription": "A grid switcher on iOS 11 and above",
-      "category": "Tweaks",
-      "author": "relative",
-      "commercial": false,
-      "date": "2019-03-09T05:27:34Z",
-      "versions": [
-        {
-          "tweakVersion": "1.1.0",
-          "iOSVersion": "12.1",
-          "repository": "BigBoss",
-          "date": "2019-03-10T16:40:29Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 80,
-            "good": 4,
-            "bad": 0,
-            "total": 5,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "pro.relative.newgridswitcher",
       "name": "NewGridSwitcher",
       "latest": "1.0.1",
@@ -32785,6 +32784,40 @@
             "good": 1,
             "bad": 0,
             "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "me.sethstephens.newgridswitcher",
+      "name": "NewGridSwitcher",
+      "latest": "1.1.0",
+      "repository": "Relative's Repo",
+      "url": "http://cydia.saurik.com/package/me.sethstephens.newgridswitcher/",
+      "shortDescription": "A grid switcher on iOS 11 and above",
+      "category": "Tweaks",
+      "author": "relative",
+      "commercial": false,
+      "date": "2019-03-09T05:27:34Z",
+      "versions": [
+        {
+          "tweakVersion": "1.1.0",
+          "iOSVersion": "12.1",
+          "repository": "BigBoss",
+          "date": "2019-03-10T16:40:29Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 80,
+            "good": 4,
+            "bad": 0,
+            "total": 5,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -33542,40 +33575,6 @@
       ]
     },
     {
-      "id": "ru.rejail.noctis12",
-      "name": "Noctis12",
-      "latest": "1.1-1+debug",
-      "repository": "(null)",
-      "url": "http://cydia.saurik.com/package/ru.rejail.noctis12/",
-      "shortDescription": "Темный режим для всей системы",
-      "category": "Tweaks",
-      "author": "LaughingQuoll",
-      "commercial": false,
-      "date": "2019-02-24T02:00:52Z",
-      "versions": [
-        {
-          "tweakVersion": "1.1-1+debug",
-          "iOSVersion": "12.1",
-          "repository": "(null)",
-          "date": "2019-02-24T02:00:52Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.laughingquoll.noctis12",
       "name": "Noctis12",
       "latest": "1.4",
@@ -33752,6 +33751,40 @@
           "iOSVersion": "12.1",
           "repository": "Packix",
           "date": "2019-03-24T21:35:53Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "ru.rejail.noctis12",
+      "name": "Noctis12",
+      "latest": "1.1-1+debug",
+      "repository": "(null)",
+      "url": "http://cydia.saurik.com/package/ru.rejail.noctis12/",
+      "shortDescription": "Темный режим для всей системы",
+      "category": "Tweaks",
+      "author": "LaughingQuoll",
+      "commercial": false,
+      "date": "2019-02-24T02:00:52Z",
+      "versions": [
+        {
+          "tweakVersion": "1.1-1+debug",
+          "iOSVersion": "12.1",
+          "repository": "(null)",
+          "date": "2019-02-24T02:00:52Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,

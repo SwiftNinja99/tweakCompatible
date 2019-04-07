@@ -100,6 +100,37 @@
           "arch32": false
         }
       ]
+    },
+    {
+      "tweakVersion": "1.0.0",
+      "iOSVersion": "12.1",
+      "repository": "BigBoss",
+      "date": "2019-04-07T18:27:30Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "On iPhone 6S the alerts are a bit distorted (wider than tall instead of rectangular), but otherwise it works just fine",
+          "date": "2019-04-07T18:27:30Z",
+          "userName": "Nukeer9578",
+          "issueNumber": 83317,
+          "arch32": false
+        }
+      ]
     }
   ]
 }
