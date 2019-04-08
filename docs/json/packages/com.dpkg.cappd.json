@@ -708,11 +708,11 @@
       "repository": "dpkg9510's Repo",
       "date": "2019-04-01T20:20:42Z",
       "outcome": {
-        "calculatedStatus": "Likely working",
-        "percentage": 75,
-        "good": 3,
+        "calculatedStatus": "Working",
+        "percentage": 80,
+        "good": 4,
         "bad": 0,
-        "total": 4,
+        "total": 5,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -756,6 +756,15 @@
           "date": "2019-04-07T02:55:32Z",
           "userName": "813Samauarai",
           "issueNumber": 83131,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2019-04-08T10:56:00Z",
+          "userName": "gofustylugs",
+          "issueNumber": 83425,
           "arch32": false
         }
       ]
