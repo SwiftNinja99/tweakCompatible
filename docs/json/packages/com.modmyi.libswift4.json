@@ -1,7 +1,7 @@
 {
   "id": "com.modmyi.libswift4",
   "name": "libswift4",
-  "latest": "4.2.1-1",
+  "latest": "4.2.1-2",
   "repository": "BigBoss",
   "url": "http://cydia.saurik.com/package/com.modmyi.libswift4/",
   "shortDescription": "libswift dylibs for iOS",
@@ -1804,6 +1804,37 @@
           "date": "2019-03-10T16:56:36Z",
           "userName": "ktdre",
           "issueNumber": 75964,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "4.2.1-2",
+      "iOSVersion": "12.1",
+      "repository": "BigBoss",
+      "date": "2019-04-08T19:28:16Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,1",
+          "issues": "",
+          "date": "2019-04-08T19:28:16Z",
+          "userName": "mblack1",
+          "issueNumber": 83511,
           "arch32": false
         }
       ]
