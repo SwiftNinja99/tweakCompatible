@@ -47,9 +47,9 @@
       "repository": "NoisyFlake",
       "date": "2019-04-08T17:45:40Z",
       "outcome": {
-        "calculatedStatus": "Likely working",
-        "percentage": 50,
-        "good": 1,
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 2,
         "bad": 0,
         "total": 2,
         "arch32": {
@@ -62,21 +62,21 @@
       },
       "users": [
         {
-          "status": "not working",
-          "device": "iPhone10,3",
-          "issues": "Does nothing",
-          "date": "2019-04-08T17:45:40Z",
-          "userName": "ghostenigmaxx",
-          "issueNumber": 83493,
-          "arch32": false
-        },
-        {
           "status": "working",
           "device": "iPhone10,3",
           "issues": "iPhone X - works perfect",
           "date": "2019-04-08T18:06:28Z",
           "userName": "iphizzle",
           "issueNumber": 83494,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "Only volume and brightness slider working",
+          "date": "2019-04-08T18:57:19Z",
+          "userName": "ghostenigmaxx",
+          "issueNumber": 83499,
           "arch32": false
         }
       ]
