@@ -5046,9 +5046,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 5,
+        "good": 6,
         "bad": 0,
-        "total": 5,
+        "total": 6,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -5101,6 +5101,15 @@
           "date": "2019-03-20T18:15:14Z",
           "userName": "rwkearns",
           "issueNumber": 79529,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone8,1",
+          "issues": "Both Volume buttons pressed at once do not activate the Torch from an unlocked screen",
+          "date": "2019-04-08T10:46:04Z",
+          "userName": "gofustylugs",
+          "issueNumber": 83419,
           "arch32": false
         }
       ]
