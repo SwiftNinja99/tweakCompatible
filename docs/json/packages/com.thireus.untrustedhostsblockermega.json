@@ -721,11 +721,11 @@
       "repository": "Thireus Repository",
       "date": "2019-03-28T16:22:47Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 100,
+        "calculatedStatus": "Likely working",
+        "percentage": 66,
         "good": 2,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -751,6 +751,15 @@
           "date": "2019-03-29T03:25:35Z",
           "userName": "fillupontacos",
           "issueNumber": 81476,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone9,3",
+          "issues": "iPhone7, seems hacked after install",
+          "date": "2019-04-08T01:18:46Z",
+          "userName": "Passsenger57",
+          "issueNumber": 83381,
           "arch32": false
         }
       ]
