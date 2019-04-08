@@ -1,7 +1,7 @@
 {
   "id": "com.d11z.textyle",
   "name": "Textyle",
-  "latest": "1.0",
+  "latest": "1.1",
   "repository": "Packix",
   "url": "http://cydia.saurik.com/package/com.d11z.textyle/",
   "shortDescription": "Quickly style any text",
@@ -210,6 +210,37 @@
           "date": "2019-04-06T19:54:09Z",
           "userName": "lukboy3",
           "issueNumber": 83094,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.1",
+      "iOSVersion": "12.1.1",
+      "repository": "Packix",
+      "date": "2019-04-08T18:32:06Z",
+      "outcome": {
+        "calculatedStatus": "Not working",
+        "percentage": 0,
+        "good": 0,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone10,3",
+          "issues": "Respring loops while jailbreaking.conflict with rsd",
+          "date": "2019-04-08T18:32:06Z",
+          "userName": "ghostenigmaxx",
+          "issueNumber": 83496,
           "arch32": false
         }
       ]
