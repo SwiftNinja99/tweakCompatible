@@ -2898,9 +2898,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 22,
+        "good": 23,
         "bad": 0,
-        "total": 22,
+        "total": 23,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -3106,6 +3106,15 @@
           "date": "2019-03-31T00:27:30Z",
           "userName": "jefro108",
           "issueNumber": 81946,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPad7,3",
+          "issues": "Cydia crashes when \"long press to copy repo\" on iPad ",
+          "date": "2019-04-08T04:38:43Z",
+          "userName": "gearup7",
+          "issueNumber": 83392,
           "arch32": false
         }
       ]
