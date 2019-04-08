@@ -719,9 +719,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 2,
+        "good": 3,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -747,6 +747,15 @@
           "date": "2019-03-01T22:19:29Z",
           "userName": "the-blaggyS",
           "issueNumber": 70401,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone10,6",
+          "issues": "Can’t support PreferenceOrganizer 2 on iOS 12.1.1",
+          "date": "2019-04-08T18:38:51Z",
+          "userName": "danielchou1911",
+          "issueNumber": 83498,
           "arch32": false
         }
       ]
