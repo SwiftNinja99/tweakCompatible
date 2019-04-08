@@ -1,10 +1,10 @@
 {
   "id": "com.dave1482.powerapp",
   "name": "PowerApp",
-  "latest": "4.1.2",
+  "latest": "4.3.0",
   "repository": "BigBoss",
   "url": "http://cydia.saurik.com/package/com.dave1482.powerapp/",
-  "shortDescription": "Reboot, Shutdown, Respring, go into Safemode",
+  "shortDescription": "Reboot, Shutdown, Respring, and more easily —  Supports iOS 3.0-iOS 12.1.2+",
   "category": "Utilities",
   "author": "Dave1482",
   "commercial": false,
@@ -949,11 +949,11 @@
       "repository": "Dynastic Repo",
       "date": "2019-03-20T17:56:36Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 100,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
         "good": 1,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -970,6 +970,15 @@
           "date": "2019-03-20T17:56:36Z",
           "userName": "Nixuge",
           "issueNumber": 79501,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone7,2",
+          "issues": "App crash when clicking on respring or refresh cache, settings aren’t saved.",
+          "date": "2019-04-08T14:32:46Z",
+          "userName": "Alysraza",
+          "issueNumber": 83482,
           "arch32": false
         }
       ]
