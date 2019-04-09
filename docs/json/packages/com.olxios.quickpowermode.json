@@ -834,10 +834,10 @@
       "date": "2019-02-23T12:06:30Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 66,
+        "percentage": 57,
         "good": 4,
         "bad": 0,
-        "total": 6,
+        "total": 7,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -899,6 +899,15 @@
           "date": "2019-03-24T09:44:15Z",
           "userName": "gledrich",
           "issueNumber": 80362,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone8,1",
+          "issues": "Has no effect when used with Neptune tweak",
+          "date": "2019-04-09T16:10:59Z",
+          "userName": "jefro108",
+          "issueNumber": 83610,
           "arch32": false
         }
       ]
