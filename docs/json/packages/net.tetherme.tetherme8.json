@@ -1005,10 +1005,10 @@
       "date": "2019-02-23T03:47:52Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 71,
-        "good": 5,
+        "percentage": 75,
+        "good": 6,
         "bad": 0,
-        "total": 7,
+        "total": 8,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1079,6 +1079,15 @@
           "date": "2019-03-10T03:09:35Z",
           "userName": "gotrandom",
           "issueNumber": 75734,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone10,4",
+          "issues": "Breaks reload daemons.",
+          "date": "2019-04-09T18:10:09Z",
+          "userName": "xXG0DLessXx",
+          "issueNumber": 83623,
           "arch32": false
         }
       ]
