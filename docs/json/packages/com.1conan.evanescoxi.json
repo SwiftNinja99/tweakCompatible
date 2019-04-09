@@ -393,11 +393,11 @@
       "repository": "Chariz",
       "date": "2019-02-23T00:46:10Z",
       "outcome": {
-        "calculatedStatus": "Likely working",
-        "percentage": 75,
-        "good": 3,
+        "calculatedStatus": "Working",
+        "percentage": 80,
+        "good": 4,
         "bad": 0,
-        "total": 4,
+        "total": 5,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -441,6 +441,15 @@
           "date": "2019-04-02T01:12:23Z",
           "userName": "kalafalas",
           "issueNumber": 82326,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone9,2",
+          "issues": "Works but put my device in a respring loop with reload system Daemons on",
+          "date": "2019-04-09T20:18:00Z",
+          "userName": "Roverworld212",
+          "issueNumber": 83656,
           "arch32": false
         }
       ]
