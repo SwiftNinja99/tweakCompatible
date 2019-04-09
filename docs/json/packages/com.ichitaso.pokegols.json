@@ -649,9 +649,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 3,
+        "good": 4,
         "bad": 0,
-        "total": 3,
+        "total": 4,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -686,6 +686,15 @@
           "date": "2019-03-09T08:49:26Z",
           "userName": "TC-Checker",
           "issueNumber": 75322,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPad7,3",
+          "issues": "",
+          "date": "2019-04-09T06:23:33Z",
+          "userName": "ModdedBuilder",
+          "issueNumber": 83562,
           "arch32": false
         }
       ]
