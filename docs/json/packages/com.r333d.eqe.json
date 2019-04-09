@@ -1023,9 +1023,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 1,
+        "good": 2,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1042,6 +1042,15 @@
           "date": "2019-04-04T11:40:52Z",
           "userName": "Ectalite",
           "issueNumber": 82759,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "Only use the cc toggle, avoid using the app icon.",
+          "date": "2019-04-09T23:24:02Z",
+          "userName": "ON3i11",
+          "issueNumber": 83667,
           "arch32": false
         }
       ]
