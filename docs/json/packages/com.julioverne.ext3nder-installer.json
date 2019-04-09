@@ -3944,7 +3944,7 @@
         "percentage": 0,
         "good": 0,
         "bad": 0,
-        "total": 4,
+        "total": 5,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -3988,6 +3988,15 @@
           "date": "2019-02-27T17:23:37Z",
           "userName": "fosterd",
           "issueNumber": 68765,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,3",
+          "issues": "Produces a signature each time you start Ext3nder, as well as at each respring.  So it should not be that signs when it is not required",
+          "date": "2019-04-09T17:27:46Z",
+          "userName": "i-Mobilka",
+          "issueNumber": 83614,
           "arch32": false
         }
       ]
