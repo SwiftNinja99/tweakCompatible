@@ -1,7 +1,7 @@
 {
   "id": "com.idevicehacked.miscsettings",
   "name": "MiscSettings",
-  "latest": "2.3.1",
+  "latest": "2.3.3",
   "repository": "iDevice Hacked Repo",
   "url": "http://cydia.saurik.com/package/com.idevicehacked.miscsettings/",
   "shortDescription": "So far has 46+ Miscellaneous toggles!",
@@ -975,6 +975,37 @@
           "date": "2019-04-04T14:05:30Z",
           "userName": "Nixuge",
           "issueNumber": 82777,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.3.3",
+      "iOSVersion": "12.1.2",
+      "repository": "(null)",
+      "date": "2019-04-09T22:44:54Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2019-04-09T22:44:54Z",
+          "userName": "nicolaspatate",
+          "issueNumber": 83663,
           "arch32": false
         }
       ]
