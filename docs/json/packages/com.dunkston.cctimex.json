@@ -475,9 +475,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 1,
+        "good": 2,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -494,6 +494,15 @@
           "date": "2019-02-24T21:28:29Z",
           "userName": "Kaisertoni",
           "issueNumber": 65417,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "Just not centered, not the correct size, not themable.",
+          "date": "2019-04-09T18:19:32Z",
+          "userName": "Stoppels",
+          "issueNumber": 83645,
           "arch32": false
         }
       ]
