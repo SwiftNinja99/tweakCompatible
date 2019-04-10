@@ -1175,9 +1175,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 1,
+        "good": 2,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1194,6 +1194,15 @@
           "date": "2019-02-23T15:21:12Z",
           "userName": "john024x",
           "issueNumber": 62372,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone8,1",
+          "issues": "Dock icons are not centered vertically. Potentially conflicting tweaks: BetterFiveColumnHomeScreen, Dune",
+          "date": "2019-04-10T23:27:43Z",
+          "userName": "Needleroozer",
+          "issueNumber": 83781,
           "arch32": false
         }
       ]
