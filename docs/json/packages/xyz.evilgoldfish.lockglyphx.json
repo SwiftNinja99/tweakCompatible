@@ -451,11 +451,11 @@
       "repository": "BigBoss",
       "date": "2019-02-23T02:30:50Z",
       "outcome": {
-        "calculatedStatus": "Likely working",
-        "percentage": 44,
+        "calculatedStatus": "Not working",
+        "percentage": 40,
         "good": 4,
         "bad": 0,
-        "total": 9,
+        "total": 10,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -544,6 +544,15 @@
           "date": "2019-04-06T14:49:42Z",
           "userName": "timoboytje",
           "issueNumber": 83070,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone8,1",
+          "issues": "Can hear Apple Pay sound. No fingerprint icon present at all",
+          "date": "2019-04-10T01:42:45Z",
+          "userName": "Metr0Gn0me",
+          "issueNumber": 83684,
           "arch32": false
         }
       ]
