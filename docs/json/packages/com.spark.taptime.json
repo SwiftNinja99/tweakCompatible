@@ -995,11 +995,11 @@
       "repository": "SparkDev",
       "date": "2019-03-06T03:47:52Z",
       "outcome": {
-        "calculatedStatus": "Likely working",
-        "percentage": 50,
+        "calculatedStatus": "Not working",
+        "percentage": 33,
         "good": 1,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1025,6 +1025,15 @@
           "date": "2019-03-19T22:58:28Z",
           "userName": "OverHereIdiots",
           "issueNumber": 79302,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone7,2",
+          "issues": "Doesn’t do anything",
+          "date": "2019-04-10T17:24:45Z",
+          "userName": "WouterBoyGamen",
+          "issueNumber": 83751,
           "arch32": false
         }
       ]
