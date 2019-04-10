@@ -265,11 +265,11 @@
       "repository": "dpkg9510's Repo",
       "date": "2019-04-03T14:34:22Z",
       "outcome": {
-        "calculatedStatus": "Likely working",
-        "percentage": 75,
-        "good": 3,
+        "calculatedStatus": "Working",
+        "percentage": 80,
+        "good": 4,
         "bad": 0,
-        "total": 4,
+        "total": 5,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -313,6 +313,15 @@
           "date": "2019-04-07T18:40:04Z",
           "userName": "iamfreddyg",
           "issueNumber": 83318,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,5",
+          "issues": "",
+          "date": "2019-04-10T06:07:19Z",
+          "userName": "FloreSuave97",
+          "issueNumber": 83697,
           "arch32": false
         }
       ]
