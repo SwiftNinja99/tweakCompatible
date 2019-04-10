@@ -1,7 +1,7 @@
 {
   "id": "libssl1.0",
   "name": "OpenSSL 1.0 Libraries",
-  "latest": "1.0.2q-1",
+  "latest": "1.0.2r-1",
   "repository": "Bingner/Elucubratus",
   "url": "http://cydia.saurik.com/package/libssl1.0/",
   "shortDescription": "OpenSSL Libraries for version 1.0",
@@ -312,6 +312,37 @@
           "date": "2019-03-19T22:48:04Z",
           "userName": "OverHereIdiots",
           "issueNumber": 79264,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.2r-1",
+      "iOSVersion": "12.1",
+      "repository": "Bingner/Elucubratus",
+      "date": "2019-04-10T07:00:27Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-04-10T07:00:27Z",
+          "userName": "istornz",
+          "issueNumber": 83701,
           "arch32": false
         }
       ]
