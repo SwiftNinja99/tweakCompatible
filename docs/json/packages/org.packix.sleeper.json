@@ -47,9 +47,9 @@
       "repository": "Packix",
       "date": "2019-04-05T13:27:48Z",
       "outcome": {
-        "calculatedStatus": "Likely working",
-        "percentage": 50,
-        "good": 1,
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 2,
         "bad": 0,
         "total": 2,
         "arch32": {
@@ -62,21 +62,21 @@
       },
       "users": [
         {
-          "status": "not working",
-          "device": "iPhone9,2",
-          "issues": "Sleep timer sets but does not actually work.",
-          "date": "2019-04-05T13:27:48Z",
-          "userName": "Galbraithm",
-          "issueNumber": 82877,
-          "arch32": false
-        },
-        {
           "status": "working",
           "device": "iPhone10,6",
           "issues": "",
           "date": "2019-04-05T22:31:50Z",
           "userName": "codivilian",
           "issueNumber": 82960,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,2",
+          "issues": "",
+          "date": "2019-04-10T00:17:12Z",
+          "userName": "Galbraithm",
+          "issueNumber": 83673,
           "arch32": false
         }
       ]
