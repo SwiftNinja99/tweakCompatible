@@ -434,10 +434,10 @@
       "date": "2019-02-24T08:02:15Z",
       "outcome": {
         "calculatedStatus": "Not working",
-        "percentage": 40,
+        "percentage": 33,
         "good": 2,
         "bad": 0,
-        "total": 5,
+        "total": 6,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -490,6 +490,15 @@
           "date": "2019-03-31T10:47:40Z",
           "userName": "vbtiger",
           "issueNumber": 82021,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone8,1",
+          "issues": "Just returns to the command prompt ",
+          "date": "2019-04-11T13:39:01Z",
+          "userName": "jefro108",
+          "issueNumber": 83825,
           "arch32": false
         }
       ]
