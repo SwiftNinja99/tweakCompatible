@@ -331,11 +331,11 @@
       "repository": "Sn Repo",
       "date": "2019-03-06T02:01:46Z",
       "outcome": {
-        "calculatedStatus": "Likely working",
-        "percentage": 75,
-        "good": 3,
+        "calculatedStatus": "Working",
+        "percentage": 80,
+        "good": 4,
         "bad": 0,
-        "total": 4,
+        "total": 5,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -379,6 +379,15 @@
           "date": "2019-03-16T14:34:37Z",
           "userName": "The-Hacker894",
           "issueNumber": 78070,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "",
+          "date": "2019-04-11T15:53:10Z",
+          "userName": "mattgallion",
+          "issueNumber": 83832,
           "arch32": false
         }
       ]
