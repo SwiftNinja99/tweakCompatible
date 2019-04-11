@@ -102,6 +102,37 @@
           "arch32": false
         }
       ]
+    },
+    {
+      "tweakVersion": "1.6",
+      "iOSVersion": "12.1.2",
+      "repository": "subdiox's Repo",
+      "date": "2019-04-11T18:54:18Z",
+      "outcome": {
+        "calculatedStatus": "Not working",
+        "percentage": 0,
+        "good": 0,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone9,1",
+          "issues": "It doesn’t crash anything, but doesn’t remove anything. ",
+          "date": "2019-04-11T18:54:18Z",
+          "userName": "jrau18",
+          "issueNumber": 83849,
+          "arch32": false
+        }
+      ]
     }
   ]
 }
