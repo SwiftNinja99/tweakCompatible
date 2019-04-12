@@ -1,10 +1,10 @@
 {
   "id": "com.dpkg.batterypercent12",
   "name": "Batterypercent12",
-  "latest": "1.0-97",
+  "latest": "1.0.1",
   "repository": "dpkg9510's Repo",
   "url": "http://cydia.saurik.com/package/com.dpkg.batterypercent12/",
-  "shortDescription": "Shows battery percentage inside the icon.",
+  "shortDescription": "Shows the battery percentage inside the icon.",
   "category": "Tweaks",
   "author": "Mohamed Galal",
   "commercial": false,
@@ -373,10 +373,10 @@
       "date": "2019-04-11T15:31:58Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 50,
-        "good": 1,
+        "percentage": 66,
+        "good": 2,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -402,6 +402,15 @@
           "date": "2019-04-12T05:57:09Z",
           "userName": "ChapChap",
           "issueNumber": 83923,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone7,2",
+          "issues": "",
+          "date": "2019-04-12T13:06:32Z",
+          "userName": "mastercreeper66",
+          "issueNumber": 83953,
           "arch32": false
         }
       ]
