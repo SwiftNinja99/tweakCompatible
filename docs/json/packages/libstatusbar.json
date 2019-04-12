@@ -341,10 +341,10 @@
       "date": "2019-02-25T17:40:51Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 66,
+        "percentage": 50,
         "good": 2,
         "bad": 0,
-        "total": 3,
+        "total": 4,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -379,6 +379,15 @@
           "date": "2019-03-29T03:27:33Z",
           "userName": "fillupontacos",
           "issueNumber": 81479,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone9,3",
+          "issues": "",
+          "date": "2019-04-12T20:50:31Z",
+          "userName": "czif",
+          "issueNumber": 84038,
           "arch32": false
         }
       ]
