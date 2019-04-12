@@ -855,9 +855,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 3,
+        "good": 4,
         "bad": 0,
-        "total": 3,
+        "total": 4,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -892,6 +892,15 @@
           "date": "2019-03-17T22:09:27Z",
           "userName": "Juvencus",
           "issueNumber": 78590,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone9,3",
+          "issues": "When you disable the option to put the 3 shortcuts at the top, they just disappear with all the apps and tweaks.",
+          "date": "2019-04-11T23:57:29Z",
+          "userName": "xFadeOn",
+          "issueNumber": 83897,
           "arch32": false
         }
       ]
