@@ -1,7 +1,7 @@
 {
   "id": "com.cydiageek.playmusiconrecord",
   "name": "PlayMusicOnRecord",
-  "latest": "1.0.0",
+  "latest": "1.0.1",
   "repository": "BigBoss",
   "url": "http://cydia.saurik.com/package/com.cydiageek.playmusiconrecord/",
   "shortDescription": "Disable Music/Audio from stopping when recording Videos!",
@@ -68,6 +68,37 @@
           "date": "2019-04-01T16:26:19Z",
           "userName": "thelujanexperience",
           "issueNumber": 82283,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.1",
+      "iOSVersion": "12.0.1",
+      "repository": "BigBoss",
+      "date": "2019-04-12T17:03:09Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,4",
+          "issues": "",
+          "date": "2019-04-12T17:03:09Z",
+          "userName": "0Kaushik0",
+          "issueNumber": 84003,
           "arch32": false
         }
       ]
