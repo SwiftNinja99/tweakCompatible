@@ -763,11 +763,11 @@
       "repository": "LonestarX's repo",
       "date": "2019-04-09T18:03:11Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 100,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
         "good": 1,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -784,6 +784,15 @@
           "date": "2019-04-09T18:03:11Z",
           "userName": "viniciusnrc",
           "issueNumber": 83621,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2019-04-12T18:04:29Z",
+          "userName": "S2D187",
+          "issueNumber": 84005,
           "arch32": false
         }
       ]
