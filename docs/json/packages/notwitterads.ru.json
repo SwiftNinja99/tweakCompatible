@@ -248,10 +248,10 @@
       "date": "2019-02-23T15:05:28Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 75,
+        "percentage": 60,
         "good": 3,
         "bad": 0,
-        "total": 4,
+        "total": 5,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -295,6 +295,15 @@
           "date": "2019-04-09T14:49:10Z",
           "userName": "tggir1",
           "issueNumber": 83601,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone8,4",
+          "issues": "Twitter app crash",
+          "date": "2019-04-12T13:35:33Z",
+          "userName": "midjih",
+          "issueNumber": 83966,
           "arch32": false
         }
       ]
