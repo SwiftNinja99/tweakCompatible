@@ -1083,10 +1083,10 @@
       "date": "2019-03-06T13:04:42Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 72,
+        "percentage": 66,
         "good": 8,
         "bad": 0,
-        "total": 11,
+        "total": 12,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1193,6 +1193,15 @@
           "date": "2019-03-30T12:57:35Z",
           "userName": "viniciusnrc",
           "issueNumber": 81831,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,2",
+          "issues": "Doesn’t work when I go to the next page.",
+          "date": "2019-04-12T01:49:32Z",
+          "userName": "IMainRed",
+          "issueNumber": 83901,
           "arch32": false
         }
       ]
