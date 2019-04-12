@@ -195,10 +195,10 @@
       "date": "2019-03-20T22:22:04Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 75,
+        "percentage": 60,
         "good": 3,
         "bad": 0,
-        "total": 4,
+        "total": 5,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -242,6 +242,15 @@
           "date": "2019-03-29T07:21:36Z",
           "userName": "Jmancill1",
           "issueNumber": 81515,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone8,1",
+          "issues": "iPhone 6s - causes safe mode when enabled with other tweaks ",
+          "date": "2019-04-12T10:32:29Z",
+          "userName": "hero3210",
+          "issueNumber": 83931,
           "arch32": false
         }
       ]
