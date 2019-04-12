@@ -183,11 +183,11 @@
       "repository": "BigBoss",
       "date": "2019-04-06T17:28:57Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 100,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
         "good": 1,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -204,6 +204,15 @@
           "date": "2019-04-06T17:28:57Z",
           "userName": "gatekeeper1122",
           "issueNumber": 83078,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone8,1",
+          "issues": "Still opens links in Mail in Safari rather than Chrome ",
+          "date": "2019-04-12T01:17:44Z",
+          "userName": "jefro108",
+          "issueNumber": 83898,
           "arch32": false
         }
       ]
