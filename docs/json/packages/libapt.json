@@ -1,7 +1,7 @@
 {
   "id": "libapt",
   "name": "APT Strict (lib)",
-  "latest": "0",
+  "latest": "1.4.9-1",
   "repository": "Bingner/Elucubratus",
   "url": "http://cydia.saurik.com/package/libapt/",
   "shortDescription": "the advanced packaging library from Debian",
@@ -600,6 +600,37 @@
           "date": "2019-03-18T18:37:51Z",
           "userName": "Dave1482",
           "issueNumber": 78936,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.4.9-1",
+      "iOSVersion": "12.1.1",
+      "repository": "Bingner/Elucubratus",
+      "date": "2019-04-12T13:21:32Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone7,2",
+          "issues": "",
+          "date": "2019-04-12T13:21:32Z",
+          "userName": "alexmen14",
+          "issueNumber": 83959,
           "arch32": false
         }
       ]
