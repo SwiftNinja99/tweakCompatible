@@ -1995,74 +1995,6 @@
       ]
     },
     {
-      "id": "com.hackyouriphone.animationbefast",
-      "name": "AnimationsBeFast",
-      "latest": "1.4.1",
-      "repository": "(null)",
-      "url": "http://cydia.saurik.com/package/com.hackyouriphone.animationbefast/",
-      "shortDescription": "Speeds up animations",
-      "category": "HYI - Tweaks",
-      "author": "Adam Seiter",
-      "commercial": false,
-      "date": "2019-02-23T23:53:03Z",
-      "versions": [
-        {
-          "tweakVersion": "1.4.1",
-          "iOSVersion": "12.1",
-          "repository": "(null)",
-          "date": "2019-02-23T23:53:03Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "com.adamseiter.animationbefast",
-      "name": "AnimationsBeFast",
-      "latest": "1.4.1",
-      "repository": "eXqusic's Repo",
-      "url": "http://cydia.saurik.com/package/com.adamseiter.animationbefast/",
-      "shortDescription": "Speeds up animations",
-      "category": "Tweaks",
-      "author": "Adam Seiter",
-      "commercial": false,
-      "date": "2018-07-17T09:43:18Z",
-      "versions": [
-        {
-          "tweakVersion": "1.4.1",
-          "iOSVersion": "12.1",
-          "repository": "eXqusic's Repo",
-          "date": "2019-02-23T07:51:24Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 3,
-            "bad": 0,
-            "total": 3,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.adamseiter.animationsbefast",
       "name": "AnimationsBeFast",
       "latest": "1.4.5",
@@ -2125,6 +2057,74 @@
             "good": 2,
             "bad": 0,
             "total": 2,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.hackyouriphone.animationbefast",
+      "name": "AnimationsBeFast",
+      "latest": "1.4.1",
+      "repository": "(null)",
+      "url": "http://cydia.saurik.com/package/com.hackyouriphone.animationbefast/",
+      "shortDescription": "Speeds up animations",
+      "category": "HYI - Tweaks",
+      "author": "Adam Seiter",
+      "commercial": false,
+      "date": "2019-02-23T23:53:03Z",
+      "versions": [
+        {
+          "tweakVersion": "1.4.1",
+          "iOSVersion": "12.1",
+          "repository": "(null)",
+          "date": "2019-02-23T23:53:03Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.adamseiter.animationbefast",
+      "name": "AnimationsBeFast",
+      "latest": "1.4.1",
+      "repository": "eXqusic's Repo",
+      "url": "http://cydia.saurik.com/package/com.adamseiter.animationbefast/",
+      "shortDescription": "Speeds up animations",
+      "category": "Tweaks",
+      "author": "Adam Seiter",
+      "commercial": false,
+      "date": "2018-07-17T09:43:18Z",
+      "versions": [
+        {
+          "tweakVersion": "1.4.1",
+          "iOSVersion": "12.1",
+          "repository": "eXqusic's Repo",
+          "date": "2019-02-23T07:51:24Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 3,
+            "bad": 0,
+            "total": 3,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -10767,6 +10767,39 @@
       ]
     },
     {
+      "id": "ru.domo.cocoatop",
+      "name": "CocoaTop",
+      "latest": "2.0.1",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/ru.domo.cocoatop/",
+      "shortDescription": "Process Viewer for iOS GUI",
+      "category": "Utilities",
+      "author": "Domo",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "2.0.1",
+          "iOSVersion": "12.1",
+          "repository": "BigBoss",
+          "date": "2019-02-23T11:30:21Z",
+          "outcome": {
+            "calculatedStatus": "Not working",
+            "percentage": 0,
+            "good": 0,
+            "bad": 0,
+            "total": 2,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "ru.domo.cocoatop64",
       "name": "CocoaTop",
       "latest": "2.0.2-1+debug",
@@ -10789,39 +10822,6 @@
             "good": 1,
             "bad": 0,
             "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "ru.domo.cocoatop",
-      "name": "CocoaTop",
-      "latest": "2.0.1",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/ru.domo.cocoatop/",
-      "shortDescription": "Process Viewer for iOS GUI",
-      "category": "Utilities",
-      "author": "Domo",
-      "commercial": false,
-      "versions": [
-        {
-          "tweakVersion": "2.0.1",
-          "iOSVersion": "12.1",
-          "repository": "BigBoss",
-          "date": "2019-02-23T11:30:21Z",
-          "outcome": {
-            "calculatedStatus": "Not working",
-            "percentage": 0,
-            "good": 0,
-            "bad": 0,
-            "total": 2,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -25764,6 +25764,40 @@
       ]
     },
     {
+      "id": "com.dpkg.jellyfish",
+      "name": "Jellyfish",
+      "latest": "0.1.9b",
+      "repository": "dpkg9510's Repo",
+      "url": "http://cydia.saurik.com/package/com.dpkg.jellyfish/",
+      "shortDescription": "A true-black dark mode.",
+      "category": "Tweaks",
+      "author": "dpkg_",
+      "commercial": false,
+      "date": "2018-11-03T16:55:22Z",
+      "versions": [
+        {
+          "tweakVersion": "0.1.9b",
+          "iOSVersion": "12.1",
+          "repository": "dpkg9510's Repo",
+          "date": "2019-03-01T23:23:09Z",
+          "outcome": {
+            "calculatedStatus": "Not working",
+            "percentage": 0,
+            "good": 0,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.repo.xarold.com.jellyfishcrack",
       "name": "Jellyfish",
       "latest": "1.0.2",
@@ -25918,40 +25952,6 @@
             "calculatedStatus": "Working",
             "percentage": 100,
             "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "com.dpkg.jellyfish",
-      "name": "Jellyfish",
-      "latest": "0.1.9b",
-      "repository": "dpkg9510's Repo",
-      "url": "http://cydia.saurik.com/package/com.dpkg.jellyfish/",
-      "shortDescription": "A true-black dark mode.",
-      "category": "Tweaks",
-      "author": "dpkg_",
-      "commercial": false,
-      "date": "2018-11-03T16:55:22Z",
-      "versions": [
-        {
-          "tweakVersion": "0.1.9b",
-          "iOSVersion": "12.1",
-          "repository": "dpkg9510's Repo",
-          "date": "2019-03-01T23:23:09Z",
-          "outcome": {
-            "calculatedStatus": "Not working",
-            "percentage": 0,
-            "good": 0,
             "bad": 0,
             "total": 1,
             "arch32": {
@@ -29224,22 +29224,22 @@
       ]
     },
     {
-      "id": "com.kurdios.localiapstore",
+      "id": "com.yourepo.speedmx.localiapstore",
       "name": "LocalIAPStore",
-      "latest": "1.4-5b",
-      "repository": "KurdiOS",
-      "url": "http://cydia.saurik.com/package/com.kurdios.localiapstore/",
-      "shortDescription": "هاککردنی پارە و گۆڵدی ناو یارییەکان",
-      "category": "Kurd Tweaks",
-      "author": "KurdiOS Repo",
+      "latest": "1.4-4",
+      "repository": "(null)",
+      "url": "http://cydia.saurik.com/package/com.yourepo.speedmx.localiapstore/",
+      "shortDescription": "Pwns In-App purchases on iOS 7 and 8. Compatible with ARMv8 (64 Bit). Enable in settings. PRESS 'DISMISS' ON POPUP!",
+      "category": "Tweaks",
+      "author": "Pangu",
       "commercial": false,
-      "date": "2019-02-27T13:24:17Z",
+      "date": "2019-01-08T00:01:42Z",
       "versions": [
         {
-          "tweakVersion": "1.4-5b",
+          "tweakVersion": "1.4-4",
           "iOSVersion": "12.1",
-          "repository": "KurdiOS",
-          "date": "2019-02-27T13:24:17Z",
+          "repository": "(null)",
+          "date": "2019-02-25T18:38:27Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -29258,22 +29258,22 @@
       ]
     },
     {
-      "id": "com.yourepo.speedmx.localiapstore",
+      "id": "com.kurdios.localiapstore",
       "name": "LocalIAPStore",
-      "latest": "1.4-4",
-      "repository": "(null)",
-      "url": "http://cydia.saurik.com/package/com.yourepo.speedmx.localiapstore/",
-      "shortDescription": "Pwns In-App purchases on iOS 7 and 8. Compatible with ARMv8 (64 Bit). Enable in settings. PRESS 'DISMISS' ON POPUP!",
-      "category": "Tweaks",
-      "author": "Pangu",
+      "latest": "1.4-5b",
+      "repository": "KurdiOS",
+      "url": "http://cydia.saurik.com/package/com.kurdios.localiapstore/",
+      "shortDescription": "هاککردنی پارە و گۆڵدی ناو یارییەکان",
+      "category": "Kurd Tweaks",
+      "author": "KurdiOS Repo",
       "commercial": false,
-      "date": "2019-01-08T00:01:42Z",
+      "date": "2019-02-27T13:24:17Z",
       "versions": [
         {
-          "tweakVersion": "1.4-4",
+          "tweakVersion": "1.4-5b",
           "iOSVersion": "12.1",
-          "repository": "(null)",
-          "date": "2019-02-25T18:38:27Z",
+          "repository": "KurdiOS",
+          "date": "2019-02-27T13:24:17Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -46911,39 +46911,6 @@
       ]
     },
     {
-      "id": "com.sharedroutine.tactful",
-      "name": "Tactful",
-      "latest": "1.2-1",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/com.sharedroutine.tactful/",
-      "shortDescription": "3D Touch Support for Cydia",
-      "category": "Tweaks",
-      "author": "sharedRoutine",
-      "commercial": false,
-      "versions": [
-        {
-          "tweakVersion": "1.2-1",
-          "iOSVersion": "12.1",
-          "repository": "BigBoss",
-          "date": "2019-02-26T21:35:45Z",
-          "outcome": {
-            "calculatedStatus": "Likely working",
-            "percentage": 50,
-            "good": 1,
-            "bad": 0,
-            "total": 2,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.jacobcxdev.tactful",
       "name": "Tactful",
       "latest": "1.3",
@@ -46966,6 +46933,39 @@
             "good": 1,
             "bad": 0,
             "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.sharedroutine.tactful",
+      "name": "Tactful",
+      "latest": "1.2-1",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.sharedroutine.tactful/",
+      "shortDescription": "3D Touch Support for Cydia",
+      "category": "Tweaks",
+      "author": "sharedRoutine",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "1.2-1",
+          "iOSVersion": "12.1",
+          "repository": "BigBoss",
+          "date": "2019-02-26T21:35:45Z",
+          "outcome": {
+            "calculatedStatus": "Likely working",
+            "percentage": 50,
+            "good": 1,
+            "bad": 0,
+            "total": 2,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -52021,9 +52021,9 @@
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
-            "good": 3,
+            "good": 4,
             "bad": 0,
-            "total": 3,
+            "total": 4,
             "arch32": {
               "total": 0,
               "good": 0,
