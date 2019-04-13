@@ -363,11 +363,11 @@
       "repository": "Alex's Repo",
       "date": "2019-02-24T16:47:55Z",
       "outcome": {
-        "calculatedStatus": "Likely working",
-        "percentage": 50,
+        "calculatedStatus": "Not working",
+        "percentage": 33,
         "good": 1,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -393,6 +393,15 @@
           "date": "2019-03-31T11:43:03Z",
           "userName": "pali768",
           "issueNumber": 82030,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,2",
+          "issues": " Twitter v7.47❌",
+          "date": "2019-04-13T06:11:40Z",
+          "userName": "burkybang",
+          "issueNumber": 84068,
           "arch32": false
         }
       ]
