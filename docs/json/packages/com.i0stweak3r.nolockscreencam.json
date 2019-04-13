@@ -1,7 +1,7 @@
 {
   "id": "com.i0stweak3r.nolockscreencam",
   "name": "NoLockScreenCam",
-  "latest": "1.0.4-1",
+  "latest": "1.0.4-4",
   "repository": "BigBoss",
   "url": "http://cydia.saurik.com/package/com.i0stweak3r.nolockscreencam/",
   "shortDescription": "Disable Lockscreen camera/photo access.",
@@ -481,6 +481,37 @@
           "date": "2019-02-27T02:52:18Z",
           "userName": "chuyjim",
           "issueNumber": 68230,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.4-4",
+      "iOSVersion": "12.1.2",
+      "repository": "BigBoss",
+      "date": "2019-04-13T19:20:03Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,2",
+          "issues": "",
+          "date": "2019-04-13T19:20:03Z",
+          "userName": "Tweaker177",
+          "issueNumber": 84259,
           "arch32": false
         }
       ]
