@@ -7282,6 +7282,40 @@
       ]
     },
     {
+      "id": "com.golddavid.colorbadges-new",
+      "name": "ColorBadges (Packix)",
+      "latest": "1.3.1",
+      "repository": "Packix",
+      "url": "http://cydia.saurik.com/package/com.golddavid.colorbadges-new/",
+      "shortDescription": "Colorize your badges",
+      "category": "Tweaks",
+      "author": "David Goldman",
+      "commercial": true,
+      "date": "2019-03-02T20:20:52Z",
+      "versions": [
+        {
+          "tweakVersion": "1.3.1",
+          "iOSVersion": "12.0",
+          "repository": "Packix",
+          "date": "2019-04-13T17:00:25Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.golddavid.colorbanners2",
       "name": "ColorBanners 2 (iOS 10)",
       "latest": "1.2.3",
@@ -13511,22 +13545,22 @@
       ]
     },
     {
-      "id": "com.spicat.forceinpicture",
+      "id": "com.cabralcole.forceinpicture",
       "name": "ForceInPicture",
-      "latest": "1.1",
-      "repository": "Spica T Repo",
-      "url": "http://cydia.saurik.com/package/com.spicat.forceinpicture/",
-      "shortDescription": "Enable picture in picture feature with no crashes.",
+      "latest": "0.0.1-2",
+      "repository": "apt.thebigboss.org",
+      "url": "http://cydia.saurik.com/package/com.cabralcole.forceinpicture/",
+      "shortDescription": "\"Programmatically\" enable picture in picture feature.",
       "category": "Tweaks",
-      "author": "SpicaT",
+      "author": "cole cabral @ca13ra1",
       "commercial": false,
-      "date": "2018-07-18T14:45:11Z",
+      "date": "2018-03-01T20:00:33Z",
       "versions": [
         {
-          "tweakVersion": "1.1",
+          "tweakVersion": "0.0.1-2",
           "iOSVersion": "12.0",
-          "repository": "Spica T Repo",
-          "date": "2019-02-24T00:10:08Z",
+          "repository": "BigBoss",
+          "date": "2019-02-25T16:56:10Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -13545,22 +13579,22 @@
       ]
     },
     {
-      "id": "com.cabralcole.forceinpicture",
+      "id": "com.spicat.forceinpicture",
       "name": "ForceInPicture",
-      "latest": "0.0.1-2",
-      "repository": "apt.thebigboss.org",
-      "url": "http://cydia.saurik.com/package/com.cabralcole.forceinpicture/",
-      "shortDescription": "\"Programmatically\" enable picture in picture feature.",
+      "latest": "1.1",
+      "repository": "Spica T Repo",
+      "url": "http://cydia.saurik.com/package/com.spicat.forceinpicture/",
+      "shortDescription": "Enable picture in picture feature with no crashes.",
       "category": "Tweaks",
-      "author": "cole cabral @ca13ra1",
+      "author": "SpicaT",
       "commercial": false,
-      "date": "2018-03-01T20:00:33Z",
+      "date": "2018-07-18T14:45:11Z",
       "versions": [
         {
-          "tweakVersion": "0.0.1-2",
+          "tweakVersion": "1.1",
           "iOSVersion": "12.0",
-          "repository": "BigBoss",
-          "date": "2019-02-25T16:56:10Z",
+          "repository": "Spica T Repo",
+          "date": "2019-02-24T00:10:08Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -25608,40 +25642,6 @@
       ]
     },
     {
-      "id": "com.spicat.recordpause",
-      "name": "RecordPause",
-      "latest": "1.3.1",
-      "repository": "Spica T Repo",
-      "url": "http://cydia.saurik.com/package/com.spicat.recordpause/",
-      "shortDescription": "Pause/resume video recording.",
-      "category": "Tweaks",
-      "author": "SpicaT",
-      "commercial": false,
-      "date": "2018-07-22T00:19:36Z",
-      "versions": [
-        {
-          "tweakVersion": "1.3.1",
-          "iOSVersion": "12.0",
-          "repository": "Spica T Repo",
-          "date": "2019-03-03T07:05:35Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "org.thebigboss.recordpause",
       "name": "RecordPause",
       "latest": "1.2.2",
@@ -25664,6 +25664,40 @@
             "good": 1,
             "bad": 0,
             "total": 3,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.spicat.recordpause",
+      "name": "RecordPause",
+      "latest": "1.3.1",
+      "repository": "Spica T Repo",
+      "url": "http://cydia.saurik.com/package/com.spicat.recordpause/",
+      "shortDescription": "Pause/resume video recording.",
+      "category": "Tweaks",
+      "author": "SpicaT",
+      "commercial": false,
+      "date": "2018-07-22T00:19:36Z",
+      "versions": [
+        {
+          "tweakVersion": "1.3.1",
+          "iOSVersion": "12.0",
+          "repository": "Spica T Repo",
+          "date": "2019-03-03T07:05:35Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -27964,22 +27998,22 @@
       ]
     },
     {
-      "id": "com.yourepo.vincentmdlm.snooze",
+      "id": "com.mvincentm.snoozex",
       "name": "SnoozeX",
       "latest": "1.0",
-      "repository": "VincentMdlM Source - YouRepo",
-      "url": "http://cydia.saurik.com/package/com.yourepo.vincentmdlm.snooze/",
+      "repository": "Packix",
+      "url": "http://cydia.saurik.com/package/com.mvincentm.snoozex/",
       "shortDescription": "Thanks to SnoozeX, you will no longer have any trouble waking up or going back to sleep.",
       "category": "Tweaks",
       "author": "VincentMdlM",
       "commercial": true,
-      "date": "2019-03-13T13:04:12Z",
+      "date": "2019-03-21T10:02:39Z",
       "versions": [
         {
           "tweakVersion": "1.0",
           "iOSVersion": "12.0",
-          "repository": "VincentMdlM Source - YouRepo",
-          "date": "2019-03-13T13:04:12Z",
+          "repository": "Packix",
+          "date": "2019-03-21T10:02:39Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -27998,22 +28032,22 @@
       ]
     },
     {
-      "id": "com.mvincentm.snoozex",
+      "id": "com.yourepo.vincentmdlm.snooze",
       "name": "SnoozeX",
       "latest": "1.0",
-      "repository": "Packix",
-      "url": "http://cydia.saurik.com/package/com.mvincentm.snoozex/",
+      "repository": "VincentMdlM Source - YouRepo",
+      "url": "http://cydia.saurik.com/package/com.yourepo.vincentmdlm.snooze/",
       "shortDescription": "Thanks to SnoozeX, you will no longer have any trouble waking up or going back to sleep.",
       "category": "Tweaks",
       "author": "VincentMdlM",
       "commercial": true,
-      "date": "2019-03-21T10:02:39Z",
+      "date": "2019-03-13T13:04:12Z",
       "versions": [
         {
           "tweakVersion": "1.0",
           "iOSVersion": "12.0",
-          "repository": "Packix",
-          "date": "2019-03-21T10:02:39Z",
+          "repository": "VincentMdlM Source - YouRepo",
+          "date": "2019-03-13T13:04:12Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -33340,22 +33374,22 @@
       ]
     },
     {
-      "id": "xz",
+      "id": "lzma",
       "name": "XZ Utils",
-      "latest": "5.2.4-4",
-      "repository": "Bingner/Elucubratus",
-      "url": "http://cydia.saurik.com/package/xz/",
+      "latest": "5.2.4-1",
+      "repository": "Electra's iOS Utilities",
+      "url": "http://cydia.saurik.com/package/lzma/",
       "shortDescription": "slower, but better, compression algorithm",
       "category": "Archiving",
       "author": "(null)",
       "commercial": false,
-      "date": "2018-10-24T08:16:57Z",
+      "date": "2018-03-04T19:03:45Z",
       "versions": [
         {
-          "tweakVersion": "5.2.4-4",
+          "tweakVersion": "4.32.7-2",
           "iOSVersion": "12.0",
           "repository": "Bingner/Elucubratus",
-          "date": "2019-03-19T22:49:12Z",
+          "date": "2019-03-19T22:49:37Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -33374,22 +33408,22 @@
       ]
     },
     {
-      "id": "lzma",
+      "id": "xz",
       "name": "XZ Utils",
-      "latest": "5.2.4-1",
-      "repository": "Electra's iOS Utilities",
-      "url": "http://cydia.saurik.com/package/lzma/",
+      "latest": "5.2.4-4",
+      "repository": "Bingner/Elucubratus",
+      "url": "http://cydia.saurik.com/package/xz/",
       "shortDescription": "slower, but better, compression algorithm",
       "category": "Archiving",
       "author": "(null)",
       "commercial": false,
-      "date": "2018-03-04T19:03:45Z",
+      "date": "2018-10-24T08:16:57Z",
       "versions": [
         {
-          "tweakVersion": "4.32.7-2",
+          "tweakVersion": "5.2.4-4",
           "iOSVersion": "12.0",
           "repository": "Bingner/Elucubratus",
-          "date": "2019-03-19T22:49:37Z",
+          "date": "2019-03-19T22:49:12Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
