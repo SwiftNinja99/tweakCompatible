@@ -96,9 +96,9 @@
       "repository": "Dynastic Repo",
       "date": "2019-04-13T15:07:43Z",
       "outcome": {
-        "calculatedStatus": "Likely working",
-        "percentage": 66,
-        "good": 4,
+        "calculatedStatus": "Working",
+        "percentage": 83,
+        "good": 5,
         "bad": 0,
         "total": 6,
         "arch32": {
@@ -117,15 +117,6 @@
           "date": "2019-04-13T15:07:43Z",
           "userName": "Skrivoo",
           "issueNumber": 84190,
-          "arch32": false
-        },
-        {
-          "status": "not working",
-          "device": "iPhone9,3",
-          "issues": "",
-          "date": "2019-04-13T15:40:58Z",
-          "userName": "czif",
-          "issueNumber": 84196,
           "arch32": false
         },
         {
@@ -162,6 +153,15 @@
           "date": "2019-04-13T21:02:07Z",
           "userName": "hxstpro",
           "issueNumber": 84265,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone9,3",
+          "issues": "Not working for my library, just for playlists",
+          "date": "2019-04-13T22:56:20Z",
+          "userName": "czif",
+          "issueNumber": 84307,
           "arch32": false
         }
       ]
