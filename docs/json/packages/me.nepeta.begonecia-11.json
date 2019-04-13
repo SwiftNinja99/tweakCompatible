@@ -301,11 +301,11 @@
       "repository": "Nepeta",
       "date": "2019-02-27T04:16:45Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 85,
+        "calculatedStatus": "Likely working",
+        "percentage": 75,
         "good": 6,
         "bad": 0,
-        "total": 7,
+        "total": 8,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -376,6 +376,15 @@
           "date": "2019-03-11T16:05:45Z",
           "userName": "Fiaccus",
           "issueNumber": 76432,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone9,3",
+          "issues": "Hey Siri working ",
+          "date": "2019-04-13T21:31:50Z",
+          "userName": "ChapChap",
+          "issueNumber": 84299,
           "arch32": false
         }
       ]
