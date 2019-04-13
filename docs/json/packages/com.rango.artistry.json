@@ -1,7 +1,7 @@
 {
   "id": "com.rango.artistry",
   "name": "Artistry",
-  "latest": "1.2",
+  "latest": "1.1",
   "repository": "Dynastic Repo",
   "url": "http://cydia.saurik.com/package/com.rango.artistry/",
   "shortDescription": "Song Artworks for every Playlist — This tweaks adds Song Artworks next to every Playlist in the Spotify Application!",
@@ -56,11 +56,11 @@
       "repository": "Dynastic Repo",
       "date": "2019-04-13T12:00:24Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 100,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
         "good": 1,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -77,6 +77,15 @@
           "date": "2019-04-13T12:00:24Z",
           "userName": "SchauMalAufEbay",
           "issueNumber": 84150,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone9,3",
+          "issues": "",
+          "date": "2019-04-13T15:33:07Z",
+          "userName": "czif",
+          "issueNumber": 84195,
           "arch32": false
         }
       ]
