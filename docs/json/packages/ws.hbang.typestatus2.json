@@ -2495,6 +2495,37 @@
           "arch32": false
         }
       ]
+    },
+    {
+      "tweakVersion": "2.4",
+      "iOSVersion": "10.1.1",
+      "repository": "Chariz",
+      "date": "2019-04-13T10:58:19Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,4",
+          "issues": "Works fine - occasionally a status message will get stuck - you'll need to go to Settings -> TypeStatus -> Alerts and tap Test Typing Alert",
+          "date": "2019-04-13T10:58:19Z",
+          "userName": "edmechem",
+          "issueNumber": 84103,
+          "arch32": false
+        }
+      ]
     }
   ]
 }
