@@ -575,6 +575,40 @@
       ]
     },
     {
+      "id": "com.fpt.airflip",
+      "name": "airflip",
+      "latest": "0.0.2-2+debug",
+      "repository": "Frozen Penguin's Repo",
+      "url": "http://cydia.saurik.com/package/com.fpt.airflip/",
+      "shortDescription": "An airdrop flip switch",
+      "category": "Addons (Flipswitch)",
+      "author": "Frozen Penguin",
+      "commercial": false,
+      "date": "2019-04-13T18:02:12Z",
+      "versions": [
+        {
+          "tweakVersion": "0.0.2-2+debug",
+          "iOSVersion": "10.1.1",
+          "repository": "Frozen Penguin's Repo",
+          "date": "2019-04-13T18:02:12Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.rob311.airplayflipswitch",
       "name": "AirPlay Flipswitch",
       "latest": "2.1.1-21",
@@ -16228,40 +16262,6 @@
       ]
     },
     {
-      "id": "com.hackyouriphone.uasharedtools",
-      "name": "uasharedtools",
-      "latest": "2.2r-31",
-      "repository": "HackYouriPhone",
-      "url": "http://cydia.saurik.com/package/com.hackyouriphone.uasharedtools/",
-      "shortDescription": "shared tools for unlimapps tweaks",
-      "category": "HYI - Tweaks",
-      "author": "UnlimApps Inc.",
-      "commercial": false,
-      "date": "2018-03-19T17:31:12Z",
-      "versions": [
-        {
-          "tweakVersion": "2.2r-31",
-          "iOSVersion": "10.1.1",
-          "repository": "HackYouriPhone",
-          "date": "2018-03-19T17:31:12Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.unlimapps.uasharedtools",
       "name": "uasharedtools",
       "latest": "2.2r-76",
@@ -16336,6 +16336,40 @@
           "iOSVersion": "10.1.1",
           "repository": "beta.unlimapps.com",
           "date": "2018-10-25T09:24:04Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.hackyouriphone.uasharedtools",
+      "name": "uasharedtools",
+      "latest": "2.2r-31",
+      "repository": "HackYouriPhone",
+      "url": "http://cydia.saurik.com/package/com.hackyouriphone.uasharedtools/",
+      "shortDescription": "shared tools for unlimapps tweaks",
+      "category": "HYI - Tweaks",
+      "author": "UnlimApps Inc.",
+      "commercial": false,
+      "date": "2018-03-19T17:31:12Z",
+      "versions": [
+        {
+          "tweakVersion": "2.2r-31",
+          "iOSVersion": "10.1.1",
+          "repository": "HackYouriPhone",
+          "date": "2018-03-19T17:31:12Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
