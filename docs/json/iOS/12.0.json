@@ -7068,6 +7068,39 @@
       ]
     },
     {
+      "id": "ru.domo.cocoatop",
+      "name": "CocoaTop",
+      "latest": "2.0.1",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/ru.domo.cocoatop/",
+      "shortDescription": "Process Viewer for iOS GUI",
+      "category": "Utilities",
+      "author": "Domo",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "2.0.1",
+          "iOSVersion": "12.0",
+          "repository": "BigBoss",
+          "date": "2019-03-08T03:58:15Z",
+          "outcome": {
+            "calculatedStatus": "Not working",
+            "percentage": 0,
+            "good": 0,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "ru.domo.cocoatop64",
       "name": "CocoaTop",
       "latest": "2.0.2-1+debug",
@@ -7108,39 +7141,6 @@
             "calculatedStatus": "Working",
             "percentage": 100,
             "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "ru.domo.cocoatop",
-      "name": "CocoaTop",
-      "latest": "2.0.1",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/ru.domo.cocoatop/",
-      "shortDescription": "Process Viewer for iOS GUI",
-      "category": "Utilities",
-      "author": "Domo",
-      "commercial": false,
-      "versions": [
-        {
-          "tweakVersion": "2.0.1",
-          "iOSVersion": "12.0",
-          "repository": "BigBoss",
-          "date": "2019-03-08T03:58:15Z",
-          "outcome": {
-            "calculatedStatus": "Not working",
-            "percentage": 0,
-            "good": 0,
             "bad": 0,
             "total": 1,
             "arch32": {
@@ -7864,10 +7864,10 @@
     {
       "id": "com.iarrays.copic2",
       "name": "Copic 2",
-      "latest": "1.0.11-beta-13",
+      "latest": "1.0.10",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.iarrays.copic2/",
-      "shortDescription": "The new Copic 2 is totally redesigned, optimized and rebuild from the scratch. Now brings the ability to display the Contact pictures everywhere on your iPhone.Integrates seamlessly with stock Contacts, FaceTime, Mail, Messages and Phone apps. The best part of this tweak is it also integrates with WhatsApp & infamous tweak Recents 2 too. Also integrates with locks screen and Notification Center. Brings ability to turn on or off monograms or show rounded or rectangular images and many more features.",
+      "shortDescription": "Display the Contact pictures everywhere on your iPhone",
       "category": "Tweaks",
       "author": "IArrays",
       "commercial": false,
@@ -8931,6 +8931,40 @@
       ]
     },
     {
+      "id": "com.yourepo.cydiaxistyle.cydiaxistyle20",
+      "name": "CydiaXIStyle 2.0",
+      "latest": "2.0",
+      "repository": "cydiaxistyle Source - YouRepo",
+      "url": "http://cydia.saurik.com/package/com.yourepo.cydiaxistyle.cydiaxistyle20/",
+      "shortDescription": "iOS 11 and 12 style cydia home page",
+      "category": "Tweaks",
+      "author": "CydiaXIStyle.fun",
+      "commercial": false,
+      "date": "2019-02-27T16:46:01Z",
+      "versions": [
+        {
+          "tweakVersion": "2.0",
+          "iOSVersion": "12.0",
+          "repository": "cydiaxistyle Source - YouRepo",
+          "date": "2019-03-05T04:32:53Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.iosnjb.cydiaxistyle2",
       "name": "CydiaXIStyle 2.0",
       "latest": "2.0.6",
@@ -9007,40 +9041,6 @@
           "iOSVersion": "12.0",
           "repository": "Packix",
           "date": "2019-04-03T22:48:03Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "com.yourepo.cydiaxistyle.cydiaxistyle20",
-      "name": "CydiaXIStyle 2.0",
-      "latest": "2.0",
-      "repository": "cydiaxistyle Source - YouRepo",
-      "url": "http://cydia.saurik.com/package/com.yourepo.cydiaxistyle.cydiaxistyle20/",
-      "shortDescription": "iOS 11 and 12 style cydia home page",
-      "category": "Tweaks",
-      "author": "CydiaXIStyle.fun",
-      "commercial": false,
-      "date": "2019-02-27T16:46:01Z",
-      "versions": [
-        {
-          "tweakVersion": "2.0",
-          "iOSVersion": "12.0",
-          "repository": "cydiaxistyle Source - YouRepo",
-          "date": "2019-03-05T04:32:53Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -10419,40 +10419,6 @@
       ]
     },
     {
-      "id": "com.ahmedbafkir.dleasy",
-      "name": "DLEasy",
-      "latest": "1.5",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/com.ahmedbafkir.dleasy/",
-      "shortDescription": "Download images & videos from social apps easily!",
-      "category": "Tweaks",
-      "author": "Ahmed Bafkir",
-      "commercial": false,
-      "date": "2019-01-23T22:07:44Z",
-      "versions": [
-        {
-          "tweakVersion": "1.5",
-          "iOSVersion": "12.0",
-          "repository": "BigBoss",
-          "date": "2019-03-21T09:25:47Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 2,
-            "bad": 0,
-            "total": 2,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.yourepo.ahmedbafkir.dleasy",
       "name": "DLEasy",
       "latest": "1.5",
@@ -10475,6 +10441,40 @@
             "good": 1,
             "bad": 0,
             "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.ahmedbafkir.dleasy",
+      "name": "DLEasy",
+      "latest": "1.5",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.ahmedbafkir.dleasy/",
+      "shortDescription": "Download images & videos from social apps easily!",
+      "category": "Tweaks",
+      "author": "Ahmed Bafkir",
+      "commercial": false,
+      "date": "2019-01-23T22:07:44Z",
+      "versions": [
+        {
+          "tweakVersion": "1.5",
+          "iOSVersion": "12.0",
+          "repository": "BigBoss",
+          "date": "2019-03-21T09:25:47Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 2,
+            "bad": 0,
+            "total": 2,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -16489,7 +16489,7 @@
     {
       "id": "com.kaneb.kbpreferences",
       "name": "KBPreferences",
-      "latest": "0.0.4",
+      "latest": "0.0.5",
       "repository": "Packix",
       "url": "http://cydia.saurik.com/package/com.kaneb.kbpreferences/",
       "shortDescription": "Kane B's preferences framework",
@@ -17595,10 +17595,10 @@
     {
       "id": "com.creaturecoding.libcspreferences",
       "name": "libCSPreferences",
-      "latest": "1.1.1",
+      "latest": "1.1.0",
       "repository": "CreatureSurvive's Repo",
       "url": "http://cydia.saurik.com/package/com.creaturecoding.libcspreferences/",
-      "shortDescription": "A Preference Library that doesn't suck!",
+      "shortDescription": "An awesome Preference Library!",
       "category": "System",
       "author": "CreatureSurvive",
       "commercial": false,
@@ -18392,7 +18392,7 @@
     {
       "id": "com.modmyi.libswift4",
       "name": "libswift4",
-      "latest": "4.2.1-1",
+      "latest": "4.2.1-2",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.modmyi.libswift4/",
       "shortDescription": "libswift dylibs for iOS",
@@ -19493,7 +19493,7 @@
     {
       "id": "make",
       "name": "Make",
-      "latest": "4.2.1-1",
+      "latest": "4.2.1-2",
       "repository": "Electra's iOS Utilities",
       "url": "http://cydia.saurik.com/package/make/",
       "shortDescription": "dependency-based build environments",
@@ -19609,6 +19609,40 @@
           "iOSVersion": "12.0",
           "repository": "Packix",
           "date": "2019-03-19T23:16:07Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.ikilledappl3.malipospack3",
+      "name": "Malipo Sounds Pack 3",
+      "latest": "1.0-1",
+      "repository": "Packix",
+      "url": "http://cydia.saurik.com/package/com.ikilledappl3.malipospack3/",
+      "shortDescription": "Sounds pack 3 for Malipo",
+      "category": "Tweaks",
+      "author": "iKilledAppl3",
+      "commercial": false,
+      "date": "2018-07-22T23:48:43Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0-1",
+          "iOSVersion": "12.0",
+          "repository": "Packix",
+          "date": "2019-04-13T11:59:31Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -21477,22 +21511,22 @@
       ]
     },
     {
-      "id": "ncurses",
+      "id": "ncurses5-libs",
       "name": "New Curses",
-      "latest": "6.1-1",
-      "repository": "Electra's iOS Utilities",
-      "url": "http://cydia.saurik.com/package/ncurses/",
+      "latest": "5.9-1",
+      "repository": "Bingner/Elucubratus",
+      "url": "http://cydia.saurik.com/package/ncurses5-libs/",
       "shortDescription": "feature-complete terminal library",
       "category": "System",
       "author": "(null)",
       "commercial": false,
-      "date": "2018-03-04T19:02:12Z",
+      "date": "2018-10-14T00:25:17Z",
       "versions": [
         {
-          "tweakVersion": "6.1-1",
+          "tweakVersion": "5.9-1",
           "iOSVersion": "12.0",
           "repository": "Bingner/Elucubratus",
-          "date": "2019-03-19T23:14:18Z",
+          "date": "2019-03-19T22:42:05Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -21511,22 +21545,22 @@
       ]
     },
     {
-      "id": "ncurses5-libs",
+      "id": "ncurses",
       "name": "New Curses",
-      "latest": "5.9-1",
-      "repository": "Bingner/Elucubratus",
-      "url": "http://cydia.saurik.com/package/ncurses5-libs/",
+      "latest": "6.1-1",
+      "repository": "Electra's iOS Utilities",
+      "url": "http://cydia.saurik.com/package/ncurses/",
       "shortDescription": "feature-complete terminal library",
       "category": "System",
       "author": "(null)",
       "commercial": false,
-      "date": "2018-10-14T00:25:17Z",
+      "date": "2018-03-04T19:02:12Z",
       "versions": [
         {
-          "tweakVersion": "5.9-1",
+          "tweakVersion": "6.1-1",
           "iOSVersion": "12.0",
           "repository": "Bingner/Elucubratus",
-          "date": "2019-03-19T22:42:05Z",
+          "date": "2019-03-19T23:14:18Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -27681,22 +27715,22 @@
       ]
     },
     {
-      "id": "com.mvincentm.snoozex",
+      "id": "com.yourepo.vincentmdlm.snooze",
       "name": "SnoozeX",
       "latest": "1.0",
-      "repository": "Packix",
-      "url": "http://cydia.saurik.com/package/com.mvincentm.snoozex/",
+      "repository": "VincentMdlM Source - YouRepo",
+      "url": "http://cydia.saurik.com/package/com.yourepo.vincentmdlm.snooze/",
       "shortDescription": "Thanks to SnoozeX, you will no longer have any trouble waking up or going back to sleep.",
       "category": "Tweaks",
       "author": "VincentMdlM",
       "commercial": true,
-      "date": "2019-03-21T10:02:39Z",
+      "date": "2019-03-13T13:04:12Z",
       "versions": [
         {
           "tweakVersion": "1.0",
           "iOSVersion": "12.0",
-          "repository": "Packix",
-          "date": "2019-03-21T10:02:39Z",
+          "repository": "VincentMdlM Source - YouRepo",
+          "date": "2019-03-13T13:04:12Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -27715,22 +27749,22 @@
       ]
     },
     {
-      "id": "com.yourepo.vincentmdlm.snooze",
+      "id": "com.mvincentm.snoozex",
       "name": "SnoozeX",
       "latest": "1.0",
-      "repository": "VincentMdlM Source - YouRepo",
-      "url": "http://cydia.saurik.com/package/com.yourepo.vincentmdlm.snooze/",
+      "repository": "Packix",
+      "url": "http://cydia.saurik.com/package/com.mvincentm.snoozex/",
       "shortDescription": "Thanks to SnoozeX, you will no longer have any trouble waking up or going back to sleep.",
       "category": "Tweaks",
       "author": "VincentMdlM",
       "commercial": true,
-      "date": "2019-03-13T13:04:12Z",
+      "date": "2019-03-21T10:02:39Z",
       "versions": [
         {
           "tweakVersion": "1.0",
           "iOSVersion": "12.0",
-          "repository": "VincentMdlM Source - YouRepo",
-          "date": "2019-03-13T13:04:12Z",
+          "repository": "Packix",
+          "date": "2019-03-21T10:02:39Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -31027,10 +31061,10 @@
     {
       "id": "uikittools",
       "name": "UIKit Tools",
-      "latest": "1.1.13-5",
+      "latest": "2.0.1",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/uikittools/",
-      "shortDescription": "UIKit/GraphicsServices command line access",
+      "shortDescription": "Command line access for UIKit/LaunchServices/CoreServices",
       "category": "Utilities",
       "author": "Jay Freeman (saurik)",
       "commercial": false,
@@ -32989,22 +33023,22 @@
       ]
     },
     {
-      "id": "lzma",
+      "id": "xz",
       "name": "XZ Utils",
-      "latest": "5.2.4-1",
-      "repository": "Electra's iOS Utilities",
-      "url": "http://cydia.saurik.com/package/lzma/",
+      "latest": "5.2.4-4",
+      "repository": "Bingner/Elucubratus",
+      "url": "http://cydia.saurik.com/package/xz/",
       "shortDescription": "slower, but better, compression algorithm",
       "category": "Archiving",
       "author": "(null)",
       "commercial": false,
-      "date": "2018-03-04T19:03:45Z",
+      "date": "2018-10-24T08:16:57Z",
       "versions": [
         {
-          "tweakVersion": "4.32.7-2",
+          "tweakVersion": "5.2.4-4",
           "iOSVersion": "12.0",
           "repository": "Bingner/Elucubratus",
-          "date": "2019-03-19T22:49:37Z",
+          "date": "2019-03-19T22:49:12Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -33023,22 +33057,22 @@
       ]
     },
     {
-      "id": "xz",
+      "id": "lzma",
       "name": "XZ Utils",
-      "latest": "5.2.4-4",
-      "repository": "Bingner/Elucubratus",
-      "url": "http://cydia.saurik.com/package/xz/",
+      "latest": "5.2.4-1",
+      "repository": "Electra's iOS Utilities",
+      "url": "http://cydia.saurik.com/package/lzma/",
       "shortDescription": "slower, but better, compression algorithm",
       "category": "Archiving",
       "author": "(null)",
       "commercial": false,
-      "date": "2018-10-24T08:16:57Z",
+      "date": "2018-03-04T19:03:45Z",
       "versions": [
         {
-          "tweakVersion": "5.2.4-4",
+          "tweakVersion": "4.32.7-2",
           "iOSVersion": "12.0",
           "repository": "Bingner/Elucubratus",
-          "date": "2019-03-19T22:49:12Z",
+          "date": "2019-03-19T22:49:37Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
