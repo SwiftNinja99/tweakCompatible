@@ -1,7 +1,7 @@
 {
   "id": "com.spark.snowboard",
   "name": "Snowboard",
-  "latest": "1.1.6",
+  "latest": "1.0.1",
   "repository": "(null)",
   "url": "http://cydia.saurik.com/package/com.spark.snowboard/",
   "shortDescription": "Snowboard theming engine",
@@ -2540,9 +2540,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 9,
+        "good": 10,
         "bad": 0,
-        "total": 9,
+        "total": 10,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -2631,6 +2631,15 @@
           "date": "2019-03-04T22:09:21Z",
           "userName": "josedavidrp",
           "issueNumber": 72354,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,1",
+          "issues": "",
+          "date": "2019-04-13T15:53:43Z",
+          "userName": "mblack1",
+          "issueNumber": 84213,
           "arch32": false
         }
       ]
