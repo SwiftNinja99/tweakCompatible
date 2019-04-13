@@ -2448,10 +2448,10 @@
       "date": "2019-02-23T10:15:24Z",
       "outcome": {
         "calculatedStatus": "Not working",
-        "percentage": 12,
+        "percentage": 11,
         "good": 1,
         "bad": 0,
-        "total": 8,
+        "total": 9,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -2531,6 +2531,15 @@
           "date": "2019-03-06T19:25:02Z",
           "userName": "Exosys40",
           "issueNumber": 73986,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone6,2",
+          "issues": "Cierra algunas aplicaciones que requieren el teclado",
+          "date": "2019-04-13T15:30:10Z",
+          "userName": "Thoshuno",
+          "issueNumber": 84194,
           "arch32": false
         }
       ]
