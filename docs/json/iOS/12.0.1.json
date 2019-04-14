@@ -7021,6 +7021,39 @@
       ]
     },
     {
+      "id": "ru.domo.cocoatop",
+      "name": "CocoaTop",
+      "latest": "2.0.1",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/ru.domo.cocoatop/",
+      "shortDescription": "Process Viewer for iOS GUI",
+      "category": "Utilities",
+      "author": "Domo",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "2.0.1",
+          "iOSVersion": "12.0.1",
+          "repository": "BigBoss",
+          "date": "2019-03-07T18:35:49Z",
+          "outcome": {
+            "calculatedStatus": "Not working",
+            "percentage": 0,
+            "good": 0,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "ru.domo.cocoatop64",
       "name": "CocoaTop",
       "latest": "2.0.2-1+debug",
@@ -7061,39 +7094,6 @@
             "calculatedStatus": "Working",
             "percentage": 100,
             "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "ru.domo.cocoatop",
-      "name": "CocoaTop",
-      "latest": "2.0.1",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/ru.domo.cocoatop/",
-      "shortDescription": "Process Viewer for iOS GUI",
-      "category": "Utilities",
-      "author": "Domo",
-      "commercial": false,
-      "versions": [
-        {
-          "tweakVersion": "2.0.1",
-          "iOSVersion": "12.0.1",
-          "repository": "BigBoss",
-          "date": "2019-03-07T18:35:49Z",
-          "outcome": {
-            "calculatedStatus": "Not working",
-            "percentage": 0,
-            "good": 0,
             "bad": 0,
             "total": 1,
             "arch32": {
@@ -7562,10 +7562,10 @@
     {
       "id": "com.iarrays.copic2",
       "name": "Copic 2",
-      "latest": "1.0.10",
+      "latest": "1.0.11-beta-13",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.iarrays.copic2/",
-      "shortDescription": "Display the Contact pictures everywhere on your iPhone",
+      "shortDescription": "The new Copic 2 is totally redesigned, optimized and rebuild from the scratch. Now brings the ability to display the Contact pictures everywhere on your iPhone.Integrates seamlessly with stock Contacts, FaceTime, Mail, Messages and Phone apps. The best part of this tweak is it also integrates with WhatsApp & infamous tweak Recents 2 too. Also integrates with locks screen and Notification Center. Brings ability to turn on or off monograms or show rounded or rectangular images and many more features.",
       "category": "Tweaks",
       "author": "IArrays",
       "commercial": false,
@@ -20536,6 +20536,39 @@
       ]
     },
     {
+      "id": "com.officialscheduler.mterminal",
+      "name": "MTerminal",
+      "latest": "1.4-5",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.officialscheduler.mterminal/",
+      "shortDescription": "A MobileTerminal fork",
+      "category": "Utilities",
+      "author": "lordscotland",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "1.4-5",
+          "iOSVersion": "12.0.1",
+          "repository": "BigBoss",
+          "date": "2019-02-23T10:06:33Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 2,
+            "bad": 0,
+            "total": 2,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "mterminal",
       "name": "MTerminal",
       "latest": "1.4-6",
@@ -20558,39 +20591,6 @@
             "good": 3,
             "bad": 0,
             "total": 3,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "com.officialscheduler.mterminal",
-      "name": "MTerminal",
-      "latest": "1.4-5",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/com.officialscheduler.mterminal/",
-      "shortDescription": "A MobileTerminal fork",
-      "category": "Utilities",
-      "author": "lordscotland",
-      "commercial": false,
-      "versions": [
-        {
-          "tweakVersion": "1.4-5",
-          "iOSVersion": "12.0.1",
-          "repository": "BigBoss",
-          "date": "2019-02-23T10:06:33Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 2,
-            "bad": 0,
-            "total": 2,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -23109,40 +23109,6 @@
       ]
     },
     {
-      "id": "com.yourepo.exfoliate.nudekeysios12",
-      "name": "NudeKeys (iOS 12)",
-      "latest": "eta1.0",
-      "repository": "Exfoliate Source - YouRepo",
-      "url": "http://cydia.saurik.com/package/com.yourepo.exfoliate.nudekeysios12/",
-      "shortDescription": "Strip those sexy keys! But now supported for iOS 12! This is not a modified version of NudeKeys in anyway, it’s the direct DEB from OBS twitter. All credit goes to him",
-      "category": "Tweaks",
-      "author": "Orangebananaspy",
-      "commercial": false,
-      "date": "2019-03-14T03:58:12Z",
-      "versions": [
-        {
-          "tweakVersion": "eta1.0",
-          "iOSVersion": "12.0.1",
-          "repository": "Exfoliate Source - YouRepo",
-          "date": "2019-03-25T13:05:30Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.orangebananaspy.nudekeysios12",
       "name": "NudeKeys (iOS 12)",
       "latest": "1.0.0~b7",
@@ -23179,6 +23145,40 @@
           "iOSVersion": "12.0.1",
           "repository": "Orangebananaspy",
           "date": "2019-03-28T05:50:18Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.yourepo.exfoliate.nudekeysios12",
+      "name": "NudeKeys (iOS 12)",
+      "latest": "eta1.0",
+      "repository": "Exfoliate Source - YouRepo",
+      "url": "http://cydia.saurik.com/package/com.yourepo.exfoliate.nudekeysios12/",
+      "shortDescription": "Strip those sexy keys! But now supported for iOS 12! This is not a modified version of NudeKeys in anyway, it’s the direct DEB from OBS twitter. All credit goes to him",
+      "category": "Tweaks",
+      "author": "Orangebananaspy",
+      "commercial": false,
+      "date": "2019-03-14T03:58:12Z",
+      "versions": [
+        {
+          "tweakVersion": "eta1.0",
+          "iOSVersion": "12.0.1",
+          "repository": "Exfoliate Source - YouRepo",
+          "date": "2019-03-25T13:05:30Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -26551,6 +26551,40 @@
           "iOSVersion": "12.0.1",
           "repository": "junesiphone.com",
           "date": "2019-03-28T09:47:28Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.leftyfl1p.scrollback",
+      "name": "ScrollBack",
+      "latest": "1.0.3",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.leftyfl1p.scrollback/",
+      "shortDescription": "Status bar tap to scroll back to last location",
+      "category": "Tweaks",
+      "author": "leftyfl1p",
+      "commercial": false,
+      "date": "2018-03-02T14:56:12Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0.3",
+          "iOSVersion": "12.0.1",
+          "repository": "BigBoss",
+          "date": "2019-04-14T16:20:42Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -30837,40 +30871,6 @@
       ]
     },
     {
-      "id": "com.hackyouriphone.tweakcompatible",
-      "name": "tweakCompatible",
-      "latest": "0.0.9",
-      "repository": "(null)",
-      "url": "http://cydia.saurik.com/package/com.hackyouriphone.tweakcompatible/",
-      "shortDescription": "Adds a way to check tweak compatibility in cydia",
-      "category": "HYI - Tweaks",
-      "author": "Jed",
-      "commercial": false,
-      "date": "2019-03-06T13:56:01Z",
-      "versions": [
-        {
-          "tweakVersion": "0.0.9",
-          "iOSVersion": "12.0.1",
-          "repository": "(null)",
-          "date": "2019-03-06T13:56:01Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "bz.jed.tweakcompatible",
       "name": "tweakCompatible",
       "latest": "0.1.5",
@@ -30992,6 +30992,40 @@
             "good": 2,
             "bad": 0,
             "total": 2,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.hackyouriphone.tweakcompatible",
+      "name": "tweakCompatible",
+      "latest": "0.0.9",
+      "repository": "(null)",
+      "url": "http://cydia.saurik.com/package/com.hackyouriphone.tweakcompatible/",
+      "shortDescription": "Adds a way to check tweak compatibility in cydia",
+      "category": "HYI - Tweaks",
+      "author": "Jed",
+      "commercial": false,
+      "date": "2019-03-06T13:56:01Z",
+      "versions": [
+        {
+          "tweakVersion": "0.0.9",
+          "iOSVersion": "12.0.1",
+          "repository": "(null)",
+          "date": "2019-03-06T13:56:01Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -31139,40 +31173,6 @@
       ]
     },
     {
-      "id": "com.yourepo.tweakportal.twitterlabs",
-      "name": "Twitter Labs",
-      "latest": "1.0.4",
-      "repository": "TweakPortal - YouRepo",
-      "url": "http://cydia.saurik.com/package/com.yourepo.tweakportal.twitterlabs/",
-      "shortDescription": "Twitter labs is a tweak that allows you to customize the look and feel of Twitter",
-      "category": "Tweaks",
-      "author": "Aesthyrica",
-      "commercial": false,
-      "date": "2019-03-15T01:57:29Z",
-      "versions": [
-        {
-          "tweakVersion": "1.0.4",
-          "iOSVersion": "12.0.1",
-          "repository": "TweakPortal - YouRepo",
-          "date": "2019-03-15T01:57:29Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "ru.pvmntsdev.twitterlabs",
       "name": "Twitter Labs",
       "latest": "1.0.3",
@@ -31193,6 +31193,40 @@
             "calculatedStatus": "Not working",
             "percentage": 0,
             "good": 0,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.yourepo.tweakportal.twitterlabs",
+      "name": "Twitter Labs",
+      "latest": "1.0.4",
+      "repository": "TweakPortal - YouRepo",
+      "url": "http://cydia.saurik.com/package/com.yourepo.tweakportal.twitterlabs/",
+      "shortDescription": "Twitter labs is a tweak that allows you to customize the look and feel of Twitter",
+      "category": "Tweaks",
+      "author": "Aesthyrica",
+      "commercial": false,
+      "date": "2019-03-15T01:57:29Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0.4",
+          "iOSVersion": "12.0.1",
+          "repository": "TweakPortal - YouRepo",
+          "date": "2019-03-15T01:57:29Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
             "bad": 0,
             "total": 1,
             "arch32": {
@@ -33087,40 +33121,6 @@
       ]
     },
     {
-      "id": "lzma",
-      "name": "XZ Utils",
-      "latest": "5.2.4-1",
-      "repository": "Electra's iOS Utilities",
-      "url": "http://cydia.saurik.com/package/lzma/",
-      "shortDescription": "slower, but better, compression algorithm",
-      "category": "Archiving",
-      "author": "(null)",
-      "commercial": false,
-      "date": "2018-03-04T19:03:45Z",
-      "versions": [
-        {
-          "tweakVersion": "4.32.7-2",
-          "iOSVersion": "12.0.1",
-          "repository": "Bingner/Elucubratus",
-          "date": "2019-03-06T16:02:19Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 2,
-            "bad": 0,
-            "total": 2,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "xz",
       "name": "XZ Utils",
       "latest": "5.2.4-4",
@@ -33143,6 +33143,40 @@
             "good": 1,
             "bad": 0,
             "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "lzma",
+      "name": "XZ Utils",
+      "latest": "5.2.4-1",
+      "repository": "Electra's iOS Utilities",
+      "url": "http://cydia.saurik.com/package/lzma/",
+      "shortDescription": "slower, but better, compression algorithm",
+      "category": "Archiving",
+      "author": "(null)",
+      "commercial": false,
+      "date": "2018-03-04T19:03:45Z",
+      "versions": [
+        {
+          "tweakVersion": "4.32.7-2",
+          "iOSVersion": "12.0.1",
+          "repository": "Bingner/Elucubratus",
+          "date": "2019-03-06T16:02:19Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 2,
+            "bad": 0,
+            "total": 2,
             "arch32": {
               "total": 0,
               "good": 0,
