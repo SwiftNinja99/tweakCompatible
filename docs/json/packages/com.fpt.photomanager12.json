@@ -1,7 +1,7 @@
 {
   "id": "com.fpt.photomanager12",
   "name": "PhotoManager (iOS 12)",
-  "latest": "1.0.0-327+debug",
+  "latest": "1.0.0",
   "repository": "(null)",
   "url": "http://cydia.saurik.com/package/com.fpt.photomanager12/",
   "shortDescription": "Add many features to the photos app.",
@@ -37,6 +37,37 @@
           "date": "2019-04-14T14:07:29Z",
           "userName": "fillupontacos",
           "issueNumber": 84362,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.0",
+      "iOSVersion": "12.1.2",
+      "repository": "Packix",
+      "date": "2019-04-14T15:31:26Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,4",
+          "issues": "Working with some Issues. When going into your Photo Library with WhatsApp it’ll crash WhatsApp, and when taking a picture with Camera App it’ll crash Camera App",
+          "date": "2019-04-14T15:31:26Z",
+          "userName": "nicodomi12",
+          "issueNumber": 84371,
           "arch32": false
         }
       ]
