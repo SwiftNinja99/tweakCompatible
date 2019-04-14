@@ -1,7 +1,7 @@
 {
   "id": "com.ryu.recydia2",
   "name": "ReCydia 2",
-  "latest": "1.0",
+  "latest": "1.1",
   "repository": "Packix",
   "url": "http://cydia.saurik.com/package/com.ryu.recydia2/",
   "shortDescription": "A Successor to ReCydia",
@@ -170,6 +170,37 @@
           "date": "2019-04-14T21:16:45Z",
           "userName": "GusToughSon",
           "issueNumber": 84416,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.1",
+      "iOSVersion": "12.1.2",
+      "repository": "Packix",
+      "date": "2019-04-14T21:39:30Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,2",
+          "issues": "",
+          "date": "2019-04-14T21:39:30Z",
+          "userName": "ActuallyRyu",
+          "issueNumber": 84419,
           "arch32": false
         }
       ]
