@@ -494,9 +494,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 1,
+        "good": 2,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -513,6 +513,15 @@
           "date": "2019-04-13T12:31:04Z",
           "userName": "BitGrub",
           "issueNumber": 84155,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone6,1",
+          "issues": "Only sometimes hides the original battery percentage, other times it leaves a space the size of the stock percent",
+          "date": "2019-04-14T16:36:32Z",
+          "userName": "SCOTT0852",
+          "issueNumber": 84377,
           "arch32": false
         }
       ]
