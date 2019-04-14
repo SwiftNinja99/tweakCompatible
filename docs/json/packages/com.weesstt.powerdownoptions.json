@@ -1,7 +1,7 @@
 {
   "id": "com.weesstt.powerdownoptions",
   "name": "PowerdownOptions",
-  "latest": "1.0",
+  "latest": "1.1.3-2+debug",
   "repository": "BigBoss",
   "url": "http://cydia.saurik.com/package/com.weesstt.powerdownoptions/",
   "shortDescription": "More power down options",
@@ -1097,11 +1097,11 @@
       "repository": "Packix",
       "date": "2019-02-23T00:03:10Z",
       "outcome": {
-        "calculatedStatus": "Likely working",
-        "percentage": 75,
-        "good": 3,
+        "calculatedStatus": "Working",
+        "percentage": 80,
+        "good": 4,
         "bad": 0,
-        "total": 4,
+        "total": 5,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1145,6 +1145,15 @@
           "date": "2019-03-14T17:54:00Z",
           "userName": "Mb6123",
           "issueNumber": 77467,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,4",
+          "issues": "",
+          "date": "2019-04-14T11:56:33Z",
+          "userName": "rlshukhov",
+          "issueNumber": 84349,
           "arch32": false
         }
       ]
