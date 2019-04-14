@@ -381,9 +381,9 @@
       "repository": "Packix",
       "date": "2019-02-26T23:59:59Z",
       "outcome": {
-        "calculatedStatus": "Not working",
-        "percentage": 40,
-        "good": 2,
+        "calculatedStatus": "Likely working",
+        "percentage": 60,
+        "good": 3,
         "bad": 0,
         "total": 5,
         "arch32": {
@@ -414,15 +414,6 @@
           "arch32": false
         },
         {
-          "status": "not working",
-          "device": "iPhone10,6",
-          "issues": "It is not updated yet ",
-          "date": "2019-03-06T03:45:53Z",
-          "userName": "iTollMouS",
-          "issueNumber": 73512,
-          "arch32": false
-        },
-        {
           "status": "partial",
           "device": "iPhone9,4",
           "issues": "Use SSGesture Fix iOS 12 from PoomSmart's repo!!",
@@ -438,6 +429,15 @@
           "date": "2019-04-03T19:21:24Z",
           "userName": "813Samauarai",
           "issueNumber": 82668,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-04-14T00:29:04Z",
+          "userName": "iTollMouS",
+          "issueNumber": 84311,
           "arch32": false
         }
       ]
