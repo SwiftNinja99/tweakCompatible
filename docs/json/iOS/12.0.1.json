@@ -11567,40 +11567,6 @@
       ]
     },
     {
-      "id": "com.jeremd10.fastunlockx",
-      "name": "FastUnlockX",
-      "latest": "1.3.1",
-      "repository": "JeremD10's Repo",
-      "url": "http://cydia.saurik.com/package/com.jeremd10.fastunlockx/",
-      "shortDescription": "un Déverrouillage plus rapide pour iPhone X",
-      "category": "Tweaks iPhone X",
-      "author": "CP Digital Darkroom",
-      "commercial": false,
-      "date": "2019-02-25T00:44:40Z",
-      "versions": [
-        {
-          "tweakVersion": "1.3.1",
-          "iOSVersion": "12.0.1",
-          "repository": "JeremD10's Repo",
-          "date": "2019-02-25T00:44:40Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.cpdigitaldarkroom.fastunlockx",
       "name": "FastUnlockX",
       "latest": "1.4",
@@ -11636,6 +11602,40 @@
           "iOSVersion": "12.0.1",
           "repository": "Packix",
           "date": "2019-02-26T12:04:18Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.jeremd10.fastunlockx",
+      "name": "FastUnlockX",
+      "latest": "1.3.1",
+      "repository": "JeremD10's Repo",
+      "url": "http://cydia.saurik.com/package/com.jeremd10.fastunlockx/",
+      "shortDescription": "un Déverrouillage plus rapide pour iPhone X",
+      "category": "Tweaks iPhone X",
+      "author": "CP Digital Darkroom",
+      "commercial": false,
+      "date": "2019-02-25T00:44:40Z",
+      "versions": [
+        {
+          "tweakVersion": "1.3.1",
+          "iOSVersion": "12.0.1",
+          "repository": "JeremD10's Repo",
+          "date": "2019-02-25T00:44:40Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -13124,22 +13124,22 @@
       ]
     },
     {
-      "id": "com.cabralcole.forceinpicture",
+      "id": "com.spicat.forceinpicture",
       "name": "ForceInPicture",
-      "latest": "0.0.1-2",
-      "repository": "apt.thebigboss.org",
-      "url": "http://cydia.saurik.com/package/com.cabralcole.forceinpicture/",
-      "shortDescription": "\"Programmatically\" enable picture in picture feature.",
+      "latest": "1.1",
+      "repository": "Spica T Repo",
+      "url": "http://cydia.saurik.com/package/com.spicat.forceinpicture/",
+      "shortDescription": "Enable picture in picture feature with no crashes.",
       "category": "Tweaks",
-      "author": "cole cabral @ca13ra1",
+      "author": "SpicaT",
       "commercial": false,
-      "date": "2018-03-01T20:00:33Z",
+      "date": "2018-07-18T14:45:11Z",
       "versions": [
         {
-          "tweakVersion": "0.0.1-2",
+          "tweakVersion": "1.1",
           "iOSVersion": "12.0.1",
-          "repository": "BigBoss",
-          "date": "2019-02-23T22:41:58Z",
+          "repository": "Spica T Repo",
+          "date": "2019-03-09T01:50:15Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -13158,22 +13158,22 @@
       ]
     },
     {
-      "id": "com.spicat.forceinpicture",
+      "id": "com.cabralcole.forceinpicture",
       "name": "ForceInPicture",
-      "latest": "1.1",
-      "repository": "Spica T Repo",
-      "url": "http://cydia.saurik.com/package/com.spicat.forceinpicture/",
-      "shortDescription": "Enable picture in picture feature with no crashes.",
+      "latest": "0.0.1-2",
+      "repository": "apt.thebigboss.org",
+      "url": "http://cydia.saurik.com/package/com.cabralcole.forceinpicture/",
+      "shortDescription": "\"Programmatically\" enable picture in picture feature.",
       "category": "Tweaks",
-      "author": "SpicaT",
+      "author": "cole cabral @ca13ra1",
       "commercial": false,
-      "date": "2018-07-18T14:45:11Z",
+      "date": "2018-03-01T20:00:33Z",
       "versions": [
         {
-          "tweakVersion": "1.1",
+          "tweakVersion": "0.0.1-2",
           "iOSVersion": "12.0.1",
-          "repository": "Spica T Repo",
-          "date": "2019-03-09T01:50:15Z",
+          "repository": "BigBoss",
+          "date": "2019-02-23T22:41:58Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -20875,6 +20875,40 @@
       ]
     },
     {
+      "id": "com.yourepo.tweakportal.neptune",
+      "name": "Neptune",
+      "latest": "1.0-8",
+      "repository": "TweakPortal - YouRepo",
+      "url": "http://cydia.saurik.com/package/com.yourepo.tweakportal.neptune/",
+      "shortDescription": "Enable Apple's modern fluid gestural interface on all devices.",
+      "category": "Tweaks",
+      "author": "Duraid Abdul",
+      "commercial": false,
+      "date": "2019-03-04T17:36:34Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0.0-224",
+          "iOSVersion": "12.0.1",
+          "repository": "TweakPortal - YouRepo",
+          "date": "2019-03-05T20:26:26Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.duraidabdul.neptune",
       "name": "Neptune",
       "latest": "1.1",
@@ -20949,40 +20983,6 @@
       ]
     },
     {
-      "id": "com.yourepo.tweakportal.neptune",
-      "name": "Neptune",
-      "latest": "1.0-8",
-      "repository": "TweakPortal - YouRepo",
-      "url": "http://cydia.saurik.com/package/com.yourepo.tweakportal.neptune/",
-      "shortDescription": "Enable Apple's modern fluid gestural interface on all devices.",
-      "category": "Tweaks",
-      "author": "Duraid Abdul",
-      "commercial": false,
-      "date": "2019-03-04T17:36:34Z",
-      "versions": [
-        {
-          "tweakVersion": "1.0.0-224",
-          "iOSVersion": "12.0.1",
-          "repository": "TweakPortal - YouRepo",
-          "date": "2019-03-05T20:26:26Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "nettle",
       "name": "Nettle",
       "latest": "3.4-2",
@@ -21017,22 +21017,22 @@
       ]
     },
     {
-      "id": "ncurses",
+      "id": "ncurses5-libs",
       "name": "New Curses",
-      "latest": "6.1-1",
-      "repository": "Electra's iOS Utilities",
-      "url": "http://cydia.saurik.com/package/ncurses/",
+      "latest": "5.9-1",
+      "repository": "Bingner/Elucubratus",
+      "url": "http://cydia.saurik.com/package/ncurses5-libs/",
       "shortDescription": "feature-complete terminal library",
       "category": "System",
       "author": "(null)",
       "commercial": false,
-      "date": "2018-03-04T19:02:12Z",
+      "date": "2018-10-14T00:25:17Z",
       "versions": [
         {
-          "tweakVersion": "6.1-1",
+          "tweakVersion": "5.9-1",
           "iOSVersion": "12.0.1",
           "repository": "Bingner/Elucubratus",
-          "date": "2019-03-06T16:02:42Z",
+          "date": "2019-03-06T16:02:31Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -21051,22 +21051,22 @@
       ]
     },
     {
-      "id": "ncurses5-libs",
+      "id": "ncurses",
       "name": "New Curses",
-      "latest": "5.9-1",
-      "repository": "Bingner/Elucubratus",
-      "url": "http://cydia.saurik.com/package/ncurses5-libs/",
+      "latest": "6.1-1",
+      "repository": "Electra's iOS Utilities",
+      "url": "http://cydia.saurik.com/package/ncurses/",
       "shortDescription": "feature-complete terminal library",
       "category": "System",
       "author": "(null)",
       "commercial": false,
-      "date": "2018-10-14T00:25:17Z",
+      "date": "2018-03-04T19:02:12Z",
       "versions": [
         {
-          "tweakVersion": "5.9-1",
+          "tweakVersion": "6.1-1",
           "iOSVersion": "12.0.1",
           "repository": "Bingner/Elucubratus",
-          "date": "2019-03-06T16:02:31Z",
+          "date": "2019-03-06T16:02:42Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -31173,40 +31173,6 @@
       ]
     },
     {
-      "id": "ru.pvmntsdev.twitterlabs",
-      "name": "Twitter Labs",
-      "latest": "1.0.3",
-      "repository": "Packix",
-      "url": "http://cydia.saurik.com/package/ru.pvmntsdev.twitterlabs/",
-      "shortDescription": "Unleash Your Twitter Experience — ### Features",
-      "category": "Tweaks",
-      "author": "pvmntsdev",
-      "commercial": false,
-      "date": "2018-11-13T22:59:13Z",
-      "versions": [
-        {
-          "tweakVersion": "1.0.2",
-          "iOSVersion": "12.0.1",
-          "repository": "Dynastic Repo",
-          "date": "2019-02-23T02:14:55Z",
-          "outcome": {
-            "calculatedStatus": "Not working",
-            "percentage": 0,
-            "good": 0,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.yourepo.tweakportal.twitterlabs",
       "name": "Twitter Labs",
       "latest": "1.0.4",
@@ -31227,6 +31193,40 @@
             "calculatedStatus": "Working",
             "percentage": 100,
             "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "ru.pvmntsdev.twitterlabs",
+      "name": "Twitter Labs",
+      "latest": "1.0.3",
+      "repository": "Packix",
+      "url": "http://cydia.saurik.com/package/ru.pvmntsdev.twitterlabs/",
+      "shortDescription": "Unleash Your Twitter Experience — ### Features",
+      "category": "Tweaks",
+      "author": "pvmntsdev",
+      "commercial": false,
+      "date": "2018-11-13T22:59:13Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0.2",
+          "iOSVersion": "12.0.1",
+          "repository": "Dynastic Repo",
+          "date": "2019-02-23T02:14:55Z",
+          "outcome": {
+            "calculatedStatus": "Not working",
+            "percentage": 0,
+            "good": 0,
             "bad": 0,
             "total": 1,
             "arch32": {
@@ -33331,6 +33331,40 @@
       ]
     },
     {
+      "id": "com.repo.xarold.com.youtubetools",
+      "name": "YouTube Tools",
+      "latest": "2.0",
+      "repository": "(null)",
+      "url": "http://cydia.saurik.com/package/com.repo.xarold.com.youtubetools/",
+      "shortDescription": "Essential toolbox for YouTube app.",
+      "category": "Tweaks",
+      "author": "Justin Petkovic",
+      "commercial": false,
+      "date": "2019-04-14T06:32:43Z",
+      "versions": [
+        {
+          "tweakVersion": "2.0",
+          "iOSVersion": "12.0.1",
+          "repository": "(null)",
+          "date": "2019-04-14T06:32:43Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.justinpetkovic.youtubetools",
       "name": "YouTube Tools",
       "latest": "2.0",
@@ -33384,40 +33418,6 @@
       ]
     },
     {
-      "id": "com.repo.xarold.com.youtubetools",
-      "name": "YouTube Tools",
-      "latest": "2.0",
-      "repository": "(null)",
-      "url": "http://cydia.saurik.com/package/com.repo.xarold.com.youtubetools/",
-      "shortDescription": "Essential toolbox for YouTube app.",
-      "category": "Tweaks",
-      "author": "Justin Petkovic",
-      "commercial": false,
-      "date": "2019-04-14T06:32:43Z",
-      "versions": [
-        {
-          "tweakVersion": "2.0",
-          "iOSVersion": "12.0.1",
-          "repository": "(null)",
-          "date": "2019-04-14T06:32:43Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "org.ilendsoft.youtubed",
       "name": "YouTubed",
       "latest": "1.7.2-1",
@@ -33439,6 +33439,40 @@
             "good": 2,
             "bad": 0,
             "total": 2,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.kurdios.ytmusic++",
+      "name": "YouTubeMusic ++",
+      "latest": "1.0.0+beta",
+      "repository": "Packix",
+      "url": "http://cydia.saurik.com/package/com.kurdios.ytmusic++/",
+      "shortDescription": "add some features to YouTube Music app",
+      "category": "Tweaks",
+      "author": "Karwan BK",
+      "commercial": false,
+      "date": "2018-07-31T02:53:06Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0.0+beta",
+          "iOSVersion": "12.0.1",
+          "repository": "Packix",
+          "date": "2019-04-14T19:50:33Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
             "arch32": {
               "total": 0,
               "good": 0,
