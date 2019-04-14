@@ -394,11 +394,11 @@
       "repository": "Packix",
       "date": "2019-02-24T12:28:19Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 100,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
         "good": 1,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -415,6 +415,15 @@
           "date": "2019-02-24T12:28:19Z",
           "userName": "Tobias-Bauer",
           "issueNumber": 64410,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,3",
+          "issues": "Does nothing ",
+          "date": "2019-04-14T04:28:17Z",
+          "userName": "chriscegz",
+          "issueNumber": 84317,
           "arch32": false
         }
       ]
