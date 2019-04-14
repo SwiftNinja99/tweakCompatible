@@ -266,8 +266,8 @@
       "date": "2019-02-23T17:27:36Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 50,
-        "good": 7,
+        "percentage": 42,
+        "good": 6,
         "bad": 0,
         "total": 14,
         "arch32": {
@@ -397,12 +397,12 @@
           "arch32": false
         },
         {
-          "status": "partial",
+          "status": "not working",
           "device": "iPhone10,4",
-          "issues": "Works ONLY if no other settings are configured. Keep the tweak as it is, don’t mess with settings. If you change settings, the app will crash every time you open it.",
-          "date": "2019-04-14T13:04:59Z",
+          "issues": "Completely unreliable.",
+          "date": "2019-04-14T16:48:09Z",
           "userName": "DT2808",
-          "issueNumber": 84352,
+          "issueNumber": 84378,
           "arch32": false
         }
       ]
