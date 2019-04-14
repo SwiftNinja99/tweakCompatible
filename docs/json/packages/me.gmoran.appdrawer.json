@@ -309,11 +309,11 @@
       "repository": "Packix",
       "date": "2019-02-22T22:40:19Z",
       "outcome": {
-        "calculatedStatus": "Not working",
-        "percentage": 0,
-        "good": 0,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
+        "good": 1,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -330,6 +330,15 @@
           "date": "2019-02-22T22:40:19Z",
           "userName": "md-siam",
           "issueNumber": 59797,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone7,2",
+          "issues": "",
+          "date": "2019-04-14T20:33:07Z",
+          "userName": "VAPEMASTER9000",
+          "issueNumber": 84402,
           "arch32": false
         }
       ]
