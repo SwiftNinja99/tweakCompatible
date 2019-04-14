@@ -478,11 +478,11 @@
       "repository": "BigBoss",
       "date": "2019-03-06T13:33:12Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 100,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
         "good": 1,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -499,6 +499,15 @@
           "date": "2019-03-06T13:33:12Z",
           "userName": "FaZeIlLuMiNaTi",
           "issueNumber": 73731,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone8,1",
+          "issues": "If it is enabled from settings, safari crashes on launch.",
+          "date": "2019-04-14T07:35:19Z",
+          "userName": "KechupMan39",
+          "issueNumber": 84328,
           "arch32": false
         }
       ]
