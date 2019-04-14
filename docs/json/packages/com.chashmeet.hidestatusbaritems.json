@@ -198,11 +198,11 @@
       "repository": "BigBoss",
       "date": "2019-02-23T04:23:59Z",
       "outcome": {
-        "calculatedStatus": "Likely working",
-        "percentage": 50,
+        "calculatedStatus": "Not working",
+        "percentage": 40,
         "good": 2,
         "bad": 0,
-        "total": 4,
+        "total": 5,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -246,6 +246,15 @@
           "date": "2019-03-09T21:02:48Z",
           "userName": "Bright625",
           "issueNumber": 75562,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,4",
+          "issues": "Carrier name not hidden",
+          "date": "2019-04-14T13:15:16Z",
+          "userName": "sillwiu",
+          "issueNumber": 84355,
           "arch32": false
         }
       ]
