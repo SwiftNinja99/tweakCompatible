@@ -1,10 +1,10 @@
 {
   "id": "ch.mdaus.sylph",
   "name": "Sylph",
-  "latest": "0.0.1.4-1+debug",
+  "latest": "1.1~Beta.1",
   "repository": "(null)",
   "url": "http://cydia.saurik.com/package/ch.mdaus.sylph/",
-  "shortDescription": "An awesome MobileSubstrate tweak!",
+  "shortDescription": "Customize your LS music player",
   "category": "Tweaks",
   "author": "Max Dausch",
   "commercial": false,
@@ -295,6 +295,37 @@
           "date": "2019-03-25T05:26:00Z",
           "userName": "813Samauarai",
           "issueNumber": 80536,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.1~Beta.1",
+      "iOSVersion": "11.4.1",
+      "repository": "Maxwell Dausch's Repo",
+      "date": "2019-04-14T11:41:09Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2019-04-14T11:41:09Z",
+          "userName": "fazlul101",
+          "issueNumber": 84345,
           "arch32": false
         }
       ]
