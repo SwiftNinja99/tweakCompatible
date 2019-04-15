@@ -721,11 +721,11 @@
       "repository": "Thireus Repository",
       "date": "2019-03-28T16:22:47Z",
       "outcome": {
-        "calculatedStatus": "Likely working",
-        "percentage": 75,
-        "good": 3,
+        "calculatedStatus": "Working",
+        "percentage": 80,
+        "good": 4,
         "bad": 0,
-        "total": 4,
+        "total": 5,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -769,6 +769,15 @@
           "date": "2019-04-14T18:44:40Z",
           "userName": "survive9",
           "issueNumber": 84390,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,3",
+          "issues": "",
+          "date": "2019-04-15T20:06:08Z",
+          "userName": "pali768",
+          "issueNumber": 84503,
           "arch32": false
         }
       ]
