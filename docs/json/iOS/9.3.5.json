@@ -1051,7 +1051,7 @@
     {
       "id": "apt7",
       "name": "APT 0.7 Strict",
-      "latest": "1.7.2",
+      "latest": "0-2",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/apt7/",
       "shortDescription": "the advanced packaging tool from Debian",
@@ -1543,10 +1543,10 @@
     {
       "id": "com.rbt.batterylife",
       "name": "BatteryLife",
-      "latest": "1.7.0",
+      "latest": "1.8.0~b23",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.rbt.batterylife/",
-      "shortDescription": "Displays useful information about battery health",
+      "shortDescription": "Displays useful information about your device's battery health [b1] Completely replaced the main app with the official App Store version. Please report ANY bugs and missing languages to batterylife1.8.x@rbtdigital.com. Thank you very much! [b2] Several fixes. [b3] Possible fix for iOS 8 crash. General bug fixes. [b4] iOS 8 bug fixes. [b5] Updated app a lot. [b6] See b5. [b7] See b6. [b8] App is now compatible with iOS 11. [b9] Bugfixes. [b10] Fix for missing app icon. [b11] Possible fix for the status bar options. [b12] Fix for b11. [b13] Bugfixes. [b14] Bugfixes. [b15] Bugfixes. [b16] Fixed settings not opening. Fixed ads not disappearing. General bugfixes. [b17] Quick crashfix. [b18] Bugfixes & updated translations. Automatically saves battery stat history without the need to open the app. [b19] Bugfixes. [b20] Fixes for iOS 9 and 10. [b21] Fixed temperature unit in app. Changed App Icon to distinguish from the App Store version. [b22] Bugfixes. Should be close to final now. [b23] Preliminary iOS 12 support",
       "category": "Utilities",
       "author": "rbt",
       "commercial": false,
@@ -3862,7 +3862,7 @@
     {
       "id": "com.evynw.repoicons",
       "name": "EVELYN's Repo Icons",
-      "latest": "1.0",
+      "latest": "1.0-1",
       "repository": "Evelyn's Collection",
       "url": "http://cydia.saurik.com/package/com.evynw.repoicons/",
       "shortDescription": "Official Icons for EVELYN's Repo. Icons replacing the ? marks.",
@@ -4446,7 +4446,7 @@
     {
       "id": "findutils",
       "name": "Find Utilities",
-      "latest": "4.6-1",
+      "latest": "4.6.0-2",
       "repository": "Electra's iOS Utilities",
       "url": "http://cydia.saurik.com/package/findutils/",
       "shortDescription": "indexes and searches filesystems",
@@ -5415,6 +5415,26 @@
           "iOSVersion": "9.3.5",
           "repository": "Ivano Bilenchi's Repo",
           "date": "2019-02-16T11:05:34Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 1,
+              "good": 1,
+              "bad": 0,
+              "percentage": 100,
+              "calculatedStatus": "Working"
+            }
+          }
+        },
+        {
+          "tweakVersion": "7.7.2",
+          "iOSVersion": "9.3.5",
+          "repository": "Ivano Bilenchi's Repo",
+          "date": "2019-04-15T10:28:37Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -6939,7 +6959,7 @@
     {
       "id": "openssh",
       "name": "OpenSSH",
-      "latest": "7.9p1",
+      "latest": "7.9p1-3",
       "repository": "Electra's iOS Utilities",
       "url": "http://cydia.saurik.com/package/openssh/",
       "shortDescription": "secure remote access between machines",
@@ -6972,7 +6992,7 @@
     {
       "id": "openssl",
       "name": "OpenSSL",
-      "latest": "1.0.2q-1",
+      "latest": "1.0.2r-1",
       "repository": "Electra's iOS Utilities",
       "url": "http://cydia.saurik.com/package/openssl/",
       "shortDescription": "OpenSSL tools",
@@ -8682,7 +8702,7 @@
     {
       "id": "org.thebigboss.swipeformore",
       "name": "SwipeForMore",
-      "latest": "1.1.9",
+      "latest": "1.1.7",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/org.thebigboss.swipeformore/",
       "shortDescription": "Manage packages via swipe.",
@@ -8815,7 +8835,7 @@
     {
       "id": "xyz.xninja.systeminfo",
       "name": "System Info",
-      "latest": "2.2.0-19+debug",
+      "latest": "2.0.0-1",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/xyz.xninja.systeminfo/",
       "shortDescription": "System information in Settings app > General > About, and other sections. Set boot-nonce, save shsh, battery info etc",
@@ -9452,10 +9472,10 @@
     {
       "id": "uikittools",
       "name": "UIKit Tools",
-      "latest": "1.1.13-5",
+      "latest": "2.0.1",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/uikittools/",
-      "shortDescription": "UIKit/GraphicsServices command line access",
+      "shortDescription": "Command line access for UIKit/LaunchServices/CoreServices",
       "category": "Utilities",
       "author": "Jay Freeman (saurik)",
       "commercial": false,
