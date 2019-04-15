@@ -1,7 +1,7 @@
 {
   "id": "me.nepeta.slyd",
   "name": "Slyd (SlideToUnlock)",
-  "latest": "0.1.1",
+  "latest": "0.2.2",
   "repository": "Nepeta",
   "url": "http://cydia.saurik.com/package/me.nepeta.slyd/",
   "shortDescription": "Slide to unlock for iOS 11 and 12.",
@@ -366,6 +366,37 @@
           "date": "2019-03-14T17:39:19Z",
           "userName": "DatNightcat",
           "issueNumber": 77464,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.2.2",
+      "iOSVersion": "11.3.1",
+      "repository": "Nepeta",
+      "date": "2019-04-15T21:34:33Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,1",
+          "issues": "",
+          "date": "2019-04-15T21:34:33Z",
+          "userName": "smacpats",
+          "issueNumber": 84519,
           "arch32": false
         }
       ]
