@@ -530,10 +530,10 @@
       "date": "2019-02-23T04:00:49Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 75,
+        "percentage": 60,
         "good": 3,
         "bad": 0,
-        "total": 4,
+        "total": 5,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -577,6 +577,15 @@
           "date": "2019-03-28T03:21:36Z",
           "userName": "lukboy3",
           "issueNumber": 81259,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2019-04-15T20:37:09Z",
+          "userName": "Brandon097",
+          "issueNumber": 84508,
           "arch32": false
         }
       ]
