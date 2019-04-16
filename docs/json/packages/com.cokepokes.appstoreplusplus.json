@@ -1390,11 +1390,11 @@
       "repository": "cokepokes.github.io",
       "date": "2018-12-05T07:47:15Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 100,
+        "calculatedStatus": "Likely working",
+        "percentage": 66,
         "good": 2,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1420,6 +1420,15 @@
           "date": "2019-03-08T20:28:57Z",
           "userName": "tsxcobra",
           "issueNumber": 75081,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPad5,3",
+          "issues": "Crashes AppStore using iPad Air 2 even disabled all other tweaks just in case it was one of them ",
+          "date": "2019-04-16T22:29:21Z",
+          "userName": "JustAguyWhoLikesAnime",
+          "issueNumber": 84611,
           "arch32": false
         }
       ]
