@@ -501,11 +501,11 @@
       "repository": "BigBoss",
       "date": "2019-04-13T12:31:04Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 100,
+        "calculatedStatus": "Likely working",
+        "percentage": 66,
         "good": 2,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -531,6 +531,15 @@
           "date": "2019-04-14T16:36:32Z",
           "userName": "SCOTT0852",
           "issueNumber": 84377,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPad4,4",
+          "issues": "",
+          "date": "2019-04-16T15:38:44Z",
+          "userName": "nicob96",
+          "issueNumber": 84584,
           "arch32": false
         }
       ]
