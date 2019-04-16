@@ -3506,40 +3506,6 @@
       ]
     },
     {
-      "id": "org.thebigboss.better3dmenus",
-      "name": "Better3DMenus",
-      "latest": "2.4",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/org.thebigboss.better3dmenus/",
-      "shortDescription": "Better 3D-Touch Menus!",
-      "category": "Tweaks",
-      "author": "dpkg_",
-      "commercial": false,
-      "date": "2018-10-12T18:03:31Z",
-      "versions": [
-        {
-          "tweakVersion": "2.4",
-          "iOSVersion": "12.0.1",
-          "repository": "BigBoss",
-          "date": "2019-03-05T16:54:33Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.dpkg.better3dmenus",
       "name": "Better3DMenus",
       "latest": "2.4",
@@ -3576,6 +3542,40 @@
           "iOSVersion": "12.0.1",
           "repository": "dpkg9510's Repo",
           "date": "2019-03-10T14:44:12Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "org.thebigboss.better3dmenus",
+      "name": "Better3DMenus",
+      "latest": "2.4",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/org.thebigboss.better3dmenus/",
+      "shortDescription": "Better 3D-Touch Menus!",
+      "category": "Tweaks",
+      "author": "dpkg_",
+      "commercial": false,
+      "date": "2018-10-12T18:03:31Z",
+      "versions": [
+        {
+          "tweakVersion": "2.4",
+          "iOSVersion": "12.0.1",
+          "repository": "BigBoss",
+          "date": "2019-03-05T16:54:33Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -3840,10 +3840,10 @@
     {
       "id": "com.midnightchips.bettersettings",
       "name": "BetterSettings",
-      "latest": "0.1.0",
+      "latest": "0.1.1",
       "repository": "Packix",
       "url": "http://cydia.saurik.com/package/com.midnightchips.bettersettings/",
-      "shortDescription": "Settings Your Way. — Complete customization of the settings app. Allows setting custom color, cell shape, background image, text color and more.",
+      "shortDescription": "Settings your way",
       "category": "Tweaks",
       "author": "midnightchips",
       "commercial": false,
@@ -4439,22 +4439,21 @@
       ]
     },
     {
-      "id": "com.spicat.blurrybadges",
+      "id": "org.thebigboss.blurrybadges",
       "name": "BlurryBadges",
-      "latest": "1.2.2",
-      "repository": "Spica T Repo",
-      "url": "http://cydia.saurik.com/package/com.spicat.blurrybadges/",
+      "latest": "1.1",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/org.thebigboss.blurrybadges/",
       "shortDescription": "Add customizable blur to SpringBoard icon badges.",
       "category": "Tweaks",
-      "author": "SpicaT",
+      "author": "PoomSmart",
       "commercial": false,
-      "date": "2018-08-08T20:54:34Z",
       "versions": [
         {
-          "tweakVersion": "1.2.2",
+          "tweakVersion": "1.1",
           "iOSVersion": "12.0.1",
-          "repository": "Spica T Repo",
-          "date": "2019-03-19T02:51:33Z",
+          "repository": "BigBoss",
+          "date": "2019-03-04T08:32:29Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -4473,21 +4472,22 @@
       ]
     },
     {
-      "id": "org.thebigboss.blurrybadges",
+      "id": "com.spicat.blurrybadges",
       "name": "BlurryBadges",
-      "latest": "1.1",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/org.thebigboss.blurrybadges/",
+      "latest": "1.2.2",
+      "repository": "Spica T Repo",
+      "url": "http://cydia.saurik.com/package/com.spicat.blurrybadges/",
       "shortDescription": "Add customizable blur to SpringBoard icon badges.",
       "category": "Tweaks",
-      "author": "PoomSmart",
+      "author": "SpicaT",
       "commercial": false,
+      "date": "2018-08-08T20:54:34Z",
       "versions": [
         {
-          "tweakVersion": "1.1",
+          "tweakVersion": "1.2.2",
           "iOSVersion": "12.0.1",
-          "repository": "BigBoss",
-          "date": "2019-03-04T08:32:29Z",
+          "repository": "Spica T Repo",
+          "date": "2019-03-19T02:51:33Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -7675,7 +7675,7 @@
     {
       "id": "me.tomt000.copylog",
       "name": "CopyLog",
-      "latest": "1.0.4",
+      "latest": "1.1",
       "repository": "Packix",
       "url": "http://cydia.saurik.com/package/me.tomt000.copylog/",
       "shortDescription": "Clipboard history manager for iOS!",
@@ -10200,6 +10200,39 @@
       ]
     },
     {
+      "id": "xyz.xninja.dopesettings",
+      "name": "DopeSettings",
+      "latest": "0.1.0",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/xyz.xninja.dopesettings/",
+      "shortDescription": "Spice up the settings view",
+      "category": "Tweaks",
+      "author": "ARX8x",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "0.0.4",
+          "iOSVersion": "12.0.1",
+          "repository": "BigBoss",
+          "date": "2019-03-22T14:37:20Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.sh0rtflow.dopesettings",
       "name": "DopeSettings",
       "latest": "0.0.5-6+debug",
@@ -10220,39 +10253,6 @@
             "calculatedStatus": "Not working",
             "percentage": 0,
             "good": 0,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "xyz.xninja.dopesettings",
-      "name": "DopeSettings",
-      "latest": "0.1.0",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/xyz.xninja.dopesettings/",
-      "shortDescription": "Spice up the settings view",
-      "category": "Tweaks",
-      "author": "ARX8x",
-      "commercial": false,
-      "versions": [
-        {
-          "tweakVersion": "0.0.4",
-          "iOSVersion": "12.0.1",
-          "repository": "BigBoss",
-          "date": "2019-03-22T14:37:20Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
             "bad": 0,
             "total": 1,
             "arch32": {
@@ -12432,22 +12432,21 @@
       ]
     },
     {
-      "id": "com.jeremd10.fiveicondockxi",
+      "id": "me.gmoran.fiveicondockxi",
       "name": "FiveIconDockXI",
-      "latest": "1.0",
-      "repository": "JeremD10's Repo",
-      "url": "http://cydia.saurik.com/package/com.jeremd10.fiveicondockxi/",
-      "shortDescription": "Permet d'ajouter 5 icons dans le dock",
-      "category": "Tweaks iOS 11",
-      "author": "Jeremd10",
+      "latest": "0.0.1-20",
+      "repository": "GMoran Beta Software",
+      "url": "http://cydia.saurik.com/package/me.gmoran.fiveicondockxi/",
+      "shortDescription": "Five icon dock for iOS 11.",
+      "category": "Tweaks",
+      "author": "Guillermo Moran",
       "commercial": false,
-      "date": "2019-02-25T00:44:54Z",
       "versions": [
         {
-          "tweakVersion": "1.0",
+          "tweakVersion": "0.0.1-20",
           "iOSVersion": "12.0.1",
-          "repository": "JeremD10's Repo",
-          "date": "2019-02-25T00:44:54Z",
+          "repository": "GMoran Beta Software",
+          "date": "2019-02-23T02:16:06Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -12466,21 +12465,22 @@
       ]
     },
     {
-      "id": "me.gmoran.fiveicondockxi",
+      "id": "com.jeremd10.fiveicondockxi",
       "name": "FiveIconDockXI",
-      "latest": "0.0.1-20",
-      "repository": "GMoran Beta Software",
-      "url": "http://cydia.saurik.com/package/me.gmoran.fiveicondockxi/",
-      "shortDescription": "Five icon dock for iOS 11.",
-      "category": "Tweaks",
-      "author": "Guillermo Moran",
+      "latest": "1.0",
+      "repository": "JeremD10's Repo",
+      "url": "http://cydia.saurik.com/package/com.jeremd10.fiveicondockxi/",
+      "shortDescription": "Permet d'ajouter 5 icons dans le dock",
+      "category": "Tweaks iOS 11",
+      "author": "Jeremd10",
       "commercial": false,
+      "date": "2019-02-25T00:44:54Z",
       "versions": [
         {
-          "tweakVersion": "0.0.1-20",
+          "tweakVersion": "1.0",
           "iOSVersion": "12.0.1",
-          "repository": "GMoran Beta Software",
-          "date": "2019-02-23T02:16:06Z",
+          "repository": "JeremD10's Repo",
+          "date": "2019-02-25T00:44:54Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -13258,22 +13258,22 @@
       ]
     },
     {
-      "id": "com.cabralcole.forceinpicture",
+      "id": "com.spicat.forceinpicture",
       "name": "ForceInPicture",
-      "latest": "0.0.1-2",
-      "repository": "apt.thebigboss.org",
-      "url": "http://cydia.saurik.com/package/com.cabralcole.forceinpicture/",
-      "shortDescription": "\"Programmatically\" enable picture in picture feature.",
+      "latest": "1.1",
+      "repository": "Spica T Repo",
+      "url": "http://cydia.saurik.com/package/com.spicat.forceinpicture/",
+      "shortDescription": "Enable picture in picture feature with no crashes.",
       "category": "Tweaks",
-      "author": "cole cabral @ca13ra1",
+      "author": "SpicaT",
       "commercial": false,
-      "date": "2018-03-01T20:00:33Z",
+      "date": "2018-07-18T14:45:11Z",
       "versions": [
         {
-          "tweakVersion": "0.0.1-2",
+          "tweakVersion": "1.1",
           "iOSVersion": "12.0.1",
-          "repository": "BigBoss",
-          "date": "2019-02-23T22:41:58Z",
+          "repository": "Spica T Repo",
+          "date": "2019-03-09T01:50:15Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -13292,22 +13292,22 @@
       ]
     },
     {
-      "id": "com.spicat.forceinpicture",
+      "id": "com.cabralcole.forceinpicture",
       "name": "ForceInPicture",
-      "latest": "1.1",
-      "repository": "Spica T Repo",
-      "url": "http://cydia.saurik.com/package/com.spicat.forceinpicture/",
-      "shortDescription": "Enable picture in picture feature with no crashes.",
+      "latest": "0.0.1-2",
+      "repository": "apt.thebigboss.org",
+      "url": "http://cydia.saurik.com/package/com.cabralcole.forceinpicture/",
+      "shortDescription": "\"Programmatically\" enable picture in picture feature.",
       "category": "Tweaks",
-      "author": "SpicaT",
+      "author": "cole cabral @ca13ra1",
       "commercial": false,
-      "date": "2018-07-18T14:45:11Z",
+      "date": "2018-03-01T20:00:33Z",
       "versions": [
         {
-          "tweakVersion": "1.1",
+          "tweakVersion": "0.0.1-2",
           "iOSVersion": "12.0.1",
-          "repository": "Spica T Repo",
-          "date": "2019-03-09T01:50:15Z",
+          "repository": "BigBoss",
+          "date": "2019-02-23T22:41:58Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -13598,10 +13598,10 @@
     {
       "id": "com.wizage.gif2ani2",
       "name": "Gif2Ani V2",
-      "latest": "2.0~beta1",
+      "latest": "2.1",
       "repository": "Wizage's Repo",
       "url": "http://cydia.saurik.com/package/com.wizage.gif2ani2/",
-      "shortDescription": "iOS Respring animations from any gif you want",
+      "shortDescription": "iOS Respring animations from any gif you want! — Set any gif you would like as a respring logo. Convert existing springy packs and movies to gifs. Does not require anemone.",
       "category": "Tweaks",
       "author": "wizages",
       "commercial": false,
@@ -17550,10 +17550,10 @@
     {
       "id": "com.creaturecoding.libcspreferences",
       "name": "libCSPreferences",
-      "latest": "1.1.0",
+      "latest": "1.1.1",
       "repository": "CreatureSurvive's Repo",
       "url": "http://cydia.saurik.com/package/com.creaturecoding.libcspreferences/",
-      "shortDescription": "An awesome Preference Library!",
+      "shortDescription": "A Preference Library that doesn't suck!",
       "category": "System",
       "author": "CreatureSurvive",
       "commercial": false,
@@ -17678,6 +17678,26 @@
           "iOSVersion": "12.0.1",
           "repository": "BigBoss",
           "date": "2019-03-07T04:47:33Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        },
+        {
+          "tweakVersion": "4.2",
+          "iOSVersion": "12.0.1",
+          "repository": "BigBoss",
+          "date": "2019-04-16T03:13:04Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -21029,6 +21049,40 @@
       ]
     },
     {
+      "id": "com.yourepo.tweakportal.neptune",
+      "name": "Neptune",
+      "latest": "1.0-8",
+      "repository": "TweakPortal - YouRepo",
+      "url": "http://cydia.saurik.com/package/com.yourepo.tweakportal.neptune/",
+      "shortDescription": "Enable Apple's modern fluid gestural interface on all devices.",
+      "category": "Tweaks",
+      "author": "Duraid Abdul",
+      "commercial": false,
+      "date": "2019-03-04T17:36:34Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0.0-224",
+          "iOSVersion": "12.0.1",
+          "repository": "TweakPortal - YouRepo",
+          "date": "2019-03-05T20:26:26Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.duraidabdul.neptune",
       "name": "Neptune",
       "latest": "1.1",
@@ -21085,40 +21139,6 @@
           "iOSVersion": "12.0.1",
           "repository": "Packix",
           "date": "2019-04-10T14:30:43Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "com.yourepo.tweakportal.neptune",
-      "name": "Neptune",
-      "latest": "1.0-8",
-      "repository": "TweakPortal - YouRepo",
-      "url": "http://cydia.saurik.com/package/com.yourepo.tweakportal.neptune/",
-      "shortDescription": "Enable Apple's modern fluid gestural interface on all devices.",
-      "category": "Tweaks",
-      "author": "Duraid Abdul",
-      "commercial": false,
-      "date": "2019-03-04T17:36:34Z",
-      "versions": [
-        {
-          "tweakVersion": "1.0.0-224",
-          "iOSVersion": "12.0.1",
-          "repository": "TweakPortal - YouRepo",
-          "date": "2019-03-05T20:26:26Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -26523,7 +26543,7 @@
     {
       "id": "com.opa334.safariplus",
       "name": "Safari Plus",
-      "latest": "1.6.7",
+      "latest": "1.7~b2",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.opa334.safariplus/",
       "shortDescription": "Various enhancements to Safari!",
@@ -27725,7 +27745,7 @@
     {
       "id": "me.nepeta.slyd",
       "name": "Slyd (SlideToUnlock)",
-      "latest": "0.1.1",
+      "latest": "0.2.2",
       "repository": "Nepeta",
       "url": "http://cydia.saurik.com/package/me.nepeta.slyd/",
       "shortDescription": "Slide to unlock for iOS 11 and 12.",
@@ -30440,7 +30460,7 @@
     {
       "id": "com.d11z.textyle",
       "name": "Textyle",
-      "latest": "1.1",
+      "latest": "1.2",
       "repository": "Packix",
       "url": "http://cydia.saurik.com/package/com.d11z.textyle/",
       "shortDescription": "Quickly style any text",
@@ -31415,40 +31435,6 @@
       ]
     },
     {
-      "id": "com.yourepo.tweakportal.twitterlabs",
-      "name": "Twitter Labs",
-      "latest": "1.0.4",
-      "repository": "TweakPortal - YouRepo",
-      "url": "http://cydia.saurik.com/package/com.yourepo.tweakportal.twitterlabs/",
-      "shortDescription": "Twitter labs is a tweak that allows you to customize the look and feel of Twitter",
-      "category": "Tweaks",
-      "author": "Aesthyrica",
-      "commercial": false,
-      "date": "2019-03-15T01:57:29Z",
-      "versions": [
-        {
-          "tweakVersion": "1.0.4",
-          "iOSVersion": "12.0.1",
-          "repository": "TweakPortal - YouRepo",
-          "date": "2019-03-15T01:57:29Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "ru.pvmntsdev.twitterlabs",
       "name": "Twitter Labs",
       "latest": "1.0.3",
@@ -31469,6 +31455,40 @@
             "calculatedStatus": "Not working",
             "percentage": 0,
             "good": 0,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.yourepo.tweakportal.twitterlabs",
+      "name": "Twitter Labs",
+      "latest": "1.0.4",
+      "repository": "TweakPortal - YouRepo",
+      "url": "http://cydia.saurik.com/package/com.yourepo.tweakportal.twitterlabs/",
+      "shortDescription": "Twitter labs is a tweak that allows you to customize the look and feel of Twitter",
+      "category": "Tweaks",
+      "author": "Aesthyrica",
+      "commercial": false,
+      "date": "2019-03-15T01:57:29Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0.4",
+          "iOSVersion": "12.0.1",
+          "repository": "TweakPortal - YouRepo",
+          "date": "2019-03-15T01:57:29Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
             "bad": 0,
             "total": 1,
             "arch32": {
@@ -31795,7 +31815,7 @@
     {
       "id": "jailbreak-resources",
       "name": "Unc0ver Jailbreak Resources",
-      "latest": "1.0~b11.5",
+      "latest": "1.0~b12.5",
       "repository": "(null)",
       "url": "http://cydia.saurik.com/package/jailbreak-resources/",
       "shortDescription": "Resources used by KPPLess Jailbreaks",
@@ -33607,40 +33627,6 @@
       ]
     },
     {
-      "id": "com.repo.xarold.com.youtubetools",
-      "name": "YouTube Tools",
-      "latest": "2.0",
-      "repository": "(null)",
-      "url": "http://cydia.saurik.com/package/com.repo.xarold.com.youtubetools/",
-      "shortDescription": "Essential toolbox for YouTube app.",
-      "category": "Tweaks",
-      "author": "Justin Petkovic",
-      "commercial": false,
-      "date": "2019-04-14T06:32:43Z",
-      "versions": [
-        {
-          "tweakVersion": "2.0",
-          "iOSVersion": "12.0.1",
-          "repository": "(null)",
-          "date": "2019-04-14T06:32:43Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.justinpetkovic.youtubetools",
       "name": "YouTube Tools",
       "latest": "2.0",
@@ -33682,6 +33668,40 @@
             "good": 2,
             "bad": 0,
             "total": 2,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.repo.xarold.com.youtubetools",
+      "name": "YouTube Tools",
+      "latest": "2.0",
+      "repository": "(null)",
+      "url": "http://cydia.saurik.com/package/com.repo.xarold.com.youtubetools/",
+      "shortDescription": "Essential toolbox for YouTube app.",
+      "category": "Tweaks",
+      "author": "Justin Petkovic",
+      "commercial": false,
+      "date": "2019-04-14T06:32:43Z",
+      "versions": [
+        {
+          "tweakVersion": "2.0",
+          "iOSVersion": "12.0.1",
+          "repository": "(null)",
+          "date": "2019-04-14T06:32:43Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
             "arch32": {
               "total": 0,
               "good": 0,
