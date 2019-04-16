@@ -978,11 +978,11 @@
       "repository": "Chariz",
       "date": "2019-02-25T01:10:01Z",
       "outcome": {
-        "calculatedStatus": "Not working",
-        "percentage": 33,
-        "good": 2,
+        "calculatedStatus": "Likely working",
+        "percentage": 42,
+        "good": 3,
         "bad": 0,
-        "total": 6,
+        "total": 7,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1044,6 +1044,15 @@
           "date": "2019-03-28T07:25:18Z",
           "userName": "andrearug",
           "issueNumber": 81287,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone9,1",
+          "issues": "I tried it with AutoApollo and it did what it was supposed to, but I wasn’t able to open links from the Mail app. ",
+          "date": "2019-04-16T19:19:00Z",
+          "userName": "jrau18",
+          "issueNumber": 84598,
           "arch32": false
         }
       ]
