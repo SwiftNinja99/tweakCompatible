@@ -1,7 +1,7 @@
 {
   "id": "xyz.xninja.systeminfo",
   "name": "System Info",
-  "latest": "2.0.0-1",
+  "latest": "2.2.1-9+debug",
   "repository": "BigBoss",
   "url": "http://cydia.saurik.com/package/xyz.xninja.systeminfo/",
   "shortDescription": "System information in Settings app > General > About, and other sections. Set boot-nonce, save shsh, battery info etc",
@@ -3879,6 +3879,37 @@
           "date": "2019-03-30T12:37:13Z",
           "userName": "gochart420",
           "issueNumber": 81819,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.2.1-9+debug",
+      "iOSVersion": "12.0.1",
+      "repository": "ARX8x's repo",
+      "date": "2019-04-17T11:45:06Z",
+      "outcome": {
+        "calculatedStatus": "Not working",
+        "percentage": 0,
+        "good": 0,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPad7,5",
+          "issues": "Displays wrong capacity for iPad 2018; iPhone X. “Hide Daemons” isn’t working. Fix it!",
+          "date": "2019-04-17T11:45:06Z",
+          "userName": "youngpretty",
+          "issueNumber": 84662,
           "arch32": false
         }
       ]
