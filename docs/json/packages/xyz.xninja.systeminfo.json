@@ -2506,10 +2506,10 @@
       "date": "2019-02-22T23:18:15Z",
       "outcome": {
         "calculatedStatus": "Working",
-        "percentage": 100,
+        "percentage": 96,
         "good": 26,
         "bad": 0,
-        "total": 26,
+        "total": 27,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -2751,6 +2751,15 @@
           "date": "2019-04-12T12:22:38Z",
           "userName": "Nixuge",
           "issueNumber": 83945,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,6",
+          "issues": "Doesn’t work, it crashes at the end of saving and doesn’t save blobs",
+          "date": "2019-04-17T03:29:54Z",
+          "userName": "Frenchy7513",
+          "issueNumber": 84640,
           "arch32": false
         }
       ]
