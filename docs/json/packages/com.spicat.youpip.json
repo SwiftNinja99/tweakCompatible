@@ -1061,11 +1061,11 @@
       "repository": "Spica T Repo",
       "date": "2019-04-06T08:33:06Z",
       "outcome": {
-        "calculatedStatus": "Not working",
-        "percentage": 0,
-        "good": 0,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
+        "good": 1,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1082,6 +1082,15 @@
           "date": "2019-04-06T08:33:06Z",
           "userName": "TheNoim",
           "issueNumber": 83039,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "Works flawlessly!",
+          "date": "2019-04-17T04:52:05Z",
+          "userName": "ntassani",
+          "issueNumber": 84652,
           "arch32": false
         }
       ]
