@@ -2127,10 +2127,10 @@
       "date": "2019-02-23T00:28:57Z",
       "outcome": {
         "calculatedStatus": "Working",
-        "percentage": 81,
+        "percentage": 76,
         "good": 13,
         "bad": 0,
-        "total": 16,
+        "total": 17,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -2282,6 +2282,15 @@
           "date": "2019-04-09T18:10:57Z",
           "userName": "xXG0DLessXx",
           "issueNumber": 83626,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,3",
+          "issues": "doesn’t detect any crashes",
+          "date": "2019-04-17T19:33:40Z",
+          "userName": "ethanm10",
+          "issueNumber": 84720,
           "arch32": false
         }
       ]
