@@ -427,11 +427,11 @@
       "repository": "subdiox's Repo",
       "date": "2019-02-23T11:47:43Z",
       "outcome": {
-        "calculatedStatus": "Likely working",
-        "percentage": 50,
+        "calculatedStatus": "Not working",
+        "percentage": 33,
         "good": 1,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -457,6 +457,15 @@
           "date": "2019-03-18T08:53:57Z",
           "userName": "charbelhamamji",
           "issueNumber": 78778,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,6",
+          "issues": "Tweak not working with WhatsApp and Viber",
+          "date": "2019-04-17T03:28:01Z",
+          "userName": "Frenchy7513",
+          "issueNumber": 84639,
           "arch32": false
         }
       ]
