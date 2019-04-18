@@ -429,11 +429,11 @@
       "repository": "Packix",
       "date": "2019-04-07T22:14:37Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 100,
+        "calculatedStatus": "Likely working",
+        "percentage": 66,
         "good": 2,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -459,6 +459,15 @@
           "date": "2019-04-09T19:34:36Z",
           "userName": "danielchou1911",
           "issueNumber": 83653,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,3",
+          "issues": "crashes youtube ",
+          "date": "2019-04-18T22:56:07Z",
+          "userName": "tweakmaster7",
+          "issueNumber": 84864,
           "arch32": false
         }
       ]
