@@ -1,7 +1,7 @@
 {
   "id": "com.rango.trueshuffle",
   "name": "TrueShuffle",
-  "latest": "1.0",
+  "latest": "1.1.1",
   "repository": "Rango’s Repo",
   "url": "http://cydia.saurik.com/package/com.rango.trueshuffle/",
   "shortDescription": "True random shuffling in the Spotify App!",
@@ -37,6 +37,37 @@
           "date": "2019-04-17T18:46:22Z",
           "userName": "ghendricks2",
           "issueNumber": 84712,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.1.1",
+      "iOSVersion": "12.0.1",
+      "repository": "Rango’s Repo",
+      "date": "2019-04-18T21:19:18Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,4",
+          "issues": "",
+          "date": "2019-04-18T21:19:18Z",
+          "userName": "BotchedBortion",
+          "issueNumber": 84850,
           "arch32": false
         }
       ]
