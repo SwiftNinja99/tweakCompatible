@@ -78,11 +78,11 @@
       "repository": "Packix",
       "date": "2019-03-07T19:51:43Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 100,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
         "good": 1,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -99,6 +99,15 @@
           "date": "2019-03-07T19:51:43Z",
           "userName": "jhheinz",
           "issueNumber": 74559,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone8,1",
+          "issues": "Literally fucks up your iphone, dont even try to download this shit.",
+          "date": "2019-04-18T05:50:51Z",
+          "userName": "SoyJochy",
+          "issueNumber": 84768,
           "arch32": false
         }
       ]
