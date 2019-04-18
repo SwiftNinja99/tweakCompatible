@@ -3889,11 +3889,11 @@
       "repository": "ARX8x's repo",
       "date": "2019-04-17T11:45:06Z",
       "outcome": {
-        "calculatedStatus": "Not working",
-        "percentage": 0,
-        "good": 0,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
+        "good": 1,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -3910,6 +3910,15 @@
           "date": "2019-04-17T11:45:06Z",
           "userName": "youngpretty",
           "issueNumber": 84662,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,3",
+          "issues": "",
+          "date": "2019-04-18T05:23:07Z",
+          "userName": "BitGrub",
+          "issueNumber": 84767,
           "arch32": false
         }
       ]
