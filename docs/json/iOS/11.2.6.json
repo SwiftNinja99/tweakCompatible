@@ -1696,10 +1696,10 @@
     {
       "id": "com.tigisoftware.appdatamanager",
       "name": "Apps Manager",
-      "latest": "1.5.0-12",
+      "latest": "1.4.2",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.tigisoftware.appdatamanager/",
-      "shortDescription": "This tool provides the way to WIPE, BACKUP, RESTORE AppData for installed Apps",
+      "shortDescription": "tool to WIPE, BACKUP, RESTORE AppData for installed Apps",
       "category": "Utilities",
       "author": "TIGI Software",
       "commercial": false,
@@ -1992,10 +1992,10 @@
     {
       "id": "ch.mdaus.artsy",
       "name": "Artsy",
-      "latest": "2.0~Beta.4",
+      "latest": "2.0~Beta.7",
       "repository": "Maxwell Dausch's Repo",
       "url": "http://cydia.saurik.com/package/ch.mdaus.artsy/",
-      "shortDescription": "An awesome MobileSubstrate tweak!",
+      "shortDescription": "Color your music stuff",
       "category": "Tweaks",
       "author": "Maxwell Dausch",
       "commercial": false,
@@ -2267,7 +2267,7 @@
     {
       "id": "me.autotouch.autotouch.ios8",
       "name": "AutoTouch",
-      "latest": "5.0.6-1",
+      "latest": "5.0.6",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/me.autotouch.autotouch.ios8/",
       "shortDescription": "Record and playback touch operations, play macro scripts automatically.",
@@ -2710,46 +2710,12 @@
       ]
     },
     {
-      "id": "com.modmyi.batterylife",
-      "name": "BatteryLife",
-      "latest": "1.6.15",
-      "repository": "ModMyi (Archive)",
-      "url": "http://cydia.saurik.com/package/com.modmyi.batterylife/",
-      "shortDescription": "BatteryLife displays useful information about your device's battery health and life.",
-      "category": "Themes (SpringBoard)",
-      "author": "rbt",
-      "commercial": false,
-      "date": "2018-07-10T16:20:42Z",
-      "versions": [
-        {
-          "tweakVersion": "1.6.15",
-          "iOSVersion": "11.2.6",
-          "repository": "ModMyi (Archive)",
-          "date": "2018-07-10T16:20:42Z",
-          "outcome": {
-            "calculatedStatus": "Not working",
-            "percentage": 0,
-            "good": 0,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.rbt.batterylife",
       "name": "BatteryLife",
-      "latest": "1.7.0",
+      "latest": "1.8.0~b23",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.rbt.batterylife/",
-      "shortDescription": "Displays useful information about battery health",
+      "shortDescription": "Displays useful information about your device's battery health [b1] Completely replaced the main app with the official App Store version. Please report ANY bugs and missing languages to batterylife1.8.x@rbtdigital.com. Thank you very much! [b2] Several fixes. [b3] Possible fix for iOS 8 crash. General bug fixes. [b4] iOS 8 bug fixes. [b5] Updated app a lot. [b6] See b5. [b7] See b6. [b8] App is now compatible with iOS 11. [b9] Bugfixes. [b10] Fix for missing app icon. [b11] Possible fix for the status bar options. [b12] Fix for b11. [b13] Bugfixes. [b14] Bugfixes. [b15] Bugfixes. [b16] Fixed settings not opening. Fixed ads not disappearing. General bugfixes. [b17] Quick crashfix. [b18] Bugfixes & updated translations. Automatically saves battery stat history without the need to open the app. [b19] Bugfixes. [b20] Fixes for iOS 9 and 10. [b21] Fixed temperature unit in app. Changed App Icon to distinguish from the App Store version. [b22] Bugfixes. Should be close to final now. [b23] Preliminary iOS 12 support",
       "category": "Utilities",
       "author": "rbt",
       "commercial": false,
@@ -2783,6 +2749,40 @@
             "calculatedStatus": "Working",
             "percentage": 100,
             "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.modmyi.batterylife",
+      "name": "BatteryLife",
+      "latest": "1.6.15",
+      "repository": "ModMyi (Archive)",
+      "url": "http://cydia.saurik.com/package/com.modmyi.batterylife/",
+      "shortDescription": "BatteryLife displays useful information about your device's battery health and life.",
+      "category": "Themes (SpringBoard)",
+      "author": "rbt",
+      "commercial": false,
+      "date": "2018-07-10T16:20:42Z",
+      "versions": [
+        {
+          "tweakVersion": "1.6.15",
+          "iOSVersion": "11.2.6",
+          "repository": "ModMyi (Archive)",
+          "date": "2018-07-10T16:20:42Z",
+          "outcome": {
+            "calculatedStatus": "Not working",
+            "percentage": 0,
+            "good": 0,
             "bad": 0,
             "total": 1,
             "arch32": {
@@ -2866,7 +2866,7 @@
     {
       "id": "com.neinzedd9.bazzi",
       "name": "Bazzi",
-      "latest": "2.0.4",
+      "latest": "2.0.5",
       "repository": "HASHBANG Productions",
       "url": "http://cydia.saurik.com/package/com.neinzedd9.bazzi/",
       "shortDescription": "The ultimate iPhone X battery icon customizer. — ###### Bazzi supports the iPhone X status bar.",
@@ -3467,10 +3467,10 @@
     {
       "id": "com.midnightchips.bettersettings",
       "name": "BetterSettings",
-      "latest": "0.1.0",
+      "latest": "0.1.1",
       "repository": "Packix",
       "url": "http://cydia.saurik.com/package/com.midnightchips.bettersettings/",
-      "shortDescription": "Settings Your Way. — Complete customization of the settings app. Allows setting custom color, cell shape, background image, text color and more.",
+      "shortDescription": "Settings your way",
       "category": "Tweaks",
       "author": "midnightchips",
       "commercial": false,
@@ -3673,40 +3673,6 @@
       ]
     },
     {
-      "id": "com.yourepo.kiiimo.bioprotect",
-      "name": "BioProtect X for iOS 11",
-      "latest": "2.3-9K",
-      "repository": "cydia.kiiimo.org",
-      "url": "http://cydia.saurik.com/package/com.yourepo.kiiimo.bioprotect/",
-      "shortDescription": "Protect your apps with Touch ID!",
-      "category": "iOS 11.3x",
-      "author": "Elias Limneos",
-      "commercial": false,
-      "date": "2018-07-08T06:59:47Z",
-      "versions": [
-        {
-          "tweakVersion": "2.3-9K",
-          "iOSVersion": "11.2.6",
-          "repository": "A Kiiimo Repositoty .🌙",
-          "date": "2018-07-08T14:31:44Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "net.limneos.bioprotectx",
       "name": "BioProtect X for iOS 11",
       "latest": "3.1-68",
@@ -3803,6 +3769,40 @@
           "iOSVersion": "11.2.6",
           "repository": "Limneos Repo",
           "date": "2019-04-05T22:13:40Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.yourepo.kiiimo.bioprotect",
+      "name": "BioProtect X for iOS 11",
+      "latest": "2.3-9K",
+      "repository": "cydia.kiiimo.org",
+      "url": "http://cydia.saurik.com/package/com.yourepo.kiiimo.bioprotect/",
+      "shortDescription": "Protect your apps with Touch ID!",
+      "category": "iOS 11.3x",
+      "author": "Elias Limneos",
+      "commercial": false,
+      "date": "2018-07-08T06:59:47Z",
+      "versions": [
+        {
+          "tweakVersion": "2.3-9K",
+          "iOSVersion": "11.2.6",
+          "repository": "A Kiiimo Repositoty .🌙",
+          "date": "2018-07-08T14:31:44Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -4160,7 +4160,7 @@
     {
       "id": "com.creaturecoding.bubbles",
       "name": "bubbles",
-      "latest": "0.3.1b",
+      "latest": "0.4.0",
       "repository": "CreatureSurvive's Repo",
       "url": "http://cydia.saurik.com/package/com.creaturecoding.bubbles/",
       "shortDescription": "Make your Messages pop!",
@@ -5343,7 +5343,7 @@
     {
       "id": "me.alfhaily.cercube",
       "name": "Cercube for YouTube",
-      "latest": "4.2.2.10",
+      "latest": "4.2.3",
       "repository": "Alfhaily APT",
       "url": "https://apt.alfhaily.me/",
       "shortDescription": "Download YouTube videos and more!",
@@ -6266,10 +6266,10 @@
     {
       "id": "com.iarrays.copic2",
       "name": "Copic 2",
-      "latest": "1.0.10",
+      "latest": "1.0.11-beta-13",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.iarrays.copic2/",
-      "shortDescription": "Display the Contact pictures everywhere on your iPhone",
+      "shortDescription": "The new Copic 2 is totally redesigned, optimized and rebuild from the scratch. Now brings the ability to display the Contact pictures everywhere on your iPhone.Integrates seamlessly with stock Contacts, FaceTime, Mail, Messages and Phone apps. The best part of this tweak is it also integrates with WhatsApp & infamous tweak Recents 2 too. Also integrates with locks screen and Notification Center. Brings ability to turn on or off monograms or show rounded or rectangular images and many more features.",
       "category": "Tweaks",
       "author": "IArrays",
       "commercial": false,
@@ -6299,7 +6299,7 @@
     {
       "id": "com.creaturecoding.covert",
       "name": "covert",
-      "latest": "0.7",
+      "latest": "1.0",
       "repository": "CreatureSurvive's Repo",
       "url": "http://cydia.saurik.com/package/com.creaturecoding.covert/",
       "shortDescription": "Hide & Mute conversations in Messages app.",
@@ -8858,10 +8858,10 @@
     {
       "id": "com.unlimapps.fbpp",
       "name": "Facebook ++",
-      "latest": "1.6r-38",
+      "latest": "1.6r-28",
       "repository": "beta.unlimapps.com",
       "url": "http://beta.unlimapps.com/",
-      "shortDescription": "The Facebook tweak that allows you to turn off read recipts, use the in-app messenger, save/download videos and much more!",
+      "shortDescription": "no read recipts, in-app messenger, save videos & more",
       "category": "Tweaks",
       "author": "UnlimApps Inc",
       "commercial": false,
@@ -11596,10 +11596,10 @@
     {
       "id": "tk.1di4r.hidedots11",
       "name": "HideDots11",
-      "latest": "0.0.1-1",
+      "latest": "1.1",
       "repository": "apt.thebigboss.org",
       "url": "http://cydia.saurik.com/package/tk.1di4r.hidedots11/",
-      "shortDescription": "Hide Ugly HomeScreen And LockScreen Dots on iOS 11",
+      "shortDescription": "Hide Ugly HomeScreen And LockScreen Dots on iOS 11 and 12",
       "category": "Tweaks",
       "author": "1di4r",
       "commercial": false,
@@ -12606,7 +12606,7 @@
     {
       "id": "com.unlimapps.gramplus",
       "name": "Instagram ++",
-      "latest": "1.8r-253",
+      "latest": "1.8r-254",
       "repository": "beta.unlimapps.com",
       "url": "http://beta.unlimapps.com/",
       "shortDescription": "Download & Copy Instagram media",
@@ -12876,10 +12876,10 @@
     {
       "id": "com.thireus.untrustedhostsblocker9",
       "name": "iOS 9/10 - Untrusted Hosts Blocker",
-      "latest": "1.7.0",
+      "latest": "1.7.1",
       "repository": "Thireus Repository",
       "url": "http://repo.thireus.com",
-      "shortDescription": "READ THE TWEAK DESCRIPTION/FAQ PAGE! Say goodbye to tracking, spies, intrusive ads and untrusted hosts. IPv4 support only.\r",
+      "shortDescription": "READ THE TWEAK DESCRIPTION/FAQ PAGE! Say goodbye to tracking, spies, intrusive ads and untrusted hosts. IPv4 support only.",
       "category": "Security",
       "author": "Thireus",
       "commercial": false,
@@ -13468,7 +13468,7 @@
     {
       "id": "com.creaturecoding.libcspreferences",
       "name": "libCSPreferences",
-      "latest": "1.0.9",
+      "latest": "1.1.1",
       "repository": "CreatureSurvive's Repo",
       "url": "http://cydia.saurik.com/package/com.creaturecoding.libcspreferences/",
       "shortDescription": "A Preference Library that doesn't suck!",
@@ -13482,39 +13482,6 @@
           "iOSVersion": "11.2.6",
           "repository": "CreatureSurvive's Repo",
           "date": "2018-07-29T22:39:27Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "com.ryleyangus.liberty",
-      "name": "Liberty",
-      "latest": "0.2.10",
-      "repository": "Ryley's Repo",
-      "url": "https://ryleyangus.com/repo/",
-      "shortDescription": "A general purpose jailbreak detection bypass patch. Use the Liberty entry in the Settings app to block (most) apps from detecting your jailbreak. Cydia Substrate can be selectively disabled, but this isn't required for many apps.",
-      "category": "Tweaks",
-      "author": "Ryley Angus",
-      "commercial": false,
-      "versions": [
-        {
-          "tweakVersion": "0.2.9",
-          "iOSVersion": "11.2.6",
-          "repository": "Ryley's Repo",
-          "date": "2018-07-15T14:00:31Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -13549,6 +13516,39 @@
           "iOSVersion": "11.2.6",
           "repository": "HackYouriPhone",
           "date": "2018-07-07T16:54:01Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.ryleyangus.liberty",
+      "name": "Liberty",
+      "latest": "0.2.10",
+      "repository": "Ryley's Repo",
+      "url": "https://ryleyangus.com/repo/",
+      "shortDescription": "A general purpose jailbreak detection bypass patch. Use the Liberty entry in the Settings app to block (most) apps from detecting your jailbreak. Cydia Substrate can be selectively disabled, but this isn't required for many apps.",
+      "category": "Tweaks",
+      "author": "Ryley Angus",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "0.2.9",
+          "iOSVersion": "11.2.6",
+          "repository": "Ryley's Repo",
+          "date": "2018-07-15T14:00:31Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -13824,22 +13824,22 @@
       ]
     },
     {
-      "id": "com.repo.xarold.com.localiapstore",
+      "id": "com.hackyouriphone.localiapstore",
       "name": "LocalIAPStore",
-      "latest": "1.5",
-      "repository": "repo.xarold.com",
-      "url": "http://cydia.saurik.com/package/com.repo.xarold.com.localiapstore/",
+      "latest": "1.4-2",
+      "repository": "HackYouriPhone",
+      "url": "http://cydia.saurik.com/package/com.hackyouriphone.localiapstore/",
       "shortDescription": "Pwns In-App purchases on iOS 5.1.1 - 7.1.X. Compatible with ARMv8 (64 Bit). Enable in settings. PRESS 'DISMISS' ON POPUP!",
-      "category": "Tweaks",
+      "category": "HYI - Tweaks",
       "author": "anondev",
       "commercial": false,
-      "date": "2018-02-28T19:15:03Z",
+      "date": "2018-03-02T03:42:40Z",
       "versions": [
         {
           "tweakVersion": "1.4-2",
           "iOSVersion": "11.2.6",
-          "repository": "Xarold Repo",
-          "date": "2018-07-09T07:18:30Z",
+          "repository": "HackYouriPhone",
+          "date": "2018-07-10T12:24:16Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -13858,22 +13858,22 @@
       ]
     },
     {
-      "id": "com.hackyouriphone.localiapstore",
+      "id": "com.repo.xarold.com.localiapstore",
       "name": "LocalIAPStore",
-      "latest": "1.4-2",
-      "repository": "HackYouriPhone",
-      "url": "http://cydia.saurik.com/package/com.hackyouriphone.localiapstore/",
+      "latest": "1.5",
+      "repository": "repo.xarold.com",
+      "url": "http://cydia.saurik.com/package/com.repo.xarold.com.localiapstore/",
       "shortDescription": "Pwns In-App purchases on iOS 5.1.1 - 7.1.X. Compatible with ARMv8 (64 Bit). Enable in settings. PRESS 'DISMISS' ON POPUP!",
-      "category": "HYI - Tweaks",
+      "category": "Tweaks",
       "author": "anondev",
       "commercial": false,
-      "date": "2018-03-02T03:42:40Z",
+      "date": "2018-02-28T19:15:03Z",
       "versions": [
         {
           "tweakVersion": "1.4-2",
           "iOSVersion": "11.2.6",
-          "repository": "HackYouriPhone",
-          "date": "2018-07-10T12:24:16Z",
+          "repository": "Xarold Repo",
+          "date": "2018-07-09T07:18:30Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -14852,10 +14852,10 @@
     {
       "id": "com.c1d3r.messageheadsxi",
       "name": "MessageHeadsXI",
-      "latest": "1.2.1-1",
+      "latest": "2.0-11",
       "repository": "C1d3r Repo",
       "url": "http://cydia.saurik.com/package/com.c1d3r.messageheadsxi/",
-      "shortDescription": "Floating chat heads for SMS, WhatsApp, and Facebook Messenger! (Supports iOS 10 - 11.x.x); In this update: UUID fix",
+      "shortDescription": "Floating chat heads from you favorite messaging apps!",
       "category": "Tweaks",
       "author": "c1d3r",
       "commercial": false,
@@ -16951,7 +16951,7 @@
     {
       "id": "me.nepeta.notifica",
       "name": "Notifica",
-      "latest": "0.1.10",
+      "latest": "0.2.7",
       "repository": "(null)",
       "url": "http://cydia.saurik.com/package/me.nepeta.notifica/",
       "shortDescription": "Notification customizer",
@@ -16965,6 +16965,26 @@
           "iOSVersion": "11.2.6",
           "repository": "Nepeta",
           "date": "2019-04-03T21:07:38Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        },
+        {
+          "tweakVersion": "0.2.7",
+          "iOSVersion": "11.2.6",
+          "repository": "Nepeta",
+          "date": "2019-04-18T20:40:14Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -17395,7 +17415,7 @@
     {
       "id": "openssh",
       "name": "OpenSSH",
-      "latest": "7.9p1",
+      "latest": "7.9p1-3",
       "repository": "Electra's iOS Utilities",
       "url": "http://cydia.saurik.com/package/openssh/",
       "shortDescription": "secure remote access between machines",
@@ -18072,7 +18092,7 @@
     {
       "id": "com.weesstt.powerdownoptions",
       "name": "PowerdownOptions",
-      "latest": "1.0",
+      "latest": "1.1.3-2+debug",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.weesstt.powerdownoptions/",
       "shortDescription": "More power down options",
@@ -18704,40 +18724,6 @@
       ]
     },
     {
-      "id": "com.subdiox.realcc",
-      "name": "RealCC",
-      "latest": "0.0.4",
-      "repository": "subdiox's Repo",
-      "url": "http://cydia.saurik.com/package/com.subdiox.realcc/",
-      "shortDescription": "Disable WiFi and Bluetooth completely!",
-      "category": "Tweaks",
-      "author": "subdiox",
-      "commercial": false,
-      "date": "2018-08-14T02:00:44Z",
-      "versions": [
-        {
-          "tweakVersion": "0.0.4",
-          "iOSVersion": "11.2.6",
-          "repository": "subdiox's Repo",
-          "date": "2019-02-11T23:39:18Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.jakeashacks.realcc",
       "name": "RealCC",
       "latest": "1.0.1",
@@ -18760,6 +18746,40 @@
             "good": 4,
             "bad": 0,
             "total": 5,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.subdiox.realcc",
+      "name": "RealCC",
+      "latest": "0.0.4",
+      "repository": "subdiox's Repo",
+      "url": "http://cydia.saurik.com/package/com.subdiox.realcc/",
+      "shortDescription": "Disable WiFi and Bluetooth completely!",
+      "category": "Tweaks",
+      "author": "subdiox",
+      "commercial": false,
+      "date": "2018-08-14T02:00:44Z",
+      "versions": [
+        {
+          "tweakVersion": "0.0.4",
+          "iOSVersion": "11.2.6",
+          "repository": "subdiox's Repo",
+          "date": "2019-02-11T23:39:18Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -19476,10 +19496,10 @@
     {
       "id": "me.alfhaily.rocket",
       "name": "Rocket for Instagram",
-      "latest": "3.3.1",
+      "latest": "3.3.5",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/me.alfhaily.rocket/",
-      "shortDescription": "posts and view stories anonymously and do much more",
+      "shortDescription": "Save posts and view stories anonymously and do much more",
       "category": "Tweaks",
       "author": "Majd Alfhaily",
       "commercial": false,
@@ -19906,7 +19926,7 @@
     {
       "id": "com.opa334.safariplus",
       "name": "Safari Plus",
-      "latest": "1.6.7",
+      "latest": "1.7~b2",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.opa334.safariplus/",
       "shortDescription": "Various enhancements to Safari!",
@@ -20411,22 +20431,22 @@
       ]
     },
     {
-      "id": "org.thebigboss.selectmoji",
+      "id": "com.cc.selectmoji",
       "name": "Selectmoji",
-      "latest": "1.0.3",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/org.thebigboss.selectmoji/",
+      "latest": "1.2-4",
+      "repository": "Packix",
+      "url": "http://cydia.saurik.com/package/com.cc.selectmoji/",
       "shortDescription": "Better frequently used emojis.",
       "category": "Tweaks",
-      "author": "cole cabral @ca13ra1",
+      "author": "cole cabral",
       "commercial": true,
-      "date": "2018-07-24T21:49:12Z",
+      "date": "2018-08-10T03:56:33Z",
       "versions": [
         {
-          "tweakVersion": "1.0.2",
+          "tweakVersion": "1.0",
           "iOSVersion": "11.2.6",
-          "repository": "BigBoss",
-          "date": "2018-08-12T09:22:31Z",
+          "repository": "Packix",
+          "date": "2018-08-13T19:29:08Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -20443,10 +20463,10 @@
           }
         },
         {
-          "tweakVersion": "1.0.3",
+          "tweakVersion": "1.2-2",
           "iOSVersion": "11.2.6",
-          "repository": "BigBoss",
-          "date": "2018-09-16T11:41:49Z",
+          "repository": "Chariz",
+          "date": "2019-01-16T17:24:05Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -20499,22 +20519,22 @@
       ]
     },
     {
-      "id": "com.cc.selectmoji",
+      "id": "org.thebigboss.selectmoji",
       "name": "Selectmoji",
-      "latest": "1.2-4",
-      "repository": "Packix",
-      "url": "http://cydia.saurik.com/package/com.cc.selectmoji/",
+      "latest": "1.0.3",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/org.thebigboss.selectmoji/",
       "shortDescription": "Better frequently used emojis.",
       "category": "Tweaks",
-      "author": "cole cabral",
+      "author": "cole cabral @ca13ra1",
       "commercial": true,
-      "date": "2018-08-10T03:56:33Z",
+      "date": "2018-07-24T21:49:12Z",
       "versions": [
         {
-          "tweakVersion": "1.0",
+          "tweakVersion": "1.0.2",
           "iOSVersion": "11.2.6",
-          "repository": "Packix",
-          "date": "2018-08-13T19:29:08Z",
+          "repository": "BigBoss",
+          "date": "2018-08-12T09:22:31Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -20531,10 +20551,10 @@
           }
         },
         {
-          "tweakVersion": "1.2-2",
+          "tweakVersion": "1.0.3",
           "iOSVersion": "11.2.6",
-          "repository": "Chariz",
-          "date": "2019-01-16T17:24:05Z",
+          "repository": "BigBoss",
+          "date": "2018-09-16T11:41:49Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -20914,7 +20934,7 @@
     {
       "id": "org.coolstar.sileo",
       "name": "Sileo (Beta)",
-      "latest": "0.8b6",
+      "latest": "0.8b10",
       "repository": "Electra's iOS Utilities",
       "url": "http://cydia.saurik.com/package/org.coolstar.sileo/",
       "shortDescription": "A proper APT client for iOS 11 and higher. (View this package in Sileo to see the full depiction)",
@@ -21034,10 +21054,10 @@
     {
       "id": "com.squ1dd13.sizefinder",
       "name": "SizeFinder",
-      "latest": "2.0",
+      "latest": "1.0",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.squ1dd13.sizefinder/",
-      "shortDescription": "Add app size to delete button",
+      "shortDescription": "Show app size instead of delete button",
       "category": "Tweaks",
       "author": "Squ1dd13",
       "commercial": false,
@@ -22429,7 +22449,7 @@
     {
       "id": "org.thebigboss.swipeformore",
       "name": "SwipeForMore",
-      "latest": "1.1.9",
+      "latest": "1.1.7",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/org.thebigboss.swipeformore/",
       "shortDescription": "Manage packages via swipe.",
@@ -22616,7 +22636,7 @@
     {
       "id": "xyz.xninja.systeminfo",
       "name": "System Info",
-      "latest": "2.2.0-19+debug",
+      "latest": "2.2.1-9+debug",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/xyz.xninja.systeminfo/",
       "shortDescription": "System information in Settings app > General > About, and other sections. Set boot-nonce, save shsh, battery info etc",
@@ -23797,10 +23817,10 @@
     {
       "id": "uikittools",
       "name": "UIKit Tools",
-      "latest": "1.1.13-5",
+      "latest": "2.0.1",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/uikittools/",
-      "shortDescription": "UIKit/GraphicsServices command line access",
+      "shortDescription": "Command line access for UIKit/LaunchServices/CoreServices",
       "category": "Utilities",
       "author": "Jay Freeman (saurik)",
       "commercial": false,
@@ -23865,7 +23885,7 @@
     {
       "id": "jailbreak-resources",
       "name": "Unc0ver Jailbreak Resources",
-      "latest": "1.0~b11.5",
+      "latest": "1.0~b12.5",
       "repository": "(null)",
       "url": "http://cydia.saurik.com/package/jailbreak-resources/",
       "shortDescription": "Resources used by KPPLess Jailbreaks",
@@ -24790,7 +24810,7 @@
     {
       "id": "com.f0u4d.watusitools",
       "name": "WatusiTools",
-      "latest": "2.0.6",
+      "latest": "2.0.9",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.f0u4d.watusitools/",
       "shortDescription": "Library for Watusi and WhatsApp tweaks",
