@@ -427,11 +427,11 @@
       "repository": "subdiox's Repo",
       "date": "2019-02-23T11:47:43Z",
       "outcome": {
-        "calculatedStatus": "Not working",
-        "percentage": 33,
-        "good": 1,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
+        "good": 2,
         "bad": 0,
-        "total": 3,
+        "total": 4,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -466,6 +466,15 @@
           "date": "2019-04-17T03:28:01Z",
           "userName": "Frenchy7513",
           "issueNumber": 84639,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,2",
+          "issues": "Works totally fine for me. It’s just not intuitive ",
+          "date": "2019-04-18T04:48:45Z",
+          "userName": "thorieo",
+          "issueNumber": 84765,
           "arch32": false
         }
       ]
