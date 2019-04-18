@@ -1,7 +1,7 @@
 {
   "id": "com.c1d3r.mhwasupport",
   "name": "WhatsApp Support",
-  "latest": "1.0-1",
+  "latest": "1.0-1-2+debug",
   "repository": "c1d3r's repo",
   "url": "http://cydia.saurik.com/package/com.c1d3r.mhwasupport/",
   "shortDescription": "WhatsApp Support for ChatHeads and MessageHub!",
@@ -77,6 +77,37 @@
           "date": "2019-04-16T22:49:10Z",
           "userName": "inphii",
           "issueNumber": 84613,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0-1-2+debug",
+      "iOSVersion": "12.0.1",
+      "repository": "c1d3r's repo",
+      "date": "2019-04-18T11:26:17Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,5",
+          "issues": "",
+          "date": "2019-04-18T11:26:17Z",
+          "userName": "ratpackbn",
+          "issueNumber": 84793,
           "arch32": false
         }
       ]
