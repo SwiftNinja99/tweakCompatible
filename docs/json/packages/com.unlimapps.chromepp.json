@@ -105,11 +105,11 @@
       "repository": "beta.unlimapps.com",
       "date": "2019-03-08T05:35:16Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 100,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
         "good": 1,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -126,6 +126,15 @@
           "date": "2019-03-08T05:35:16Z",
           "userName": "InbraakSystem",
           "issueNumber": 74742,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone7,2",
+          "issues": "",
+          "date": "2019-04-19T08:43:52Z",
+          "userName": "davidgrigoryan163",
+          "issueNumber": 84875,
           "arch32": false
         }
       ]
