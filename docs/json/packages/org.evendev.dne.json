@@ -16,11 +16,11 @@
       "repository": "EvenDev",
       "date": "2019-04-15T14:44:15Z",
       "outcome": {
-        "calculatedStatus": "Not working",
-        "percentage": 0,
-        "good": 0,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
+        "good": 1,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -37,6 +37,15 @@
           "date": "2019-04-15T14:44:15Z",
           "userName": "iamMseyed",
           "issueNumber": 84472,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,4",
+          "issues": "",
+          "date": "2019-04-19T13:15:53Z",
+          "userName": "FrostyNL",
+          "issueNumber": 84886,
           "arch32": false
         }
       ]
