@@ -1,7 +1,7 @@
 {
   "id": "org.evendev.cydiaxii",
   "name": "CydiaXI",
-  "latest": "2.0",
+  "latest": "2.0.2",
   "repository": "EvenDev",
   "url": "http://cydia.saurik.com/package/org.evendev.cydiaxii/",
   "shortDescription": "Cydia, now with more iOS 11.",
@@ -170,6 +170,37 @@
           "date": "2019-03-29T03:10:35Z",
           "userName": "Goldstriker208",
           "issueNumber": 81474,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0.2",
+      "iOSVersion": "11.3.1",
+      "repository": "EvenDev",
+      "date": "2019-04-19T13:17:52Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,4",
+          "issues": "",
+          "date": "2019-04-19T13:17:52Z",
+          "userName": "FrostyNL",
+          "issueNumber": 84891,
           "arch32": false
         }
       ]
