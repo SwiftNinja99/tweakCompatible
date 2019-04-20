@@ -1,7 +1,7 @@
 {
   "id": "jailbreak-resources",
   "name": "Unc0ver Jailbreak Resources",
-  "latest": "1.0~b13.5",
+  "latest": "1.0~b12.5",
   "repository": "(null)",
   "url": "http://cydia.saurik.com/package/jailbreak-resources/",
   "shortDescription": "Resources used by KPPLess Jailbreaks",
@@ -1751,9 +1751,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 2,
+        "good": 3,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1779,6 +1779,15 @@
           "date": "2019-04-16T15:07:26Z",
           "userName": "fillupontacos",
           "issueNumber": 84562,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,5",
+          "issues": "",
+          "date": "2019-04-20T10:46:11Z",
+          "userName": "MattieThurlow96",
+          "issueNumber": 84986,
           "arch32": false
         }
       ]
