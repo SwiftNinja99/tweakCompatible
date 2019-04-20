@@ -1,10 +1,10 @@
 {
   "id": "ws.hbang.common",
   "name": "Cephei",
-  "latest": "1.12",
+  "latest": "1.13",
   "repository": "HASHBANG Productions",
   "url": "http://cydia.hbang.ws/",
-  "shortDescription": "Support library for tweak settings",
+  "shortDescription": "Support library for tweaks",
   "category": "Development",
   "author": "HASHBANG Productions",
   "commercial": false,
@@ -892,6 +892,37 @@
           "date": "2019-03-05T19:10:19Z",
           "userName": "GusToughSon",
           "issueNumber": 73211,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.13",
+      "iOSVersion": "12.1.1",
+      "repository": "Chariz",
+      "date": "2019-04-20T18:11:45Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "",
+          "date": "2019-04-20T18:11:45Z",
+          "userName": "RCodispoti",
+          "issueNumber": 85006,
           "arch32": false
         }
       ]
