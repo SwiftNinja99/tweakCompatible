@@ -11194,6 +11194,40 @@
       ]
     },
     {
+      "id": "nano",
+      "name": "nano",
+      "latest": "2.2.6-6",
+      "repository": "Electra's iOS Utilities",
+      "url": "http://cydia.saurik.com/package/nano/",
+      "shortDescription": "completely free, modern clone of Pico",
+      "category": "Text Editors",
+      "author": "(null)",
+      "commercial": false,
+      "date": "2018-03-03T04:55:57Z",
+      "versions": [
+        {
+          "tweakVersion": "2.2.6-6",
+          "iOSVersion": "10.1.1",
+          "repository": "Cydia/Telesphoreo",
+          "date": "2019-04-20T20:21:30Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "me.qusic.networklist",
       "name": "NetworkList",
       "latest": "0.4.1",
@@ -18420,38 +18454,6 @@
       ]
     },
     {
-      "id": "com.unlimapps.ytpp",
-      "name": "YouTube ++",
-      "latest": "1.4r-62",
-      "repository": "beta.unlimapps.com",
-      "url": "https://beta.unlimapps.com/",
-      "shortDescription": "Download all YouTube Videos! Continue background playback and much more!!!",
-      "category": "Tweaks",
-      "author": "UnlimApps Inc",
-      "commercial": false,
-      "versions": [
-        {
-          "tweakVersion": "1.4r-91",
-          "iOSVersion": "10.1.1",
-          "repository": "beta.unlimapps.com",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 2,
-            "bad": 0,
-            "total": 2,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.hackyouriphone.ytpp",
       "name": "YouTube ++",
       "latest": "1.4r-76",
@@ -18474,6 +18476,38 @@
             "good": 1,
             "bad": 0,
             "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.unlimapps.ytpp",
+      "name": "YouTube ++",
+      "latest": "1.4r-62",
+      "repository": "beta.unlimapps.com",
+      "url": "https://beta.unlimapps.com/",
+      "shortDescription": "Download all YouTube Videos! Continue background playback and much more!!!",
+      "category": "Tweaks",
+      "author": "UnlimApps Inc",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "1.4r-91",
+          "iOSVersion": "10.1.1",
+          "repository": "beta.unlimapps.com",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 2,
+            "bad": 0,
+            "total": 2,
             "arch32": {
               "total": 0,
               "good": 0,
