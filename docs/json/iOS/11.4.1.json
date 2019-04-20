@@ -7826,22 +7826,22 @@
       ]
     },
     {
-      "id": "ru.domo.cocoatop64",
+      "id": "com.yourepo.dizzy.cocoatop",
       "name": "CocoaTop",
-      "latest": "2.0.2-1+debug",
-      "repository": "(null)",
-      "url": "http://cydia.saurik.com/package/ru.domo.cocoatop64/",
+      "latest": "2.0.2.1",
+      "repository": "Dizzy Source",
+      "url": "http://cydia.saurik.com/package/com.yourepo.dizzy.cocoatop/",
       "shortDescription": "Process Viewer for iOS GUI (64-bit)",
       "category": "Utilities",
       "author": "Domo",
       "commercial": false,
-      "date": "2018-03-13T11:14:04Z",
+      "date": "2019-03-31T12:25:04Z",
       "versions": [
         {
-          "tweakVersion": "2.0.2-1+debug",
+          "tweakVersion": "2.0.2.1",
           "iOSVersion": "11.4.1",
-          "repository": "(null)",
-          "date": "2019-01-31T20:02:20Z",
+          "repository": "Dizzy Source",
+          "date": "2019-03-31T12:31:39Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -7893,22 +7893,22 @@
       ]
     },
     {
-      "id": "com.yourepo.dizzy.cocoatop",
+      "id": "ru.domo.cocoatop64",
       "name": "CocoaTop",
-      "latest": "2.0.2.1",
-      "repository": "Dizzy Source",
-      "url": "http://cydia.saurik.com/package/com.yourepo.dizzy.cocoatop/",
+      "latest": "2.0.2-1+debug",
+      "repository": "(null)",
+      "url": "http://cydia.saurik.com/package/ru.domo.cocoatop64/",
       "shortDescription": "Process Viewer for iOS GUI (64-bit)",
       "category": "Utilities",
       "author": "Domo",
       "commercial": false,
-      "date": "2019-03-31T12:25:04Z",
+      "date": "2018-03-13T11:14:04Z",
       "versions": [
         {
-          "tweakVersion": "2.0.2.1",
+          "tweakVersion": "2.0.2-1+debug",
           "iOSVersion": "11.4.1",
-          "repository": "Dizzy Source",
-          "date": "2019-03-31T12:31:39Z",
+          "repository": "(null)",
+          "date": "2019-01-31T20:02:20Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -16074,6 +16074,40 @@
       ]
     },
     {
+      "id": "com.junesiphone.hidestatusbars",
+      "name": "Hide Statusbars",
+      "latest": "0.2",
+      "repository": "junesiphone.com",
+      "url": "http://cydia.saurik.com/package/com.junesiphone.hidestatusbars/",
+      "shortDescription": "Hide LS and SB statusbars iOS8 - iOS11",
+      "category": "Addons (Tweaks)",
+      "author": "JunesiPhone",
+      "commercial": false,
+      "date": "2018-03-03T00:32:09Z",
+      "versions": [
+        {
+          "tweakVersion": "0.2",
+          "iOSVersion": "11.4.1",
+          "repository": "junesiphone.com",
+          "date": "2019-04-20T03:15:43Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.rain.hideappmenu",
       "name": "HideAppMenu",
       "latest": "1.0-1",
@@ -18143,40 +18177,6 @@
       ]
     },
     {
-      "id": "com.hackyouriphone.jellyfish",
-      "name": "Jellyfish",
-      "latest": "1.0.3k",
-      "repository": "(null)",
-      "url": "http://cydia.saurik.com/package/com.hackyouriphone.jellyfish/",
-      "shortDescription": "Modern Lockscreen",
-      "category": "HYI - Tweaks",
-      "author": "Justin Proulx and AppleBetas",
-      "commercial": false,
-      "date": "2019-03-26T04:41:05Z",
-      "versions": [
-        {
-          "tweakVersion": "1.0.3k",
-          "iOSVersion": "11.4.1",
-          "repository": "(null)",
-          "date": "2019-03-26T04:41:05Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "xyz.royalapps.jellyfish",
       "name": "Jellyfish",
       "latest": "1.1.2",
@@ -18213,6 +18213,40 @@
           "iOSVersion": "11.4.1",
           "repository": "Dynastic Repo",
           "date": "2019-03-25T17:38:39Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.hackyouriphone.jellyfish",
+      "name": "Jellyfish",
+      "latest": "1.0.3k",
+      "repository": "(null)",
+      "url": "http://cydia.saurik.com/package/com.hackyouriphone.jellyfish/",
+      "shortDescription": "Modern Lockscreen",
+      "category": "HYI - Tweaks",
+      "author": "Justin Proulx and AppleBetas",
+      "commercial": false,
+      "date": "2019-03-26T04:41:05Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0.3k",
+          "iOSVersion": "11.4.1",
+          "repository": "(null)",
+          "date": "2019-03-26T04:41:05Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -32550,22 +32584,22 @@
       ]
     },
     {
-      "id": "ch.mdaus.sylph",
+      "id": "com.repo.xarold.com.iomdaussylph",
       "name": "Sylph",
-      "latest": "1.1~Beta.1",
+      "latest": "0.0.1.4-1+debug",
       "repository": "(null)",
-      "url": "http://cydia.saurik.com/package/ch.mdaus.sylph/",
-      "shortDescription": "Customize your LS music player",
+      "url": "http://cydia.saurik.com/package/com.repo.xarold.com.iomdaussylph/",
+      "shortDescription": "Mini Media-player in LS",
       "category": "Tweaks",
       "author": "Max Dausch",
       "commercial": false,
-      "date": "2018-07-30T08:56:50Z",
+      "date": "2019-04-13T18:43:24Z",
       "versions": [
         {
-          "tweakVersion": "1.1~Beta.1",
+          "tweakVersion": "0.0.1.4-1+debug",
           "iOSVersion": "11.4.1",
-          "repository": "Maxwell Dausch's Repo",
-          "date": "2019-04-14T11:41:09Z",
+          "repository": "(null)",
+          "date": "2019-04-13T18:43:24Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -32584,22 +32618,22 @@
       ]
     },
     {
-      "id": "com.repo.xarold.com.iomdaussylph",
+      "id": "ch.mdaus.sylph",
       "name": "Sylph",
-      "latest": "0.0.1.4-1+debug",
+      "latest": "1.1~Beta.1",
       "repository": "(null)",
-      "url": "http://cydia.saurik.com/package/com.repo.xarold.com.iomdaussylph/",
-      "shortDescription": "Mini Media-player in LS",
+      "url": "http://cydia.saurik.com/package/ch.mdaus.sylph/",
+      "shortDescription": "Customize your LS music player",
       "category": "Tweaks",
       "author": "Max Dausch",
       "commercial": false,
-      "date": "2019-04-13T18:43:24Z",
+      "date": "2018-07-30T08:56:50Z",
       "versions": [
         {
-          "tweakVersion": "0.0.1.4-1+debug",
+          "tweakVersion": "1.1~Beta.1",
           "iOSVersion": "11.4.1",
-          "repository": "(null)",
-          "date": "2019-04-13T18:43:24Z",
+          "repository": "Maxwell Dausch's Repo",
+          "date": "2019-04-14T11:41:09Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -36781,40 +36815,6 @@
       ]
     },
     {
-      "id": "xz",
-      "name": "XZ Utils",
-      "latest": "5.2.4-4",
-      "repository": "Bingner/Elucubratus",
-      "url": "http://cydia.saurik.com/package/xz/",
-      "shortDescription": "slower, but better, compression algorithm",
-      "category": "Archiving",
-      "author": "(null)",
-      "commercial": false,
-      "date": "2018-10-24T08:16:57Z",
-      "versions": [
-        {
-          "tweakVersion": "5.2.4-4",
-          "iOSVersion": "11.4.1",
-          "repository": "Bingner/Elucubratus",
-          "date": "2019-02-02T20:10:31Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "lzma",
       "name": "XZ Utils",
       "latest": "5.2.4-1",
@@ -36851,6 +36851,40 @@
           "iOSVersion": "11.4.1",
           "repository": "Bingner/Elucubratus",
           "date": "2019-02-02T20:09:44Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "xz",
+      "name": "XZ Utils",
+      "latest": "5.2.4-4",
+      "repository": "Bingner/Elucubratus",
+      "url": "http://cydia.saurik.com/package/xz/",
+      "shortDescription": "slower, but better, compression algorithm",
+      "category": "Archiving",
+      "author": "(null)",
+      "commercial": false,
+      "date": "2018-10-24T08:16:57Z",
+      "versions": [
+        {
+          "tweakVersion": "5.2.4-4",
+          "iOSVersion": "11.4.1",
+          "repository": "Bingner/Elucubratus",
+          "date": "2019-02-02T20:10:31Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
