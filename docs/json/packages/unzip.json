@@ -1,7 +1,7 @@
 {
   "id": "unzip",
   "name": "unzip",
-  "latest": "6.0-1",
+  "latest": "5.52-6",
   "repository": "Cydia/Telesphoreo",
   "url": "http://cydia.saurik.com/package/unzip/",
   "shortDescription": "de-compesses files in zip format",
@@ -385,16 +385,16 @@
       "date": "2018-08-12T06:08:28Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 50,
-        "good": 1,
+        "percentage": 66,
+        "good": 2,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
-          "total": 1,
-          "good": 0,
+          "total": 2,
+          "good": 1,
           "bad": 0,
-          "percentage": 0,
-          "calculatedStatus": "Not working"
+          "percentage": 50,
+          "calculatedStatus": "Likely working"
         }
       },
       "users": [
@@ -414,6 +414,15 @@
           "date": "2018-08-18T11:47:05Z",
           "userName": "AysbergICE",
           "issueNumber": 44808,
+          "arch32": true
+        },
+        {
+          "status": "working",
+          "device": "iPhone5,1",
+          "issues": "",
+          "date": "2019-04-20T02:37:03Z",
+          "userName": "bernaction",
+          "issueNumber": 84951,
           "arch32": true
         }
       ]
