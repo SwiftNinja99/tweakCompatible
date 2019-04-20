@@ -1,7 +1,7 @@
 {
   "id": "ga.jakeashacks.anemoneinstaller",
   "name": "Anemone 3.0 for unc0ver",
-  "latest": "1.0.1",
+  "latest": "1.0",
   "repository": "Jakeashacks",
   "url": "http://cydia.saurik.com/package/ga.jakeashacks.anemoneinstaller/",
   "shortDescription": "Anemone 3.0 for unc0ver!",
@@ -282,6 +282,37 @@
           "date": "2019-04-07T10:38:16Z",
           "userName": "JonasMock",
           "issueNumber": 83201,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0",
+      "iOSVersion": "12.1.1",
+      "repository": "(null)",
+      "date": "2019-04-20T05:32:10Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone7,2",
+          "issues": "God",
+          "date": "2019-04-20T05:32:10Z",
+          "userName": "yuosaf01",
+          "issueNumber": 84970,
           "arch32": false
         }
       ]
