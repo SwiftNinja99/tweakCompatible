@@ -1,7 +1,7 @@
 {
   "id": "com.karimo299.leavemealone",
   "name": "LeaveMeAlone",
-  "latest": "2.1.0",
+  "latest": "2.2.0",
   "repository": "Kaurux",
   "url": "http://cydia.saurik.com/package/com.karimo299.leavemealone/",
   "shortDescription": "Adds the dnd icon under the date, and removes the annoying dnd banner on iOS 12",
@@ -525,6 +525,37 @@
           "date": "2019-04-18T18:06:24Z",
           "userName": "Foxsauce",
           "issueNumber": 84829,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.2.0",
+      "iOSVersion": "12.1.1",
+      "repository": "Packix",
+      "date": "2019-04-21T15:09:36Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,2",
+          "issues": "",
+          "date": "2019-04-21T15:09:36Z",
+          "userName": "TC-Checker",
+          "issueNumber": 85100,
           "arch32": false
         }
       ]
