@@ -1,7 +1,7 @@
 {
   "id": "com.kaneb.kbpreferences",
   "name": "KBPreferences",
-  "latest": "0.0.5",
+  "latest": "0.0.6",
   "repository": "Packix",
   "url": "http://cydia.saurik.com/package/com.kaneb.kbpreferences/",
   "shortDescription": "Kane B's preferences framework",
@@ -223,6 +223,37 @@
           "date": "2019-04-13T10:32:03Z",
           "userName": "atifchy",
           "issueNumber": 84091,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.0.6",
+      "iOSVersion": "12.1.1",
+      "repository": "Packix",
+      "date": "2019-04-21T15:09:57Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,2",
+          "issues": "",
+          "date": "2019-04-21T15:09:57Z",
+          "userName": "TC-Checker",
+          "issueNumber": 85101,
           "arch32": false
         }
       ]
