@@ -3960,11 +3960,11 @@
       "repository": "ARX8x's repo",
       "date": "2019-04-18T00:48:41Z",
       "outcome": {
-        "calculatedStatus": "Not working",
-        "percentage": 0,
-        "good": 0,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
+        "good": 1,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -3981,6 +3981,15 @@
           "date": "2019-04-18T00:48:41Z",
           "userName": "andrearug",
           "issueNumber": 84760,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-04-21T11:42:12Z",
+          "userName": "a100900900",
+          "issueNumber": 85090,
           "arch32": false
         }
       ]
