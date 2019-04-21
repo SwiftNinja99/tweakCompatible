@@ -1,10 +1,10 @@
 {
   "id": "ca.ndoizo.bolders",
   "name": "Bolders",
-  "latest": "1.1.1-1",
+  "latest": "1.2",
   "repository": "BigBoss",
   "url": "http://cydia.saurik.com/package/ca.ndoizo.bolders/",
-  "shortDescription": "Bigger bolder folders",
+  "shortDescription": "Bigger bolder folders!",
   "category": "Tweaks",
   "author": "candoizo",
   "commercial": false,
@@ -2168,6 +2168,37 @@
           "date": "2019-04-13T21:09:38Z",
           "userName": "Sekono1997",
           "issueNumber": 84276,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.2",
+      "iOSVersion": "12.1.1",
+      "repository": "candoizo's repo",
+      "date": "2019-04-21T14:52:00Z",
+      "outcome": {
+        "calculatedStatus": "Not working",
+        "percentage": 0,
+        "good": 0,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPad5,3",
+          "issues": "Blank folders, no icons",
+          "date": "2019-04-21T14:52:00Z",
+          "userName": "Charl4",
+          "issueNumber": 85098,
           "arch32": false
         }
       ]
