@@ -414,10 +414,10 @@
           "date": "2019-02-23T07:50:31Z",
           "outcome": {
             "calculatedStatus": "Working",
-            "percentage": 80,
-            "good": 4,
+            "percentage": 83,
+            "good": 5,
             "bad": 0,
-            "total": 5,
+            "total": 6,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -1031,6 +1031,40 @@
       ]
     },
     {
+      "id": "com.adamseiter.animationbefast",
+      "name": "AnimationsBeFast",
+      "latest": "1.4.1",
+      "repository": "eXqusic's Repo",
+      "url": "http://cydia.saurik.com/package/com.adamseiter.animationbefast/",
+      "shortDescription": "Speeds up animations",
+      "category": "Tweaks",
+      "author": "Adam Seiter",
+      "commercial": false,
+      "date": "2018-07-17T09:43:18Z",
+      "versions": [
+        {
+          "tweakVersion": "1.4.1",
+          "iOSVersion": "12.0",
+          "repository": "(null)",
+          "date": "2019-02-27T15:13:46Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.adamseiter.animationsbefast",
       "name": "AnimationsBeFast",
       "latest": "1.4.5",
@@ -1087,40 +1121,6 @@
           "iOSVersion": "12.0",
           "repository": "eXqusic's Repo",
           "date": "2019-03-06T02:39:58Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "com.adamseiter.animationbefast",
-      "name": "AnimationsBeFast",
-      "latest": "1.4.1",
-      "repository": "eXqusic's Repo",
-      "url": "http://cydia.saurik.com/package/com.adamseiter.animationbefast/",
-      "shortDescription": "Speeds up animations",
-      "category": "Tweaks",
-      "author": "Adam Seiter",
-      "commercial": false,
-      "date": "2018-07-17T09:43:18Z",
-      "versions": [
-        {
-          "tweakVersion": "1.4.1",
-          "iOSVersion": "12.0",
-          "repository": "(null)",
-          "date": "2019-02-27T15:13:46Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -1691,10 +1691,10 @@
     {
       "id": "com.tigisoftware.appdatamanager",
       "name": "Apps Manager",
-      "latest": "1.4.2",
+      "latest": "1.5.0-12",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.tigisoftware.appdatamanager/",
-      "shortDescription": "tool to WIPE, BACKUP, RESTORE AppData for installed Apps",
+      "shortDescription": "This tool provides the way to WIPE, BACKUP, RESTORE AppData for installed Apps",
       "category": "Utilities",
       "author": "TIGI Software",
       "commercial": false,
@@ -4567,10 +4567,10 @@
     {
       "id": "ca.ndoizo.bolders",
       "name": "Bolders",
-      "latest": "1.1.1-1",
+      "latest": "1.2",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/ca.ndoizo.bolders/",
-      "shortDescription": "Bigger bolder folders",
+      "shortDescription": "Bigger bolder folders!",
       "category": "Tweaks",
       "author": "candoizo",
       "commercial": false,
@@ -9269,6 +9269,40 @@
       ]
     },
     {
+      "id": "com.yourepo.cydiaxistyle.cydiaxistyle20",
+      "name": "CydiaXIStyle 2.0",
+      "latest": "2.0",
+      "repository": "cydiaxistyle Source - YouRepo",
+      "url": "http://cydia.saurik.com/package/com.yourepo.cydiaxistyle.cydiaxistyle20/",
+      "shortDescription": "iOS 11 and 12 style cydia home page",
+      "category": "Tweaks",
+      "author": "CydiaXIStyle.fun",
+      "commercial": false,
+      "date": "2019-02-27T16:46:01Z",
+      "versions": [
+        {
+          "tweakVersion": "2.0",
+          "iOSVersion": "12.0",
+          "repository": "cydiaxistyle Source - YouRepo",
+          "date": "2019-03-05T04:32:53Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.iosnjb.cydiaxistyle2",
       "name": "CydiaXIStyle 2.0",
       "latest": "2.0.6",
@@ -9345,40 +9379,6 @@
           "iOSVersion": "12.0",
           "repository": "Packix",
           "date": "2019-04-03T22:48:03Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "com.yourepo.cydiaxistyle.cydiaxistyle20",
-      "name": "CydiaXIStyle 2.0",
-      "latest": "2.0",
-      "repository": "cydiaxistyle Source - YouRepo",
-      "url": "http://cydia.saurik.com/package/com.yourepo.cydiaxistyle.cydiaxistyle20/",
-      "shortDescription": "iOS 11 and 12 style cydia home page",
-      "category": "Tweaks",
-      "author": "CydiaXIStyle.fun",
-      "commercial": false,
-      "date": "2019-02-27T16:46:01Z",
-      "versions": [
-        {
-          "tweakVersion": "2.0",
-          "iOSVersion": "12.0",
-          "repository": "cydiaxistyle Source - YouRepo",
-          "date": "2019-03-05T04:32:53Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -10757,40 +10757,6 @@
       ]
     },
     {
-      "id": "com.ahmedbafkir.dleasy",
-      "name": "DLEasy",
-      "latest": "1.5",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/com.ahmedbafkir.dleasy/",
-      "shortDescription": "Download images & videos from social apps easily!",
-      "category": "Tweaks",
-      "author": "Ahmed Bafkir",
-      "commercial": false,
-      "date": "2019-01-23T22:07:44Z",
-      "versions": [
-        {
-          "tweakVersion": "1.5",
-          "iOSVersion": "12.0",
-          "repository": "BigBoss",
-          "date": "2019-03-21T09:25:47Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 2,
-            "bad": 0,
-            "total": 2,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.yourepo.ahmedbafkir.dleasy",
       "name": "DLEasy",
       "latest": "1.5",
@@ -10813,6 +10779,40 @@
             "good": 1,
             "bad": 0,
             "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.ahmedbafkir.dleasy",
+      "name": "DLEasy",
+      "latest": "1.5",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.ahmedbafkir.dleasy/",
+      "shortDescription": "Download images & videos from social apps easily!",
+      "category": "Tweaks",
+      "author": "Ahmed Bafkir",
+      "commercial": false,
+      "date": "2019-01-23T22:07:44Z",
+      "versions": [
+        {
+          "tweakVersion": "1.5",
+          "iOSVersion": "12.0",
+          "repository": "BigBoss",
+          "date": "2019-03-21T09:25:47Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 2,
+            "bad": 0,
+            "total": 2,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -16969,7 +16969,7 @@
     {
       "id": "com.kaneb.kbpreferences",
       "name": "KBPreferences",
-      "latest": "0.0.5",
+      "latest": "0.0.6",
       "repository": "Packix",
       "url": "http://cydia.saurik.com/package/com.kaneb.kbpreferences/",
       "shortDescription": "Kane B's preferences framework",
@@ -17600,7 +17600,7 @@
     {
       "id": "com.karimo299.leavemealone",
       "name": "LeaveMeAlone",
-      "latest": "2.1.0",
+      "latest": "2.2.0",
       "repository": "Kaurux",
       "url": "http://cydia.saurik.com/package/com.karimo299.leavemealone/",
       "shortDescription": "Adds the dnd icon under the date, and removes the annoying dnd banner on iOS 12",
@@ -21999,7 +21999,7 @@
     {
       "id": "com.antique.ncgrabberinfo",
       "name": "NCGrabberInfo",
-      "latest": "0.0.7",
+      "latest": "0.0.8",
       "repository": "Packix",
       "url": "http://cydia.saurik.com/package/com.antique.ncgrabberinfo/",
       "shortDescription": "Current Time and Battery Percentage in the Notification Centre Grabber!",
@@ -26649,6 +26649,40 @@
       ]
     },
     {
+      "id": "com.tqm-mos.reprovision",
+      "name": "ReProvision",
+      "latest": "0.4",
+      "repository": "TQM-Mos™︵⁹² ",
+      "url": "http://cydia.saurik.com/package/com.tqm-mos.reprovision/",
+      "shortDescription": "Re-sign applications on your device",
+      "category": "System",
+      "author": "Matt Clarke",
+      "commercial": false,
+      "date": "2019-02-25T16:10:31Z",
+      "versions": [
+        {
+          "tweakVersion": "0.4",
+          "iOSVersion": "12.0",
+          "repository": "TQM-Mos™︵⁹² ",
+          "date": "2019-02-25T16:10:31Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.matchstic.reprovision",
       "name": "ReProvision",
       "latest": "0.4.2",
@@ -26711,40 +26745,6 @@
             "good": 2,
             "bad": 0,
             "total": 2,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "com.tqm-mos.reprovision",
-      "name": "ReProvision",
-      "latest": "0.4",
-      "repository": "TQM-Mos™︵⁹² ",
-      "url": "http://cydia.saurik.com/package/com.tqm-mos.reprovision/",
-      "shortDescription": "Re-sign applications on your device",
-      "category": "System",
-      "author": "Matt Clarke",
-      "commercial": false,
-      "date": "2019-02-25T16:10:31Z",
-      "versions": [
-        {
-          "tweakVersion": "0.4",
-          "iOSVersion": "12.0",
-          "repository": "TQM-Mos™︵⁹² ",
-          "date": "2019-02-25T16:10:31Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
             "arch32": {
               "total": 0,
               "good": 0,
