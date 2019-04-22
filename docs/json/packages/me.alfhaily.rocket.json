@@ -5805,11 +5805,11 @@
       "repository": "Alfhaily APT",
       "date": "2019-04-13T17:00:40Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 100,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
         "good": 1,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -5826,6 +5826,15 @@
           "date": "2019-04-13T17:00:40Z",
           "userName": "LudnicaKiller",
           "issueNumber": 84230,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,3",
+          "issues": "No stories in Grid view (even with option turned on)",
+          "date": "2019-04-22T19:36:19Z",
+          "userName": "chriscegz",
+          "issueNumber": 85249,
           "arch32": false
         }
       ]
