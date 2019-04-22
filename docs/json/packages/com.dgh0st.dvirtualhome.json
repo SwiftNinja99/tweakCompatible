@@ -1,7 +1,7 @@
 {
   "id": "com.dgh0st.dvirtualhome",
   "name": "DVirtualHome",
-  "latest": "0.0.3-2",
+  "latest": "0.0.6",
   "repository": "DGh0st",
   "url": "http://cydia.saurik.com/package/com.dgh0st.dvirtualhome/",
   "shortDescription": "My attempt at making virtual home iOS 10 compatible.",
@@ -180,6 +180,37 @@
           "date": "2019-02-27T11:19:30Z",
           "userName": "toxicoman666",
           "issueNumber": 68540,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.0.6",
+      "iOSVersion": "12.1.2",
+      "repository": "DGh0st",
+      "date": "2019-04-22T06:11:11Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,2",
+          "issues": "Not tried wake feature rest others features fine",
+          "date": "2019-04-22T06:11:11Z",
+          "userName": "anonypublic",
+          "issueNumber": 85166,
           "arch32": false
         }
       ]
