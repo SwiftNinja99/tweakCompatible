@@ -2825,11 +2825,11 @@
       "repository": "RBT Digital Beta",
       "date": "2019-04-22T17:04:16Z",
       "outcome": {
-        "calculatedStatus": "Not working",
-        "percentage": 0,
-        "good": 0,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
+        "good": 1,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -2846,6 +2846,15 @@
           "date": "2019-04-22T17:04:16Z",
           "userName": "i-Mobilka",
           "issueNumber": 85233,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-04-22T17:56:35Z",
+          "userName": "rozzimann96",
+          "issueNumber": 85239,
           "arch32": false
         }
       ]
