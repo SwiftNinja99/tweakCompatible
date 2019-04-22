@@ -274,7 +274,7 @@
     {
       "id": "libactivator",
       "name": "Activator",
-      "latest": "1.9.13~beta3",
+      "latest": "1.9.13~beta4",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/libactivator/",
       "shortDescription": "Centralized gestures, button and shortcut management for iOS",
@@ -1716,10 +1716,10 @@
     {
       "id": "com.tigisoftware.appdatamanager",
       "name": "Apps Manager",
-      "latest": "1.5.0-12",
+      "latest": "1.4.2",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.tigisoftware.appdatamanager/",
-      "shortDescription": "This tool provides the way to WIPE, BACKUP, RESTORE AppData for installed Apps",
+      "shortDescription": "tool to WIPE, BACKUP, RESTORE AppData for installed Apps",
       "category": "Utilities",
       "author": "TIGI Software",
       "commercial": false,
@@ -2287,7 +2287,7 @@
     {
       "id": "me.autotouch.autotouch.ios8",
       "name": "AutoTouch",
-      "latest": "5.0.6",
+      "latest": "5.0.6-1",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/me.autotouch.autotouch.ios8/",
       "shortDescription": "Record and playback touch operations, play macro scripts automatically.",
@@ -2730,40 +2730,6 @@
       ]
     },
     {
-      "id": "com.modmyi.batterylife",
-      "name": "BatteryLife",
-      "latest": "1.6.15",
-      "repository": "ModMyi (Archive)",
-      "url": "http://cydia.saurik.com/package/com.modmyi.batterylife/",
-      "shortDescription": "BatteryLife displays useful information about your device's battery health and life.",
-      "category": "Themes (SpringBoard)",
-      "author": "rbt",
-      "commercial": false,
-      "date": "2018-07-10T16:20:42Z",
-      "versions": [
-        {
-          "tweakVersion": "1.6.15",
-          "iOSVersion": "11.2.6",
-          "repository": "ModMyi (Archive)",
-          "date": "2018-07-10T16:20:42Z",
-          "outcome": {
-            "calculatedStatus": "Not working",
-            "percentage": 0,
-            "good": 0,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.rbt.batterylife",
       "name": "BatteryLife",
       "latest": "1.8.0~b23",
@@ -2803,6 +2769,40 @@
             "calculatedStatus": "Working",
             "percentage": 100,
             "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.modmyi.batterylife",
+      "name": "BatteryLife",
+      "latest": "1.6.15",
+      "repository": "ModMyi (Archive)",
+      "url": "http://cydia.saurik.com/package/com.modmyi.batterylife/",
+      "shortDescription": "BatteryLife displays useful information about your device's battery health and life.",
+      "category": "Themes (SpringBoard)",
+      "author": "rbt",
+      "commercial": false,
+      "date": "2018-07-10T16:20:42Z",
+      "versions": [
+        {
+          "tweakVersion": "1.6.15",
+          "iOSVersion": "11.2.6",
+          "repository": "ModMyi (Archive)",
+          "date": "2018-07-10T16:20:42Z",
+          "outcome": {
+            "calculatedStatus": "Not working",
+            "percentage": 0,
+            "good": 0,
             "bad": 0,
             "total": 1,
             "arch32": {
@@ -3243,40 +3243,6 @@
       ]
     },
     {
-      "id": "com.hackyouriphone.betterccxi",
-      "name": "BetterCCXI",
-      "latest": "1.1.9.2",
-      "repository": "HackYouriPhone",
-      "url": "http://cydia.saurik.com/package/com.hackyouriphone.betterccxi/",
-      "shortDescription": "Enhance your control center on iOS 11",
-      "category": "HYI - Tweaks",
-      "author": "ATWiiks",
-      "commercial": false,
-      "date": "2018-06-30T16:14:01Z",
-      "versions": [
-        {
-          "tweakVersion": "1.1.3",
-          "iOSVersion": "11.2.6",
-          "repository": "HackYouriPhone",
-          "date": "2018-07-08T22:20:30Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.atwiiks.betterccxi",
       "name": "BetterCCXI",
       "latest": "1.4.8",
@@ -3333,6 +3299,40 @@
           "iOSVersion": "11.2.6",
           "repository": "Packix",
           "date": "2019-04-03T22:20:02Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.hackyouriphone.betterccxi",
+      "name": "BetterCCXI",
+      "latest": "1.1.9.2",
+      "repository": "HackYouriPhone",
+      "url": "http://cydia.saurik.com/package/com.hackyouriphone.betterccxi/",
+      "shortDescription": "Enhance your control center on iOS 11",
+      "category": "HYI - Tweaks",
+      "author": "ATWiiks",
+      "commercial": false,
+      "date": "2018-06-30T16:14:01Z",
+      "versions": [
+        {
+          "tweakVersion": "1.1.3",
+          "iOSVersion": "11.2.6",
+          "repository": "HackYouriPhone",
+          "date": "2018-07-08T22:20:30Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -3981,7 +3981,7 @@
       "latest": "1.2",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/ca.ndoizo.bolders/",
-      "shortDescription": "Bigger bolder folders!",
+      "shortDescription": "Bigger bolder folders",
       "category": "Tweaks",
       "author": "candoizo",
       "commercial": false,
@@ -4246,60 +4246,6 @@
       ]
     },
     {
-      "id": "bundleidsxi",
-      "name": "BundleIDsXI",
-      "latest": "1.1.0-2",
-      "repository": "Packix",
-      "url": "http://cydia.saurik.com/package/bundleidsxi/",
-      "shortDescription": "App to see installed app bundle IDs.",
-      "category": "Utilities",
-      "author": "TD",
-      "commercial": false,
-      "date": "2018-07-28T04:18:06Z",
-      "versions": [
-        {
-          "tweakVersion": "1.0.2-2",
-          "iOSVersion": "11.2.6",
-          "repository": "Packix",
-          "date": "2018-08-09T15:48:16Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        },
-        {
-          "tweakVersion": "1.1.0-2",
-          "iOSVersion": "11.2.6",
-          "repository": "Packix",
-          "date": "2018-12-18T08:46:59Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.yourepo.tdadvocate.bundleidsxi",
       "name": "BundleIDsXI",
       "latest": "1.1.0-1",
@@ -4356,6 +4302,60 @@
           "iOSVersion": "11.2.6",
           "repository": "TDAdvocate Source - YouRepo",
           "date": "2018-12-06T19:17:14Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "bundleidsxi",
+      "name": "BundleIDsXI",
+      "latest": "1.1.0-2",
+      "repository": "Packix",
+      "url": "http://cydia.saurik.com/package/bundleidsxi/",
+      "shortDescription": "App to see installed app bundle IDs.",
+      "category": "Utilities",
+      "author": "TD",
+      "commercial": false,
+      "date": "2018-07-28T04:18:06Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0.2-2",
+          "iOSVersion": "11.2.6",
+          "repository": "Packix",
+          "date": "2018-08-09T15:48:16Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        },
+        {
+          "tweakVersion": "1.1.0-2",
+          "iOSVersion": "11.2.6",
+          "repository": "Packix",
+          "date": "2018-12-18T08:46:59Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -5003,22 +5003,22 @@
       ]
     },
     {
-      "id": "com.yourepo.cydiageek.ccclearmodulesbg",
+      "id": "com.cydiageek.ccclearmodulesbg",
       "name": "CCClearModulesBG",
-      "latest": "1.0.1",
-      "repository": "CydiaGeek Source - YouRepo",
-      "url": "http://cydia.saurik.com/package/com.yourepo.cydiageek.ccclearmodulesbg/",
-      "shortDescription": "Make the Control Center Modules Clear on iOS 11! Tip by prouser.",
+      "latest": "1.0.5",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.cydiageek.ccclearmodulesbg/",
+      "shortDescription": "Make the Control Center Modules Clear!",
       "category": "Tweaks",
       "author": "CydiaGeek",
       "commercial": false,
-      "date": "2018-03-27T00:57:31Z",
+      "date": "2018-04-27T16:28:28Z",
       "versions": [
         {
-          "tweakVersion": "1.0.1",
+          "tweakVersion": "1.0.5",
           "iOSVersion": "11.2.6",
-          "repository": "CydiaGeek Source - YouRepo",
-          "date": "2018-12-06T19:18:01Z",
+          "repository": "BigBoss",
+          "date": "2019-04-21T06:53:39Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -5037,22 +5037,22 @@
       ]
     },
     {
-      "id": "com.cydiageek.ccclearmodulesbg",
+      "id": "com.yourepo.cydiageek.ccclearmodulesbg",
       "name": "CCClearModulesBG",
-      "latest": "1.0.5",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/com.cydiageek.ccclearmodulesbg/",
-      "shortDescription": "Make the Control Center Modules Clear!",
+      "latest": "1.0.1",
+      "repository": "CydiaGeek Source - YouRepo",
+      "url": "http://cydia.saurik.com/package/com.yourepo.cydiageek.ccclearmodulesbg/",
+      "shortDescription": "Make the Control Center Modules Clear on iOS 11! Tip by prouser.",
       "category": "Tweaks",
       "author": "CydiaGeek",
       "commercial": false,
-      "date": "2018-04-27T16:28:28Z",
+      "date": "2018-03-27T00:57:31Z",
       "versions": [
         {
-          "tweakVersion": "1.0.5",
+          "tweakVersion": "1.0.1",
           "iOSVersion": "11.2.6",
-          "repository": "BigBoss",
-          "date": "2019-04-21T06:53:39Z",
+          "repository": "CydiaGeek Source - YouRepo",
+          "date": "2018-12-06T19:18:01Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -6809,21 +6809,22 @@
       ]
     },
     {
-      "id": "mobilesubstrate",
-      "name": "Cydia Substrate",
-      "latest": "0.9.7032",
-      "repository": "Cydia/Telesphoreo",
-      "url": "http://cydia.saurik.com/package/mobilesubstrate/",
-      "shortDescription": "powerful code insertion platform",
-      "category": "System",
-      "author": "Jay Freeman (saurik)",
+      "id": "com.macciti.cydiaios7icon",
+      "name": "Cydia iOS 7 Icon",
+      "latest": "1.1",
+      "repository": "ZodTTD & MacCiti (Archive)",
+      "url": "http://cydia.saurik.com/package/com.macciti.cydiaios7icon/",
+      "shortDescription": "All this theme does is changes the Cydia icon with this one I created.",
+      "category": "Themes (SpringBoard)",
+      "author": "DoniTech",
       "commercial": false,
+      "date": "2019-04-22T20:06:51Z",
       "versions": [
         {
-          "tweakVersion": "0.9.7020",
+          "tweakVersion": "1.1",
           "iOSVersion": "11.2.6",
-          "repository": "(null)",
-          "date": "2019-02-11T01:16:06Z",
+          "repository": "ZodTTD & MacCiti (Archive)",
+          "date": "2019-04-22T20:06:51Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -6842,21 +6843,21 @@
       ]
     },
     {
-      "id": "com.artikus.cydiaxi",
-      "name": "CydiaXI",
-      "latest": "1.2",
-      "repository": "cydiaxi.at.ua",
-      "url": "http://cydiaxi.at.ua/",
-      "shortDescription": "A Tweak that Makes Cydia more iOS 11 like!",
-      "category": "Tweaks",
-      "author": "EvenD3V and ArtikusHG",
+      "id": "mobilesubstrate",
+      "name": "Cydia Substrate",
+      "latest": "0.9.7032",
+      "repository": "Cydia/Telesphoreo",
+      "url": "http://cydia.saurik.com/package/mobilesubstrate/",
+      "shortDescription": "powerful code insertion platform",
+      "category": "System",
+      "author": "Jay Freeman (saurik)",
       "commercial": false,
       "versions": [
         {
-          "tweakVersion": "0.1",
+          "tweakVersion": "0.9.7020",
           "iOSVersion": "11.2.6",
-          "repository": "Smacpats’ Repo",
-          "date": "2018-08-16T01:49:56Z",
+          "repository": "(null)",
+          "date": "2019-02-11T01:16:06Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -6891,6 +6892,39 @@
           "iOSVersion": "11.2.6",
           "repository": "EvenDev",
           "date": "2018-10-13T11:07:19Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.artikus.cydiaxi",
+      "name": "CydiaXI",
+      "latest": "1.2",
+      "repository": "cydiaxi.at.ua",
+      "url": "http://cydiaxi.at.ua/",
+      "shortDescription": "A Tweak that Makes Cydia more iOS 11 like!",
+      "category": "Tweaks",
+      "author": "EvenD3V and ArtikusHG",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "0.1",
+          "iOSVersion": "11.2.6",
+          "repository": "Smacpats’ Repo",
+          "date": "2018-08-16T01:49:56Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -9986,7 +10020,7 @@
     {
       "id": "flex3beta",
       "name": "Flex 3 Beta",
-      "latest": "3~Beta61",
+      "latest": "3~Beta62",
       "repository": "Delta",
       "url": "http://getdelta.co/",
       "shortDescription": "Develop your own tweaks and share them on the Flex Community Cloud",
@@ -12210,7 +12244,7 @@
     {
       "id": "com.exile90.icleanerpro",
       "name": "iCleaner Pro",
-      "latest": "7.7.2",
+      "latest": "7.7.1",
       "repository": "Karen's Repo",
       "url": "http://ib-soft.net/icleaner",
       "shortDescription": "The first real iOS system cleaner & optimizer",
@@ -12296,7 +12330,7 @@
     {
       "id": "jp.soh.iconresizerforios11",
       "name": "Icon Resizer for iOS11",
-      "latest": "1.9.9.8-3+debug",
+      "latest": "1.9.9.9-1+debug",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/jp.soh.iconresizerforios11/",
       "shortDescription": "Control  Homescreen whatever you want to do. Confirmed works on iOS11&12.",
@@ -14041,21 +14075,22 @@
       ]
     },
     {
-      "id": "repo.biteyourapple.net.localiapstore",
+      "id": "com.repo.xarold.com.localiapstore",
       "name": "LocalIAPStore",
-      "latest": "1.4-2",
-      "repository": "BiteYourApple",
-      "url": "http://repo.biteyourapple.net/",
+      "latest": "1.5",
+      "repository": "repo.xarold.com",
+      "url": "http://cydia.saurik.com/package/com.repo.xarold.com.localiapstore/",
       "shortDescription": "Pwns In-App purchases on iOS 5.1.1 - 7.1.X. Compatible with ARMv8 (64 Bit). Enable in settings. PRESS 'DISMISS' ON POPUP!",
-      "category": "BYA Apps",
-      "author": "BYA Repository",
+      "category": "Tweaks",
+      "author": "anondev",
       "commercial": false,
+      "date": "2018-02-28T19:15:03Z",
       "versions": [
         {
           "tweakVersion": "1.4-2",
           "iOSVersion": "11.2.6",
-          "repository": "BiteYourApple",
-          "date": "2018-07-07T21:41:41Z",
+          "repository": "Xarold Repo",
+          "date": "2018-07-09T07:18:30Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -14074,22 +14109,21 @@
       ]
     },
     {
-      "id": "com.repo.xarold.com.localiapstore",
+      "id": "repo.biteyourapple.net.localiapstore",
       "name": "LocalIAPStore",
-      "latest": "1.5",
-      "repository": "repo.xarold.com",
-      "url": "http://cydia.saurik.com/package/com.repo.xarold.com.localiapstore/",
+      "latest": "1.4-2",
+      "repository": "BiteYourApple",
+      "url": "http://repo.biteyourapple.net/",
       "shortDescription": "Pwns In-App purchases on iOS 5.1.1 - 7.1.X. Compatible with ARMv8 (64 Bit). Enable in settings. PRESS 'DISMISS' ON POPUP!",
-      "category": "Tweaks",
-      "author": "anondev",
+      "category": "BYA Apps",
+      "author": "BYA Repository",
       "commercial": false,
-      "date": "2018-02-28T19:15:03Z",
       "versions": [
         {
           "tweakVersion": "1.4-2",
           "iOSVersion": "11.2.6",
-          "repository": "Xarold Repo",
-          "date": "2018-07-09T07:18:30Z",
+          "repository": "BiteYourApple",
+          "date": "2018-07-07T21:41:41Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -15068,7 +15102,7 @@
     {
       "id": "com.c1d3r.messageheadsxi",
       "name": "MessageHeadsXI",
-      "latest": "2.0-11",
+      "latest": "2.0-13",
       "repository": "C1d3r Repo",
       "url": "http://cydia.saurik.com/package/com.c1d3r.messageheadsxi/",
       "shortDescription": "Floating chat heads from you favorite messaging apps!",
@@ -20735,60 +20769,6 @@
       ]
     },
     {
-      "id": "org.thebigboss.selectmoji",
-      "name": "Selectmoji",
-      "latest": "1.0.3",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/org.thebigboss.selectmoji/",
-      "shortDescription": "Better frequently used emojis.",
-      "category": "Tweaks",
-      "author": "cole cabral @ca13ra1",
-      "commercial": true,
-      "date": "2018-07-24T21:49:12Z",
-      "versions": [
-        {
-          "tweakVersion": "1.0.2",
-          "iOSVersion": "11.2.6",
-          "repository": "BigBoss",
-          "date": "2018-08-12T09:22:31Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        },
-        {
-          "tweakVersion": "1.0.3",
-          "iOSVersion": "11.2.6",
-          "repository": "BigBoss",
-          "date": "2018-09-16T11:41:49Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.cc.selectmoji",
       "name": "Selectmoji",
       "latest": "1.2-4",
@@ -20825,6 +20805,60 @@
           "iOSVersion": "11.2.6",
           "repository": "Chariz",
           "date": "2019-01-16T17:24:05Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "org.thebigboss.selectmoji",
+      "name": "Selectmoji",
+      "latest": "1.0.3",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/org.thebigboss.selectmoji/",
+      "shortDescription": "Better frequently used emojis.",
+      "category": "Tweaks",
+      "author": "cole cabral @ca13ra1",
+      "commercial": true,
+      "date": "2018-07-24T21:49:12Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0.2",
+          "iOSVersion": "11.2.6",
+          "repository": "BigBoss",
+          "date": "2018-08-12T09:22:31Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        },
+        {
+          "tweakVersion": "1.0.3",
+          "iOSVersion": "11.2.6",
+          "repository": "BigBoss",
+          "date": "2018-09-16T11:41:49Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -25492,7 +25526,7 @@
     {
       "id": "com.matchstic.xenhtml",
       "name": "Xen HTML",
-      "latest": "0.4rc8",
+      "latest": "0.5",
       "repository": "xenpublic.incendo.ws",
       "url": "http://cydia.saurik.com/package/com.matchstic.xenhtml/",
       "shortDescription": "Unified HTML rendering; lockscreen and homescreen",
