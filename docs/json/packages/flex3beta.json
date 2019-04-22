@@ -1,7 +1,7 @@
 {
   "id": "flex3beta",
   "name": "Flex 3 Beta",
-  "latest": "3~Beta61",
+  "latest": "3~Beta62",
   "repository": "Delta",
   "url": "http://getdelta.co/",
   "shortDescription": "Develop your own tweaks and share them on the Flex Community Cloud",
@@ -4189,6 +4189,37 @@
           "date": "2019-04-16T20:27:23Z",
           "userName": "bewl87",
           "issueNumber": 84605,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "3~Beta62",
+      "iOSVersion": "12.1",
+      "repository": "Delta",
+      "date": "2019-04-22T14:05:18Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-04-22T14:05:18Z",
+          "userName": "yaboijoka",
+          "issueNumber": 85217,
           "arch32": false
         }
       ]
