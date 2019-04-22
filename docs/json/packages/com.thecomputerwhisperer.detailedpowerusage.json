@@ -1816,11 +1816,11 @@
       "repository": "TheComputerWhisperer's Repo",
       "date": "2019-03-05T03:00:03Z",
       "outcome": {
-        "calculatedStatus": "Not working",
-        "percentage": 0,
-        "good": 0,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
+        "good": 1,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1837,6 +1837,15 @@
           "date": "2019-03-05T03:00:03Z",
           "userName": "patrickricoo",
           "issueNumber": 72533,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "downgrade to version 1.01",
+          "date": "2019-04-22T20:43:56Z",
+          "userName": "delon5",
+          "issueNumber": 85256,
           "arch32": false
         }
       ]
