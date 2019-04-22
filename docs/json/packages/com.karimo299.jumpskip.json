@@ -1,7 +1,7 @@
 {
   "id": "com.karimo299.jumpskip",
   "name": "JumpSkip",
-  "latest": "1.0.0",
+  "latest": "1.1.0",
   "repository": "Packix",
   "url": "http://cydia.saurik.com/package/com.karimo299.jumpskip/",
   "shortDescription": "Skip tracks using volume buttons",
@@ -37,6 +37,37 @@
           "date": "2019-04-18T06:11:29Z",
           "userName": "czif",
           "issueNumber": 84773,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.1.0",
+      "iOSVersion": "12.1.1",
+      "repository": "Packix",
+      "date": "2019-04-21T23:39:48Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,3",
+          "issues": "",
+          "date": "2019-04-21T23:39:48Z",
+          "userName": "czif",
+          "issueNumber": 85140,
           "arch32": false
         }
       ]
