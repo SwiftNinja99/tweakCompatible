@@ -48,10 +48,10 @@
       "date": "2019-02-28T15:18:16Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 50,
+        "percentage": 42,
         "good": 3,
         "bad": 0,
-        "total": 6,
+        "total": 7,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -113,6 +113,15 @@
           "date": "2019-04-05T00:15:54Z",
           "userName": "Miami-Vice",
           "issueNumber": 82826,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,4",
+          "issues": "Some customization not working",
+          "date": "2019-04-22T14:06:14Z",
+          "userName": "hunkyburrito3",
+          "issueNumber": 85218,
           "arch32": false
         }
       ]
