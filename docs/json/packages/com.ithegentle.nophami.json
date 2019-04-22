@@ -1,7 +1,7 @@
 {
   "id": "com.ithegentle.nophami",
   "name": "Nophami for WhatsApp",
-  "latest": "1.0-3",
+  "latest": "1.0-4",
   "repository": "BigBoss",
   "url": "http://cydia.saurik.com/package/com.ithegentle.nophami/",
   "shortDescription": "hide your private chats in WhatsApp",
@@ -126,6 +126,37 @@
           "date": "2019-02-25T14:40:42Z",
           "userName": "kofmastersmty",
           "issueNumber": 66472,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0-4",
+      "iOSVersion": "12.1.1",
+      "repository": "BigBoss",
+      "date": "2019-04-22T05:53:58Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "partial",
+          "device": "iPhone10,6",
+          "issues": "Tweak is loaded and you can hide chats. But when hidden, the hidden chats list is empty and there is no way to get the hidden chats back. This issue occurred since the update, which was „written from the scratch“. Please fix it and/or put a downgrade option onto it. ",
+          "date": "2019-04-22T05:53:58Z",
+          "userName": "sumssa",
+          "issueNumber": 85164,
           "arch32": false
         }
       ]
