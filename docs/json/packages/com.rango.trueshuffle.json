@@ -78,11 +78,11 @@
       "repository": "Rango’s Repo",
       "date": "2019-04-18T21:36:47Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 100,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
         "good": 1,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -99,6 +99,15 @@
           "date": "2019-04-18T21:36:47Z",
           "userName": "xFahrenheightx",
           "issueNumber": 84852,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone9,3",
+          "issues": "Doesn't work. Spotify still plays the same.",
+          "date": "2019-04-22T14:16:07Z",
+          "userName": "czif",
+          "issueNumber": 85219,
           "arch32": false
         }
       ]
