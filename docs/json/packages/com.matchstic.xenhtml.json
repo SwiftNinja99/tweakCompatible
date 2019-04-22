@@ -1,7 +1,7 @@
 {
   "id": "com.matchstic.xenhtml",
   "name": "Xen HTML",
-  "latest": "0.5",
+  "latest": "0.5-2",
   "repository": "xenpublic.incendo.ws",
   "url": "http://cydia.saurik.com/package/com.matchstic.xenhtml/",
   "shortDescription": "Unified HTML rendering; lockscreen and homescreen",
@@ -2810,6 +2810,37 @@
           "date": "2019-04-22T19:37:23Z",
           "userName": "syclus",
           "issueNumber": 85250,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.5-2",
+      "iOSVersion": "12.1.1",
+      "repository": "xenpublic.incendo.ws",
+      "date": "2019-04-22T21:00:33Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,4",
+          "issues": "",
+          "date": "2019-04-22T21:00:33Z",
+          "userName": "kroskiii",
+          "issueNumber": 85262,
           "arch32": false
         }
       ]
