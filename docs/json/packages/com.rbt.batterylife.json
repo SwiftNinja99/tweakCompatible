@@ -2818,6 +2818,37 @@
           "arch32": false
         }
       ]
+    },
+    {
+      "tweakVersion": "1.8.0~b23",
+      "iOSVersion": "12.1.2",
+      "repository": "RBT Digital Beta",
+      "date": "2019-04-22T17:04:16Z",
+      "outcome": {
+        "calculatedStatus": "Not working",
+        "percentage": 0,
+        "good": 0,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone10,3",
+          "issues": "On the iPhone X with the current capacity of 102.7%, the program displays 100%.",
+          "date": "2019-04-22T17:04:16Z",
+          "userName": "i-Mobilka",
+          "issueNumber": 85233,
+          "arch32": false
+        }
+      ]
     }
   ]
 }
