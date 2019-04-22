@@ -688,11 +688,11 @@
       "repository": "Packix",
       "date": "2019-04-21T13:42:59Z",
       "outcome": {
-        "calculatedStatus": "Not working",
-        "percentage": 33,
-        "good": 1,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
+        "good": 2,
         "bad": 0,
-        "total": 3,
+        "total": 4,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -727,6 +727,15 @@
           "date": "2019-04-22T04:00:45Z",
           "userName": "BlinkyTrojan",
           "issueNumber": 85149,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-04-22T08:31:41Z",
+          "userName": "mainhathao",
+          "issueNumber": 85172,
           "arch32": false
         }
       ]
