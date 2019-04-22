@@ -1,7 +1,7 @@
 {
   "id": "com.icraze.easynotifications",
   "name": "Easy Notifications",
-  "latest": "1.0-1",
+  "latest": "1.0-1+debug",
   "repository": "iCraze's Repo",
   "url": "http://cydia.saurik.com/package/com.icraze.easynotifications/",
   "shortDescription": "Swipe To Open/Clear Notifications Quicker And Easier.",
@@ -148,6 +148,37 @@
           "date": "2019-04-08T19:27:25Z",
           "userName": "mblack1",
           "issueNumber": 83507,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0-1+debug",
+      "iOSVersion": "12.1.1",
+      "repository": "iCraze's Repo",
+      "date": "2019-04-22T17:52:55Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "",
+          "date": "2019-04-22T17:52:55Z",
+          "userName": "813Samauarai",
+          "issueNumber": 85238,
           "arch32": false
         }
       ]
