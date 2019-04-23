@@ -401,10 +401,10 @@
       "date": "2019-03-03T06:00:03Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 69,
+        "percentage": 64,
         "good": 9,
         "bad": 0,
-        "total": 13,
+        "total": 14,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -529,6 +529,15 @@
           "date": "2019-04-22T08:23:33Z",
           "userName": "danielchou1911",
           "issueNumber": 85171,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2019-04-23T10:07:53Z",
+          "userName": "porumbelu",
+          "issueNumber": 85301,
           "arch32": false
         }
       ]
