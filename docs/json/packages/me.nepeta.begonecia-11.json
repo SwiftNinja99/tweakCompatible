@@ -1,7 +1,7 @@
 {
   "id": "me.nepeta.begonecia-11",
   "name": "BegoneCIA (iOS 11)",
-  "latest": "0.2.1",
+  "latest": "0.2.1-1",
   "repository": "Nepeta",
   "url": "http://cydia.saurik.com/package/me.nepeta.begonecia-11/",
   "shortDescription": "CC toggle to disable microphone, camera and GPS.",
@@ -536,6 +536,37 @@
           "date": "2019-03-21T05:15:44Z",
           "userName": "smknmofo",
           "issueNumber": 79652,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.2.1-1",
+      "iOSVersion": "12.1.2",
+      "repository": "Nepeta",
+      "date": "2019-04-23T17:18:38Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,1",
+          "issues": "",
+          "date": "2019-04-23T17:18:38Z",
+          "userName": "icen1",
+          "issueNumber": 85329,
           "arch32": false
         }
       ]
