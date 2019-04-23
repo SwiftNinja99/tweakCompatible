@@ -874,11 +874,11 @@
       "repository": "BigBoss",
       "date": "2019-04-20T15:42:46Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 100,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
         "good": 1,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -895,6 +895,15 @@
           "date": "2019-04-20T15:42:46Z",
           "userName": "KMamedoff",
           "issueNumber": 84998,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,6",
+          "issues": "Makes ApplePay stop working because it won‘t open when pressing the sleep button two times, anymore",
+          "date": "2019-04-23T12:39:56Z",
+          "userName": "wise-rice",
+          "issueNumber": 85315,
           "arch32": false
         }
       ]
