@@ -180,11 +180,11 @@
       "repository": "BigBoss",
       "date": "2019-04-23T01:26:02Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 100,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
         "good": 1,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -201,6 +201,15 @@
           "date": "2019-04-23T01:26:02Z",
           "userName": "ehoeve786",
           "issueNumber": 85278,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone9,3",
+          "issues": "",
+          "date": "2019-04-23T01:06:57Z",
+          "userName": "ChefEr1c",
+          "issueNumber": 85276,
           "arch32": false
         }
       ]
