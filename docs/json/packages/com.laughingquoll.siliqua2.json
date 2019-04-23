@@ -178,9 +178,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 1,
+        "good": 2,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -197,6 +197,15 @@
           "date": "2019-04-14T17:58:19Z",
           "userName": "ghendricks2",
           "issueNumber": 84386,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone10,6",
+          "issues": "Airpods 2 right pod gestures don’t do what I set them to in settings (set to play/pause)",
+          "date": "2019-04-23T17:13:39Z",
+          "userName": "NovaVFX",
+          "issueNumber": 85326,
           "arch32": false
         }
       ]
