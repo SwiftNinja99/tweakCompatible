@@ -336,11 +336,11 @@
       "repository": "Maxwell Dausch's Repo",
       "date": "2019-04-15T00:27:41Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 100,
+        "calculatedStatus": "Likely working",
+        "percentage": 66,
         "good": 2,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -366,6 +366,15 @@
           "date": "2019-04-16T17:12:18Z",
           "userName": "JamieBerghmans",
           "issueNumber": 84589,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone9,3",
+          "issues": "Breaks NextUp Beta 2",
+          "date": "2019-04-23T13:06:05Z",
+          "userName": "fillupontacos",
+          "issueNumber": 85318,
           "arch32": false
         }
       ]
