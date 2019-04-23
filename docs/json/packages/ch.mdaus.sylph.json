@@ -385,11 +385,11 @@
       "repository": "Maxwell Dausch's Repo",
       "date": "2019-04-15T11:14:20Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 100,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
         "good": 1,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -406,6 +406,15 @@
           "date": "2019-04-15T11:14:20Z",
           "userName": "thanhx18",
           "issueNumber": 84468,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,6",
+          "issues": "Respring Loop",
+          "date": "2019-04-23T17:17:25Z",
+          "userName": "NovaVFX",
+          "issueNumber": 85327,
           "arch32": false
         }
       ]
