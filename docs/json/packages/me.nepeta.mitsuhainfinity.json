@@ -1,7 +1,7 @@
 {
   "id": "me.nepeta.mitsuhainfinity",
   "name": "Mitsuha Infinity",
-  "latest": "0.1.4",
+  "latest": "0.1.5-1",
   "repository": "Nepeta",
   "url": "http://cydia.saurik.com/package/me.nepeta.mitsuhainfinity/",
   "shortDescription": "Audio visualizer for iOS",
@@ -715,6 +715,37 @@
           "date": "2019-04-19T14:27:02Z",
           "userName": "FrostyNL",
           "issueNumber": 84895,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.1.5-1",
+      "iOSVersion": "12.1.1",
+      "repository": "Nepeta",
+      "date": "2019-04-24T17:03:02Z",
+      "outcome": {
+        "calculatedStatus": "Not working",
+        "percentage": 0,
+        "good": 0,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone10,4",
+          "issues": "Kann nicht installiert werden da es andere Tweak löschen will ",
+          "date": "2019-04-24T17:03:02Z",
+          "userName": "obito26m",
+          "issueNumber": 85427,
           "arch32": false
         }
       ]
