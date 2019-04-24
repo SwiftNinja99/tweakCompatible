@@ -1,10 +1,10 @@
 {
   "id": "com.peterdev.whatabouthis",
   "name": "WhatAboutThis",
-  "latest": "1.1",
+  "latest": "1.1.1",
   "repository": "Nepeta",
   "url": "http://cydia.saurik.com/package/com.peterdev.whatabouthis/",
-  "shortDescription": "Brings iOS 12.2 style About page in the Settings app to older versions.",
+  "shortDescription": "Brings an iOS 12.2-style About page in the Settings app to older versions.",
   "category": "Tweaks",
   "author": "PeterDev",
   "commercial": false,
@@ -312,6 +312,37 @@
           "date": "2019-03-19T02:55:36Z",
           "userName": "Dayfid",
           "issueNumber": 79024,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.1.1",
+      "iOSVersion": "12.1",
+      "repository": "Nepeta",
+      "date": "2019-04-24T19:59:22Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-04-24T19:59:22Z",
+          "userName": "hellcat2712",
+          "issueNumber": 85440,
           "arch32": false
         }
       ]
