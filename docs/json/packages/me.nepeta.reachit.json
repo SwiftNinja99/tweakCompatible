@@ -1,7 +1,7 @@
 {
   "id": "me.nepeta.reachit",
   "name": "ReachIt",
-  "latest": "0.1.0",
+  "latest": "0.1.1",
   "repository": "Nepeta",
   "url": "http://cydia.saurik.com/package/me.nepeta.reachit/",
   "shortDescription": "Reachability music player",
@@ -99,6 +99,37 @@
           "date": "2019-04-22T19:11:35Z",
           "userName": "syclus",
           "issueNumber": 85246,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.1.1",
+      "iOSVersion": "12.1.1",
+      "repository": "Nepeta",
+      "date": "2019-04-24T00:31:16Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-04-24T00:31:16Z",
+          "userName": "MerkD814",
+          "issueNumber": 85375,
           "arch32": false
         }
       ]
