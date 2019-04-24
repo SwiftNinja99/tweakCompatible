@@ -725,11 +725,11 @@
       "repository": "Nepeta",
       "date": "2019-04-24T17:03:02Z",
       "outcome": {
-        "calculatedStatus": "Not working",
-        "percentage": 0,
-        "good": 0,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
+        "good": 1,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -746,6 +746,15 @@
           "date": "2019-04-24T17:03:02Z",
           "userName": "obito26m",
           "issueNumber": 85427,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,1",
+          "issues": "Working on iOS 12.1.1 beta 3 iPhone 7 32GB EE 35.0 GB",
+          "date": "2019-04-24T18:53:24Z",
+          "userName": "NickJustWill",
+          "issueNumber": 85432,
           "arch32": false
         }
       ]
