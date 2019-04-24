@@ -4320,60 +4320,6 @@
       ]
     },
     {
-      "id": "bundleidsxi",
-      "name": "BundleIDsXI",
-      "latest": "1.1.0-2",
-      "repository": "Packix",
-      "url": "http://cydia.saurik.com/package/bundleidsxi/",
-      "shortDescription": "App to see installed app bundle IDs.",
-      "category": "Utilities",
-      "author": "TD",
-      "commercial": false,
-      "date": "2018-07-28T04:18:06Z",
-      "versions": [
-        {
-          "tweakVersion": "1.0.2-2",
-          "iOSVersion": "11.2.6",
-          "repository": "Packix",
-          "date": "2018-08-09T15:48:16Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        },
-        {
-          "tweakVersion": "1.1.0-2",
-          "iOSVersion": "11.2.6",
-          "repository": "Packix",
-          "date": "2018-12-18T08:46:59Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.yourepo.tdadvocate.bundleidsxi",
       "name": "BundleIDsXI",
       "latest": "1.1.0-1",
@@ -4430,6 +4376,60 @@
           "iOSVersion": "11.2.6",
           "repository": "TDAdvocate Source - YouRepo",
           "date": "2018-12-06T19:17:14Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "bundleidsxi",
+      "name": "BundleIDsXI",
+      "latest": "1.1.0-2",
+      "repository": "Packix",
+      "url": "http://cydia.saurik.com/package/bundleidsxi/",
+      "shortDescription": "App to see installed app bundle IDs.",
+      "category": "Utilities",
+      "author": "TD",
+      "commercial": false,
+      "date": "2018-07-28T04:18:06Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0.2-2",
+          "iOSVersion": "11.2.6",
+          "repository": "Packix",
+          "date": "2018-08-09T15:48:16Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        },
+        {
+          "tweakVersion": "1.1.0-2",
+          "iOSVersion": "11.2.6",
+          "repository": "Packix",
+          "date": "2018-12-18T08:46:59Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -5077,22 +5077,22 @@
       ]
     },
     {
-      "id": "com.cydiageek.ccclearmodulesbg",
+      "id": "com.yourepo.cydiageek.ccclearmodulesbg",
       "name": "CCClearModulesBG",
-      "latest": "1.0.5",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/com.cydiageek.ccclearmodulesbg/",
-      "shortDescription": "Make the Control Center Modules Clear!",
+      "latest": "1.0.1",
+      "repository": "CydiaGeek Source - YouRepo",
+      "url": "http://cydia.saurik.com/package/com.yourepo.cydiageek.ccclearmodulesbg/",
+      "shortDescription": "Make the Control Center Modules Clear on iOS 11! Tip by prouser.",
       "category": "Tweaks",
       "author": "CydiaGeek",
       "commercial": false,
-      "date": "2018-04-27T16:28:28Z",
+      "date": "2018-03-27T00:57:31Z",
       "versions": [
         {
-          "tweakVersion": "1.0.5",
+          "tweakVersion": "1.0.1",
           "iOSVersion": "11.2.6",
-          "repository": "BigBoss",
-          "date": "2019-04-21T06:53:39Z",
+          "repository": "CydiaGeek Source - YouRepo",
+          "date": "2018-12-06T19:18:01Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -5111,22 +5111,22 @@
       ]
     },
     {
-      "id": "com.yourepo.cydiageek.ccclearmodulesbg",
+      "id": "com.cydiageek.ccclearmodulesbg",
       "name": "CCClearModulesBG",
-      "latest": "1.0.1",
-      "repository": "CydiaGeek Source - YouRepo",
-      "url": "http://cydia.saurik.com/package/com.yourepo.cydiageek.ccclearmodulesbg/",
-      "shortDescription": "Make the Control Center Modules Clear on iOS 11! Tip by prouser.",
+      "latest": "1.0.5",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.cydiageek.ccclearmodulesbg/",
+      "shortDescription": "Make the Control Center Modules Clear!",
       "category": "Tweaks",
       "author": "CydiaGeek",
       "commercial": false,
-      "date": "2018-03-27T00:57:31Z",
+      "date": "2018-04-27T16:28:28Z",
       "versions": [
         {
-          "tweakVersion": "1.0.1",
+          "tweakVersion": "1.0.5",
           "iOSVersion": "11.2.6",
-          "repository": "CydiaGeek Source - YouRepo",
-          "date": "2018-12-06T19:18:01Z",
+          "repository": "BigBoss",
+          "date": "2019-04-21T06:53:39Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -6984,21 +6984,22 @@
       ]
     },
     {
-      "id": "com.artikus.cydiaxi",
+      "id": "us.evendev.cydiaxi",
       "name": "CydiaXI",
-      "latest": "1.2",
-      "repository": "cydiaxi.at.ua",
-      "url": "http://cydiaxi.at.ua/",
-      "shortDescription": "A Tweak that Makes Cydia more iOS 11 like!",
-      "category": "Tweaks",
-      "author": "EvenD3V and ArtikusHG",
+      "latest": "2.0.1",
+      "repository": "CydiaXI",
+      "url": "http://cydia.saurik.com/package/us.evendev.cydiaxi/",
+      "shortDescription": "Making Cydia look more iOS 11-ish",
+      "category": "CydiaXI",
+      "author": "EvenDev",
       "commercial": false,
+      "date": "2018-07-18T18:03:14Z",
       "versions": [
         {
-          "tweakVersion": "0.1",
+          "tweakVersion": "2.0.1",
           "iOSVersion": "11.2.6",
-          "repository": "Smacpats’ Repo",
-          "date": "2018-08-16T01:49:56Z",
+          "repository": "EvenDev",
+          "date": "2018-10-13T11:07:19Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -7017,22 +7018,21 @@
       ]
     },
     {
-      "id": "us.evendev.cydiaxi",
+      "id": "com.artikus.cydiaxi",
       "name": "CydiaXI",
-      "latest": "2.0.1",
-      "repository": "CydiaXI",
-      "url": "http://cydia.saurik.com/package/us.evendev.cydiaxi/",
-      "shortDescription": "Making Cydia look more iOS 11-ish",
-      "category": "CydiaXI",
-      "author": "EvenDev",
+      "latest": "1.2",
+      "repository": "cydiaxi.at.ua",
+      "url": "http://cydiaxi.at.ua/",
+      "shortDescription": "A Tweak that Makes Cydia more iOS 11 like!",
+      "category": "Tweaks",
+      "author": "EvenD3V and ArtikusHG",
       "commercial": false,
-      "date": "2018-07-18T18:03:14Z",
       "versions": [
         {
-          "tweakVersion": "2.0.1",
+          "tweakVersion": "0.1",
           "iOSVersion": "11.2.6",
-          "repository": "EvenDev",
-          "date": "2018-10-13T11:07:19Z",
+          "repository": "Smacpats’ Repo",
+          "date": "2018-08-16T01:49:56Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -14171,6 +14171,40 @@
             "good": 2,
             "bad": 0,
             "total": 4,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.peterdev.livefish",
+      "name": "LiveFish",
+      "latest": "1.2.3",
+      "repository": "PeterDev Repository[NIGHTLY]",
+      "url": "http://cydia.saurik.com/package/com.peterdev.livefish/",
+      "shortDescription": "iOS 10의 물고기 라이브 배경화면을 iOS 11에 추가시켜줍니다.",
+      "category": "Tweaks",
+      "author": "PeterDev",
+      "commercial": false,
+      "date": "2018-07-27T15:13:12Z",
+      "versions": [
+        {
+          "tweakVersion": "1.2.3",
+          "iOSVersion": "11.2.6",
+          "repository": "Nexus",
+          "date": "2019-04-24T22:55:29Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
             "arch32": {
               "total": 0,
               "good": 0,
