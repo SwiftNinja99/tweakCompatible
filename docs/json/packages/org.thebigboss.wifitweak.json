@@ -304,11 +304,11 @@
       "repository": "BigBoss",
       "date": "2019-02-23T11:24:27Z",
       "outcome": {
-        "calculatedStatus": "Likely working",
-        "percentage": 50,
+        "calculatedStatus": "Not working",
+        "percentage": 33,
         "good": 1,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -334,6 +334,15 @@
           "date": "2019-04-19T23:08:08Z",
           "userName": "jedis00",
           "issueNumber": 84942,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPad5,3",
+          "issues": "Not doing anything, not showing in wifi settings, configuration of options not showing up",
+          "date": "2019-04-24T05:01:57Z",
+          "userName": "Haeckli",
+          "issueNumber": 85400,
           "arch32": false
         }
       ]
