@@ -2179,10 +2179,10 @@
       "date": "2019-04-21T14:52:00Z",
       "outcome": {
         "calculatedStatus": "Working",
-        "percentage": 80,
-        "good": 4,
+        "percentage": 83,
+        "good": 5,
         "bad": 0,
-        "total": 5,
+        "total": 6,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -2235,6 +2235,15 @@
           "date": "2019-04-23T11:19:28Z",
           "userName": "rhalo70",
           "issueNumber": 85303,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone9,1",
+          "issues": "Bug where icons still visible below original 9 when folder is closed",
+          "date": "2019-04-24T13:09:24Z",
+          "userName": "typotime",
+          "issueNumber": 85411,
           "arch32": false
         }
       ]
