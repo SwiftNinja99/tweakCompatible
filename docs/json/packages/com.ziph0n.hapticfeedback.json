@@ -713,10 +713,10 @@
       "date": "2019-02-23T00:26:25Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 66,
+        "percentage": 60,
         "good": 6,
         "bad": 0,
-        "total": 9,
+        "total": 10,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -805,6 +805,15 @@
           "date": "2019-03-07T23:55:17Z",
           "userName": "shedderrich",
           "issueNumber": 74626,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,4",
+          "issues": "",
+          "date": "2019-04-24T16:26:50Z",
+          "userName": "thevantes",
+          "issueNumber": 85424,
           "arch32": false
         }
       ]
