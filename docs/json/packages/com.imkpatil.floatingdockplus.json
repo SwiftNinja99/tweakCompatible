@@ -894,9 +894,9 @@
       "repository": "Packix",
       "date": "2019-04-19T04:29:56Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 100,
-        "good": 2,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
+        "good": 1,
         "bad": 0,
         "total": 2,
         "arch32": {
@@ -912,18 +912,18 @@
           "status": "working",
           "device": "iPhone10,5",
           "issues": "",
-          "date": "2019-04-19T04:29:56Z",
-          "userName": "FloreSuave97",
-          "issueNumber": 84872,
-          "arch32": false
-        },
-        {
-          "status": "working",
-          "device": "iPhone10,5",
-          "issues": "",
           "date": "2019-04-23T12:13:10Z",
           "userName": "METROID4",
           "issueNumber": 85310,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,5",
+          "issues": "",
+          "date": "2019-04-24T03:41:08Z",
+          "userName": "FloreSuave97",
+          "issueNumber": 85388,
           "arch32": false
         }
       ]
