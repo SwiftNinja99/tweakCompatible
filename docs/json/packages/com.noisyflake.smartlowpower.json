@@ -177,11 +177,11 @@
       "repository": "BigBoss",
       "date": "2019-02-24T18:39:17Z",
       "outcome": {
-        "calculatedStatus": "Likely working",
-        "percentage": 50,
+        "calculatedStatus": "Not working",
+        "percentage": 33,
         "good": 1,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -207,6 +207,15 @@
           "date": "2019-02-26T21:49:59Z",
           "userName": "Apollosito",
           "issueNumber": 68046,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone7,1",
+          "issues": "Going into Safe Mode ",
+          "date": "2019-04-25T08:40:08Z",
+          "userName": "skyguy98",
+          "issueNumber": 85478,
           "arch32": false
         }
       ]
