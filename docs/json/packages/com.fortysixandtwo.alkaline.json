@@ -2458,11 +2458,11 @@
       "repository": "ModMyi (Archive)",
       "date": "2019-02-23T10:23:49Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 80,
+        "calculatedStatus": "Likely working",
+        "percentage": 66,
         "good": 4,
         "bad": 0,
-        "total": 5,
+        "total": 6,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -2515,6 +2515,15 @@
           "date": "2019-03-10T20:44:03Z",
           "userName": "bernaction",
           "issueNumber": 76063,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,3",
+          "issues": "DOES NOTHING ",
+          "date": "2019-04-25T21:20:35Z",
+          "userName": "chriscegz",
+          "issueNumber": 85562,
           "arch32": false
         }
       ]
