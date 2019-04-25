@@ -1549,9 +1549,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 3,
+        "good": 4,
         "bad": 0,
-        "total": 3,
+        "total": 4,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1586,6 +1586,15 @@
           "date": "2019-03-10T15:19:21Z",
           "userName": "iSung951",
           "issueNumber": 75915,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone10,6",
+          "issues": "Don’t 3D Touch and swipe selection at the same time. Crashes app",
+          "date": "2019-04-25T17:23:08Z",
+          "userName": "NovaVFX",
+          "issueNumber": 85544,
           "arch32": false
         }
       ]
