@@ -142,9 +142,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 1,
+        "good": 2,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -161,6 +161,15 @@
           "date": "2019-04-12T20:15:20Z",
           "userName": "RCodispoti",
           "issueNumber": 84023,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone10,6",
+          "issues": "Enabling the option „Disable Shutter Sound“ will make Whatsapp Crash when trying to send or take a photo",
+          "date": "2019-04-25T08:28:59Z",
+          "userName": "wise-rice",
+          "issueNumber": 85477,
           "arch32": false
         }
       ]
