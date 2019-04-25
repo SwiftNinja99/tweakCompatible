@@ -16,11 +16,11 @@
       "repository": "repo.conorthedev.com",
       "date": "2019-04-24T23:04:24Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 100,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
         "good": 1,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -37,6 +37,15 @@
           "date": "2019-04-24T23:04:24Z",
           "userName": "suceel088",
           "issueNumber": 85451,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-04-25T07:49:53Z",
+          "userName": "xZjeo",
+          "issueNumber": 85468,
           "arch32": false
         }
       ]
