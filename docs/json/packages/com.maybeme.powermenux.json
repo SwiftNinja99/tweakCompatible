@@ -1,7 +1,7 @@
 {
   "id": "com.maybeme.powermenux",
   "name": "PowerMenuX BETA",
-  "latest": "0.7",
+  "latest": "0.8.0.1",
   "repository": "MayBeMe Repo",
   "url": "http://cydia.saurik.com/package/com.maybeme.powermenux/",
   "shortDescription": "Get a brand new Power Menu ! Beta Version !",
@@ -37,6 +37,37 @@
           "date": "2019-04-23T12:52:43Z",
           "userName": "fillupontacos",
           "issueNumber": 85317,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.8.0.1",
+      "iOSVersion": "12.1.2",
+      "repository": "MayBeMe Repo",
+      "date": "2019-04-25T11:51:39Z",
+      "outcome": {
+        "calculatedStatus": "Not working",
+        "percentage": 0,
+        "good": 0,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone10,6",
+          "issues": "Settings on Settings.app but no option to configure and not see.",
+          "date": "2019-04-25T11:51:39Z",
+          "userName": "mehdiizii",
+          "issueNumber": 85506,
           "arch32": false
         }
       ]
