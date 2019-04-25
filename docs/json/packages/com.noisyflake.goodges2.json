@@ -300,11 +300,11 @@
       "repository": "NoisyFlake",
       "date": "2019-03-23T23:27:51Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 100,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
         "good": 1,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -321,6 +321,15 @@
           "date": "2019-03-23T23:27:51Z",
           "userName": "OverHereIdiots",
           "issueNumber": 80299,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,3",
+          "issues": "NOTHING HAPPENS ",
+          "date": "2019-04-25T19:49:56Z",
+          "userName": "chriscegz",
+          "issueNumber": 85561,
           "arch32": false
         }
       ]
