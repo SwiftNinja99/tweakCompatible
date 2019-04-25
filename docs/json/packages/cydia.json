@@ -1,7 +1,7 @@
 {
   "id": "cydia",
   "name": "Cydia Installer",
-  "latest": "1.1.32~b12",
+  "latest": "1.9.2",
   "repository": "Cydia/Telesphoreo",
   "url": "http://cydia.saurik.com/package/cydia/",
   "shortDescription": "graphical iPhone front-end for APT",
@@ -3770,6 +3770,37 @@
           "date": "2019-03-18T08:09:59Z",
           "userName": "vipzen",
           "issueNumber": 78763,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.9.2",
+      "iOSVersion": "12.1.1",
+      "repository": "Diatrus/Misceo",
+      "date": "2019-04-25T17:47:55Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-04-25T17:47:55Z",
+          "userName": "Nixuge",
+          "issueNumber": 85553,
           "arch32": false
         }
       ]
