@@ -1423,11 +1423,11 @@
       "repository": "julioverne's Repo",
       "date": "2019-02-23T15:22:19Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 100,
+        "calculatedStatus": "Likely working",
+        "percentage": 75,
         "good": 3,
         "bad": 0,
-        "total": 3,
+        "total": 4,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1462,6 +1462,15 @@
           "date": "2019-02-24T21:20:33Z",
           "userName": "dunklesToast",
           "issueNumber": 65399,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,4",
+          "issues": "Causes Random Resprings!!! NOT WORKING!!! Irepeat: NOT WORKING! Even when its marked as works!!!!",
+          "date": "2019-04-26T16:08:34Z",
+          "userName": "S4MT3K",
+          "issueNumber": 85617,
           "arch32": false
         }
       ]
