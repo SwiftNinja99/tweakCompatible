@@ -1,7 +1,7 @@
 {
   "id": "com.anthopak.videoswipes",
   "name": "VideoSwipes",
-  "latest": "1.0",
+  "latest": "1.1",
   "repository": "BigBoss",
   "url": "http://cydia.saurik.com/package/com.anthopak.videoswipes/",
   "shortDescription": "Video swipe gestures for native video player",
@@ -117,6 +117,37 @@
           "date": "2019-04-25T07:50:40Z",
           "userName": "xZjeo",
           "issueNumber": 85469,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.1",
+      "iOSVersion": "12.1.1",
+      "repository": "BigBoss",
+      "date": "2019-04-26T19:12:08Z",
+      "outcome": {
+        "calculatedStatus": "Not working",
+        "percentage": 0,
+        "good": 0,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone10,3",
+          "issues": "",
+          "date": "2019-04-26T19:12:08Z",
+          "userName": "briancrink",
+          "issueNumber": 85626,
           "arch32": false
         }
       ]
