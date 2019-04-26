@@ -1,7 +1,7 @@
 {
   "id": "me.nepeta.astolfo",
   "name": "Astolfo",
-  "latest": "0.1.0",
+  "latest": "0.1.1",
   "repository": "Nepeta",
   "url": "http://cydia.saurik.com/package/me.nepeta.astolfo/",
   "shortDescription": "Astolfo Siri",
@@ -157,6 +157,37 @@
           "date": "2019-03-29T23:05:24Z",
           "userName": "MrGcGamer",
           "issueNumber": 81662,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.1.1",
+      "iOSVersion": "12.1.1",
+      "repository": "Nepeta",
+      "date": "2019-04-26T02:37:19Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,2",
+          "issues": "",
+          "date": "2019-04-26T02:37:19Z",
+          "userName": "CybrNight",
+          "issueNumber": 85585,
           "arch32": false
         }
       ]
