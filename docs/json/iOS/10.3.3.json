@@ -2084,40 +2084,6 @@
       ]
     },
     {
-      "id": "com.hackyouriphone.appcake2",
-      "name": "AppCake",
-      "latest": "5.5.7.2",
-      "repository": "HackYouriPhone",
-      "url": "http://cydia.saurik.com/package/com.hackyouriphone.appcake2/",
-      "shortDescription": "The new AppCake 5.5.7.2! Introducing Direct Download/Install!  Require AppSync to be installed ***",
-      "category": "HYI - Applications",
-      "author": "Mickael liang",
-      "commercial": false,
-      "date": "2018-03-26T07:58:39Z",
-      "versions": [
-        {
-          "tweakVersion": "5.5.7.2",
-          "iOSVersion": "10.3.3",
-          "repository": "HackYouriPhone",
-          "date": "2018-06-16T21:13:15Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 1,
-              "good": 1,
-              "bad": 0,
-              "percentage": 100,
-              "calculatedStatus": "Working"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.iphonecake.appcake2",
       "name": "AppCake",
       "latest": "5.6.0.2",
@@ -2153,6 +2119,40 @@
           "iOSVersion": "10.3.3",
           "repository": "AppCake",
           "date": "2018-04-14T02:12:56Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 1,
+              "good": 1,
+              "bad": 0,
+              "percentage": 100,
+              "calculatedStatus": "Working"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.hackyouriphone.appcake2",
+      "name": "AppCake",
+      "latest": "5.5.7.2",
+      "repository": "HackYouriPhone",
+      "url": "http://cydia.saurik.com/package/com.hackyouriphone.appcake2/",
+      "shortDescription": "The new AppCake 5.5.7.2! Introducing Direct Download/Install!  Require AppSync to be installed ***",
+      "category": "HYI - Applications",
+      "author": "Mickael liang",
+      "commercial": false,
+      "date": "2018-03-26T07:58:39Z",
+      "versions": [
+        {
+          "tweakVersion": "5.5.7.2",
+          "iOSVersion": "10.3.3",
+          "repository": "HackYouriPhone",
+          "date": "2018-06-16T21:13:15Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -3367,7 +3367,7 @@
     {
       "id": "me.autotouch.autotouch.ios8",
       "name": "AutoTouch",
-      "latest": "5.0.6",
+      "latest": "5.0.6-1",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/me.autotouch.autotouch.ios8/",
       "shortDescription": "Record and playback touch operations, play macro scripts automatically.",
@@ -3735,6 +3735,40 @@
       ]
     },
     {
+      "id": "com.hackyouriphone.barrel",
+      "name": "Barrel",
+      "latest": "1.8.1.1-1",
+      "repository": "HackYouriPhone",
+      "url": "http://cydia.saurik.com/package/com.hackyouriphone.barrel/",
+      "shortDescription": "3D and other effects on icon pages!",
+      "category": "HYI - Tweaks",
+      "author": "Aaron Ash (Charybdis)",
+      "commercial": false,
+      "date": "2018-03-17T19:03:33Z",
+      "versions": [
+        {
+          "tweakVersion": "1.8.1.1-1",
+          "iOSVersion": "10.3.3",
+          "repository": "HackYouriPhone",
+          "date": "2018-06-16T21:13:49Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 1,
+              "good": 1,
+              "bad": 0,
+              "percentage": 100,
+              "calculatedStatus": "Working"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.aaronash.barrel",
       "name": "Barrel",
       "latest": "1.8.1.1-1",
@@ -3782,40 +3816,6 @@
               "bad": 0,
               "percentage": 0,
               "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "com.hackyouriphone.barrel",
-      "name": "Barrel",
-      "latest": "1.8.1.1-1",
-      "repository": "HackYouriPhone",
-      "url": "http://cydia.saurik.com/package/com.hackyouriphone.barrel/",
-      "shortDescription": "3D and other effects on icon pages!",
-      "category": "HYI - Tweaks",
-      "author": "Aaron Ash (Charybdis)",
-      "commercial": false,
-      "date": "2018-03-17T19:03:33Z",
-      "versions": [
-        {
-          "tweakVersion": "1.8.1.1-1",
-          "iOSVersion": "10.3.3",
-          "repository": "HackYouriPhone",
-          "date": "2018-06-16T21:13:49Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 1,
-              "good": 1,
-              "bad": 0,
-              "percentage": 100,
-              "calculatedStatus": "Working"
             }
           }
         }
@@ -4968,7 +4968,7 @@
     {
       "id": "ca.ndoizo.bolders",
       "name": "Bolders",
-      "latest": "1.1.1-1",
+      "latest": "1.2",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/ca.ndoizo.bolders/",
       "shortDescription": "Bigger bolder folders",
@@ -6497,39 +6497,6 @@
       ]
     },
     {
-      "id": "com.rpetrich.cask",
-      "name": "Cask",
-      "latest": "0.2",
-      "repository": "rpetrich repo",
-      "url": "http://rpetri.ch/repo/",
-      "shortDescription": "Animated table scrolling inspired by Google Plus",
-      "category": "Tweaks",
-      "author": "Ryan Petrich",
-      "commercial": false,
-      "versions": [
-        {
-          "tweakVersion": "0.2",
-          "iOSVersion": "10.3.3",
-          "repository": "rpetrich repo",
-          "date": "2018-03-24T01:36:40Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.yourepo.kiiimo.cask",
       "name": "Cask",
       "latest": "0.2",
@@ -6558,6 +6525,39 @@
               "bad": 0,
               "percentage": 100,
               "calculatedStatus": "Working"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.rpetrich.cask",
+      "name": "Cask",
+      "latest": "0.2",
+      "repository": "rpetrich repo",
+      "url": "http://rpetri.ch/repo/",
+      "shortDescription": "Animated table scrolling inspired by Google Plus",
+      "category": "Tweaks",
+      "author": "Ryan Petrich",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "0.2",
+          "iOSVersion": "10.3.3",
+          "repository": "rpetrich repo",
+          "date": "2018-03-24T01:36:40Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
             }
           }
         }
@@ -6797,20 +6797,22 @@
       ]
     },
     {
-      "id": "io.ijapija00.ccrecorder",
+      "id": "com.hackyouriphone.ccrecorder",
       "name": "CCRecorder (iOS 10)",
-      "latest": "1.0.2.2",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/io.ijapija00.ccrecorder/",
-      "shortDescription": "Record Your Screen From The Control Center...",
-      "category": "Tweaks",
-      "author": "@ijapija00",
+      "latest": "1.0k",
+      "repository": "HackYouriPhone",
+      "url": "http://cydia.saurik.com/package/com.hackyouriphone.ccrecorder/",
+      "shortDescription": "Record Your Screen From The Control Center",
+      "category": "HYI - Tweaks",
+      "author": "ijapija00",
       "commercial": false,
+      "date": "2018-04-06T20:49:26Z",
       "versions": [
         {
-          "tweakVersion": "1.0.2.2",
+          "tweakVersion": "1.0k",
           "iOSVersion": "10.3.3",
-          "repository": "BigBoss",
+          "repository": "HackYouriPhone",
+          "date": "2018-04-06T20:49:26Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -6829,22 +6831,20 @@
       ]
     },
     {
-      "id": "com.hackyouriphone.ccrecorder",
+      "id": "io.ijapija00.ccrecorder",
       "name": "CCRecorder (iOS 10)",
-      "latest": "1.0k",
-      "repository": "HackYouriPhone",
-      "url": "http://cydia.saurik.com/package/com.hackyouriphone.ccrecorder/",
-      "shortDescription": "Record Your Screen From The Control Center",
-      "category": "HYI - Tweaks",
-      "author": "ijapija00",
+      "latest": "1.0.2.2",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/io.ijapija00.ccrecorder/",
+      "shortDescription": "Record Your Screen From The Control Center...",
+      "category": "Tweaks",
+      "author": "@ijapija00",
       "commercial": false,
-      "date": "2018-04-06T20:49:26Z",
       "versions": [
         {
-          "tweakVersion": "1.0k",
+          "tweakVersion": "1.0.2.2",
           "iOSVersion": "10.3.3",
-          "repository": "HackYouriPhone",
-          "date": "2018-04-06T20:49:26Z",
+          "repository": "BigBoss",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -7035,10 +7035,10 @@
     {
       "id": "ws.hbang.common",
       "name": "Cephei",
-      "latest": "1.12",
+      "latest": "1.13",
       "repository": "HASHBANG Productions",
       "url": "http://cydia.hbang.ws/",
-      "shortDescription": "Support library for tweak settings",
+      "shortDescription": "Support library for tweaks",
       "category": "Development",
       "author": "HASHBANG Productions",
       "commercial": false,
@@ -7433,22 +7433,21 @@
       ]
     },
     {
-      "id": "org.coolstar.circleicons",
+      "id": "com.vedboon.circleicons",
       "name": "CircleIcons",
-      "latest": "1.3.2",
-      "repository": "CoolStar's Repo",
-      "url": "http://cydia.saurik.com/package/org.coolstar.circleicons/",
-      "shortDescription": "Circle Icons with cool overlays!",
-      "category": "Themes",
-      "author": "CoolStar",
+      "latest": "1.1.3-15",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.vedboon.circleicons/",
+      "shortDescription": "circle shaped icons in Settings app",
+      "category": "Tweaks",
+      "author": "Javier (VedBoon) Brito",
       "commercial": false,
-      "date": "2018-03-02T04:34:20Z",
       "versions": [
         {
-          "tweakVersion": "1.3.2",
+          "tweakVersion": "1.1.3-15",
           "iOSVersion": "10.3.3",
-          "repository": "CoolStar's Repo",
-          "date": "2018-04-14T02:10:49Z",
+          "repository": "BigBoss",
+          "date": "2018-09-11T04:07:52Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -7467,21 +7466,22 @@
       ]
     },
     {
-      "id": "com.vedboon.circleicons",
+      "id": "org.coolstar.circleicons",
       "name": "CircleIcons",
-      "latest": "1.1.3-15",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/com.vedboon.circleicons/",
-      "shortDescription": "circle shaped icons in Settings app",
-      "category": "Tweaks",
-      "author": "Javier (VedBoon) Brito",
+      "latest": "1.3.2",
+      "repository": "CoolStar's Repo",
+      "url": "http://cydia.saurik.com/package/org.coolstar.circleicons/",
+      "shortDescription": "Circle Icons with cool overlays!",
+      "category": "Themes",
+      "author": "CoolStar",
       "commercial": false,
+      "date": "2018-03-02T04:34:20Z",
       "versions": [
         {
-          "tweakVersion": "1.1.3-15",
+          "tweakVersion": "1.3.2",
           "iOSVersion": "10.3.3",
-          "repository": "BigBoss",
-          "date": "2018-09-11T04:07:52Z",
+          "repository": "CoolStar's Repo",
+          "date": "2018-04-14T02:10:49Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -8197,6 +8197,39 @@
       ]
     },
     {
+      "id": "ru.domo.cocoatop",
+      "name": "CocoaTop",
+      "latest": "2.0.1",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/ru.domo.cocoatop/",
+      "shortDescription": "Process Viewer for iOS GUI",
+      "category": "Utilities",
+      "author": "Domo",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "2.0.1",
+          "iOSVersion": "10.3.3",
+          "repository": "BigBoss",
+          "date": "2018-04-17T17:53:29Z",
+          "outcome": {
+            "calculatedStatus": "Likely working",
+            "percentage": 50,
+            "good": 2,
+            "bad": 0,
+            "total": 4,
+            "arch32": {
+              "total": 2,
+              "good": 1,
+              "bad": 0,
+              "percentage": 50,
+              "calculatedStatus": "Likely working"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "ru.domo.cocoatop64",
       "name": "CocoaTop",
       "latest": "2.0.2-1+debug",
@@ -8225,39 +8258,6 @@
               "bad": 0,
               "percentage": 0,
               "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "ru.domo.cocoatop",
-      "name": "CocoaTop",
-      "latest": "2.0.1",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/ru.domo.cocoatop/",
-      "shortDescription": "Process Viewer for iOS GUI",
-      "category": "Utilities",
-      "author": "Domo",
-      "commercial": false,
-      "versions": [
-        {
-          "tweakVersion": "2.0.1",
-          "iOSVersion": "10.3.3",
-          "repository": "BigBoss",
-          "date": "2018-04-17T17:53:29Z",
-          "outcome": {
-            "calculatedStatus": "Likely working",
-            "percentage": 50,
-            "good": 2,
-            "bad": 0,
-            "total": 4,
-            "arch32": {
-              "total": 2,
-              "good": 1,
-              "bad": 0,
-              "percentage": 50,
-              "calculatedStatus": "Likely working"
             }
           }
         }
@@ -9516,7 +9516,7 @@
     {
       "id": "cydia",
       "name": "Cydia Installer",
-      "latest": "1.1.32~b12",
+      "latest": "1.9.2",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/cydia/",
       "shortDescription": "graphical iPhone front-end for APT",
@@ -9882,39 +9882,6 @@
       ]
     },
     {
-      "id": "org.thebigboss.datameter",
-      "name": "DataMeter",
-      "latest": "1.4-3",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/org.thebigboss.datameter/",
-      "shortDescription": "DataMeter for iOS 7-10 Notification Center",
-      "category": "Addons (NotificationCenter)",
-      "author": "Minuit",
-      "commercial": true,
-      "versions": [
-        {
-          "tweakVersion": "1.4-3",
-          "iOSVersion": "10.3.3",
-          "repository": "BigBoss",
-          "date": "2018-08-10T11:55:57Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 1,
-              "good": 1,
-              "bad": 0,
-              "percentage": 100,
-              "calculatedStatus": "Working"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.hackyouriphone.datameter",
       "name": "DataMeter",
       "latest": "1.4-3",
@@ -9943,6 +9910,39 @@
               "bad": 0,
               "percentage": 0,
               "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "org.thebigboss.datameter",
+      "name": "DataMeter",
+      "latest": "1.4-3",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/org.thebigboss.datameter/",
+      "shortDescription": "DataMeter for iOS 7-10 Notification Center",
+      "category": "Addons (NotificationCenter)",
+      "author": "Minuit",
+      "commercial": true,
+      "versions": [
+        {
+          "tweakVersion": "1.4-3",
+          "iOSVersion": "10.3.3",
+          "repository": "BigBoss",
+          "date": "2018-08-10T11:55:57Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 1,
+              "good": 1,
+              "bad": 0,
+              "percentage": 100,
+              "calculatedStatus": "Working"
             }
           }
         }
@@ -9985,7 +9985,7 @@
     {
       "id": "dpkg",
       "name": "Debian Packager",
-      "latest": "1.18.25-11",
+      "latest": "1.19.2-4dark",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/dpkg/",
       "shortDescription": "package maintainance tools from Debian",
@@ -11267,7 +11267,7 @@
     {
       "id": "com.ps.emojiattributes",
       "name": "EmojiAttributes",
-      "latest": "1.3.17",
+      "latest": "1.3.18",
       "repository": "PoomSmart's Repo",
       "url": "http://poomsmart.github.io/repo/",
       "shortDescription": "Various under-the-hood fixes for emoji display.",
@@ -11578,39 +11578,6 @@
       ]
     },
     {
-      "id": "com.r333d.equalizereverywhere",
-      "name": "EqualizerEverywhere",
-      "latest": "1.5.9.2",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/com.r333d.equalizereverywhere/",
-      "shortDescription": "Equalizer that applies to every app",
-      "category": "Tweaks",
-      "author": "Reed Weichler",
-      "commercial": true,
-      "versions": [
-        {
-          "tweakVersion": "1.5.9.2",
-          "iOSVersion": "10.3.3",
-          "repository": "BigBoss",
-          "date": "2018-03-03T20:47:37Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 2,
-            "bad": 0,
-            "total": 2,
-            "arch32": {
-              "total": 2,
-              "good": 2,
-              "bad": 0,
-              "percentage": 100,
-              "calculatedStatus": "Working"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.hackyouriphone.equalizereverywhere",
       "name": "EqualizerEverywhere",
       "latest": "1.5.9.2",
@@ -11636,6 +11603,39 @@
             "arch32": {
               "total": 1,
               "good": 1,
+              "bad": 0,
+              "percentage": 100,
+              "calculatedStatus": "Working"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.r333d.equalizereverywhere",
+      "name": "EqualizerEverywhere",
+      "latest": "1.5.9.2",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.r333d.equalizereverywhere/",
+      "shortDescription": "Equalizer that applies to every app",
+      "category": "Tweaks",
+      "author": "Reed Weichler",
+      "commercial": true,
+      "versions": [
+        {
+          "tweakVersion": "1.5.9.2",
+          "iOSVersion": "10.3.3",
+          "repository": "BigBoss",
+          "date": "2018-03-03T20:47:37Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 2,
+            "bad": 0,
+            "total": 2,
+            "arch32": {
+              "total": 2,
+              "good": 2,
               "bad": 0,
               "percentage": 100,
               "calculatedStatus": "Working"
@@ -13437,7 +13437,7 @@
     {
       "id": "flex3beta",
       "name": "Flex 3 Beta",
-      "latest": "3~Beta61",
+      "latest": "3~Beta62",
       "repository": "Delta",
       "url": "http://getdelta.co/",
       "shortDescription": "Develop your own tweaks and share them on the Flex Community Cloud",
@@ -16023,7 +16023,7 @@
     {
       "id": "com.exile90.icleanerpro",
       "name": "iCleaner Pro",
-      "latest": "7.7.2",
+      "latest": "7.7.1",
       "repository": "Karen's Repo",
       "url": "http://ib-soft.net/icleaner",
       "shortDescription": "The first real iOS system cleaner & optimizer",
@@ -16571,10 +16571,10 @@
     {
       "id": "tw.hiraku.ikeywi3",
       "name": "iKeywi 3 (iOS 8/9/10)",
-      "latest": "3.3.2",
+      "latest": "3.3.3",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/tw.hiraku.ikeywi3/",
-      "shortDescription": "Customizable Extra Row for Keyboards",
+      "shortDescription": "Adding a customizable row of keyboard",
       "category": "Tweaks",
       "author": "Hiraku",
       "commercial": true,
@@ -16697,6 +16697,40 @@
               "bad": 0,
               "percentage": 100,
               "calculatedStatus": "Working"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.pxcex.inmessageplus",
+      "name": "InMessage Plus",
+      "latest": "0.0.2",
+      "repository": "(null)",
+      "url": "http://cydia.saurik.com/package/com.pxcex.inmessageplus/",
+      "shortDescription": "Unlock Feature VIP Only.",
+      "category": "Tweaks",
+      "author": "pxcex",
+      "commercial": false,
+      "date": "2019-04-26T17:18:10Z",
+      "versions": [
+        {
+          "tweakVersion": "0.0.2",
+          "iOSVersion": "10.3.3",
+          "repository": "(null)",
+          "date": "2019-04-26T17:18:10Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
             }
           }
         }
@@ -17932,22 +17966,22 @@
       ]
     },
     {
-      "id": "net.hollr2099.kinemasterpp",
-      "name": "KineMaster++",
-      "latest": "1.0.0.0",
-      "repository": "Hollr2099.net Cydia Repo",
-      "url": "http://cydia.saurik.com/package/net.hollr2099.kinemasterpp/",
-      "shortDescription": "Free Paid Subscription On KineMaster",
+      "id": "com.lnx.kittloader",
+      "name": "KITTLoader",
+      "latest": "1.0.2-1",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.lnx.kittloader/",
+      "shortDescription": "A crazy activity indicator view!",
       "category": "Tweaks",
-      "author": "SarahH12099",
+      "author": "LonestarX",
       "commercial": false,
-      "date": "2019-03-04T21:45:53Z",
+      "date": "2018-05-14T15:45:17Z",
       "versions": [
         {
-          "tweakVersion": "1.0.0.0",
+          "tweakVersion": "1.0.0-1",
           "iOSVersion": "10.3.3",
-          "repository": "Hollr2099.net Cydia Repo",
-          "date": "2019-03-04T21:45:53Z",
+          "repository": "BigBoss",
+          "date": "2018-05-16T15:20:53Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -17982,40 +18016,6 @@
           "iOSVersion": "10.3.3",
           "repository": "lonestarx Source - YouRepo",
           "date": "2018-05-22T18:28:37Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "com.lnx.kittloader",
-      "name": "KITTLoader",
-      "latest": "1.0.2-1",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/com.lnx.kittloader/",
-      "shortDescription": "A crazy activity indicator view!",
-      "category": "Tweaks",
-      "author": "LonestarX",
-      "commercial": false,
-      "date": "2018-05-14T15:45:17Z",
-      "versions": [
-        {
-          "tweakVersion": "1.0.0-1",
-          "iOSVersion": "10.3.3",
-          "repository": "BigBoss",
-          "date": "2018-05-16T15:20:53Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -18593,40 +18593,6 @@
       ]
     },
     {
-      "id": "com.hackyouriphone.liberty",
-      "name": "Liberty",
-      "latest": "0.2.9",
-      "repository": "HackYouriPhone",
-      "url": "http://cydia.saurik.com/package/com.hackyouriphone.liberty/",
-      "shortDescription": "A general purpose jailbreak detection bypass patch. Use the Liberty entry in the Settings app to block (most) apps from detecting your jailbreak. Cydia Substrate can be selectively disabled, but this isn't required for many apps.",
-      "category": "HYI - Tweaks",
-      "author": "Ryley Angus",
-      "commercial": false,
-      "date": "2018-03-02T18:05:59Z",
-      "versions": [
-        {
-          "tweakVersion": "0.1.18",
-          "iOSVersion": "10.3.3",
-          "repository": "HackYouriPhone",
-          "date": "2018-03-05T20:48:11Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.ryleyangus.liberty",
       "name": "Liberty",
       "latest": "0.2.10",
@@ -18702,6 +18668,40 @@
           "iOSVersion": "10.3.3",
           "repository": "Ryley's Repo",
           "date": "2018-07-20T18:21:49Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.hackyouriphone.liberty",
+      "name": "Liberty",
+      "latest": "0.2.9",
+      "repository": "HackYouriPhone",
+      "url": "http://cydia.saurik.com/package/com.hackyouriphone.liberty/",
+      "shortDescription": "A general purpose jailbreak detection bypass patch. Use the Liberty entry in the Settings app to block (most) apps from detecting your jailbreak. Cydia Substrate can be selectively disabled, but this isn't required for many apps.",
+      "category": "HYI - Tweaks",
+      "author": "Ryley Angus",
+      "commercial": false,
+      "date": "2018-03-02T18:05:59Z",
+      "versions": [
+        {
+          "tweakVersion": "0.1.18",
+          "iOSVersion": "10.3.3",
+          "repository": "HackYouriPhone",
+          "date": "2018-03-05T20:48:11Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -19072,22 +19072,22 @@
       ]
     },
     {
-      "id": "com.hackyouriphone.linktunesios8",
+      "id": "com.repo.xarold.com.linktunesios8",
       "name": "LinkTunes for iOS 8",
-      "latest": "1.4.5",
-      "repository": "HackYouriPhone",
-      "url": "http://cydia.saurik.com/package/com.hackyouriphone.linktunesios8/",
+      "latest": "1.4.5k",
+      "repository": "repo.xarold.com",
+      "url": "http://cydia.saurik.com/package/com.repo.xarold.com.linktunesios8/",
       "shortDescription": "A new way to download Mp3 for free directly from iTunesStore! An HackYouriPhone Exclusive, ENJOY IT :)",
-      "category": "HYI - Tweaks",
+      "category": "Tweaks",
       "author": "PowerSDev",
       "commercial": false,
-      "date": "2018-03-04T06:53:56Z",
+      "date": "2018-03-02T09:56:40Z",
       "versions": [
         {
-          "tweakVersion": "1.4.5",
+          "tweakVersion": "1.4.5k",
           "iOSVersion": "10.3.3",
-          "repository": "HackYouriPhone",
-          "date": "2018-03-10T15:13:03Z",
+          "repository": "Xarold Repo",
+          "date": "2018-03-10T17:26:08Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -19106,22 +19106,22 @@
       ]
     },
     {
-      "id": "com.repo.xarold.com.linktunesios8",
+      "id": "com.hackyouriphone.linktunesios8",
       "name": "LinkTunes for iOS 8",
-      "latest": "1.4.5k",
-      "repository": "repo.xarold.com",
-      "url": "http://cydia.saurik.com/package/com.repo.xarold.com.linktunesios8/",
+      "latest": "1.4.5",
+      "repository": "HackYouriPhone",
+      "url": "http://cydia.saurik.com/package/com.hackyouriphone.linktunesios8/",
       "shortDescription": "A new way to download Mp3 for free directly from iTunesStore! An HackYouriPhone Exclusive, ENJOY IT :)",
-      "category": "Tweaks",
+      "category": "HYI - Tweaks",
       "author": "PowerSDev",
       "commercial": false,
-      "date": "2018-03-02T09:56:40Z",
+      "date": "2018-03-04T06:53:56Z",
       "versions": [
         {
-          "tweakVersion": "1.4.5k",
+          "tweakVersion": "1.4.5",
           "iOSVersion": "10.3.3",
-          "repository": "Xarold Repo",
-          "date": "2018-03-10T17:26:08Z",
+          "repository": "HackYouriPhone",
+          "date": "2018-03-10T15:13:03Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -24284,10 +24284,10 @@
     {
       "id": "openssl",
       "name": "OpenSSL",
-      "latest": "1.0.2r-1",
+      "latest": "0.9.8zg-13",
       "repository": "Electra's iOS Utilities",
       "url": "http://cydia.saurik.com/package/openssl/",
-      "shortDescription": "OpenSSL tools",
+      "shortDescription": "SSL library and cryptographic tools",
       "category": "Security",
       "author": "(null)",
       "commercial": false,
@@ -24834,6 +24834,40 @@
       ]
     },
     {
+      "id": "com.ioscreatix.peek-a-boo",
+      "name": "Peek-a-Boo",
+      "latest": "11.0.3",
+      "repository": "iOS Creatix",
+      "url": "http://cydia.saurik.com/package/com.ioscreatix.peek-a-boo/",
+      "shortDescription": "3D Touch for Non-3D Touch Devices",
+      "category": "Tweaks",
+      "author": "iOS Creatix",
+      "commercial": false,
+      "date": "2018-03-02T01:15:51Z",
+      "versions": [
+        {
+          "tweakVersion": "11.0.3",
+          "iOSVersion": "10.3.3",
+          "repository": "Packix",
+          "date": "2018-07-30T17:37:27Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 2,
+            "bad": 0,
+            "total": 2,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.creatix.peek-a-boo",
       "name": "Peek-a-Boo",
       "latest": "4.0.0",
@@ -24874,40 +24908,6 @@
             "good": 1,
             "bad": 0,
             "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "com.ioscreatix.peek-a-boo",
-      "name": "Peek-a-Boo",
-      "latest": "11.0.3",
-      "repository": "iOS Creatix",
-      "url": "http://cydia.saurik.com/package/com.ioscreatix.peek-a-boo/",
-      "shortDescription": "3D Touch for Non-3D Touch Devices",
-      "category": "Tweaks",
-      "author": "iOS Creatix",
-      "commercial": false,
-      "date": "2018-03-02T01:15:51Z",
-      "versions": [
-        {
-          "tweakVersion": "11.0.3",
-          "iOSVersion": "10.3.3",
-          "repository": "Packix",
-          "date": "2018-07-30T17:37:27Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 2,
-            "bad": 0,
-            "total": 2,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -25507,7 +25507,7 @@
     {
       "id": "com.dave1482.powerapp",
       "name": "PowerApp",
-      "latest": "4.3.0",
+      "latest": "4.3.1",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.dave1482.powerapp/",
       "shortDescription": "Reboot, Shutdown, Respring, and more easily —  Supports iOS 3.0-iOS 12.1.2+",
@@ -29981,38 +29981,6 @@
       ]
     },
     {
-      "id": "repo.biteyourapple.net.spotilife",
-      "name": "Spotilife",
-      "latest": "0.9",
-      "repository": "BiteYourApple",
-      "url": "http://repo.biteyourapple.net/",
-      "shortDescription": "Spotify Unlimited Skips, Remove ADs, Extreme Quality Stream Unlocked... Requires Spotify App (AppStore)",
-      "category": "BYA Apps",
-      "author": "BYA Repository",
-      "commercial": false,
-      "versions": [
-        {
-          "tweakVersion": "0.8",
-          "iOSVersion": "10.3.3",
-          "repository": "BiteYourApple",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 1,
-              "good": 1,
-              "bad": 0,
-              "percentage": 100,
-              "calculatedStatus": "Working"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.hackyouriphone.spotilife",
       "name": "Spotilife",
       "latest": "1.0",
@@ -30061,6 +30029,38 @@
               "bad": 0,
               "percentage": 0,
               "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "repo.biteyourapple.net.spotilife",
+      "name": "Spotilife",
+      "latest": "0.9",
+      "repository": "BiteYourApple",
+      "url": "http://repo.biteyourapple.net/",
+      "shortDescription": "Spotify Unlimited Skips, Remove ADs, Extreme Quality Stream Unlocked... Requires Spotify App (AppStore)",
+      "category": "BYA Apps",
+      "author": "BYA Repository",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "0.8",
+          "iOSVersion": "10.3.3",
+          "repository": "BiteYourApple",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 1,
+              "good": 1,
+              "bad": 0,
+              "percentage": 100,
+              "calculatedStatus": "Working"
             }
           }
         }
@@ -31090,7 +31090,7 @@
     {
       "id": "com.c1d3r.switches",
       "name": "Switches",
-      "latest": "1.1",
+      "latest": "1.3",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.c1d3r.switches/",
       "shortDescription": "Add a little flair to your switches",
@@ -31192,7 +31192,7 @@
     {
       "id": "xyz.xninja.systeminfo",
       "name": "System Info",
-      "latest": "2.2.1-9+debug",
+      "latest": "2.2.1-10+debug",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/xyz.xninja.systeminfo/",
       "shortDescription": "System information in Settings app > General > About, and other sections. Set boot-nonce, save shsh, battery info etc",
@@ -31896,7 +31896,7 @@
     {
       "id": "top",
       "name": "top",
-      "latest": "39-1",
+      "latest": "39-4",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/top/",
       "shortDescription": "at-a-glance process watching tool",
@@ -33934,7 +33934,7 @@
     {
       "id": "com.fouadraheb.watusi",
       "name": "Watusi 2 for WhatsApp",
-      "latest": "1.1.9",
+      "latest": "1.1.11",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.fouadraheb.watusi/",
       "shortDescription": "The all-in-one tweak for WhatsApp Messenger",
@@ -34326,7 +34326,7 @@
     {
       "id": "com.f0u4d.watusitools",
       "name": "WatusiTools",
-      "latest": "2.0.9",
+      "latest": "2.0.11",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.f0u4d.watusitools/",
       "shortDescription": "Library for Watusi and WhatsApp tweaks",
@@ -35248,7 +35248,7 @@
     {
       "id": "com.matchstic.xenhtml",
       "name": "Xen HTML",
-      "latest": "0.4rc8",
+      "latest": "0.5-2",
       "repository": "xenpublic.incendo.ws",
       "url": "http://cydia.saurik.com/package/com.matchstic.xenhtml/",
       "shortDescription": "Unified HTML rendering; lockscreen and homescreen",
