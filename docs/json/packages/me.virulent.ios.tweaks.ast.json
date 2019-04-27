@@ -191,6 +191,37 @@
           "arch32": false
         }
       ]
+    },
+    {
+      "tweakVersion": "1.0",
+      "iOSVersion": "12.1.1",
+      "repository": "BigBoss",
+      "date": "2019-04-27T16:04:48Z",
+      "outcome": {
+        "calculatedStatus": "Not working",
+        "percentage": 0,
+        "good": 0,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPad5,3",
+          "issues": "Installs but status-time never changes. Seems to be unfunctional on iPad. Works well on iPhone",
+          "date": "2019-04-27T16:04:48Z",
+          "userName": "Haeckli",
+          "issueNumber": 85713,
+          "arch32": false
+        }
+      ]
     }
   ]
 }
