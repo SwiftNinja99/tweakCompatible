@@ -531,10 +531,10 @@
       "date": "2019-03-01T14:56:21Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 50,
-        "good": 1,
+        "percentage": 66,
+        "good": 2,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -560,6 +560,15 @@
           "date": "2019-03-31T02:04:13Z",
           "userName": "Vipsaeed",
           "issueNumber": 81956,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone10,2",
+          "issues": "",
+          "date": "2019-04-27T01:56:54Z",
+          "userName": "burkybang",
+          "issueNumber": 85653,
           "arch32": false
         }
       ]
