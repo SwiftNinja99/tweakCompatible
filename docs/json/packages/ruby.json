@@ -1,10 +1,10 @@
 {
   "id": "ruby",
   "name": "Ruby",
-  "latest": "2.5.3-2",
+  "latest": "2.2.3-4",
   "repository": "Bingner/Elucubratus",
   "url": "http://cydia.saurik.com/package/ruby/",
-  "shortDescription": "optimized for developer happiness",
+  "shortDescription": "Ruby ported to iOS 8+.",
   "category": "Scripting",
   "author": "(null)",
   "commercial": false,
@@ -130,6 +130,37 @@
           "date": "2019-02-27T23:54:39Z",
           "userName": "airsquared",
           "issueNumber": 69056,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.2.3-4",
+      "iOSVersion": "10.1.1",
+      "repository": "Starwarsfan2099's Repo",
+      "date": "2019-04-27T03:48:50Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,4",
+          "issues": "",
+          "date": "2019-04-27T03:48:50Z",
+          "userName": "edmechem",
+          "issueNumber": 85661,
           "arch32": false
         }
       ]
