@@ -1,7 +1,7 @@
 {
   "id": "com.rpetrich.rocketbootstrap",
   "name": "RocketBootstrap",
-  "latest": "1.0.7~beta2",
+  "latest": "1.0.7~beta3",
   "repository": "BigBoss",
   "url": "http://cydia.saurik.com/package/com.rpetrich.rocketbootstrap/",
   "shortDescription": "Support library allowing tweaks to communicate with sandboxed processes",
@@ -3031,6 +3031,37 @@
           "userName": "bernaction",
           "issueNumber": 84950,
           "arch32": true
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.7~beta3",
+      "iOSVersion": "12.1.1",
+      "repository": "rpetrich repo",
+      "date": "2019-04-28T17:13:43Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,4",
+          "issues": "",
+          "date": "2019-04-28T17:13:43Z",
+          "userName": "kroskiii",
+          "issueNumber": 85837,
+          "arch32": false
         }
       ]
     }
