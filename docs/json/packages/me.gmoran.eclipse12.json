@@ -1,7 +1,7 @@
 {
   "id": "me.gmoran.eclipse12",
   "name": "Eclipse 12 Beta (iOS 12)",
-  "latest": "6.0.4-7",
+  "latest": "6.1",
   "repository": "Eclipse 12 Beta Repo",
   "url": "http://cydia.saurik.com/package/me.gmoran.eclipse12/",
   "shortDescription": "Customizable Dark Mode for iOS 12!",
@@ -1917,6 +1917,37 @@
           "date": "2019-03-29T07:41:15Z",
           "userName": "dangerfrass917",
           "issueNumber": 81520,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "6.1",
+      "iOSVersion": "12.1.1",
+      "repository": "Packix",
+      "date": "2019-04-28T02:17:37Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "",
+          "date": "2019-04-28T02:17:37Z",
+          "userName": "813Samauarai",
+          "issueNumber": 85741,
           "arch32": false
         }
       ]
