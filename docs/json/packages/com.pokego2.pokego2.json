@@ -1,10 +1,10 @@
 {
   "id": "com.pokego2.pokego2",
   "name": "PokeGo++ 2.0 for Pokemon Go!",
-  "latest": "2.0r-110",
+  "latest": "2.0r113-0.141.1",
   "repository": "pokego2.com",
   "url": "http://pokego2.com/",
-  "shortDescription": "Hacks and more for Pokemon GO!!! Bypass JB Detection.",
+  "shortDescription": "This is a partial bypass. You will be detected every 5-30 min. We block the detection with a \"Network Error\" message. Simply close and reopen. You will not be prompted for credentials again.",
   "category": "Tweaks",
   "author": "PokeGo2.0 Devs",
   "commercial": false,
@@ -772,6 +772,37 @@
           "date": "2019-04-22T05:50:12Z",
           "userName": "shanebenning",
           "issueNumber": 85163,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0r113-0.141.1",
+      "iOSVersion": "10.2",
+      "repository": "globalplusplus.github.io",
+      "date": "2019-04-28T16:31:36Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,4",
+          "issues": "",
+          "date": "2019-04-28T16:31:36Z",
+          "userName": "HackerPide",
+          "issueNumber": 85823,
           "arch32": false
         }
       ]
