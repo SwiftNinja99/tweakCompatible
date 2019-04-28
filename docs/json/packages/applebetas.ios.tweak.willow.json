@@ -1,7 +1,7 @@
 {
   "id": "applebetas.ios.tweak.willow",
   "name": "Ultrasound",
-  "latest": "1.2.5",
+  "latest": "1.2.6",
   "repository": "Dynastic Repo",
   "url": "http://cydia.saurik.com/package/applebetas.ios.tweak.willow/",
   "shortDescription": "The volume HUD you deserve. — Supports iOS 11 and 12.",
@@ -1504,6 +1504,37 @@
           "date": "2019-04-12T13:53:23Z",
           "userName": "hanzxy",
           "issueNumber": 83971,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.2.6",
+      "iOSVersion": "12.1.1",
+      "repository": "Dynastic Repo",
+      "date": "2019-04-28T16:50:25Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "",
+          "date": "2019-04-28T16:50:25Z",
+          "userName": "813Samauarai",
+          "issueNumber": 85827,
           "arch32": false
         }
       ]
