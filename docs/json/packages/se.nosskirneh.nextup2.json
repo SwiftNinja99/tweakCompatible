@@ -1,7 +1,7 @@
 {
   "id": "se.nosskirneh.nextup2",
   "name": "NextUp 2 (iOS 12)",
-  "latest": "1.0~beta5",
+  "latest": "1.0~beta6",
   "repository": "henrikssonbrothers",
   "url": "http://cydia.saurik.com/package/se.nosskirneh.nextup2/",
   "shortDescription": "See and change the next track",
@@ -387,6 +387,37 @@
           "date": "2019-04-27T08:09:36Z",
           "userName": "igetausername",
           "issueNumber": 85671,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0~beta6",
+      "iOSVersion": "12.1.1",
+      "repository": "henrikssonbrothers",
+      "date": "2019-04-28T14:04:59Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,3",
+          "issues": "",
+          "date": "2019-04-28T14:04:59Z",
+          "userName": "fillupontacos",
+          "issueNumber": 85795,
           "arch32": false
         }
       ]
