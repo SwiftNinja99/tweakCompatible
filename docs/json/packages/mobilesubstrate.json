@@ -1,10 +1,10 @@
 {
   "id": "mobilesubstrate",
   "name": "Cydia Substrate",
-  "latest": "0.9.7032",
+  "latest": "420.0.0-5",
   "repository": "Cydia/Telesphoreo",
   "url": "http://cydia.saurik.com/package/mobilesubstrate/",
-  "shortDescription": "powerful code insertion platform",
+  "shortDescription": "Satisfies the Substrate requirement when using Meridian Substitute.",
   "category": "System",
   "author": "Jay Freeman (saurik)",
   "commercial": false,
@@ -2768,6 +2768,37 @@
           "date": "2019-03-27T06:31:03Z",
           "userName": "tsxcobra",
           "issueNumber": 81071,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "420.0.0-5",
+      "iOSVersion": "10.2",
+      "repository": "The Midnight Repo",
+      "date": "2019-04-28T11:16:29Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,4",
+          "issues": "",
+          "date": "2019-04-28T11:16:29Z",
+          "userName": "HackerPide",
+          "issueNumber": 85777,
           "arch32": false
         }
       ]
