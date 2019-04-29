@@ -7450,40 +7450,6 @@
       ]
     },
     {
-      "id": "com.yourepo.ohshitwaddup.bolders",
-      "name": "Bolders",
-      "latest": "1.0.1tempfix",
-      "repository": "ohshit_waddup - YouRepo",
-      "url": "http://cydia.saurik.com/package/com.yourepo.ohshitwaddup.bolders/",
-      "shortDescription": "Bigger, bolder folders! (Temp fix)",
-      "category": "Tweaks",
-      "author": "candoizo",
-      "commercial": false,
-      "date": "2019-02-24T10:58:14Z",
-      "versions": [
-        {
-          "tweakVersion": "1.0.1tempfix",
-          "iOSVersion": "12.1",
-          "repository": "ohshit_waddup - YouRepo",
-          "date": "2019-02-24T10:58:14Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "ca.ndoizo.bolders",
       "name": "Bolders",
       "latest": "1.2",
@@ -7539,6 +7505,40 @@
           "iOSVersion": "12.1",
           "repository": "BigBoss",
           "date": "2019-04-26T03:39:08Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.yourepo.ohshitwaddup.bolders",
+      "name": "Bolders",
+      "latest": "1.0.1tempfix",
+      "repository": "ohshit_waddup - YouRepo",
+      "url": "http://cydia.saurik.com/package/com.yourepo.ohshitwaddup.bolders/",
+      "shortDescription": "Bigger, bolder folders! (Temp fix)",
+      "category": "Tweaks",
+      "author": "candoizo",
+      "commercial": false,
+      "date": "2019-02-24T10:58:14Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0.1tempfix",
+          "iOSVersion": "12.1",
+          "repository": "ohshit_waddup - YouRepo",
+          "date": "2019-02-24T10:58:14Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -27086,26 +27086,26 @@
       ]
     },
     {
-      "id": "com.repo.xarold.com.jellyfishcrack",
+      "id": "com.dpkg.jellyfish",
       "name": "Jellyfish",
-      "latest": "1.0.2",
-      "repository": "(null)",
-      "url": "http://cydia.saurik.com/package/com.repo.xarold.com.jellyfishcrack/",
-      "shortDescription": "Inspired by the watchOS Motion face, Jellyfish aims to make your Lock screen more modern, more beautiful, and more useful.Jellyfish refreshes the Lock screen with a beautiful time, emphasizing both the time and date. The date takes its colour from your wallpaper, creating a beautiful blended effect, while still retaining its legibility.Jellyfish also adds weather to your Lock screen, so you can always view it at a quick glance. While adding this new level of information, your Lock screen retains its simplicity, avoiding a cluttered look.",
+      "latest": "0.1.9b",
+      "repository": "dpkg9510's Repo",
+      "url": "http://cydia.saurik.com/package/com.dpkg.jellyfish/",
+      "shortDescription": "A true-black dark mode.",
       "category": "Tweaks",
-      "author": "Justin Proulx and AppleBetas",
+      "author": "dpkg_",
       "commercial": false,
-      "date": "2019-02-27T21:40:50Z",
+      "date": "2018-11-03T16:55:22Z",
       "versions": [
         {
-          "tweakVersion": "1.0.2",
+          "tweakVersion": "0.1.9b",
           "iOSVersion": "12.1",
-          "repository": "(null)",
-          "date": "2019-02-27T21:40:50Z",
+          "repository": "dpkg9510's Repo",
+          "date": "2019-03-01T23:23:09Z",
           "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
+            "calculatedStatus": "Not working",
+            "percentage": 0,
+            "good": 0,
             "bad": 0,
             "total": 1,
             "arch32": {
@@ -27254,26 +27254,26 @@
       ]
     },
     {
-      "id": "com.dpkg.jellyfish",
+      "id": "com.repo.xarold.com.jellyfishcrack",
       "name": "Jellyfish",
-      "latest": "0.1.9b",
-      "repository": "dpkg9510's Repo",
-      "url": "http://cydia.saurik.com/package/com.dpkg.jellyfish/",
-      "shortDescription": "A true-black dark mode.",
+      "latest": "1.0.2",
+      "repository": "(null)",
+      "url": "http://cydia.saurik.com/package/com.repo.xarold.com.jellyfishcrack/",
+      "shortDescription": "Inspired by the watchOS Motion face, Jellyfish aims to make your Lock screen more modern, more beautiful, and more useful.Jellyfish refreshes the Lock screen with a beautiful time, emphasizing both the time and date. The date takes its colour from your wallpaper, creating a beautiful blended effect, while still retaining its legibility.Jellyfish also adds weather to your Lock screen, so you can always view it at a quick glance. While adding this new level of information, your Lock screen retains its simplicity, avoiding a cluttered look.",
       "category": "Tweaks",
-      "author": "dpkg_",
+      "author": "Justin Proulx and AppleBetas",
       "commercial": false,
-      "date": "2018-11-03T16:55:22Z",
+      "date": "2019-02-27T21:40:50Z",
       "versions": [
         {
-          "tweakVersion": "0.1.9b",
+          "tweakVersion": "1.0.2",
           "iOSVersion": "12.1",
-          "repository": "dpkg9510's Repo",
-          "date": "2019-03-01T23:23:09Z",
+          "repository": "(null)",
+          "date": "2019-02-27T21:40:50Z",
           "outcome": {
-            "calculatedStatus": "Not working",
-            "percentage": 0,
-            "good": 0,
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
             "bad": 0,
             "total": 1,
             "arch32": {
@@ -28852,6 +28852,26 @@
           "iOSVersion": "12.1",
           "repository": "PoomSmart's Repo",
           "date": "2019-04-02T12:53:28Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        },
+        {
+          "tweakVersion": "0.0.6.4",
+          "iOSVersion": "12.1",
+          "repository": "PoomSmart's Repo",
+          "date": "2019-04-29T16:24:45Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -56065,22 +56085,22 @@
       ]
     },
     {
-      "id": "xz",
+      "id": "lzma",
       "name": "XZ Utils",
-      "latest": "5.2.4-4",
-      "repository": "Bingner/Elucubratus",
-      "url": "http://cydia.saurik.com/package/xz/",
+      "latest": "5.2.4-1",
+      "repository": "Electra's iOS Utilities",
+      "url": "http://cydia.saurik.com/package/lzma/",
       "shortDescription": "slower, but better, compression algorithm",
       "category": "Archiving",
       "author": "(null)",
       "commercial": false,
-      "date": "2018-10-24T08:16:57Z",
+      "date": "2018-03-04T19:03:45Z",
       "versions": [
         {
-          "tweakVersion": "5.2.4-4",
+          "tweakVersion": "4.32.7-2",
           "iOSVersion": "12.1",
           "repository": "Bingner/Elucubratus",
-          "date": "2019-02-23T03:29:35Z",
+          "date": "2019-02-23T03:26:25Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -56099,22 +56119,22 @@
       ]
     },
     {
-      "id": "lzma",
+      "id": "xz",
       "name": "XZ Utils",
-      "latest": "5.2.4-1",
-      "repository": "Electra's iOS Utilities",
-      "url": "http://cydia.saurik.com/package/lzma/",
+      "latest": "5.2.4-4",
+      "repository": "Bingner/Elucubratus",
+      "url": "http://cydia.saurik.com/package/xz/",
       "shortDescription": "slower, but better, compression algorithm",
       "category": "Archiving",
       "author": "(null)",
       "commercial": false,
-      "date": "2018-03-04T19:03:45Z",
+      "date": "2018-10-24T08:16:57Z",
       "versions": [
         {
-          "tweakVersion": "4.32.7-2",
+          "tweakVersion": "5.2.4-4",
           "iOSVersion": "12.1",
           "repository": "Bingner/Elucubratus",
-          "date": "2019-02-23T03:26:25Z",
+          "date": "2019-02-23T03:29:35Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
