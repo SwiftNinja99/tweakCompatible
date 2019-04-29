@@ -1,7 +1,7 @@
 {
   "id": "com.iadam1n.statusswitcher",
   "name": "StatusSwitcher",
-  "latest": "1.1-1",
+  "latest": "1.1.1",
   "repository": "BigBoss",
   "url": "http://cydia.saurik.com/package/com.iadam1n.statusswitcher/",
   "shortDescription": "Show status bar in app switcher.",
@@ -753,6 +753,37 @@
           "date": "2019-03-16T21:31:49Z",
           "userName": "CandiMan8",
           "issueNumber": 78162,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.1.1",
+      "iOSVersion": "12.1.2",
+      "repository": "BigBoss",
+      "date": "2019-04-29T16:22:12Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,5",
+          "issues": "",
+          "date": "2019-04-29T16:22:12Z",
+          "userName": "Barny13",
+          "issueNumber": 85984,
           "arch32": false
         }
       ]
