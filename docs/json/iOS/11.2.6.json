@@ -4340,6 +4340,60 @@
       ]
     },
     {
+      "id": "bundleidsxi",
+      "name": "BundleIDsXI",
+      "latest": "1.1.0-2",
+      "repository": "Packix",
+      "url": "http://cydia.saurik.com/package/bundleidsxi/",
+      "shortDescription": "App to see installed app bundle IDs.",
+      "category": "Utilities",
+      "author": "TD",
+      "commercial": false,
+      "date": "2018-07-28T04:18:06Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0.2-2",
+          "iOSVersion": "11.2.6",
+          "repository": "Packix",
+          "date": "2018-08-09T15:48:16Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        },
+        {
+          "tweakVersion": "1.1.0-2",
+          "iOSVersion": "11.2.6",
+          "repository": "Packix",
+          "date": "2018-12-18T08:46:59Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.yourepo.tdadvocate.bundleidsxi",
       "name": "BundleIDsXI",
       "latest": "1.1.0-1",
@@ -4396,60 +4450,6 @@
           "iOSVersion": "11.2.6",
           "repository": "TDAdvocate Source - YouRepo",
           "date": "2018-12-06T19:17:14Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "bundleidsxi",
-      "name": "BundleIDsXI",
-      "latest": "1.1.0-2",
-      "repository": "Packix",
-      "url": "http://cydia.saurik.com/package/bundleidsxi/",
-      "shortDescription": "App to see installed app bundle IDs.",
-      "category": "Utilities",
-      "author": "TD",
-      "commercial": false,
-      "date": "2018-07-28T04:18:06Z",
-      "versions": [
-        {
-          "tweakVersion": "1.0.2-2",
-          "iOSVersion": "11.2.6",
-          "repository": "Packix",
-          "date": "2018-08-09T15:48:16Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        },
-        {
-          "tweakVersion": "1.1.0-2",
-          "iOSVersion": "11.2.6",
-          "repository": "Packix",
-          "date": "2018-12-18T08:46:59Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -5165,22 +5165,22 @@
       ]
     },
     {
-      "id": "com.yourepo.cydiageek.ccclearmodulesbg",
+      "id": "com.cydiageek.ccclearmodulesbg",
       "name": "CCClearModulesBG",
-      "latest": "1.0.1",
-      "repository": "CydiaGeek Source - YouRepo",
-      "url": "http://cydia.saurik.com/package/com.yourepo.cydiageek.ccclearmodulesbg/",
-      "shortDescription": "Make the Control Center Modules Clear on iOS 11! Tip by prouser.",
+      "latest": "1.0.5",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.cydiageek.ccclearmodulesbg/",
+      "shortDescription": "Make the Control Center Modules Clear!",
       "category": "Tweaks",
       "author": "CydiaGeek",
       "commercial": false,
-      "date": "2018-03-27T00:57:31Z",
+      "date": "2018-04-27T16:28:28Z",
       "versions": [
         {
-          "tweakVersion": "1.0.1",
+          "tweakVersion": "1.0.5",
           "iOSVersion": "11.2.6",
-          "repository": "CydiaGeek Source - YouRepo",
-          "date": "2018-12-06T19:18:01Z",
+          "repository": "BigBoss",
+          "date": "2019-04-21T06:53:39Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -5199,22 +5199,22 @@
       ]
     },
     {
-      "id": "com.cydiageek.ccclearmodulesbg",
+      "id": "com.yourepo.cydiageek.ccclearmodulesbg",
       "name": "CCClearModulesBG",
-      "latest": "1.0.5",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/com.cydiageek.ccclearmodulesbg/",
-      "shortDescription": "Make the Control Center Modules Clear!",
+      "latest": "1.0.1",
+      "repository": "CydiaGeek Source - YouRepo",
+      "url": "http://cydia.saurik.com/package/com.yourepo.cydiageek.ccclearmodulesbg/",
+      "shortDescription": "Make the Control Center Modules Clear on iOS 11! Tip by prouser.",
       "category": "Tweaks",
       "author": "CydiaGeek",
       "commercial": false,
-      "date": "2018-04-27T16:28:28Z",
+      "date": "2018-03-27T00:57:31Z",
       "versions": [
         {
-          "tweakVersion": "1.0.5",
+          "tweakVersion": "1.0.1",
           "iOSVersion": "11.2.6",
-          "repository": "BigBoss",
-          "date": "2019-04-21T06:53:39Z",
+          "repository": "CydiaGeek Source - YouRepo",
+          "date": "2018-12-06T19:18:01Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -14508,40 +14508,6 @@
       ]
     },
     {
-      "id": "com.hackyouriphone.localiapstore",
-      "name": "LocalIAPStore",
-      "latest": "1.4-2",
-      "repository": "HackYouriPhone",
-      "url": "http://cydia.saurik.com/package/com.hackyouriphone.localiapstore/",
-      "shortDescription": "Pwns In-App purchases on iOS 5.1.1 - 7.1.X. Compatible with ARMv8 (64 Bit). Enable in settings. PRESS 'DISMISS' ON POPUP!",
-      "category": "HYI - Tweaks",
-      "author": "anondev",
-      "commercial": false,
-      "date": "2018-03-02T03:42:40Z",
-      "versions": [
-        {
-          "tweakVersion": "1.4-2",
-          "iOSVersion": "11.2.6",
-          "repository": "HackYouriPhone",
-          "date": "2018-07-10T12:24:16Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.repo.xarold.com.localiapstore",
       "name": "LocalIAPStore",
       "latest": "1.5",
@@ -14591,6 +14557,40 @@
           "iOSVersion": "11.2.6",
           "repository": "BiteYourApple",
           "date": "2018-07-07T21:41:41Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.hackyouriphone.localiapstore",
+      "name": "LocalIAPStore",
+      "latest": "1.4-2",
+      "repository": "HackYouriPhone",
+      "url": "http://cydia.saurik.com/package/com.hackyouriphone.localiapstore/",
+      "shortDescription": "Pwns In-App purchases on iOS 5.1.1 - 7.1.X. Compatible with ARMv8 (64 Bit). Enable in settings. PRESS 'DISMISS' ON POPUP!",
+      "category": "HYI - Tweaks",
+      "author": "anondev",
+      "commercial": false,
+      "date": "2018-03-02T03:42:40Z",
+      "versions": [
+        {
+          "tweakVersion": "1.4-2",
+          "iOSVersion": "11.2.6",
+          "repository": "HackYouriPhone",
+          "date": "2018-07-10T12:24:16Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -19636,40 +19636,6 @@
       ]
     },
     {
-      "id": "com.subdiox.realcc",
-      "name": "RealCC",
-      "latest": "0.0.4",
-      "repository": "subdiox's Repo",
-      "url": "http://cydia.saurik.com/package/com.subdiox.realcc/",
-      "shortDescription": "Disable WiFi and Bluetooth completely!",
-      "category": "Tweaks",
-      "author": "subdiox",
-      "commercial": false,
-      "date": "2018-08-14T02:00:44Z",
-      "versions": [
-        {
-          "tweakVersion": "0.0.4",
-          "iOSVersion": "11.2.6",
-          "repository": "subdiox's Repo",
-          "date": "2019-02-11T23:39:18Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.jakeashacks.realcc",
       "name": "RealCC",
       "latest": "1.0.1",
@@ -19692,6 +19658,40 @@
             "good": 4,
             "bad": 0,
             "total": 5,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.subdiox.realcc",
+      "name": "RealCC",
+      "latest": "0.0.4",
+      "repository": "subdiox's Repo",
+      "url": "http://cydia.saurik.com/package/com.subdiox.realcc/",
+      "shortDescription": "Disable WiFi and Bluetooth completely!",
+      "category": "Tweaks",
+      "author": "subdiox",
+      "commercial": false,
+      "date": "2018-08-14T02:00:44Z",
+      "versions": [
+        {
+          "tweakVersion": "0.0.4",
+          "iOSVersion": "11.2.6",
+          "repository": "subdiox's Repo",
+          "date": "2019-02-11T23:39:18Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -19772,40 +19772,6 @@
       ]
     },
     {
-      "id": "com.spicat.recordpause",
-      "name": "RecordPause",
-      "latest": "1.3.1",
-      "repository": "Spica T Repo",
-      "url": "http://cydia.saurik.com/package/com.spicat.recordpause/",
-      "shortDescription": "Pause/resume video recording.",
-      "category": "Tweaks",
-      "author": "SpicaT",
-      "commercial": false,
-      "date": "2018-07-22T00:19:36Z",
-      "versions": [
-        {
-          "tweakVersion": "1.3.1",
-          "iOSVersion": "11.2.6",
-          "repository": "Spica T Repo",
-          "date": "2019-04-03T23:23:18Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "org.thebigboss.recordpause",
       "name": "RecordPause",
       "latest": "1.2.2",
@@ -19826,6 +19792,40 @@
             "calculatedStatus": "Not working",
             "percentage": 0,
             "good": 0,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.spicat.recordpause",
+      "name": "RecordPause",
+      "latest": "1.3.1",
+      "repository": "Spica T Repo",
+      "url": "http://cydia.saurik.com/package/com.spicat.recordpause/",
+      "shortDescription": "Pause/resume video recording.",
+      "category": "Tweaks",
+      "author": "SpicaT",
+      "commercial": false,
+      "date": "2018-07-22T00:19:36Z",
+      "versions": [
+        {
+          "tweakVersion": "1.3.1",
+          "iOSVersion": "11.2.6",
+          "repository": "Spica T Repo",
+          "date": "2019-04-03T23:23:18Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
             "bad": 0,
             "total": 1,
             "arch32": {
@@ -21451,6 +21451,40 @@
       ]
     },
     {
+      "id": "com.repo.xarold.com.selectmoji",
+      "name": "Selectmoji",
+      "latest": "1.2-2",
+      "repository": "(null)",
+      "url": "http://cydia.saurik.com/package/com.repo.xarold.com.selectmoji/",
+      "shortDescription": "Better frequently used emojis.",
+      "category": "Tweaks",
+      "author": "cole cabral",
+      "commercial": false,
+      "date": "2018-12-04T08:22:43Z",
+      "versions": [
+        {
+          "tweakVersion": "1.2-2",
+          "iOSVersion": "11.2.6",
+          "repository": "(null)",
+          "date": "2018-12-04T08:22:43Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.cc.selectmoji",
       "name": "Selectmoji",
       "latest": "1.2-4",
@@ -21487,40 +21521,6 @@
           "iOSVersion": "11.2.6",
           "repository": "Chariz",
           "date": "2019-01-16T17:24:05Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "com.repo.xarold.com.selectmoji",
-      "name": "Selectmoji",
-      "latest": "1.2-2",
-      "repository": "(null)",
-      "url": "http://cydia.saurik.com/package/com.repo.xarold.com.selectmoji/",
-      "shortDescription": "Better frequently used emojis.",
-      "category": "Tweaks",
-      "author": "cole cabral",
-      "commercial": false,
-      "date": "2018-12-04T08:22:43Z",
-      "versions": [
-        {
-          "tweakVersion": "1.2-2",
-          "iOSVersion": "11.2.6",
-          "repository": "(null)",
-          "date": "2018-12-04T08:22:43Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -24068,6 +24068,40 @@
           "iOSVersion": "11.2.6",
           "repository": "Stable Auxilium Repo",
           "date": "2019-04-24T01:58:50Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.clarke1234.taptaputils",
+      "name": "TapTapUtils",
+      "latest": "2.5-1",
+      "repository": "Stable Auxilium Repo",
+      "url": "http://cydia.saurik.com/package/com.clarke1234.taptaputils/",
+      "shortDescription": "Tap twice on the status bar to access some basic utilities",
+      "category": "Tweaks",
+      "author": "Clarke1234",
+      "commercial": false,
+      "date": "2018-04-02T16:05:55Z",
+      "versions": [
+        {
+          "tweakVersion": "2.5-1",
+          "iOSVersion": "11.2.6",
+          "repository": "Stable Auxilium Repo",
+          "date": "2019-04-29T07:41:40Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
