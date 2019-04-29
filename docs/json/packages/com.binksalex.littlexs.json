@@ -147,9 +147,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 1,
+        "good": 2,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -166,6 +166,15 @@
           "date": "2019-04-29T02:36:12Z",
           "userName": "thanhx18",
           "issueNumber": 85901,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,2",
+          "issues": "Working with default status otherwise safemode. Also it blocks HS rotation! May it is really meant for non Plus devices? ",
+          "date": "2019-04-29T06:26:06Z",
+          "userName": "anonypublic",
+          "issueNumber": 85950,
           "arch32": false
         }
       ]
