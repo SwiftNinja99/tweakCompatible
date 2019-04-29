@@ -2115,9 +2115,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 1,
+        "good": 2,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -2134,6 +2134,15 @@
           "date": "2019-04-03T02:41:41Z",
           "userName": "gatekeeper1122",
           "issueNumber": 82571,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,2",
+          "issues": "Allows apps to open even w/BioprotectXS",
+          "date": "2019-04-29T15:33:44Z",
+          "userName": "Roverworld212",
+          "issueNumber": 85974,
           "arch32": false
         }
       ]
