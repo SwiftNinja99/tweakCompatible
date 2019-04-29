@@ -1,7 +1,7 @@
 {
   "id": "com.teunstrik.remaining-charge-time",
   "name": "Remaining Charge Time",
-  "latest": "0.0.3",
+  "latest": "0.0.4",
   "repository": "BigBoss",
   "url": "http://cydia.saurik.com/package/com.teunstrik.remaining-charge-time/",
   "shortDescription": "Displays charge time estimate in lock screen",
@@ -100,6 +100,37 @@
           "date": "2019-04-29T07:48:15Z",
           "userName": "Ljfe",
           "issueNumber": 85953,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.0.4",
+      "iOSVersion": "12.1.2",
+      "repository": "BigBoss",
+      "date": "2019-04-29T21:37:55Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,2",
+          "issues": "",
+          "date": "2019-04-29T21:37:55Z",
+          "userName": "irri21",
+          "issueNumber": 86033,
           "arch32": false
         }
       ]
