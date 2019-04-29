@@ -437,11 +437,11 @@
       "repository": "BigBoss",
       "date": "2018-07-11T22:44:21Z",
       "outcome": {
-        "calculatedStatus": "Not working",
-        "percentage": 0,
-        "good": 0,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
+        "good": 1,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -458,6 +458,15 @@
           "date": "2018-07-11T22:44:21Z",
           "userName": "liljonny53",
           "issueNumber": 23571,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2019-04-29T03:59:41Z",
+          "userName": "Goldstriker208",
+          "issueNumber": 85904,
           "arch32": false
         }
       ]
