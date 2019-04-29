@@ -337,11 +337,11 @@
       "repository": "Packix",
       "date": "2019-03-13T22:20:27Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 100,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
         "good": 1,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -358,6 +358,15 @@
           "date": "2019-03-13T22:20:27Z",
           "userName": "fazlul101",
           "issueNumber": 77219,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,6",
+          "issues": "This tweak is NOT functional. It locks the device without the device being completely facedown. So if you’re laying in bed using your phone, it will lock your device up if you hold it at an angle. ",
+          "date": "2019-04-29T12:32:54Z",
+          "userName": "HenshinMijin",
+          "issueNumber": 85964,
           "arch32": false
         }
       ]
