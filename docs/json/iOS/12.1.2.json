@@ -2720,7 +2720,7 @@
     {
       "id": "com.anemonetheming.anemone3",
       "name": "Anemone 3",
-      "latest": "3.0~beta5-1",
+      "latest": "3.0~beta5",
       "repository": "Electra's iOS Utilities",
       "url": "http://cydia.saurik.com/package/com.anemonetheming.anemone3/",
       "shortDescription": "An awesome theme manager!",
@@ -4650,6 +4650,39 @@
       ]
     },
     {
+      "id": "net.angelxwind.appsyncunified",
+      "name": "AppSync Unified",
+      "latest": "32.0",
+      "repository": "Karen's Repo",
+      "url": "http://cydia.angelxwind.net/",
+      "shortDescription": "Enables the ability to install unsigned/fakesigned iOS applications.",
+      "category": "Tweaks",
+      "author": "Linus Yang, Karen／明美",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "32.0",
+          "iOSVersion": "12.1.2",
+          "repository": "Karen's Repo",
+          "date": "2019-02-24T11:14:49Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 3,
+            "bad": 0,
+            "total": 3,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "cydia.net.angelxwind.appsyncunified",
       "name": "AppSync Unified",
       "latest": "32.0",
@@ -4672,39 +4705,6 @@
             "good": 0,
             "bad": 0,
             "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "net.angelxwind.appsyncunified",
-      "name": "AppSync Unified",
-      "latest": "32.0",
-      "repository": "Karen's Repo",
-      "url": "http://cydia.angelxwind.net/",
-      "shortDescription": "Enables the ability to install unsigned/fakesigned iOS applications.",
-      "category": "Tweaks",
-      "author": "Linus Yang, Karen／明美",
-      "commercial": false,
-      "versions": [
-        {
-          "tweakVersion": "32.0",
-          "iOSVersion": "12.1.2",
-          "repository": "Karen's Repo",
-          "date": "2019-02-24T11:14:49Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 3,
-            "bad": 0,
-            "total": 3,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -17247,40 +17247,6 @@
       ]
     },
     {
-      "id": "com.itweakios.ccpatch10",
-      "name": "CommCenter patch for iOS 7/8/9/10",
-      "latest": "3.0",
-      "repository": "(null)",
-      "url": "http://cydia.saurik.com/package/com.itweakios.ccpatch10/",
-      "shortDescription": "Patches CommCenter to allow carrier bundle editing and customization.",
-      "category": "Tweaks",
-      "author": "joe012594",
-      "commercial": false,
-      "date": "2018-12-23T20:45:10Z",
-      "versions": [
-        {
-          "tweakVersion": "3.0",
-          "iOSVersion": "12.1.2",
-          "repository": "(null)",
-          "date": "2019-02-27T12:30:07Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.yourepo.aumenjoyllc.commcenterpatchforios7-12",
       "name": "CommCenter patch for iOS 7/8/9/10",
       "latest": "3.1",
@@ -17303,6 +17269,40 @@
             "good": 2,
             "bad": 0,
             "total": 2,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.itweakios.ccpatch10",
+      "name": "CommCenter patch for iOS 7/8/9/10",
+      "latest": "3.0",
+      "repository": "(null)",
+      "url": "http://cydia.saurik.com/package/com.itweakios.ccpatch10/",
+      "shortDescription": "Patches CommCenter to allow carrier bundle editing and customization.",
+      "category": "Tweaks",
+      "author": "joe012594",
+      "commercial": false,
+      "date": "2018-12-23T20:45:10Z",
+      "versions": [
+        {
+          "tweakVersion": "3.0",
+          "iOSVersion": "12.1.2",
+          "repository": "(null)",
+          "date": "2019-02-27T12:30:07Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -19641,10 +19641,10 @@
     {
       "id": "mobilesubstrate",
       "name": "Cydia Substrate",
-      "latest": "420.0.0-5",
+      "latest": "0.9.7032",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/mobilesubstrate/",
-      "shortDescription": "Satisfies the Substrate requirement when using Meridian Substitute.",
+      "shortDescription": "powerful code insertion platform",
       "category": "System",
       "author": "Jay Freeman (saurik)",
       "commercial": false,
@@ -28638,7 +28638,7 @@
     {
       "id": "com.imkpatil.floatingdock",
       "name": "FloatingDock",
-      "latest": "1.5",
+      "latest": "1.5.1",
       "repository": "Kiran Patil's Repo",
       "url": "http://cydia.saurik.com/package/com.imkpatil.floatingdock/",
       "shortDescription": "iPad like dock for iPhone!",
@@ -29111,22 +29111,22 @@
       ]
     },
     {
-      "id": "com.yourepo.chocolatetrain.folderbackgroundbegone",
+      "id": "com.cryptedbytes.folderbackgroundbegone",
       "name": "folderbackgroundbegone",
-      "latest": "1.0",
-      "repository": "Chocolatetrain Source - YouRepo",
-      "url": "http://cydia.saurik.com/package/com.yourepo.chocolatetrain.folderbackgroundbegone/",
-      "shortDescription": "Remove home screen folder icon background, works on Electra iOS 11.1.2.",
+      "latest": "0.0.1-2+debug",
+      "repository": "(null)",
+      "url": "http://cydia.saurik.com/package/com.cryptedbytes.folderbackgroundbegone/",
+      "shortDescription": "An awesome MobileSubstrate tweak!",
       "category": "Tweaks",
       "author": "CryptedBytes",
       "commercial": false,
-      "date": "2019-02-24T19:03:46Z",
+      "date": "2018-04-08T11:26:26Z",
       "versions": [
         {
-          "tweakVersion": "1.0",
+          "tweakVersion": "0.0.1-2+debug",
           "iOSVersion": "12.1.2",
-          "repository": "Chocolatetrain Source - YouRepo",
-          "date": "2019-02-26T13:26:58Z",
+          "repository": "(null)",
+          "date": "2019-02-24T20:30:53Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -29145,22 +29145,22 @@
       ]
     },
     {
-      "id": "com.cryptedbytes.folderbackgroundbegone",
+      "id": "com.yourepo.chocolatetrain.folderbackgroundbegone",
       "name": "folderbackgroundbegone",
-      "latest": "0.0.1-2+debug",
-      "repository": "(null)",
-      "url": "http://cydia.saurik.com/package/com.cryptedbytes.folderbackgroundbegone/",
-      "shortDescription": "An awesome MobileSubstrate tweak!",
+      "latest": "1.0",
+      "repository": "Chocolatetrain Source - YouRepo",
+      "url": "http://cydia.saurik.com/package/com.yourepo.chocolatetrain.folderbackgroundbegone/",
+      "shortDescription": "Remove home screen folder icon background, works on Electra iOS 11.1.2.",
       "category": "Tweaks",
       "author": "CryptedBytes",
       "commercial": false,
-      "date": "2018-04-08T11:26:26Z",
+      "date": "2019-02-24T19:03:46Z",
       "versions": [
         {
-          "tweakVersion": "0.0.1-2+debug",
+          "tweakVersion": "1.0",
           "iOSVersion": "12.1.2",
-          "repository": "(null)",
-          "date": "2019-02-24T20:30:53Z",
+          "repository": "Chocolatetrain Source - YouRepo",
+          "date": "2019-02-26T13:26:58Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -52221,7 +52221,7 @@
     {
       "id": "com.cydiageek.nomoredisabled",
       "name": "NoMoreDisabled",
-      "latest": "1.0.0",
+      "latest": "1.0.1",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.cydiageek.nomoredisabled/",
       "shortDescription": "Prevent Permanent Passcode Locking by Mistake!",
@@ -52235,6 +52235,26 @@
           "iOSVersion": "12.1.2",
           "repository": "BigBoss",
           "date": "2019-03-29T11:52:16Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        },
+        {
+          "tweakVersion": "1.0.1",
+          "iOSVersion": "12.1.2",
+          "repository": "BigBoss",
+          "date": "2019-04-28T23:36:35Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -60054,40 +60074,6 @@
       ]
     },
     {
-      "id": "com.opticity.realcc",
-      "name": "RealCC",
-      "latest": "1.0.1",
-      "repository": "Opticity Repository",
-      "url": "http://cydia.saurik.com/package/com.opticity.realcc/",
-      "shortDescription": "Actually disable Wi-Fi from the iOS 12 Control Center",
-      "category": "Tweaks",
-      "author": "Jake James",
-      "commercial": false,
-      "date": "2019-03-12T01:13:48Z",
-      "versions": [
-        {
-          "tweakVersion": "1.0.1",
-          "iOSVersion": "12.1.2",
-          "repository": "Opticity Repository",
-          "date": "2019-03-12T01:13:48Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.jakeashacks.realcc",
       "name": "RealCC",
       "latest": "1.0.1",
@@ -60138,6 +60124,40 @@
           "iOSVersion": "12.1.2",
           "repository": "subdiox's Repo",
           "date": "2019-03-29T21:51:34Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.opticity.realcc",
+      "name": "RealCC",
+      "latest": "1.0.1",
+      "repository": "Opticity Repository",
+      "url": "http://cydia.saurik.com/package/com.opticity.realcc/",
+      "shortDescription": "Actually disable Wi-Fi from the iOS 12 Control Center",
+      "category": "Tweaks",
+      "author": "Jake James",
+      "commercial": false,
+      "date": "2019-03-12T01:13:48Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0.1",
+          "iOSVersion": "12.1.2",
+          "repository": "Opticity Repository",
+          "date": "2019-03-12T01:13:48Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -64926,22 +64946,22 @@
       ]
     },
     {
-      "id": "us.diatr.sillyo2",
+      "id": "us.diatr.sillyo",
       "name": "Sileo Compatibility Layer",
-      "latest": "2.0",
-      "repository": "Sileo for unc0ver",
-      "url": "http://cydia.saurik.com/package/us.diatr.sillyo2/",
-      "shortDescription": "Compatibility layer for Sileo/unc0ver. (Thanks samg and level3tjg)",
+      "latest": "1.1",
+      "repository": "Diatrus/Misceo",
+      "url": "http://cydia.saurik.com/package/us.diatr.sillyo/",
+      "shortDescription": "Sileo Compatibility layer for u0 black.",
       "category": "Tweaks",
       "author": "Diatrus",
       "commercial": false,
-      "date": "2019-04-08T05:21:43Z",
+      "date": "2019-04-28T02:27:28Z",
       "versions": [
         {
-          "tweakVersion": "2.0",
+          "tweakVersion": "1.1",
           "iOSVersion": "12.1.2",
-          "repository": "Sileo for unc0ver",
-          "date": "2019-04-08T06:24:28Z",
+          "repository": "Diatrus/Misceo",
+          "date": "2019-04-28T02:27:28Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -64960,22 +64980,22 @@
       ]
     },
     {
-      "id": "us.diatr.sillyo",
+      "id": "us.diatr.sillyo2",
       "name": "Sileo Compatibility Layer",
-      "latest": "1.1",
-      "repository": "Diatrus/Misceo",
-      "url": "http://cydia.saurik.com/package/us.diatr.sillyo/",
-      "shortDescription": "Sileo Compatibility layer for u0 black.",
+      "latest": "2.0",
+      "repository": "Sileo for unc0ver",
+      "url": "http://cydia.saurik.com/package/us.diatr.sillyo2/",
+      "shortDescription": "Compatibility layer for Sileo/unc0ver. (Thanks samg and level3tjg)",
       "category": "Tweaks",
       "author": "Diatrus",
       "commercial": false,
-      "date": "2019-04-28T02:27:28Z",
+      "date": "2019-04-08T05:21:43Z",
       "versions": [
         {
-          "tweakVersion": "1.1",
+          "tweakVersion": "2.0",
           "iOSVersion": "12.1.2",
-          "repository": "Diatrus/Misceo",
-          "date": "2019-04-28T02:27:28Z",
+          "repository": "Sileo for unc0ver",
+          "date": "2019-04-08T06:24:28Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -77197,60 +77217,6 @@
       ]
     },
     {
-      "id": "com.yourepo.ahmedbafkir.wadarkmode",
-      "name": "WADarkMode",
-      "latest": "2.0",
-      "repository": "AhmedBafkir Source - YouRepo",
-      "url": "http://cydia.saurik.com/package/com.yourepo.ahmedbafkir.wadarkmode/",
-      "shortDescription": "Dark Mode For WhatsApp !!",
-      "category": "Tweaks",
-      "author": "AhmedBafkir",
-      "commercial": false,
-      "date": "2019-02-23T12:33:47Z",
-      "versions": [
-        {
-          "tweakVersion": "1.6",
-          "iOSVersion": "12.1.2",
-          "repository": "AhmedBafkir Source - YouRepo",
-          "date": "2019-02-23T12:33:47Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        },
-        {
-          "tweakVersion": "2.0",
-          "iOSVersion": "12.1.2",
-          "repository": "AhmedBafkir Source - YouRepo",
-          "date": "2019-03-20T05:15:52Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.ahmedbafkir.wadarkmode",
       "name": "WADarkMode",
       "latest": "2.0",
@@ -77307,6 +77273,60 @@
           "iOSVersion": "12.1.2",
           "repository": "BigBoss",
           "date": "2019-03-11T12:16:34Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.yourepo.ahmedbafkir.wadarkmode",
+      "name": "WADarkMode",
+      "latest": "2.0",
+      "repository": "AhmedBafkir Source - YouRepo",
+      "url": "http://cydia.saurik.com/package/com.yourepo.ahmedbafkir.wadarkmode/",
+      "shortDescription": "Dark Mode For WhatsApp !!",
+      "category": "Tweaks",
+      "author": "AhmedBafkir",
+      "commercial": false,
+      "date": "2019-02-23T12:33:47Z",
+      "versions": [
+        {
+          "tweakVersion": "1.6",
+          "iOSVersion": "12.1.2",
+          "repository": "AhmedBafkir Source - YouRepo",
+          "date": "2019-02-23T12:33:47Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        },
+        {
+          "tweakVersion": "2.0",
+          "iOSVersion": "12.1.2",
+          "repository": "AhmedBafkir Source - YouRepo",
+          "date": "2019-03-20T05:15:52Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -80188,7 +80208,7 @@
     {
       "id": "com.spicat.youpip",
       "name": "YouPip",
-      "latest": "0.0.4.6",
+      "latest": "0.0.4.7",
       "repository": "Spica T Repo",
       "url": "http://cydia.saurik.com/package/com.spicat.youpip/",
       "shortDescription": "Enable PIP in native YouTube app.",
