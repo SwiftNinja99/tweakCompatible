@@ -1,7 +1,7 @@
 {
   "id": "net.limneos.voicechangerx",
   "name": "VoiceChangerX",
-  "latest": "0.1-45",
+  "latest": "1.1-5",
   "repository": "Limneos Repo",
   "url": "http://cydia.saurik.com/package/net.limneos.voicechangerx/",
   "shortDescription": "Change your voice during a call!",
@@ -789,6 +789,37 @@
           "date": "2019-03-06T13:27:29Z",
           "userName": "ranalli",
           "issueNumber": 73727,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.1-5",
+      "iOSVersion": "12.1",
+      "repository": "Limneos Repo",
+      "date": "2019-04-30T22:30:42Z",
+      "outcome": {
+        "calculatedStatus": "Not working",
+        "percentage": 0,
+        "good": 0,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone6,2",
+          "issues": "It does not work on iOS 12.1 iPhone 5s.  Always sends an alert asking you to activate (pay) the tweak even after you have activated it.",
+          "date": "2019-04-30T22:30:42Z",
+          "userName": "nettoarnaldo",
+          "issueNumber": 86152,
           "arch32": false
         }
       ]
