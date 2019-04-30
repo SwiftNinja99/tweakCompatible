@@ -1,7 +1,7 @@
 {
   "id": "com.spicat.recordntorch",
   "name": "Record 'n' Torch",
-  "latest": "1.7.11",
+  "latest": "1.7.12",
   "repository": "Spica T Repo",
   "url": "http://cydia.saurik.com/package/com.spicat.recordntorch/",
   "shortDescription": "Toggle Torch while recording video.",
@@ -343,6 +343,37 @@
           "date": "2019-04-05T14:38:26Z",
           "userName": "tlurk",
           "issueNumber": 82902,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.7.12",
+      "iOSVersion": "11.3.1",
+      "repository": "Spica T Repo",
+      "date": "2019-04-30T21:55:06Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone7,1",
+          "issues": "",
+          "date": "2019-04-30T21:55:06Z",
+          "userName": "tlurk",
+          "issueNumber": 86149,
           "arch32": false
         }
       ]
