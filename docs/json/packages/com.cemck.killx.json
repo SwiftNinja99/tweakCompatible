@@ -1,7 +1,7 @@
 {
   "id": "com.cemck.killx",
   "name": "KillX",
-  "latest": "0.1.1-beta",
+  "latest": "0.1.2",
   "repository": "cemck's Repo",
   "url": "http://cydia.saurik.com/package/com.cemck.killx/",
   "shortDescription": "One swipe to kill them all!",
@@ -295,6 +295,37 @@
           "date": "2019-03-06T04:04:41Z",
           "userName": "Craft3dM1nd",
           "issueNumber": 73520,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.1.2",
+      "iOSVersion": "12.1.2",
+      "repository": "cemck's Repo",
+      "date": "2019-04-30T19:10:21Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-04-30T19:10:21Z",
+          "userName": "stavrosgiannis",
+          "issueNumber": 86136,
           "arch32": false
         }
       ]

@@ -8555,40 +8555,6 @@
       ]
     },
     {
-      "id": "com.repo.xarold.com.betterccxi",
-      "name": "BetterCCXI",
-      "latest": "1.4.8",
-      "repository": "(null)",
-      "url": "http://cydia.saurik.com/package/com.repo.xarold.com.betterccxi/",
-      "shortDescription": "Enhance your control center on iOS 11 and iOS 12",
-      "category": "Tweaks",
-      "author": "ATWiiks",
-      "commercial": false,
-      "date": "2018-07-21T09:43:11Z",
-      "versions": [
-        {
-          "tweakVersion": "1.4.8",
-          "iOSVersion": "12.1.2",
-          "repository": "(null)",
-          "date": "2019-03-13T05:25:56Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.atwiiks.betterccxi",
       "name": "BetterCCXI",
       "latest": "1.4.8",
@@ -8631,6 +8597,40 @@
             "good": 2,
             "bad": 0,
             "total": 2,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.repo.xarold.com.betterccxi",
+      "name": "BetterCCXI",
+      "latest": "1.4.8",
+      "repository": "(null)",
+      "url": "http://cydia.saurik.com/package/com.repo.xarold.com.betterccxi/",
+      "shortDescription": "Enhance your control center on iOS 11 and iOS 12",
+      "category": "Tweaks",
+      "author": "ATWiiks",
+      "commercial": false,
+      "date": "2018-07-21T09:43:11Z",
+      "versions": [
+        {
+          "tweakVersion": "1.4.8",
+          "iOSVersion": "12.1.2",
+          "repository": "(null)",
+          "date": "2019-03-13T05:25:56Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -16154,6 +16154,39 @@
       ]
     },
     {
+      "id": "ru.domo.cocoatop",
+      "name": "CocoaTop",
+      "latest": "2.0.1",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/ru.domo.cocoatop/",
+      "shortDescription": "Process Viewer for iOS GUI",
+      "category": "Utilities",
+      "author": "Domo",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "2.0.1",
+          "iOSVersion": "12.1.2",
+          "repository": "BigBoss",
+          "date": "2019-02-23T13:45:03Z",
+          "outcome": {
+            "calculatedStatus": "Not working",
+            "percentage": 20,
+            "good": 1,
+            "bad": 0,
+            "total": 5,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "ru.domo.cocoatop64",
       "name": "CocoaTop",
       "latest": "2.0.2",
@@ -16196,39 +16229,6 @@
             "good": 1,
             "bad": 0,
             "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "ru.domo.cocoatop",
-      "name": "CocoaTop",
-      "latest": "2.0.1",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/ru.domo.cocoatop/",
-      "shortDescription": "Process Viewer for iOS GUI",
-      "category": "Utilities",
-      "author": "Domo",
-      "commercial": false,
-      "versions": [
-        {
-          "tweakVersion": "2.0.1",
-          "iOSVersion": "12.1.2",
-          "repository": "BigBoss",
-          "date": "2019-02-23T13:45:03Z",
-          "outcome": {
-            "calculatedStatus": "Not working",
-            "percentage": 20,
-            "good": 1,
-            "bad": 0,
-            "total": 5,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -30965,22 +30965,22 @@
       ]
     },
     {
-      "id": "com.repo.xarold.com.gba4ios",
-      "name": "GBA4iOS",
-      "latest": "2.1",
-      "repository": "(null)",
-      "url": "http://cydia.saurik.com/package/com.repo.xarold.com.gba4ios/",
-      "shortDescription": "The Game Boy Advance revolutionized the handheld gaming industry. For the first time, it was possible to have a video game console with the power of a Super Nintendo in your pocket. However, before the Game Boy Advance was ever released, Nintendo had launched two extraordinarily successful devices into the portable game console market: the Game Boy and the Game Boy Color. An amazing feature of the Game Boy Advance was its backwards-compatibility with these previous portable console games, and now GBA4iOS is doing the same. No longer do you have to find a separate emulator to play these old games; if it's a Game Boy anything game, GBA4iOS has you covered.",
-      "category": "Games",
-      "author": "tushaoye",
+      "id": "com.telaaedifex.gba4ios",
+      "name": "GBA4IOS",
+      "latest": "2.1.0.5",
+      "repository": "Telaaedifex's Repository",
+      "url": "http://cydia.saurik.com/package/com.telaaedifex.gba4ios/",
+      "shortDescription": "GBA4IOS - GBA and GBC emulator",
+      "category": "Tela - Apps - Emulators",
+      "author": "Isaac Brown",
       "commercial": false,
-      "date": "2019-02-26T19:32:43Z",
+      "date": "2019-03-04T23:16:49Z",
       "versions": [
         {
-          "tweakVersion": "2.1",
+          "tweakVersion": "2.1.0.5",
           "iOSVersion": "12.1.2",
-          "repository": "(null)",
-          "date": "2019-02-26T19:32:43Z",
+          "repository": "Telaaedifex's Repository",
+          "date": "2019-03-04T23:16:49Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -30999,22 +30999,22 @@
       ]
     },
     {
-      "id": "com.telaaedifex.gba4ios",
-      "name": "GBA4IOS",
-      "latest": "2.1.0.5",
-      "repository": "Telaaedifex's Repository",
-      "url": "http://cydia.saurik.com/package/com.telaaedifex.gba4ios/",
-      "shortDescription": "GBA4IOS - GBA and GBC emulator",
-      "category": "Tela - Apps - Emulators",
-      "author": "Isaac Brown",
+      "id": "com.repo.xarold.com.gba4ios",
+      "name": "GBA4iOS",
+      "latest": "2.1",
+      "repository": "(null)",
+      "url": "http://cydia.saurik.com/package/com.repo.xarold.com.gba4ios/",
+      "shortDescription": "The Game Boy Advance revolutionized the handheld gaming industry. For the first time, it was possible to have a video game console with the power of a Super Nintendo in your pocket. However, before the Game Boy Advance was ever released, Nintendo had launched two extraordinarily successful devices into the portable game console market: the Game Boy and the Game Boy Color. An amazing feature of the Game Boy Advance was its backwards-compatibility with these previous portable console games, and now GBA4iOS is doing the same. No longer do you have to find a separate emulator to play these old games; if it's a Game Boy anything game, GBA4iOS has you covered.",
+      "category": "Games",
+      "author": "tushaoye",
       "commercial": false,
-      "date": "2019-03-04T23:16:49Z",
+      "date": "2019-02-26T19:32:43Z",
       "versions": [
         {
-          "tweakVersion": "2.1.0.5",
+          "tweakVersion": "2.1",
           "iOSVersion": "12.1.2",
-          "repository": "Telaaedifex's Repository",
-          "date": "2019-03-04T23:16:49Z",
+          "repository": "(null)",
+          "date": "2019-02-26T19:32:43Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -38688,7 +38688,7 @@
     {
       "id": "com.cemck.killx",
       "name": "KillX",
-      "latest": "0.1.1-beta",
+      "latest": "0.1.2",
       "repository": "cemck's Repo",
       "url": "http://cydia.saurik.com/package/com.cemck.killx/",
       "shortDescription": "One swipe to kill them all!",
@@ -38708,6 +38708,26 @@
             "good": 2,
             "bad": 0,
             "total": 2,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        },
+        {
+          "tweakVersion": "0.1.2",
+          "iOSVersion": "12.1.2",
+          "repository": "cemck's Repo",
+          "date": "2019-04-30T19:10:21Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -61395,40 +61415,6 @@
       ]
     },
     {
-      "id": "com.bigboss.respring",
-      "name": "Respring",
-      "latest": "6.0.1",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/com.bigboss.respring/",
-      "shortDescription": "This performs a fast, non-locking restart of your springboard.",
-      "category": "Utilities",
-      "author": "BigBoss",
-      "commercial": false,
-      "date": "2018-07-07T10:12:30Z",
-      "versions": [
-        {
-          "tweakVersion": "6.0.1",
-          "iOSVersion": "12.1.2",
-          "repository": "BigBoss",
-          "date": "2019-03-28T19:27:48Z",
-          "outcome": {
-            "calculatedStatus": "Not working",
-            "percentage": 0,
-            "good": 0,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.ceadd.respring",
       "name": "respring",
       "latest": "1.2",
@@ -61449,6 +61435,40 @@
             "calculatedStatus": "Working",
             "percentage": 100,
             "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.bigboss.respring",
+      "name": "Respring",
+      "latest": "6.0.1",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.bigboss.respring/",
+      "shortDescription": "This performs a fast, non-locking restart of your springboard.",
+      "category": "Utilities",
+      "author": "BigBoss",
+      "commercial": false,
+      "date": "2018-07-07T10:12:30Z",
+      "versions": [
+        {
+          "tweakVersion": "6.0.1",
+          "iOSVersion": "12.1.2",
+          "repository": "BigBoss",
+          "date": "2019-03-28T19:27:48Z",
+          "outcome": {
+            "calculatedStatus": "Not working",
+            "percentage": 0,
+            "good": 0,
             "bad": 0,
             "total": 1,
             "arch32": {
@@ -65442,22 +65462,22 @@
       ]
     },
     {
-      "id": "us.diatr.sillyo2",
+      "id": "us.diatr.sillyo",
       "name": "Sileo Compatibility Layer",
-      "latest": "2.0",
-      "repository": "Sileo for unc0ver",
-      "url": "http://cydia.saurik.com/package/us.diatr.sillyo2/",
-      "shortDescription": "Compatibility layer for Sileo/unc0ver. (Thanks samg and level3tjg)",
+      "latest": "1.1",
+      "repository": "Diatrus/Misceo",
+      "url": "http://cydia.saurik.com/package/us.diatr.sillyo/",
+      "shortDescription": "Sileo Compatibility layer for u0 black.",
       "category": "Tweaks",
       "author": "Diatrus",
       "commercial": false,
-      "date": "2019-04-08T05:21:43Z",
+      "date": "2019-04-28T02:27:28Z",
       "versions": [
         {
-          "tweakVersion": "2.0",
+          "tweakVersion": "1.1",
           "iOSVersion": "12.1.2",
-          "repository": "Sileo for unc0ver",
-          "date": "2019-04-08T06:24:28Z",
+          "repository": "Diatrus/Misceo",
+          "date": "2019-04-28T02:27:28Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -65476,22 +65496,22 @@
       ]
     },
     {
-      "id": "us.diatr.sillyo",
+      "id": "us.diatr.sillyo2",
       "name": "Sileo Compatibility Layer",
-      "latest": "1.1",
-      "repository": "Diatrus/Misceo",
-      "url": "http://cydia.saurik.com/package/us.diatr.sillyo/",
-      "shortDescription": "Sileo Compatibility layer for u0 black.",
+      "latest": "2.0",
+      "repository": "Sileo for unc0ver",
+      "url": "http://cydia.saurik.com/package/us.diatr.sillyo2/",
+      "shortDescription": "Compatibility layer for Sileo/unc0ver. (Thanks samg and level3tjg)",
       "category": "Tweaks",
       "author": "Diatrus",
       "commercial": false,
-      "date": "2019-04-28T02:27:28Z",
+      "date": "2019-04-08T05:21:43Z",
       "versions": [
         {
-          "tweakVersion": "1.1",
+          "tweakVersion": "2.0",
           "iOSVersion": "12.1.2",
-          "repository": "Diatrus/Misceo",
-          "date": "2019-04-28T02:27:28Z",
+          "repository": "Sileo for unc0ver",
+          "date": "2019-04-08T06:24:28Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -67431,40 +67451,6 @@
       ]
     },
     {
-      "id": "com.jontelang.snapper2.packix",
-      "name": "Snapper 2",
-      "latest": "2.0",
-      "repository": "Packix",
-      "url": "http://cydia.saurik.com/package/com.jontelang.snapper2.packix/",
-      "shortDescription": "Pin screenshots on the screen.",
-      "category": "Tweaks",
-      "author": "Jonathan Winger-lang",
-      "commercial": true,
-      "date": "2019-04-18T08:16:28Z",
-      "versions": [
-        {
-          "tweakVersion": "2.0",
-          "iOSVersion": "12.1.2",
-          "repository": "Packix",
-          "date": "2019-04-19T19:45:59Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.jontelang.snapper2",
       "name": "Snapper 2",
       "latest": "1.4",
@@ -67506,6 +67492,40 @@
             "good": 2,
             "bad": 0,
             "total": 2,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.jontelang.snapper2.packix",
+      "name": "Snapper 2",
+      "latest": "2.0",
+      "repository": "Packix",
+      "url": "http://cydia.saurik.com/package/com.jontelang.snapper2.packix/",
+      "shortDescription": "Pin screenshots on the screen.",
+      "category": "Tweaks",
+      "author": "Jonathan Winger-lang",
+      "commercial": true,
+      "date": "2019-04-18T08:16:28Z",
+      "versions": [
+        {
+          "tweakVersion": "2.0",
+          "iOSVersion": "12.1.2",
+          "repository": "Packix",
+          "date": "2019-04-19T19:45:59Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -77881,6 +77901,60 @@
       ]
     },
     {
+      "id": "com.yourepo.ahmedbafkir.wadarkmode",
+      "name": "WADarkMode",
+      "latest": "2.0",
+      "repository": "AhmedBafkir Source - YouRepo",
+      "url": "http://cydia.saurik.com/package/com.yourepo.ahmedbafkir.wadarkmode/",
+      "shortDescription": "Dark Mode For WhatsApp !!",
+      "category": "Tweaks",
+      "author": "AhmedBafkir",
+      "commercial": false,
+      "date": "2019-02-23T12:33:47Z",
+      "versions": [
+        {
+          "tweakVersion": "1.6",
+          "iOSVersion": "12.1.2",
+          "repository": "AhmedBafkir Source - YouRepo",
+          "date": "2019-02-23T12:33:47Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        },
+        {
+          "tweakVersion": "2.0",
+          "iOSVersion": "12.1.2",
+          "repository": "AhmedBafkir Source - YouRepo",
+          "date": "2019-03-20T05:15:52Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.ahmedbafkir.wadarkmode",
       "name": "WADarkMode",
       "latest": "2.0",
@@ -77937,60 +78011,6 @@
           "iOSVersion": "12.1.2",
           "repository": "BigBoss",
           "date": "2019-03-11T12:16:34Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "com.yourepo.ahmedbafkir.wadarkmode",
-      "name": "WADarkMode",
-      "latest": "2.0",
-      "repository": "AhmedBafkir Source - YouRepo",
-      "url": "http://cydia.saurik.com/package/com.yourepo.ahmedbafkir.wadarkmode/",
-      "shortDescription": "Dark Mode For WhatsApp !!",
-      "category": "Tweaks",
-      "author": "AhmedBafkir",
-      "commercial": false,
-      "date": "2019-02-23T12:33:47Z",
-      "versions": [
-        {
-          "tweakVersion": "1.6",
-          "iOSVersion": "12.1.2",
-          "repository": "AhmedBafkir Source - YouRepo",
-          "date": "2019-02-23T12:33:47Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        },
-        {
-          "tweakVersion": "2.0",
-          "iOSVersion": "12.1.2",
-          "repository": "AhmedBafkir Source - YouRepo",
-          "date": "2019-03-20T05:15:52Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
