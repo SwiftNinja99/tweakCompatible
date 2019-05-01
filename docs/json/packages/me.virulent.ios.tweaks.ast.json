@@ -198,11 +198,11 @@
       "repository": "BigBoss",
       "date": "2019-04-27T16:04:48Z",
       "outcome": {
-        "calculatedStatus": "Not working",
-        "percentage": 0,
-        "good": 0,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
+        "good": 1,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -219,6 +219,15 @@
           "date": "2019-04-27T16:04:48Z",
           "userName": "Haeckli",
           "issueNumber": 85713,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPad7,1",
+          "issues": "works perfectly fine on my ipad 7,1 with ios 12.1.1 and Unc0ver Jailbreak ",
+          "date": "2019-05-01T10:31:49Z",
+          "userName": "plsdonttakemychickennuggets",
+          "issueNumber": 86286,
           "arch32": false
         }
       ]
