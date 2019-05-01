@@ -1,7 +1,7 @@
 {
   "id": "ga.jakeashacks.anemoneinstaller",
   "name": "Anemone 3.0 for unc0ver",
-  "latest": "1.0.2",
+  "latest": "1.0.4",
   "repository": "Jakeashacks",
   "url": "http://cydia.saurik.com/package/ga.jakeashacks.anemoneinstaller/",
   "shortDescription": "Anemone 3.0 for unc0ver!",
@@ -375,6 +375,37 @@
           "date": "2019-05-01T09:00:34Z",
           "userName": "kreaytiv",
           "issueNumber": 86279,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.4",
+      "iOSVersion": "12.1.1",
+      "repository": "Jakeashacks",
+      "date": "2019-05-01T13:12:04Z",
+      "outcome": {
+        "calculatedStatus": "Not working",
+        "percentage": 0,
+        "good": 0,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPad7,1",
+          "issues": "Gets stuck in a boot loop after installing. iPad Pro 12.9 (2nd Gen)",
+          "date": "2019-05-01T13:12:04Z",
+          "userName": "RiPx88",
+          "issueNumber": 86329,
           "arch32": false
         }
       ]
