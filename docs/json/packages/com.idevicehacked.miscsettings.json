@@ -1,7 +1,7 @@
 {
   "id": "com.idevicehacked.miscsettings",
   "name": "MiscSettings",
-  "latest": "2.3.5",
+  "latest": "2.3.7",
   "repository": "iDevice Hacked Repo",
   "url": "http://cydia.saurik.com/package/com.idevicehacked.miscsettings/",
   "shortDescription": "So far has 46+ Miscellaneous toggles!",
@@ -1281,6 +1281,37 @@
           "date": "2019-04-28T12:16:24Z",
           "userName": "BotchedBortion",
           "issueNumber": 85790,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.3.7",
+      "iOSVersion": "12.1.1",
+      "repository": "iDevice Hacked Repo",
+      "date": "2019-05-01T08:03:00Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-05-01T08:03:00Z",
+          "userName": "Nixuge",
+          "issueNumber": 86266,
           "arch32": false
         }
       ]
