@@ -280,11 +280,11 @@
       "repository": "BigBoss",
       "date": "2019-03-14T09:19:09Z",
       "outcome": {
-        "calculatedStatus": "Not working",
-        "percentage": 0,
-        "good": 0,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
+        "good": 1,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -301,6 +301,15 @@
           "date": "2019-03-14T09:19:09Z",
           "userName": "CDAdkins",
           "issueNumber": 77333,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,2",
+          "issues": "",
+          "date": "2019-05-01T11:37:57Z",
+          "userName": "descasatou",
+          "issueNumber": 86301,
           "arch32": false
         }
       ]
