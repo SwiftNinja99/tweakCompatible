@@ -385,11 +385,11 @@
       "repository": "Jakeashacks",
       "date": "2019-05-01T13:12:04Z",
       "outcome": {
-        "calculatedStatus": "Not working",
-        "percentage": 0,
-        "good": 0,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
+        "good": 1,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -406,6 +406,15 @@
           "date": "2019-05-01T13:12:04Z",
           "userName": "RiPx88",
           "issueNumber": 86329,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "Updated version fixed the respring loop and is now working. ",
+          "date": "2019-05-01T14:49:12Z",
+          "userName": "Steve-luo",
+          "issueNumber": 86342,
           "arch32": false
         }
       ]
