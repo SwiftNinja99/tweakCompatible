@@ -1,10 +1,10 @@
 {
   "id": "ca.kirara.voltage",
   "name": "Eyeplugs",
-  "latest": "1.4.1",
+  "latest": "1.4.2",
   "repository": "BigBoss",
   "url": "http://cydia.saurik.com/package/ca.kirara.voltage/",
-  "shortDescription": "suppress banners in apps",
+  "shortDescription": "Suppress banners in apps — Eyeplugs blocks notification banners in the apps you choose.",
   "category": "Tweaks",
   "author": "The Holy Constituency of the Summer Triangle",
   "commercial": false,
@@ -208,6 +208,37 @@
           "date": "2019-03-19T11:34:38Z",
           "userName": "zzaibis",
           "issueNumber": 79137,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.4.2",
+      "iOSVersion": "12.1.1",
+      "repository": "Dynastic Repo",
+      "date": "2019-05-01T19:35:27Z",
+      "outcome": {
+        "calculatedStatus": "Not working",
+        "percentage": 0,
+        "good": 0,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone10,6",
+          "issues": "App list not loading",
+          "date": "2019-05-01T19:35:27Z",
+          "userName": "percyjk23",
+          "issueNumber": 86379,
           "arch32": false
         }
       ]
