@@ -1,7 +1,7 @@
 {
   "id": "com.ps.letmeblock",
   "name": "LetMeBlock",
-  "latest": "0.0.6.4",
+  "latest": "0.0.6.5",
   "repository": "PoomSmart's Repo",
   "url": "http://cydia.saurik.com/package/com.ps.letmeblock/",
   "shortDescription": "Make mDNSResponder care more about /etc/hosts",
@@ -1916,6 +1916,37 @@
           "date": "2019-04-29T19:00:41Z",
           "userName": "MKhaliiFa",
           "issueNumber": 86012,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.0.6.5",
+      "iOSVersion": "12.1.1",
+      "repository": "PoomSmart's Repo",
+      "date": "2019-05-01T12:57:04Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "",
+          "date": "2019-05-01T12:57:04Z",
+          "userName": "813Samauarai",
+          "issueNumber": 86323,
           "arch32": false
         }
       ]
