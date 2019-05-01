@@ -386,10 +386,10 @@
       "date": "2019-05-01T13:12:04Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 66,
+        "percentage": 50,
         "good": 2,
         "bad": 0,
-        "total": 3,
+        "total": 4,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -424,6 +424,15 @@
           "date": "2019-05-01T19:47:22Z",
           "userName": "813Samauarai",
           "issueNumber": 86381,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,6",
+          "issues": "The theme functions works but for some reason getting App List not loading for Cydia tweak preferences",
+          "date": "2019-05-01T22:57:27Z",
+          "userName": "percyjk23",
+          "issueNumber": 86412,
           "arch32": false
         }
       ]
