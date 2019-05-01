@@ -1,10 +1,10 @@
 {
   "id": "net.limneos.libbulletin",
   "name": "libbulletin",
-  "latest": "0.1-146-trevor",
+  "latest": "0.1-147",
   "repository": "BigBoss",
   "url": "http://cydia.saurik.com/package/net.limneos.libbulletin/",
-  "shortDescription": "Modified version of libbulletin that fixes a nasty crash on iOS 12",
+  "shortDescription": "Simple library that displays bulletins",
   "category": "Development",
   "author": "Elias Limneos",
   "commercial": false,
@@ -1424,6 +1424,37 @@
           "date": "2019-04-28T23:41:41Z",
           "userName": "delon5",
           "issueNumber": 85893,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.1-147",
+      "iOSVersion": "12.1.1",
+      "repository": "Limneos Repo",
+      "date": "2019-05-01T01:31:29Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,3",
+          "issues": "",
+          "date": "2019-05-01T01:31:29Z",
+          "userName": "fillupontacos",
+          "issueNumber": 86169,
           "arch32": false
         }
       ]
