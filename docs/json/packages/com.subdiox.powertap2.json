@@ -1,7 +1,7 @@
 {
   "id": "com.subdiox.powertap2",
   "name": "Power Tap 2",
-  "latest": "1.0.1",
+  "latest": "1.0.2",
   "repository": "subdiox's Repo",
   "url": "http://cydia.saurik.com/package/com.subdiox.powertap2/",
   "shortDescription": "Power Tap 2 adds \"Reboot\", \"Soft Reboot\", \"Respring\", \"Safe Mode\", \"UICache\" to your power down options.",
@@ -813,6 +813,37 @@
           "date": "2019-03-10T10:30:11Z",
           "userName": "parisphan",
           "issueNumber": 75831,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.2",
+      "iOSVersion": "12.1.1",
+      "repository": "subdiox's Repo",
+      "date": "2019-05-01T00:05:38Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,3",
+          "issues": "",
+          "date": "2019-05-01T00:05:38Z",
+          "userName": "pali768",
+          "issueNumber": 86160,
           "arch32": false
         }
       ]
