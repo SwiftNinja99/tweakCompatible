@@ -1,7 +1,7 @@
 {
   "id": "com.ichitaso.locationservicecc",
   "name": "LocationService (CCSupport)",
-  "latest": "0.1-4",
+  "latest": "0.1-4-1",
   "repository": "ichitaso repository",
   "url": "http://cydia.saurik.com/package/com.ichitaso.locationservicecc/",
   "shortDescription": "Turn on / off LocationService from the control center.",
@@ -766,6 +766,37 @@
           "date": "2019-04-30T13:38:44Z",
           "userName": "burkybang",
           "issueNumber": 86099,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.1-4-1",
+      "iOSVersion": "12.1.1",
+      "repository": "ichitaso repository",
+      "date": "2019-04-30T23:55:49Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,2",
+          "issues": "",
+          "date": "2019-04-30T23:55:49Z",
+          "userName": "burkybang",
+          "issueNumber": 86158,
           "arch32": false
         }
       ]
