@@ -1549,10 +1549,10 @@
       "date": "2019-02-23T01:47:37Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 54,
+        "percentage": 52,
         "good": 12,
         "bad": 0,
-        "total": 22,
+        "total": 23,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1758,6 +1758,15 @@
           "date": "2019-04-22T21:01:07Z",
           "userName": "ashrhmn",
           "issueNumber": 85265,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone9,3",
+          "issues": "When pressing on „show daemons“, everything disappears for a second, but then no daemons show up in battery usage info.",
+          "date": "2019-05-01T08:15:06Z",
+          "userName": "Ofdas23",
+          "issueNumber": 86269,
           "arch32": false
         }
       ]
