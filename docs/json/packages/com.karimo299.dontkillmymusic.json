@@ -1,7 +1,7 @@
 {
   "id": "com.karimo299.dontkillmymusic",
   "name": "DontKillMyMusic",
-  "latest": "1.2.0",
+  "latest": "1.3.1",
   "repository": "Karimo299's Repo",
   "url": "http://cydia.saurik.com/package/com.karimo299.dontkillmymusic/",
   "shortDescription": "A tweak that prevents you from killing the app that is currently playing, and other apps if you wish so.",
@@ -632,6 +632,37 @@
           "date": "2019-04-05T14:13:49Z",
           "userName": "bzixx",
           "issueNumber": 82883,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.3.1",
+      "iOSVersion": "12.1.1",
+      "repository": "Packix",
+      "date": "2019-05-02T05:59:18Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-05-02T05:59:18Z",
+          "userName": "Nixuge",
+          "issueNumber": 86472,
           "arch32": false
         }
       ]
