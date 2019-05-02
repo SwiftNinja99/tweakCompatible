@@ -1,10 +1,10 @@
 {
   "id": "com.karimo299.ytstatus",
   "name": "YTStatus",
-  "latest": "1.1.1",
+  "latest": "1.2.0",
   "repository": "Kaurux",
   "url": "http://cydia.saurik.com/package/com.karimo299.ytstatus/",
-  "shortDescription": "Adds statusBar to Youtube when the pause screen is on",
+  "shortDescription": "Displays the statusbar on Youtube when the pause screen is on",
   "category": "Tweaks",
   "author": "Karimo299",
   "commercial": false,
@@ -192,6 +192,37 @@
           "date": "2019-04-22T21:27:28Z",
           "userName": "LudnicaKiller",
           "issueNumber": 85269,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.2.0",
+      "iOSVersion": "12.1.1",
+      "repository": "Packix",
+      "date": "2019-05-02T08:16:26Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone7,2",
+          "issues": "",
+          "date": "2019-05-02T08:16:26Z",
+          "userName": "Jaylen9421",
+          "issueNumber": 86497,
           "arch32": false
         }
       ]
