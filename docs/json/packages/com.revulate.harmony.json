@@ -1,7 +1,7 @@
 {
   "id": "com.revulate.harmony",
   "name": "Harmony",
-  "latest": "1.4",
+  "latest": "1.4.1",
   "repository": "Packix",
   "url": "http://cydia.saurik.com/package/com.revulate.harmony/",
   "shortDescription": "A personal touch for Discord",
@@ -1197,6 +1197,37 @@
           "date": "2019-05-01T08:01:49Z",
           "userName": "Nixuge",
           "issueNumber": 86262,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.4.1",
+      "iOSVersion": "12.1.1",
+      "repository": "Nepeta",
+      "date": "2019-05-02T01:16:21Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-05-02T01:16:21Z",
+          "userName": "Nixuge",
+          "issueNumber": 86435,
           "arch32": false
         }
       ]
